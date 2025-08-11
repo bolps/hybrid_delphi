@@ -704,11 +704,14 @@ enforce_coverage(decisions)
 save_json_result("Round3_Decisions_with_Rubric_and_Clusters", {"items": list(decisions.values())})
 
 # Tabular text
-lines = ["item_id\tdimension\tfit_mean\tclarity_mean\tfit_iqr\tredundancy\tdecision\treason"]
+lines = ["item_id\titem_text\tdimension\tfit_mean\tclarity_mean\tfit_iqr\tredundancy\tdecision\treason"]
 for item_id in sorted(decisions.keys()):
     d = decisions[item_id]
+    item_text = item_id_map.get(item_id, "").replace("\t", " ")  # avoid breaking TSV
     lines.append(
-        f'{item_id}\t{d["dimension"]}\t{d["fit_mean"]}\t{d["clarity_mean"]}\t{d["fit_iqr"]}\t{d["redundancy_ratio"]}\t{d["decision"]}\t{d["reason"]}'
+        f'{item_id}\t{item_text}\t{d["dimension"]}\t{d["fit_mean"]}\t'
+        f'{d["clarity_mean"]}\t{d["fit_iqr"]}\t{d["redundancy_ratio"]}\t'
+        f'{d["decision"]}\t{d["reason"]}'
     )
 save_result_file("Round3_Decisions_Table_with_Rubric_and_Clusters", "\n".join(lines))
 

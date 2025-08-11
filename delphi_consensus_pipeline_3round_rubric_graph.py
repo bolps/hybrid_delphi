@@ -661,17 +661,19 @@ def apply_redundancy_cluster_safeguard(decisions: Dict[str, Any],
                 decisions[rep]["reason"] += "; retained as cluster representative"
             # Adjust others
             for it in comp_sorted[1:]:
-                if decisions[it]["fit_mean"] < 3.0:
+                decisions[it]["decision"] = "Drop"
+                decisions[it]["reason"] += f"; redundant vs {rep}"
+                #if decisions[it]["fit_mean"] < 3.0:
                     # Allow Drop if clearly weak
-                    decisions[it]["decision"] = "Drop"
-                    decisions[it]["reason"] += f"; redundant vs {rep} and weak fit"
-                else:
+                    #decisions[it]["decision"] = "Drop"
+                    #decisions[it]["reason"] += f"; redundant vs {rep} and weak fit"
+                #else:
                     # Prefer Revise to encourage differentiation
-                    if decisions[it]["decision"] == "Retain":
-                        decisions[it]["decision"] = "Revise"
-                    else:
-                        decisions[it]["decision"] = "Revise"
-                    decisions[it]["reason"] += f"; redundant vs {rep} (revise to differentiate)"
+                    #if decisions[it]["decision"] == "Retain":
+                        #decisions[it]["decision"] = "Revise"
+                    #else:
+                        #decisions[it]["decision"] = "Revise"
+                    #decisions[it]["reason"] += f"; redundant vs {rep} (revise to differentiate)"
     # No explicit return (in-place)
 
 apply_redundancy_cluster_safeguard(decisions, aggregated)

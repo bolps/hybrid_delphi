@@ -7,6 +7,7 @@ import random
 import re
 from typing import List, Dict, Any, Tuple, Set
 from tabulate import tabulate
+import pandas as pd
 
 random.seed(42)
 
@@ -797,7 +798,7 @@ save_json_result("Full_Log_Round3_with_Rubric_and_Clusters", full_log)
 print("\n✅ Round 3 updated with rubric-based evaluation and redundancy clusters. See 'results/' for outputs.")
 
 # =====================
-# Table print — Cool viz of the table
+# Table — User friendly export of the table
 # =====================
 
 # Assign dimension IDs
@@ -833,9 +834,15 @@ for dim in dimension_order:
 
 # Print in console
 headers = [
-    "Item ID", "Item Text", "Dim ID", "Dimension",
+    "Item ID", "Item Text", "Dim ID", "Dimension Text",
     "Fit Mean", "Clarity Mean", "Fit IQR", "Redundancy",
     "Decision", "Reason"
 ]
-print("\n📊 Final Decisions Table:")
-print(tabulate(table_data, headers=headers, tablefmt="fancy_grid", floatfmt=".2f"))
+
+df = pd.DataFrame(table_data, columns=headers)
+excel_path = f"results/{timestamp}_Round3_Decisions.xlsx"
+df.to_excel(excel_path, index=False)
+print(f"\n💾 Final decisions table saved to: {excel_path}")
+
+#print("\n📊 Final Decisions Table:")
+#print(tabulate(table_data, headers=headers, tablefmt="fancy_grid", floatfmt=".2f"))

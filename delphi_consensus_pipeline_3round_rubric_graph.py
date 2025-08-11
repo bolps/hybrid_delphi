@@ -446,6 +446,7 @@ for ex in round3_experts:
     res = ex.run(client)
     if res:
         log_response(ex, round_label="round3")
+        print(f"\n🧠 {ex.name} (Round 3) says:\n{res}\n{'-'*60}")
 
 # Parse Round 3 outputs
 def collect_evaluations(round3_experts: List[Expert]) -> Dict[str, Dict[str, Any]]:
@@ -747,6 +748,7 @@ moderator3 = Expert(
 moderator3.full_prompt = synth_prompt
 round3_synthesis = moderator3.run(client) or "Summary unavailable."
 save_result_file("Delphi_Moderator_Round3_Synthesis_with_Rubric_and_Clusters", round3_synthesis)
+print(f"\n📌 Delphi Moderator - Round 3 Synthesis:\n{round3_synthesis}\n{'-'*60}")
 
 # Full log
 full_log = {

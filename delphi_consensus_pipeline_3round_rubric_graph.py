@@ -505,7 +505,7 @@ def collect_evaluations(round3_experts: List[Expert]) -> Dict[str, Dict[str, Any
 aggregated = collect_evaluations(round3_experts)
 save_json_result("Round3_Aggregated_Raw", aggregated)
 
-# Compute basic decisions per item (pre-cluster)
+# Compute basic decisions per item (pre-network)
 def apply_decision_rules(agg: Dict[str, Dict[str, Any]]) -> Tuple[Dict[str, Any], Dict[str, List[str]]]:
     decisions = {}
     dims_to_items: Dict[str, List[str]] = {}
@@ -516,17 +516,14 @@ def apply_decision_rules(agg: Dict[str, Dict[str, Any]]) -> Tuple[Dict[str, Any]
         clarity_mean = mean(info.get("clarity_scores", []))
         fit_iqr = iqr(info.get("fit_scores", []))
         red_flags = info.get("redundancy_flags", [])
+        # keep redundancy_ratio only for reporting (NOT for decisions)
         red_ratio = (sum(1 for x in red_flags if x) / len(red_flags)) if red_flags else 0.0
 
-        # Rule-based decision
-        decision = None
+        # Rule-based (no redundancy here; redundancy is network-based)
         reason_bits = []
         if fit_mean < 3.5:
             decision = "Drop"
             reason_bits.append(f"fit_mean={fit_mean:.2f} < 3.5")
-        elif red_ratio >= (2/3):
-            decision = "Drop"
-            reason_bits.append(f"redundant by {red_ratio*100:.0f}% experts")
         elif fit_mean >= 4.0 and fit_iqr <= 1.0 and clarity_mean >= 4.0:
             decision = "Retain"
             reason_bits.append(f"fit_mean≥4 ({fit_mean:.2f}), IQR≤1 ({fit_iqr:.2f}), clarity≥4 ({clarity_mean:.2f})")
@@ -552,7 +549,7 @@ def apply_decision_rules(agg: Dict[str, Dict[str, Any]]) -> Tuple[Dict[str, Any]
             "fit_mean": round(fit_mean, 3),
             "clarity_mean": round(clarity_mean, 3),
             "fit_iqr": round(fit_iqr, 3),
-            "redundancy_ratio": round(red_ratio, 3),
+            "redundancy_ratio": round(red_ratio, 3),  # descriptive only
             "decision": decision,
             "reason": "; ".join(reason_bits),
             "n_raters": len(info.get("fit_scores", []))
@@ -564,125 +561,106 @@ def apply_decision_rules(agg: Dict[str, Dict[str, Any]]) -> Tuple[Dict[str, Any]
 decisions, decisions_by_dim = apply_decision_rules(aggregated)
 
 # =====================
-# Redundancy clustering — keep at least ONE representative per cluster
+# Network redundancy (within-dimension) — MIS pruning
 # =====================
 
-def build_redundancy_graph(aggregated: Dict[str, Dict[str, Any]]) -> Dict[str, Dict[str, Set[str]]]:
+def build_redundancy_graph(
+    aggregated: Dict[str, Dict[str, Any]],
+    threshold: float = 0.50,
+    denom_mode: str = "max",  # "max" (conservative under unequal raters) or "min" (stricter)
+) -> Dict[str, Dict[str, Set[str]]]:
     """
-    Returns a dict: {dimension: {item_id: set(neighbors)}} where an undirected edge
-    exists between items if >= 2/3 of experts flagged overlap between the pair.
+    Build {dimension: {item_id: set(neighbors)}} with an undirected edge
+    when the proportion of raters flagging the pair as overlapping is >= threshold.
+    Only within the same dimension.
     """
-    # First, count pair overlaps across items
     pair_counts: Dict[Tuple[str, str], int] = {}
     pair_denoms: Dict[Tuple[str, str], int] = {}
 
-    # Collect per-item expert count (n_raters)
     n_raters_per_item = {it: len(info.get("fit_scores", [])) for it, info in aggregated.items()}
     dim_of_item = {it: info.get("dimension", "Unassigned") for it, info in aggregated.items()}
 
-    # Count overlaps from both endpoints
+    # Count pairwise flags
     for item_id, info in aggregated.items():
-        overlaps_lists = info.get("overlaps_with_all", [])
-        for overlaps in overlaps_lists:
-            for other in overlaps:
+        for overlaps in info.get("overlaps_with_all", []):
+            for other in overlaps or []:
                 if other not in aggregated:
                     continue
                 if dim_of_item.get(item_id) != dim_of_item.get(other):
                     continue
                 a, b = sorted([item_id, other])
                 pair_counts[(a, b)] = pair_counts.get((a, b), 0) + 1
-                # denominator: assume same panel; use max n_raters of the two as conservative denom
-                denom = max(n_raters_per_item.get(a, 1), n_raters_per_item.get(b, 1))
+
+                if denom_mode == "min":
+                    denom = min(n_raters_per_item.get(a, 1), n_raters_per_item.get(b, 1))
+                else:
+                    denom = max(n_raters_per_item.get(a, 1), n_raters_per_item.get(b, 1))
+                # keep the *largest* plausible denominator we've seen
                 pair_denoms[(a, b)] = max(pair_denoms.get((a, b), 0), denom)
 
-    # Build adjacency per dimension
     graph_by_dim: Dict[str, Dict[str, Set[str]]] = {}
     for (a, b), c in pair_counts.items():
-        denom = pair_denoms.get((a, b), 1)
-        if denom == 0:
-            continue
+        denom = pair_denoms.get((a, b), 1) or 1
         ratio = c / denom
         dim = dim_of_item.get(a, "Unassigned")
-        if ratio >= (2/3):
+        if ratio >= threshold:
             graph_by_dim.setdefault(dim, {})
             graph_by_dim[dim].setdefault(a, set()).add(b)
             graph_by_dim[dim].setdefault(b, set()).add(a)
 
-    # Ensure isolated nodes (with no edges) are present so we can iterate uniformly
+    # Add isolated nodes so every item appears
     for it, dim in dim_of_item.items():
         graph_by_dim.setdefault(dim, {})
         graph_by_dim[dim].setdefault(it, set())
 
     return graph_by_dim
 
-def connected_components(nodes_to_neighbors: Dict[str, Set[str]]) -> List[List[str]]:
-    """Return list of connected components (each a list of item_ids) using DFS."""
-    seen: Set[str] = set()
-    comps: List[List[str]] = []
-    for node in nodes_to_neighbors.keys():
-        if node in seen:
-            continue
-        stack = [node]
-        comp = []
-        seen.add(node)
-        while stack:
-            u = stack.pop()
-            comp.append(u)
-            for v in nodes_to_neighbors[u]:
-                if v not in seen:
-                    seen.add(v)
-                    stack.append(v)
-        comps.append(comp)
-    return comps
-
-def apply_redundancy_cluster_safeguard(decisions: Dict[str, Any],
-                                       aggregated: Dict[str, Dict[str, Any]]) -> None:
+def apply_pairwise_MIS_pruning(
+    decisions: Dict[str, Any],
+    aggregated: Dict[str, Dict[str, Any]],
+    threshold: float = 0.50,
+    denom_mode: str = "max",
+) -> None:
     """
-    For each dimension, form redundancy clusters based on edges (>=2/3 overlap flags).
-    In each cluster with size>1, select a representative (highest fit_mean, then clarity_mean,
-    then lowest redundancy_ratio) and ensure it is not dropped; others become Revise unless
-    their fit_mean is clearly poor (<3.0), in which case Drop is allowed.
+    Within each dimension, retain a maximal independent set chosen greedily by quality:
+    - Sort items by (fit_mean desc, clarity_mean desc, redundancy_ratio asc [tiebreaker])
+    - Iterate: keep an item if not already dominated; drop all of its neighbors (edges >= threshold)
+    This guarantees no two retained items are connected by a >= threshold overlap edge.
     """
-    graph_by_dim = build_redundancy_graph(aggregated)
+    graph_by_dim = build_redundancy_graph(aggregated, threshold=threshold, denom_mode=denom_mode)
 
     for dim, adj in graph_by_dim.items():
-        comps = connected_components(adj)
-        for comp in comps:
-            if len(comp) <= 1:
-                continue
-            # Sort items in cluster to pick representative
-            comp_sorted = sorted(
-                comp,
-                key=lambda it: (-decisions[it]["fit_mean"],
-                                -decisions[it]["clarity_mean"],
-                                decisions[it]["redundancy_ratio"])
+        order = sorted(
+            adj.keys(),
+            key=lambda it: (
+                -decisions[it]["fit_mean"],
+                -decisions[it]["clarity_mean"],
+                 decisions[it]["redundancy_ratio"]
             )
-            rep = comp_sorted[0]
-            # Ensure representative is not dropped
-            if decisions[rep]["decision"] == "Drop":
-                decisions[rep]["decision"] = "Revise"
-                decisions[rep]["reason"] += "; retained as cluster representative"
-            # Adjust others
-            for it in comp_sorted[1:]:
-                decisions[it]["decision"] = "Drop"
-                decisions[it]["reason"] += f"; redundant vs {rep}"
-                #if decisions[it]["fit_mean"] < 3.0:
-                    # Allow Drop if clearly weak
-                    #decisions[it]["decision"] = "Drop"
-                    #decisions[it]["reason"] += f"; redundant vs {rep} and weak fit"
-                #else:
-                    # Prefer Revise to encourage differentiation
-                    #if decisions[it]["decision"] == "Retain":
-                        #decisions[it]["decision"] = "Revise"
-                    #else:
-                        #decisions[it]["decision"] = "Revise"
-                    #decisions[it]["reason"] += f"; redundant vs {rep} (revise to differentiate)"
-    # No explicit return (in-place)
+        )
+        kept: Set[str] = set()
+        dropped: Set[str] = set()
 
-apply_redundancy_cluster_safeguard(decisions, aggregated)
+        for it in order:
+            if it in dropped:
+                continue
+            # Keep this item
+            kept.add(it)
+            # Hard-drop neighbors to satisfy independence
+            for nb in adj[it]:
+                if nb in kept or nb in dropped:
+                    continue
+                if decisions[nb]["decision"] != "Drop":
+                    decisions[nb]["decision"] = "Drop"
+                    decisions[nb]["reason"] += f"; pairwise redundancy ≥{threshold:.2f} vs {it}"
+                dropped.add(nb)
 
-# Coverage safeguard (≥2 retained per dimension)
-# Coverage safeguard (≥2 retained per dimension) — now with undrop fallback
+# Replace cluster safeguard with MIS pruning (threshold=0.50 by default)
+apply_pairwise_MIS_pruning(decisions, aggregated, threshold=0.50, denom_mode="max")
+
+# =====================
+# Coverage safeguard (≥2 retained per dimension) — unchanged
+# =====================
 def enforce_coverage(decisions: Dict[str, Any], min_per_dim: int = 2) -> None:
     by_dim: Dict[str, List[Dict[str, Any]]] = {}
     for _, rec in decisions.items():
@@ -693,7 +671,7 @@ def enforce_coverage(decisions: Dict[str, Any], min_per_dim: int = 2) -> None:
         if len(retained) >= min_per_dim:
             continue
 
-        # 1) Promote from REVISE as before
+        # 1) Promote from REVISE
         revise_candidates = sorted(
             (r for r in recs if r["decision"] == "Revise"),
             key=lambda r: (-r["fit_mean"], -r["clarity_mean"])
@@ -706,23 +684,14 @@ def enforce_coverage(decisions: Dict[str, Any], min_per_dim: int = 2) -> None:
 
         # 2) If still short, undrop the best DROPs
         if len(retained) < min_per_dim:
-            # Prefer strong items and lower redundancy; avoid reviving very weak ones first
             drop_candidates_primary = sorted(
-                (
-                    r for r in recs
-                    if r["decision"] == "Drop"
-                    and r["fit_mean"] >= 3.5  # aligns with your pre-rule threshold
-                    and r["redundancy_ratio"] < (2/3)  # avoid items dropped for strong redundancy first
-                ),
+                (r for r in recs if r["decision"] == "Drop" and r["fit_mean"] >= 3.5),
                 key=lambda r: (-r["fit_mean"], -r["clarity_mean"], r["redundancy_ratio"])
             )
-
-            # If still not enough after primary screen, allow any Drop as last resort
             drop_candidates_fallback = sorted(
                 (r for r in recs if r["decision"] == "Drop" and r not in drop_candidates_primary),
                 key=lambda r: (-r["fit_mean"], -r["clarity_mean"], r["redundancy_ratio"])
             )
-
             for pool, tag in [
                 (drop_candidates_primary, "; undropped (strong) for coverage safeguard"),
                 (drop_candidates_fallback, "; undropped (last-resort) for coverage safeguard")
@@ -733,24 +702,112 @@ def enforce_coverage(decisions: Dict[str, Any], min_per_dim: int = 2) -> None:
                     revived["reason"] += tag
                     retained.append(revived)
 
+# --- Network Redundancy Summary Table ---------------------------------
+
+def build_redundancy_graph_with_counts(
+    aggregated, threshold=0.50, denom_mode="max"
+):
+    """Same as build_redundancy_graph, but also returns pair_counts/denoms."""
+    pair_counts, pair_denoms = {}, {}
+    n_raters = {it: len(info.get("fit_scores", [])) for it, info in aggregated.items()}
+    dim_of = {it: info.get("dimension", "Unassigned") for it, info in aggregated.items()}
+
+    for a, info in aggregated.items():
+        for overlaps in info.get("overlaps_with_all", []):
+            for b in overlaps or []:
+                if b not in aggregated: 
+                    continue
+                if dim_of[a] != dim_of[b]:
+                    continue
+                A, B = tuple(sorted([a, b]))
+                pair_counts[(A, B)] = pair_counts.get((A, B), 0) + 1
+                denom = (min if denom_mode == "min" else max)(n_raters.get(A,1), n_raters.get(B,1))
+                pair_denoms[(A, B)] = max(pair_denoms.get((A,B), 0), denom)
+
+    graph_by_dim = {}
+    for (A, B), c in pair_counts.items():
+        denom = pair_denoms.get((A, B), 1) or 1
+        ratio = c / denom
+        if ratio >= threshold:
+            dim = dim_of[A]
+            graph_by_dim.setdefault(dim, {})
+            graph_by_dim[dim].setdefault(A, set()).add(B)
+            graph_by_dim[dim].setdefault(B, set()).add(A)
+
+    # add isolated nodes
+    for it, dim in dim_of.items():
+        graph_by_dim.setdefault(dim, {})
+        graph_by_dim[dim].setdefault(it, set())
+
+    return graph_by_dim, pair_counts, pair_denoms
+
+def pair_ratio(a, b, pair_counts, pair_denoms):
+    A, B = tuple(sorted([a, b]))
+    c = pair_counts.get((A, B), 0)
+    d = pair_denoms.get((A, B), 1) or 1
+    return c / d
+
+# Rebuild graph WITH counts so we can print exact ratios for neighbors
+threshold = 0.50
+denom_mode = "max"
+graph_by_dim, pair_counts, pair_denoms = build_redundancy_graph_with_counts(
+    aggregated, threshold=threshold, denom_mode=denom_mode
+)
+
+# Build a dedicated network table
+net_rows = []
+for dim, adj in graph_by_dim.items():
+    for it, nbrs in adj.items():
+        ratios = [(nb, round(pair_ratio(it, nb, pair_counts, pair_denoms), 3)) for nb in sorted(nbrs)]
+        net_rows.append({
+            "item_id": it,
+            "dimension": dim,
+            "fit_mean": decisions[it]["fit_mean"],
+            "clarity_mean": decisions[it]["clarity_mean"],
+            "decision": decisions[it]["decision"],
+            "reason": decisions[it]["reason"],
+            "net_degree": len(nbrs),
+            "net_neighbors": ",".join([nb for nb, _ in ratios]),
+            "net_neighbor_ratios": "|".join([f"{nb}:{r:.2f}" for nb, r in ratios]),
+            "net_max_overlap": max([r for _, r in ratios], default=0.0),
+            "net_drop_partner": decisions[it].get("net_drop_partner", ""),
+            "net_drop_ratio": decisions[it].get("net_drop_ratio", ""),
+            "net_threshold": threshold,
+            "net_denom_mode": denom_mode,
+        })
+
+# Save as its own TSV
+hdr = ["item_id","dimension","fit_mean","clarity_mean","decision","reason",
+       "net_degree","net_neighbors","net_neighbor_ratios","net_max_overlap",
+       "net_drop_partner","net_drop_ratio","net_threshold","net_denom_mode"]
+
+lines = ["\t".join(hdr)]
+for row in sorted(net_rows, key=lambda r: (r["dimension"], r["item_id"])):
+    lines.append("\t".join(str(row[k]) for k in hdr))
+
+save_result_file("Network_Redundancy_Table_MIS", "\n".join(lines))
+print("🧭 Wrote results/Network_Redundancy_Table_MIS.txt")
+
 enforce_coverage(decisions, min_per_dim=2)
 
-# Save decisions
-save_json_result("Round3_Decisions_with_Rubric_and_Clusters", {"items": list(decisions.values())})
+# =====================
+# Save decisions and exports (unchanged structure)
+# =====================
+save_json_result("Round3_Decisions_with_Rubric_and_NetworkMIS", {"items": list(decisions.values())})
 
 # Tabular text
-lines = ["item_id\titem_text\tdimension\tfit_mean\tclarity_mean\tfit_iqr\tredundancy\tdecision\treason"]
+lines = ["item_id\titem_text\tdimension\tfit_mean\tclarity_mean\tfit_iqr\tdecision\treason"]
+
 for item_id in sorted(decisions.keys()):
     d = decisions[item_id]
-    item_text = item_id_map.get(item_id, "").replace("\t", " ")  # avoid breaking TSV
+    item_text = item_id_map.get(item_id, "").replace("\t", " ")
     lines.append(
-        f'{item_id}\t{item_text}\t{d["dimension"]}\t{d["fit_mean"]}\t'
-        f'{d["clarity_mean"]}\t{d["fit_iqr"]}\t{d["redundancy_ratio"]}\t'
-        f'{d["decision"]}\t{d["reason"]}'
-    )
-save_result_file("Round3_Decisions_Table_with_Rubric_and_Clusters", "\n".join(lines))
+    f'{item_id}\t{item_text}\t{d["dimension"]}\t{d["fit_mean"]}\t'
+    f'{d["clarity_mean"]}\t{d["fit_iqr"]}\t'
+    f'{d["decision"]}\t{d["reason"]}')
+save_result_file("Round3_Decisions_Table_with_NetworkMIS", "\n".join(lines))
 
-# Moderator-style Round 3 synthesis
+# Moderator-style Round 3 synthesis (minor wording tweak)
 synth_input = {
     "dimensions": {}
 }
@@ -764,7 +821,7 @@ synth_prompt = f"""
 You are a Delphi moderator writing the Round 3 synthesis AFTER computation.
 Given these decisions (JSON), briefly explain:
 - Which items were retained, revised, or dropped by dimension
-- Main reasons (e.g., fit/clarity thresholds, redundancy clusters with representative selection)
+- Main reasons (e.g., rubric thresholds; network redundancy MIS with ≥0.50 edges)
 - Any unresolved disagreements or borderline cases
 
 Keep it structured and concise (max ~300 words).
@@ -781,7 +838,7 @@ moderator3 = Expert(
 )
 moderator3.full_prompt = synth_prompt
 round3_synthesis = moderator3.run(client) or "Summary unavailable."
-save_result_file("Delphi_Moderator_Round3_Synthesis_with_Rubric_and_Clusters", round3_synthesis)
+save_result_file("Delphi_Moderator_Round3_Synthesis_with_NetworkMIS", round3_synthesis)
 print(f"\n📌 Delphi Moderator - Round 3 Synthesis:\n{round3_synthesis}\n{'-'*60}")
 
 # Full log
@@ -793,9 +850,9 @@ full_log = {
     "round3_decisions": decisions,
     "round3_synthesis": round3_synthesis
 }
-save_json_result("Full_Log_Round3_with_Rubric_and_Clusters", full_log)
+save_json_result("Full_Log_Round3_with_NetworkMIS", full_log)
 
-print("\n✅ Round 3 updated with rubric-based evaluation and redundancy clusters. See 'results/' for outputs.")
+print("\n✅ Round 3 updated: rubric-only per item + within-dimension MIS redundancy (≥0.50). See 'results/'.")
 
 # =====================
 # Table — User friendly export of the table

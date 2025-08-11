@@ -1,0 +1,84 @@
+### Psychometrician (openai/gpt-4.1-mini)
+**Latent Dimension 1: Emotional and Psychological Abuse**  
+- Mi butta giù, mi insulta o mi critica  
+- Mi fa sentire spesso sbagliata e mi dice che è colpa mia se sta male  
+- Mi dice che non valgo niente e resterei sola se non stessi con lui perché nessuno mi vorrebbe  
+- Urla o mi umilia di fronte ad altre persone  
+- Mi sento giudicata rispetto alle cose che faccio e come organizzo la mia vita  
+- Dopo che mi ha aggredito (fisicamente o verbalmente) nega di averlo fatto e mi fa dubitare che sia realmente successo.  
+- Ha forti oscillazioni d'umore, il minuto prima si arrabbia e mi urla contro e quello successivo è dolce e si scusa  
+
+*Rationale:* These items reflect patterns of verbal denigration, emotional manipulation, gaslighting, and mood instability that undermine the victim’s self-esteem and psychological well-being.
+
+---
+
+**Latent Dimension 2: Physical and Sexual Violence**  
+- Mi accerra per i capelli, mi strattona, mi mette le mani al collo, tenta di soffocarmi, mi dà dei pugni, mi schiaffeggia, mi getta addosso degli oggetti o mi fa male in qualche modo  
+- Mi chiede insistentemente di fare sesso e non accetta quando dico di no o che non mi va  
+- Minaccia di fare del male a me, ai miei amici o alla mia famiglia  
+
+*Rationale:* These items describe direct physical aggression and sexual coercion, highlighting physical harm and forced sexual activity.
+
+---
+
+**Latent Dimension 3: Controlling and Restrictive Behaviors**  
+- Cerca di controllare ciò che faccio e con chi mi vedo  
+- Non mi sento libera di vestirmi come voglio  
+- Non vuole che io veda la mia famiglia, le mie amiche o i miei amici. Mi dice che è lui adesso la mia famiglia, che loro cercano di separarci  
+- Mi sento costantemente controllata, ho la sensazione che non si fidi di me e che voglia sapere sempre dove sono e con chi, me lo chiede continuamente  
+- Sento che mi manda troppi messaggi o mi chiama spesso, a volte in modo insistente  
+- Dice che sono impegnata in troppe cose e che lo trascuro, vorrebbe che passassimo la maggior parte del tempo insieme  
+- Pretende prove d'amore e dimostrazioni di fedeltà nei suoi confronti  
+- Mi accusa di flirtare o di tradirlo/a  
+- Mi dice che, se lo lasciassi, rivelerebbe ad altri dei miei segreti o delle cose molto personali che sa di me  
+- Parla male delle mie amiche e dice che sono delle “poco di buono”. Mi chiede di non vederle  
+
+*Rationale:* These items capture controlling tactics that limit autonomy, isolate the person socially, and demand excessive monitoring and loyalty.
+
+---
+
+**Latent Dimension 4: Fear, Intimidation, and Threats**  
+- Minaccia di mostrare ai miei amici o ai miei familiari mie immagini intime  
+- Minacce di distruggere le mie cose (telefono, vestiti, computer, auto, ecc.)  
+- Minaccia di farsi del male a causa mia  
+- Rompe e getta oggetti per intimidirmi  
+- Ho paura di vederlo perché so che potrebbe avere comportamenti che mi possono fare stare male o sentire in imbarazzo  
+- A volte provo paura vicino a lui, non mi sento al sicuro  
+- Mi sento a disagio e ho la sensazione di dover stare attenta a ciò che dico o a ciò che faccio, come se dovessi “camminare sulle uova” per evitare sue reazioni negative  
+
+*Rationale:* This dimension groups items indicating use of threats, intimidation, and fear to exert power and control.
+
+---
+
+**Latent Dimension 5: Support and Positive Interaction**  
+- Sento di potergli parlare di qualsiasi cosa  
+- Sento il suo sostegno nelle cose che faccio  
+- Mi incoraggia a provare nuove cose  
+- Mi sento ascoltata e si mostra interessato quando ho qualcosa che voglio condividere.  
+- Sento che possiamo confrontarci e anche litigare senza farci male  
+- Mi fa sentire libera di fare le mie scelte su come gestire il mio tempo  
+- In sua compagnia mi sento a mio agio e al sicuro  
+- Mi sento al sicuro con lui perché so che mi conosce e mi vuole bene per quella che sono e rispetta le mie scelte  
+- Capisce che ho bisogno anche di miei spazi personali e comprende che ci sono momenti in cui mi piace stare da sola o con persone diverse da lui (amici, familiari ecc.)  
+
+*Rationale:* These items reflect healthy relationship aspects such as emotional support, freedom, respect, and open communication.
+
+---
+
+**Latent Dimension 6: Social Concern and External Warnings**  
+- Le mie amiche o la mia famiglia sono preoccupate per me  
+- I miei amici mi hanno fatto notare che non piace loro come si comporta con me  
+
+*Rationale:* These items capture external perceptions and concerns by close others about the relationship, signaling social awareness of problems.
+
+---
+
+**Summary:**  
+1. Emotional and Psychological Abuse  
+2. Physical and Sexual Violence  
+3. Controlling and Restrictive Behaviors  
+4. Fear, Intimidation, and Threats  
+5. Support and Positive Interaction  
+6. Social Concern and External Warnings  
+
+This structure separates abusive behaviors (emotional, physical, controlling, intimidation) from positive relational aspects and social feedback, allowing clear interpretation of underlying latent dimensions.

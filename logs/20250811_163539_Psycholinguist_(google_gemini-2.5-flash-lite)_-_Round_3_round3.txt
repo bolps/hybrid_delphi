@@ -1,0 +1,626 @@
+### Psycholinguist (google/gemini-2.5-flash-lite) - Round 3
+```json
+[
+  {
+    "item_id": "IT20",
+    "dimension": "Control and Isolation",
+    "evidence_for": "Directly states jealousy/possessiveness, core to control behaviors.",
+    "evidence_against": "Could be a general relationship feeling, not necessarily controlling.",
+    "fit": 4,
+    "clarity": 4,
+    "redundant": false,
+    "overlaps_with": [],
+    "recommendation": "Retain",
+    "justification": "Core indicator of possessiveness driving controlling behaviors."
+  },
+  {
+    "item_id": "IT14",
+    "dimension": "Control and Isolation",
+    "evidence_for": "Excessive contact/calls indicate monitoring and control of communication.",
+    "evidence_against": "Could be interpreted as attentiveness if not insistent.",
+    "fit": 4,
+    "clarity": 4,
+    "redundant": false,
+    "overlaps_with": [],
+    "recommendation": "Retain",
+    "justification": "Captures intrusive communication patterns indicative of monitoring."
+  },
+  {
+    "item_id": "IT21",
+    "dimension": "Control and Isolation",
+    "evidence_for": "Accusations of flirting/cheating are common tactics to restrict social interaction.",
+    "evidence_against": "Can stem from insecurity, not always intentional control.",
+    "fit": 4,
+    "clarity": 4,
+    "redundant": false,
+    "overlaps_with": [],
+    "recommendation": "Retain",
+    "justification": "Accusations of infidelity are used to justify restricting social contact."
+  },
+  {
+    "item_id": "IT11",
+    "dimension": "Control and Isolation",
+    "evidence_for": "Discourages outside activities, demands constant presence, isolating.",
+    "evidence_against": "Could be a desire for quality time if not excessive.",
+    "fit": 5,
+    "clarity": 5,
+    "redundant": false,
+    "overlaps_with": [],
+    "recommendation": "Retain",
+    "justification": "Directly describes demands for time, limiting autonomy and social ties."
+  },
+  {
+    "item_id": "IT23",
+    "dimension": "Control and Isolation",
+    "evidence_for": "Restricts personal expression (clothing), limiting autonomy.",
+    "evidence_against": "Could be subjective feeling; partner might have preferences.",
+    "fit": 3,
+    "clarity": 3,
+    "redundant": false,
+    "overlaps_with": [],
+    "recommendation": "Revise",
+    "justification": "Ambiguous; needs to specify if partner *prevents* or *disapproves* of clothing choices."
+  },
+  {
+    "item_id": "IT24",
+    "dimension": "Control and Isolation",
+    "evidence_for": "Directly states attempts to control actions and social contacts.",
+    "evidence_against": "General statement, could be interpreted broadly.",
+    "fit": 5,
+    "clarity": 5,
+    "redundant": false,
+    "overlaps_with": [],
+    "recommendation": "Retain",
+    "justification": "Clear, direct statement of controlling behavior over actions and social life."
+  },
+  {
+    "item_id": "IT22",
+    "dimension": "Control and Isolation",
+    "evidence_for": "Constant monitoring, lack of trust, demands for location/company.",
+    "evidence_against": "Could be perceived as caring if not insistent/demanding.",
+    "fit": 5,
+    "clarity": 5,
+    "redundant": false,
+    "overlaps_with": [],
+    "recommendation": "Retain",
+    "justification": "Captures pervasive monitoring and distrust, key elements of isolation."
+  },
+  {
+    "item_id": "IT19",
+    "dimension": "Control and Isolation",
+    "evidence_for": "Demanding proof of love/fidelity can be a control tactic.",
+    "evidence_against": "Could be a relationship need for reassurance.",
+    "fit": 3,
+    "clarity": 4,
+    "redundant": false,
+    "overlaps_with": [],
+    "recommendation": "Retain",
+    "justification": "While not direct isolation, it's a control tactic to ensure compliance."
+  },
+  {
+    "item_id": "IT25",
+    "dimension": "Control and Isolation",
+    "evidence_for": "Actively isolates by forbidding contact with family/friends.",
+    "evidence_against": "Partner might genuinely dislike certain friends/family.",
+    "fit": 5,
+    "clarity": 5,
+    "redundant": false,
+    "overlaps_with": [],
+    "recommendation": "Retain",
+    "justification": "Directly addresses isolation from support networks, a core control tactic."
+  },
+  {
+    "item_id": "IT10",
+    "dimension": "Control and Isolation",
+    "evidence_for": "Undermines social support by criticizing friends, demanding distance.",
+    "evidence_against": "Could be genuine concern about negative influences.",
+    "fit": 5,
+    "clarity": 5,
+    "redundant": false,
+    "overlaps_with": [],
+    "recommendation": "Retain",
+    "justification": "Targets social support system by devaluing friends, aiming for isolation."
+  },
+  {
+    "item_id": "IT12",
+    "dimension": "Control and Isolation",
+    "evidence_for": "Feeling judged about life choices implies control over personal autonomy.",
+    "evidence_against": "Can be constructive criticism in a relationship.",
+    "fit": 3,
+    "clarity": 4,
+    "redundant": false,
+    "overlaps_with": [],
+    "recommendation": "Retain",
+    "justification": "Feeling judged about life choices limits autonomy and self-expression."
+  },
+  {
+    "item_id": "IT15",
+    "dimension": "Control and Isolation",
+    "evidence_for": "Criticism of self-care/appearance can be a control tactic.",
+    "evidence_against": "Could be about health or shared lifestyle choices.",
+    "fit": 3,
+    "clarity": 3,
+    "redundant": false,
+    "overlaps_with": [],
+    "recommendation": "Revise",
+    "justification": "Ambiguous; needs to clarify if criticism aims to control behavior or is just opinion."
+  },
+  {
+    "item_id": "IT36",
+    "dimension": "Control and Isolation",
+    "evidence_for": "Threats to property are intimidating and controlling.",
+    "evidence_against": "Could be an expression of anger, not necessarily control.",
+    "fit": 4,
+    "clarity": 4,
+    "redundant": false,
+    "overlaps_with": [
+      "IT39"
+    ],
+    "recommendation": "Retain",
+    "justification": "Threatening property is a form of intimidation and control."
+  },
+  {
+    "item_id": "IT09",
+    "dimension": "Control and Isolation",
+    "evidence_for": "Friends noticing negative behavior suggests partner's actions are controlling.",
+    "evidence_against": "Friends might be biased or misinterpreting.",
+    "fit": 3,
+    "clarity": 4,
+    "redundant": false,
+    "overlaps_with": [
+      "IT18"
+    ],
+    "recommendation": "Retain",
+    "justification": "External validation of partner's negative behavior supports the dimension."
+  },
+  {
+    "item_id": "IT18",
+    "dimension": "Control and Isolation",
+    "evidence_for": "Family/friends' concern indicates partner's behavior is perceived as harmful/controlling.",
+    "evidence_against": "Family/friends might be overprotective or misinformed.",
+    "fit": 3,
+    "clarity": 4,
+    "redundant": false,
+    "overlaps_with": [
+      "IT09"
+    ],
+    "recommendation": "Retain",
+    "justification": "External concern from support network reflects partner's controlling impact."
+  },
+  {
+    "item_id": "IT28",
+    "dimension": "Emotional and Psychological Abuse",
+    "evidence_for": "Directly describes verbal degradation and criticism.",
+    "evidence_against": "Could be constructive criticism if not excessive.",
+    "fit": 5,
+    "clarity": 5,
+    "redundant": false,
+    "overlaps_with": [],
+    "recommendation": "Retain",
+    "justification": "Clear example of verbal abuse through put-downs and criticism."
+  },
+  {
+    "item_id": "IT29",
+    "dimension": "Emotional and Psychological Abuse",
+    "evidence_for": "Blaming and making the victim feel wrong/responsible for partner's distress.",
+    "evidence_against": "Could be genuine expression of feelings if not manipulative.",
+    "fit": 5,
+    "clarity": 5,
+    "redundant": false,
+    "overlaps_with": [],
+    "recommendation": "Retain",
+    "justification": "Captures victim-blaming and manipulation, key psychological abuse tactics."
+  },
+  {
+    "item_id": "IT30",
+    "dimension": "Emotional and Psychological Abuse",
+    "evidence_for": "Devaluation and threats of abandonment to maintain control.",
+    "evidence_against": "Could be a harsh expression of dissatisfaction.",
+    "fit": 5,
+    "clarity": 5,
+    "redundant": false,
+    "overlaps_with": [],
+    "recommendation": "Retain",
+    "justification": "Directly describes verbal abuse aimed at destroying self-worth."
+  },
+  {
+    "item_id": "IT40",
+    "dimension": "Emotional and Psychological Abuse",
+    "evidence_for": "Public humiliation and yelling are forms of emotional abuse.",
+    "evidence_against": "Could be an isolated incident of anger.",
+    "fit": 5,
+    "clarity": 5,
+    "redundant": false,
+    "overlaps_with": [],
+    "recommendation": "Retain",
+    "justification": "Public humiliation and yelling are overt acts of emotional abuse."
+  },
+  {
+    "item_id": "IT38",
+    "dimension": "Emotional and Psychological Abuse",
+    "evidence_for": "Denial of abuse and making victim doubt reality (gaslighting).",
+    "evidence_against": "Could be memory differences or misinterpretation.",
+    "fit": 5,
+    "clarity": 5,
+    "redundant": false,
+    "overlaps_with": [],
+    "recommendation": "Retain",
+    "justification": "Clearly describes gaslighting, a severe form of psychological abuse."
+  },
+  {
+    "item_id": "IT26",
+    "dimension": "Emotional and Psychological Abuse",
+    "evidence_for": "Rapid mood swings create instability and fear.",
+    "evidence_against": "Could be a recognized mood disorder.",
+    "fit": 4,
+    "clarity": 4,
+    "redundant": false,
+    "overlaps_with": [],
+    "recommendation": "Retain",
+    "justification": "Emotional volatility creates an unsafe environment and psychological distress."
+  },
+  {
+    "item_id": "IT17",
+    "dimension": "Emotional and Psychological Abuse",
+    "evidence_for": "Hiding feelings/actions due to fear of partner's anger.",
+    "evidence_against": "Could be a personality trait of being conflict-avoidant.",
+    "fit": 4,
+    "clarity": 4,
+    "redundant": false,
+    "overlaps_with": [
+      "IT27"
+    ],
+    "recommendation": "Retain",
+    "justification": "Indicates fear of partner's reaction, stemming from emotional abuse."
+  },
+  {
+    "item_id": "IT27",
+    "dimension": "Emotional and Psychological Abuse",
+    "evidence_for": "Walking on eggshells due to fear of negative reactions.",
+    "evidence_against": "Could be a sensitive personality.",
+    "fit": 5,
+    "clarity": 5,
+    "redundant": false,
+    "overlaps_with": [
+      "IT17"
+    ],
+    "recommendation": "Retain",
+    "justification": "Captures the hypervigilance and anxiety caused by partner's behavior."
+  },
+  {
+    "item_id": "IT13",
+    "dimension": "Emotional and Psychological Abuse",
+    "evidence_for": "Silent treatment as punishment, a form of emotional manipulation.",
+    "evidence_against": "Could be a need for space after conflict.",
+    "fit": 4,
+    "clarity": 4,
+    "redundant": false,
+    "overlaps_with": [],
+    "recommendation": "Retain",
+    "justification": "Silent treatment is a form of emotional withdrawal and punishment."
+  },
+  {
+    "item_id": "IT33",
+    "dimension": "Emotional and Psychological Abuse",
+    "evidence_for": "Threatening to reveal secrets is blackmail/coercion.",
+    "evidence_against": "Could be a warning about consequences.",
+    "fit": 5,
+    "clarity": 5,
+    "redundant": false,
+    "overlaps_with": [
+      "IT32"
+    ],
+    "recommendation": "Retain",
+    "justification": "Threatening to expose secrets is a powerful form of emotional blackmail."
+  },
+  {
+    "item_id": "IT37",
+    "dimension": "Physical Aggression, Sexual Coercion, and Threats",
+    "evidence_for": "Direct description of physical assault tactics.",
+    "evidence_against": "Could be isolated incidents of aggression.",
+    "fit": 5,
+    "clarity": 5,
+    "redundant": false,
+    "overlaps_with": [],
+    "recommendation": "Retain",
+    "justification": "Directly details various forms of physical violence."
+  },
+  {
+    "item_id": "IT34",
+    "dimension": "Physical Aggression, Sexual Coercion, and Threats",
+    "evidence_for": "Threats of harm to self or others are coercive and intimidating.",
+    "evidence_against": "Could be hyperbolic expressions of anger.",
+    "fit": 5,
+    "clarity": 5,
+    "redundant": false,
+    "overlaps_with": [],
+    "recommendation": "Retain",
+    "justification": "Captures threats of violence against the victim or their loved ones."
+  },
+  {
+    "item_id": "IT39",
+    "dimension": "Physical Aggression, Sexual Coercion, and Threats",
+    "evidence_for": "Destroying objects to intimidate is a form of threat/aggression.",
+    "evidence_against": "Could be a reaction to frustration.",
+    "fit": 4,
+    "clarity": 4,
+    "redundant": false,
+    "overlaps_with": [
+      "IT36"
+    ],
+    "recommendation": "Retain",
+    "justification": "Intimidation through property destruction is a form of aggression."
+  },
+  {
+    "item_id": "IT35",
+    "dimension": "Physical Aggression, Sexual Coercion, and Threats",
+    "evidence_for": "Threatening self-harm to manipulate or control is abusive.",
+    "evidence_against": "Could be genuine suicidal ideation.",
+    "fit": 4,
+    "clarity": 4,
+    "redundant": false,
+    "overlaps_with": [],
+    "recommendation": "Retain",
+    "justification": "Threats of self-harm are a manipulative and coercive tactic."
+  },
+  {
+    "item_id": "IT41",
+    "dimension": "Physical Aggression, Sexual Coercion, and Threats",
+    "evidence_for": "Insistent sexual demands and refusal of 'no' is sexual coercion.",
+    "evidence_against": "Could be miscommunication about sexual desire.",
+    "fit": 5,
+    "clarity": 5,
+    "redundant": false,
+    "overlaps_with": [],
+    "recommendation": "Retain",
+    "justification": "Clearly describes sexual coercion and violation of consent."
+  },
+  {
+    "item_id": "IT31",
+    "dimension": "Physical Aggression, Sexual Coercion, and Threats",
+    "evidence_for": "Sharing intimate images without consent is a severe violation.",
+    "evidence_against": "Could be a misunderstanding of consent.",
+    "fit": 5,
+    "clarity": 5,
+    "redundant": false,
+    "overlaps_with": [
+      "IT32",
+      "IT33"
+    ],
+    "recommendation": "Retain",
+    "justification": "Violation of intimate privacy through image sharing is a serious abuse."
+  },
+  {
+    "item_id": "IT32",
+    "dimension": "Physical Aggression, Sexual Coercion, and Threats",
+    "evidence_for": "Threatening to share intimate images is blackmail/coercion.",
+    "evidence_against": "Could be a warning about potential actions.",
+    "fit": 5,
+    "clarity": 5,
+    "redundant": false,
+    "overlaps_with": [
+      "IT31",
+      "IT33"
+    ],
+    "recommendation": "Retain",
+    "justification": "Threatening to share intimate images is a form of coercion and blackmail."
+  },
+  {
+    "item_id": "IT42",
+    "dimension": "Fear, Anxiety, and Hypervigilance",
+    "evidence_for": "Anticipatory fear of partner's negative behaviors.",
+    "evidence_against": "Could be general anxiety unrelated to partner.",
+    "fit": 5,
+    "clarity": 5,
+    "redundant": false,
+    "overlaps_with": [],
+    "recommendation": "Retain",
+    "justification": "Directly captures anticipatory fear of partner's behavior."
+  },
+  {
+    "item_id": "IT16",
+    "dimension": "Fear, Anxiety, and Hypervigilance",
+    "evidence_for": "Feeling unsafe and experiencing fear near the partner.",
+    "evidence_against": "Could be a personal feeling of insecurity.",
+    "fit": 5,
+    "clarity": 5,
+    "redundant": false,
+    "overlaps_with": [],
+    "recommendation": "Retain",
+    "justification": "Clear statement of feeling unsafe and experiencing fear in partner's presence."
+  },
+  {
+    "item_id": "IT27",
+    "dimension": "Fear, Anxiety, and Hypervigilance",
+    "evidence_for": "Feeling of walking on eggshells due to fear of reaction.",
+    "evidence_against": "Could be a personality trait of being conflict-avoidant.",
+    "fit": 5,
+    "clarity": 5,
+    "redundant": false,
+    "overlaps_with": [
+      "IT17"
+    ],
+    "recommendation": "Retain",
+    "justification": "Captures the hypervigilance and anxiety caused by partner's behavior."
+  },
+  {
+    "item_id": "IT17",
+    "dimension": "Fear, Anxiety, and Hypervigilance",
+    "evidence_for": "Hiding actions/feelings due to fear of partner's anger.",
+    "evidence_against": "Could be a personality trait of being conflict-avoidant.",
+    "fit": 4,
+    "clarity": 4,
+    "redundant": false,
+    "overlaps_with": [
+      "IT27"
+    ],
+    "recommendation": "Retain",
+    "justification": "Indicates fear of partner's reaction, stemming from emotional abuse."
+  },
+  {
+    "item_id": "IT43",
+    "dimension": "Positive and Supportive Relational Dynamics",
+    "evidence_for": "Feeling able to discuss anything indicates open communication.",
+    "evidence_against": "Could be superficial sharing.",
+    "fit": 5,
+    "clarity": 5,
+    "redundant": false,
+    "overlaps_with": [],
+    "recommendation": "Retain",
+    "justification": "Captures open communication and trust, key positive dynamics."
+  },
+  {
+    "item_id": "IT06",
+    "dimension": "Positive and Supportive Relational Dynamics",
+    "evidence_for": "Feeling safe, known, accepted, and respected for choices.",
+    "evidence_against": "Could be a perception, not reality.",
+    "fit": 5,
+    "clarity": 5,
+    "redundant": false,
+    "overlaps_with": [],
+    "recommendation": "Retain",
+    "justification": "Encompasses safety, acceptance, and respect for autonomy."
+  },
+  {
+    "item_id": "IT07",
+    "dimension": "Positive and Supportive Relational Dynamics",
+    "evidence_for": "Ability to confront/argue without causing harm.",
+    "evidence_against": "Could be avoiding conflict rather than healthy discussion.",
+    "fit": 4,
+    "clarity": 4,
+    "redundant": false,
+    "overlaps_with": [],
+    "recommendation": "Retain",
+    "justification": "Highlights healthy conflict resolution and mutual respect."
+  },
+  {
+    "item_id": "IT01",
+    "dimension": "Positive and Supportive Relational Dynamics",
+    "evidence_for": "Feeling supported in endeavors.",
+    "evidence_against": "Could be passive support.",
+    "fit": 4,
+    "clarity": 4,
+    "redundant": false,
+    "overlaps_with": [],
+    "recommendation": "Retain",
+    "justification": "Directly measures perceived support in personal pursuits."
+  },
+  {
+    "item_id": "IT02",
+    "dimension": "Positive and Supportive Relational Dynamics",
+    "evidence_for": "Encouragement to try new things fosters growth.",
+    "evidence_against": "Could be pushing boundaries.",
+    "fit": 4,
+    "clarity": 4,
+    "redundant": false,
+    "overlaps_with": [],
+    "recommendation": "Retain",
+    "justification": "Measures partner's encouragement of personal growth and new experiences."
+  },
+  {
+    "item_id": "IT08",
+    "dimension": "Positive and Supportive Relational Dynamics",
+    "evidence_for": "Feeling comfortable and safe in partner's presence.",
+    "evidence_against": "Could be a general feeling of comfort.",
+    "fit": 5,
+    "clarity": 5,
+    "redundant": false,
+    "overlaps_with": [],
+    "recommendation": "Retain",
+    "justification": "Captures feelings of comfort and safety, core to positive dynamics."
+  },
+  {
+    "item_id": "IT05",
+    "dimension": "Positive and Supportive Relational Dynamics",
+    "evidence_for": "Freedom to manage time and make choices.",
+    "evidence_against": "Could be interpreted as lack of shared activities.",
+    "fit": 5,
+    "clarity": 5,
+    "redundant": false,
+    "overlaps_with": [],
+    "recommendation": "Retain",
+    "justification": "Directly measures autonomy and freedom in managing personal time."
+  },
+  {
+    "item_id": "IT03",
+    "dimension": "Positive and Supportive Relational Dynamics",
+    "evidence_for": "Feeling heard and that partner is interested in sharing.",
+    "evidence_against": "Could be superficial interest.",
+    "fit": 5,
+    "clarity": 5,
+    "redundant": false,
+    "overlaps_with": [],
+    "recommendation": "Retain",
+    "justification": "Measures feeling listened to and partner's genuine interest in sharing."
+  },
+  {
+    "item_id": "IT04",
+    "dimension": "Positive and Supportive Relational Dynamics",
+    "evidence_for": "Understanding need for personal space and other relationships.",
+    "evidence_against": "Could be indifference.",
+    "fit": 5,
+    "clarity": 5,
+    "redundant": false,
+    "overlaps_with": [],
+    "recommendation": "Retain",
+    "justification": "Highlights respect for autonomy and separate social connections."
+  },
+  {
+    "item_id": "IT23",
+    "dimension": "Positive and Supportive Relational Dynamics",
+    "evidence_for": "Not feeling free to dress as desired implies restriction.",
+    "evidence_against": "Could be subjective feeling; partner might have preferences.",
+    "fit": 2,
+    "clarity": 3,
+    "redundant": false,
+    "overlaps_with": [],
+    "recommendation": "Drop",
+    "justification": "This item is about restriction, fitting 'Control and Isolation' better. It's misplaced here."
+  },
+  {
+    "item_id": "IT31",
+    "dimension": "Violation of Privacy and Trust (Specific to Intimate Content)",
+    "evidence_for": "Sharing intimate images without consent is a privacy violation.",
+    "evidence_against": "Could be a misunderstanding of consent.",
+    "fit": 5,
+    "clarity": 5,
+    "redundant": false,
+    "overlaps_with": [
+      "IT32",
+      "IT33"
+    ],
+    "recommendation": "Retain",
+    "justification": "Directly addresses violation of intimate privacy through image sharing."
+  },
+  {
+    "item_id": "IT32",
+    "dimension": "Violation of Privacy and Trust (Specific to Intimate Content)",
+    "evidence_for": "Threatening to share intimate images is a privacy violation threat.",
+    "evidence_against": "Could be a warning about potential actions.",
+    "fit": 5,
+    "clarity": 5,
+    "redundant": false,
+    "overlaps_with": [
+      "IT31",
+      "IT33"
+    ],
+    "recommendation": "Retain",
+    "justification": "Captures threats to intimate privacy, a form of blackmail."
+  },
+  {
+    "item_id": "IT33",
+    "dimension": "Violation of Privacy and Trust (Specific to Intimate Content)",
+    "evidence_for": "Revealing secrets is a breach of trust and privacy.",
+    "evidence_against": "Could be a warning about consequences.",
+    "fit": 5,
+    "clarity": 5,
+    "redundant": false,
+    "overlaps_with": [
+      "IT31",
+      "IT32"
+    ],
+    "recommendation": "Retain",
+    "justification": "Threatening to reveal personal secrets is a breach of trust."
+  }
+]
+```

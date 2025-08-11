@@ -1,0 +1,204 @@
+{
+  "dimensions": [
+    {
+      "name": "Abuso Emotivo e Psicologico (Svalutazione, Critica, Umiliazione)",
+      "definition": "This dimension captures the core of emotional abuse, focusing on verbal and psychological tactics that directly attack self-esteem, worth, and identity. It includes devaluation, constant criticism, humiliation, and guilt-tripping.",
+      "items": [
+        {
+          "id": "IT28",
+          "text": "Mi butta giù, mi insulta o mi critica"
+        },
+        {
+          "id": "IT29",
+          "text": "Mi fa sentire spesso sbagliata e mi dice che è colpa mia se sta male"
+        },
+        {
+          "id": "IT30",
+          "text": "Mi dice che non valgo niente e resterei sola se non stessi con lui perché nessuno mi vorrebbe"
+        },
+        {
+          "id": "IT15",
+          "text": "Non mi fa sentire bene quando parla di come mi prendo cura di me stessa e del mio aspetto fisico"
+        },
+        {
+          "id": "IT12",
+          "text": "Mi sento giudicata rispetto alle cose che faccio e come organizzo la mia vita"
+        },
+        {
+          "id": "IT40",
+          "text": "Urla o mi umilia di fronte ad altre persone"
+        },
+        {
+          "id": "IT21",
+          "text": "Mi accusa di flirtare o di tradirlo/a"
+        },
+        {
+          "id": "IT33",
+          "text": "Mi dice che, se lo lasciassi, rivelerebbe ad altri dei miei segreti o delle cose molto personali che sa di me"
+        }
+      ]
+    },
+    {
+      "name": "Controllo, Possessività e Isolamento Sociale",
+      "definition": "This dimension encompasses behaviors aimed at restricting autonomy, monitoring activities, and limiting social connections. It reflects the synthesis's emphasis on possessiveness, control, and social isolation.",
+      "items": [
+        {
+          "id": "IT24",
+          "text": "Cerca di controllare ciò che faccio e con chi mi vedo"
+        },
+        {
+          "id": "IT25",
+          "text": "Non vuole che io veda la mia famiglia, le mie amiche o i miei amici. Mi dice che è lui adesso la mia famiglia, che loro cercano di separarci"
+        },
+        {
+          "id": "IT10",
+          "text": "Parla male delle mie amiche e dice che sono delle “poco di buono”. Mi chiede di non vederle"
+        },
+        {
+          "id": "IT11",
+          "text": "Dice che sono impegnata in troppe cose e che lo trascuro, vorrebbe che passassimo la maggior parte del tempo insieme"
+        },
+        {
+          "id": "IT14",
+          "text": "Sento che mi manda troppi messaggi o mi chiama spesso, a volte in modo insistente"
+        },
+        {
+          "id": "IT22",
+          "text": "Mi sento costantemente controllata, ho la sensazione che non si fidi di me e che voglia sapere sempre dove sono e co chi, me lo chiede continuamente"
+        },
+        {
+          "id": "IT20",
+          "text": "Diventa estremamente geloso/ o possessivo/a"
+        },
+        {
+          "id": "IT19",
+          "text": "Pretende prove d'amore e dimostrazioni di fedeltà nei suoi confronti"
+        },
+        {
+          "id": "IT23",
+          "text": "Non mi sento libera di vestirmi come voglio"
+        }
+      ]
+    },
+    {
+      "name": "Violenza Fisica, Minacce e Intimidazione",
+      "definition": "This dimension addresses direct physical aggression, overt threats, and intimidation tactics. It includes the violation of privacy through intimate images and the coercive aspect of sexual demands, which were consistently placed in this category by multiple experts due to their violent and intimidating nature.",
+      "items": [
+        {
+          "id": "IT37",
+          "text": "Mi afferra per i capelli, mi strattona, mi mette le mani al collo, tenta di soffocarmi, mi dà dei pugni, mi schiaffeggia, mi getta addosso degli oggetti o mi fa male in qualche modo"
+        },
+        {
+          "id": "IT39",
+          "text": "Rompe e getta oggetti per intimidirmi"
+        },
+        {
+          "id": "IT34",
+          "text": "Minaccia di fare del male a me, ai miei amici o alla mia famiglia"
+        },
+        {
+          "id": "IT36",
+          "text": "Minacce di distruggere le mie cose (telefono, vestiti, computer, auto, ecc.)"
+        },
+        {
+          "id": "IT31",
+          "text": "Ha mostrato mie immagini intime ad altre persone senza il mio consenso"
+        },
+        {
+          "id": "IT32",
+          "text": "Minaccia di mostrare ai miei amici o ai miei familiari mie immagini intime"
+        },
+        {
+          "id": "IT35",
+          "text": "Minaccia di farsi del male a causa mia"
+        },
+        {
+          "id": "IT41",
+          "text": "Mi chiede insistentemente di fare sesso e non accetta quando dico di no o che non mi va"
+        }
+      ]
+    },
+    {
+      "name": "Manipolazione Emotiva, Gaslighting e Incertezza",
+      "definition": "This dimension captures the more subtle, cognitive, and emotional manipulation tactics that create confusion, self-doubt, and a sense of unpredictability. It includes gaslighting, mood swings, punitive silence, and the resulting fear and caution in interactions.",
+      "items": [
+        {
+          "id": "IT38",
+          "text": "Dopo che mi ha aggredito (fisicamente o verbalmente) nega di averlo fatto e mi fa dubitare che sia realmente successo."
+        },
+        {
+          "id": "IT26",
+          "text": "Ha forti oscillazioni d'umore, il minuto prima si arrabbia e mi urla contro e quello successivo è dolce e si scusa"
+        },
+        {
+          "id": "IT13",
+          "text": "Quando faccio qualcosa che a lui non va bene poi non mi parla per giorni"
+        },
+        {
+          "id": "IT17",
+          "text": "A volte sento disagio o non voglio fare qualcosa ma lo nascondo per paura che si arrabbi"
+        },
+        {
+          "id": "IT27",
+          "text": "In sua compagnia mi capita di sentirmi a disagio e ho la sensazione di dover stare attenta a ciò che dico o a ciò che faccio, come se dovessi “camminare sulle uova” per evitare sue reazioni negative"
+        }
+      ]
+    },
+    {
+      "name": "Supporto, Sicurezza e Autonomia nella Relazione (Dinamiche Sane)",
+      "definition": "This dimension represents the positive counterpoint to abusive dynamics, focusing on relational health. It includes themes of trust, open communication, emotional safety, mutual respect, and the validation of individual autonomy and boundaries.",
+      "items": [
+        {
+          "id": "IT43",
+          "text": "Sento di potergli parlare di qualsiasi cosa"
+        },
+        {
+          "id": "IT03",
+          "text": "Mi sento ascoltata e si mostra interessato quando ho qualcosa che voglio condividere."
+        },
+        {
+          "id": "IT08",
+          "text": "In sua compagnia mi sento a mio agio e al sicuro"
+        },
+        {
+          "id": "IT06",
+          "text": "Mi sento al sicuro con lui perché so che mi conosce e mi vuole bene per quella che sono e rispetta le mie scelte"
+        },
+        {
+          "id": "IT01",
+          "text": "Sento il suo sostegno nelle cose che faccio"
+        },
+        {
+          "id": "IT02",
+          "text": "Mi incoraggia a provare nuove cose"
+        },
+        {
+          "id": "IT04",
+          "text": "Capisce che ho bisogno anche di miei spazi personali e comprende che ci sono momenti in cui mi piace stare da sola o con persone diverse da lui (amici, familiari ecc.)"
+        },
+        {
+          "id": "IT05",
+          "text": "Mi fa sentire libera di fare le mie scelte su come gestire il mio tempo"
+        },
+        {
+          "id": "IT07",
+          "text": "Sento che possiamo confrontarci e anche litigare senza farci male"
+        }
+      ]
+    },
+    {
+      "name": "Preoccupazione Esterna e Feedback Sociale",
+      "definition": "This dimension captures the external perception of relational issues. It serves as an important indicator of potential harm or dysfunction, reflecting how the social environment perceives the relationship dynamics.",
+      "items": [
+        {
+          "id": "IT18",
+          "text": "Le mie amiche o la mia famiglia sono preoccupate per me"
+        },
+        {
+          "id": "IT09",
+          "text": "I miei amici mi hanno fatto notare che non piace loro come si comporta con me"
+        }
+      ]
+    }
+  ]
+}

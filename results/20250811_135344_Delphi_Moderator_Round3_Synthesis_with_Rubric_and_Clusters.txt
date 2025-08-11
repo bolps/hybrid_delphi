@@ -1,0 +1,33 @@
+Here is a synthesis of the Round 3 decisions:
+
+**Abuso Emotivo e Psicologico (Svalutazione, Critica, Umiliazione)**
+*   **Retained:** IT28, IT15, IT12, IT40, IT33.
+*   **Dropped:** IT29, IT30, IT21.
+*   **Reasoning:** IT28, IT12, and IT40 were retained for meeting fit and clarity thresholds. IT15 and IT33 were retained as fallback decisions. IT29 and IT30 were dropped due to redundancy with IT28. IT21 was dropped for failing the fit threshold (fit_mean < 3.5).
+
+**Controllo, Possessività e Isolamento Sociale**
+*   **Retained:** IT24, IT11, IT20, IT23.
+*   **Dropped:** IT25, IT10, IT14, IT22, IT19.
+*   **Reasoning:** IT24, IT20, and IT23 were retained for meeting fit and clarity criteria. IT11 was retained as a fallback. IT25, IT10, IT14, and IT22 were dropped due to redundancy with IT24. IT19 was dropped due to redundancy with IT20 and as a fallback decision.
+
+**Violenza Fisica, Minacce e Intimidazione**
+*   **Retained:** IT37, IT39, IT34, IT31, IT41.
+*   **Dropped:** IT36, IT32, IT35.
+*   **Reasoning:** IT37, IT39, IT34, IT31, and IT41 were retained for meeting fit and clarity thresholds. IT36, IT32, and IT35 were dropped due to redundancy with other retained items (IT39, IT31, and IT34, respectively).
+
+**Manipolazione Emotiva, Gaslighting e Incertezza**
+*   **Retained:** IT38, IT26, IT13, IT27.
+*   **Dropped:** IT17.
+*   **Reasoning:** IT38, IT26, IT13, and IT27 were retained for meeting fit and clarity thresholds. IT17 was dropped due to redundancy with IT27.
+
+**Supporto, Sicurezza e Autonomia nella Relazione (Dinamiche Sane)**
+*   **Retained:** IT43, IT06, IT01, IT04, IT07.
+*   **Dropped:** IT03, IT08, IT02, IT05.
+*   **Reasoning:** IT43, IT06, IT01, IT04, and IT07 were retained for meeting fit and clarity criteria. IT03, IT08, IT02, and IT05 were dropped due to redundancy with other retained items (IT43, IT06, IT01, and IT04, respectively).
+
+**Preoccupazione Esterna e Feedback Sociale**
+*   **Retained:** IT18.
+*   **Dropped:** IT09.
+*   **Reasoning:** IT18 was retained for meeting fit and clarity thresholds. IT09 was dropped due to redundancy with IT18.
+
+No significant unresolved disagreements or borderline cases were noted; decisions were primarily driven by fit/clarity thresholds and redundancy reduction.

@@ -6,6 +6,7 @@ from datetime import datetime
 import random
 import re
 from typing import List, Dict, Any, Tuple, Set
+from tabulate import tabulate
 
 random.seed(42)
 
@@ -680,26 +681,58 @@ def apply_redundancy_cluster_safeguard(decisions: Dict[str, Any],
 apply_redundancy_cluster_safeguard(decisions, aggregated)
 
 # Coverage safeguard (≥2 retained per dimension)
-def enforce_coverage(decisions: Dict[str, Any]) -> None:
+# Coverage safeguard (≥2 retained per dimension) — now with undrop fallback
+def enforce_coverage(decisions: Dict[str, Any], min_per_dim: int = 2) -> None:
     by_dim: Dict[str, List[Dict[str, Any]]] = {}
-    for it, rec in decisions.items():
+    for _, rec in decisions.items():
         by_dim.setdefault(rec["dimension"], []).append(rec)
 
     for dim, recs in by_dim.items():
         retained = [r for r in recs if r["decision"] == "Retain"]
-        if len(retained) >= 2:
+        if len(retained) >= min_per_dim:
             continue
-        candidates = sorted(
-            [r for r in recs if r["decision"] == "Revise"],
+
+        # 1) Promote from REVISE as before
+        revise_candidates = sorted(
+            (r for r in recs if r["decision"] == "Revise"),
             key=lambda r: (-r["fit_mean"], -r["clarity_mean"])
         )
-        while len(retained) < 2 and candidates:
-            promoted = candidates.pop(0)
+        while len(retained) < min_per_dim and revise_candidates:
+            promoted = revise_candidates.pop(0)
             promoted["decision"] = "Retain"
             promoted["reason"] += "; promoted for coverage safeguard"
             retained.append(promoted)
 
-enforce_coverage(decisions)
+        # 2) If still short, undrop the best DROPs
+        if len(retained) < min_per_dim:
+            # Prefer strong items and lower redundancy; avoid reviving very weak ones first
+            drop_candidates_primary = sorted(
+                (
+                    r for r in recs
+                    if r["decision"] == "Drop"
+                    and r["fit_mean"] >= 3.5  # aligns with your pre-rule threshold
+                    and r["redundancy_ratio"] < (2/3)  # avoid items dropped for strong redundancy first
+                ),
+                key=lambda r: (-r["fit_mean"], -r["clarity_mean"], r["redundancy_ratio"])
+            )
+
+            # If still not enough after primary screen, allow any Drop as last resort
+            drop_candidates_fallback = sorted(
+                (r for r in recs if r["decision"] == "Drop" and r not in drop_candidates_primary),
+                key=lambda r: (-r["fit_mean"], -r["clarity_mean"], r["redundancy_ratio"])
+            )
+
+            for pool, tag in [
+                (drop_candidates_primary, "; undropped (strong) for coverage safeguard"),
+                (drop_candidates_fallback, "; undropped (last-resort) for coverage safeguard")
+            ]:
+                while len(retained) < min_per_dim and pool:
+                    revived = pool.pop(0)
+                    revived["decision"] = "Retain"
+                    revived["reason"] += tag
+                    retained.append(revived)
+
+enforce_coverage(decisions, min_per_dim=2)
 
 # Save decisions
 save_json_result("Round3_Decisions_with_Rubric_and_Clusters", {"items": list(decisions.values())})
@@ -762,3 +795,47 @@ full_log = {
 save_json_result("Full_Log_Round3_with_Rubric_and_Clusters", full_log)
 
 print("\n✅ Round 3 updated with rubric-based evaluation and redundancy clusters. See 'results/' for outputs.")
+
+# =====================
+# Table print — Cool viz of the table
+# =====================
+
+# Assign dimension IDs
+dimension_order = sorted(set(d["dimension"] for d in decisions.values()))
+dimension_id_map = {dim: f"D{idx+1:02d}" for idx, dim in enumerate(dimension_order)}
+
+# Decision priority order
+decision_priority = {"Retain": 0, "Revise": 1, "Drop": 2}
+
+# Prepare table data
+table_data = []
+for dim in dimension_order:
+    dim_items = sorted(
+        [d for d in decisions.values() if d["dimension"] == dim],
+        key=lambda x: (
+            decision_priority.get(x["decision"], 99),  # order by decision
+            x["item_id"]  # then by item_id
+        )
+    )
+    for rec in dim_items:
+        table_data.append([
+            rec["item_id"],
+            rec["item_text"],
+            dimension_id_map[rec["dimension"]],
+            rec["dimension"],
+            rec["fit_mean"],
+            rec["clarity_mean"],
+            rec["fit_iqr"],
+            rec["redundancy_ratio"],
+            rec["decision"],
+            rec["reason"]
+        ])
+
+# Print in console
+headers = [
+    "Item ID", "Item Text", "Dim ID", "Dimension",
+    "Fit Mean", "Clarity Mean", "Fit IQR", "Redundancy",
+    "Decision", "Reason"
+]
+print("\n📊 Final Decisions Table:")
+print(tabulate(table_data, headers=headers, tablefmt="fancy_grid", floatfmt=".2f"))

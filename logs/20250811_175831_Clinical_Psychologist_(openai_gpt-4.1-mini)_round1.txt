@@ -1,0 +1,114 @@
+### Clinical Psychologist (openai/gpt-4.1-mini)
+Here is a coherent grouping of the items into distinct clinical psychological constructs related to relational dynamics, particularly focusing on abusive and supportive relationship patterns:
+
+---
+
+### 1. **Emotional and Psychological Abuse**  
+Items reflecting verbal attacks, emotional manipulation, criticism, humiliation, and gaslighting.
+
+- Mi dice che non valgo niente e resterei sola se non stessi con lui perché nessuno mi vorrebbe  
+- Mi butta giù, mi insulta o mi critica  
+- Urla o mi umilia di fronte ad altre persone  
+- Dopo che mi ha aggredito (fisicamente o verbalmente) nega di averlo fatto e mi fa dubitare che sia realmente successo.  
+- Mi fa sentire spesso sbagliata e mi dice che è colpa mia se sta male  
+- Mi sento giudicata rispetto alle cose che faccio e come organizzo la mia vita  
+- Non mi fa sentire bene quando parla di come mi prendo cura di me stessa e del mio aspetto fisico  
+
+**Rationale:** These items describe behaviors that undermine self-esteem, create confusion, and inflict emotional pain, characteristic of psychological abuse.
+
+---
+
+### 2. **Controlling and Coercive Behaviors**  
+Items describing control over freedom, social contacts, appearance, and autonomy, including monitoring and jealousy.
+
+- Non mi sento libera di vestirmi come voglio  
+- Pretende prove d'amore e dimostrazioni di fedeltà nei suoi confronti  
+- Mi sento costantemente controllata, ho la sensazione che non si fidi di me e che voglia sapere sempre dove sono e con chi, me lo chiede continuamente  
+- Diventa estremamente geloso/o possessivo/a  
+- Cerca di controllare ciò che faccio e con chi mi vedo  
+- Mi accusa di flirtare o di tradirlo/a  
+- Parla male delle mie amiche e dice che sono delle “poco di buono”. Mi chiede di non vederle  
+- Non vuole che io veda la mia famiglia, le mie amiche o i miei amici. Mi dice che è lui adesso la mia famiglia, che loro cercano di separarci  
+- Dice che sono impegnata in troppe cose e che lo trascuro, vorrebbe che passassimo la maggior parte del tempo insieme  
+- Sento che mi manda troppi messaggi o mi chiama spesso, a volte in modo insistente  
+- Mi sento a disagio e ho la sensazione di dover stare attenta a ciò che dico o a ciò che faccio, come se dovessi “camminare sulle uova” per evitare sue reazioni negative  
+
+**Rationale:** These behaviors restrict autonomy and isolate the partner, characteristic of coercive control in abusive relationships.
+
+---
+
+### 3. **Physical and Sexual Violence**  
+Items indicating physical aggression, threats, and sexual coercion.
+
+- Mi afferra per i capelli, mi strattona, mi mette le mani al collo, tenta di soffocarmi, mi dà dei pugni, mi schiaffeggia, mi getta addosso degli oggetti o mi fa male in qualche modo  
+- Minaccia di fare del male a me, ai miei amici o alla mia famiglia  
+- Rompe e getta oggetti per intimidirmi  
+- Minacce di distruggere le mie cose (telefono, vestiti, computer, auto, ecc.)  
+- Minaccia di farsi del male a causa mia  
+- Mi chiede insistentemente di fare sesso e non accetta quando dico di no o che non mi va  
+- Ha mostrato mie immagini intime ad altre persone senza il mio consenso  
+- Minaccia di mostrare ai miei amici o ai miei familiari mie immagini intime  
+
+**Rationale:** These items describe direct physical harm or intimidation, sexual coercion, and threats to safety and privacy.
+
+---
+
+### 4. **Fear and Safety Concerns**  
+Items reflecting fear, anxiety, and lack of safety in the relationship.
+
+- Ho paura di vederlo perché so che potrebbe avere comportamenti che mi possono fare stare male o sentire in imbarazzo  
+- A volte provo paura vicino a lui, non mi sento al sicuro  
+- Le mie amiche o la mia famiglia sono preoccupate per me  
+- I miei amici mi hanno fatto notare che non piace loro come si comporta con me  
+
+**Rationale:** These items capture the subjective experience of fear and external concern for safety, often resulting from abusive dynamics.
+
+---
+
+### 5. **Support, Trust, and Positive Communication**  
+Items reflecting feelings of safety, trust, emotional support, and open communication.
+
+- In sua compagnia mi sento a mio agio e al sicuro  
+- Mi sento ascoltata e si mostra interessato quando ho qualcosa che voglio condividere.  
+- Sento di potergli parlare di qualsiasi cosa  
+- Mi sento al sicuro con lui perché so che mi conosce e mi vuole bene per quella che sono e rispetta le mie scelte  
+- Sento il suo sostegno nelle cose che faccio  
+- Capisce che ho bisogno anche di miei spazi personali e comprende che ci sono momenti in cui mi piace stare da sola o con persone diverse da lui (amici, familiari ecc.)  
+- Sento che possiamo confrontarci e anche litigare senza farci male  
+- Mi fa sentire libera di fare le mie scelte su come gestire il mio tempo  
+- Mi incoraggia a provare nuove cose  
+
+**Rationale:** These represent healthy relational qualities such as emotional safety, respect for autonomy, and constructive communication.
+
+---
+
+### 6. **Mood Instability and Emotional Volatility**  
+Items describing rapid mood shifts and unpredictable emotional responses.
+
+- Ha forti oscillazioni d'umore, il minuto prima si arrabbia e mi urla contro e quello successivo è dolce e si scusa  
+- Quando faccio qualcosa che a lui non va bene poi non mi parla per giorni  
+
+**Rationale:** These items highlight emotional dysregulation and inconsistent affective responses, often seen in borderline or mood disorders impacting relationships.
+
+---
+
+### 7. **Coercion through Secrets and Threats of Exposure**  
+Items related to threats involving personal secrets or intimate information.
+
+- Mi dice che, se lo lasciassi, rivelerebbe ad altri dei miei segreti o delle cose molto personali che sa di me  
+- Minaccia di mostrare ai miei amici o ai miei familiari mie immagini intime  
+
+**Rationale:** These items specifically point to coercion via threats to expose private information, a form of psychological abuse and manipulation.
+
+---
+
+**Summary:**  
+- Emotional/Psychological Abuse  
+- Controlling/Coercive Behaviors  
+- Physical/Sexual Violence  
+- Fear and Safety Concerns  
+- Support, Trust, and Positive Communication  
+- Mood Instability and Emotional Volatility  
+- Coercion through Secrets and Threats of Exposure  
+
+This grouping avoids overlap by focusing on distinct relational dynamics and abuse types, allowing targeted clinical understanding and intervention.

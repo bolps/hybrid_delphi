@@ -1,0 +1,4344 @@
+{
+  "IT20": {
+    "dimension": "Controlling and Possessive Behaviors",
+    "fit_scores": [
+      4,
+      5,
+      5,
+      5,
+      5,
+      5,
+      5,
+      5,
+      5
+    ],
+    "clarity_scores": [
+      4,
+      5,
+      5,
+      5,
+      5,
+      5,
+      5,
+      5,
+      5
+    ],
+    "redundancy_flags": [
+      false,
+      false,
+      false,
+      true,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "overlaps_with_all": [
+      [],
+      [],
+      [],
+      [
+        "IT21",
+        "IT22"
+      ],
+      [],
+      [],
+      [
+        "IT21"
+      ],
+      [
+        "IT21"
+      ],
+      [
+        "IT21"
+      ]
+    ],
+    "recommendations": [
+      "Retain",
+      "Retain",
+      "Retain",
+      "Retain",
+      "Retain",
+      "Retain",
+      "Retain",
+      "Retain",
+      "Retain"
+    ],
+    "justifications": [
+      "Clearly captures a key aspect of controlling and possessive behaviors.",
+      "Core item for controlling and possessive behaviors, clearly stated.",
+      "This item is a direct and clear indicator of controlling and possessive behavior.",
+      "Core to dimension and clear; overlaps but adds specificity.",
+      "Core to dimension, unambiguous, no redundancy.",
+      "Core to dimension, clear and indispensable for assessing possessiveness.",
+      "Core item representing possessiveness, clear and essential.",
+      "Core indicator of possessive control; clear and essential.",
+      "Core item capturing possessiveness, distinct from others."
+    ],
+    "evidence_for": [
+      "Directly addresses jealousy and possessiveness, core components of controlling behavior.",
+      "Directly addresses jealousy and possessiveness, key aspects of controlling behavior.",
+      "Directly addresses jealousy and possessiveness, core components of controlling behavior.",
+      "Directly indicates jealousy and possessiveness.",
+      "Directly exemplifies jealousy and possessiveness.",
+      "Directly describes jealousy and possessiveness, restricting autonomy.",
+      "Expresses extreme jealousy and possessiveness",
+      "Expresses extreme jealousy and possessiveness.",
+      "Expresses extreme jealousy and possessiveness."
+    ],
+    "evidence_against": [
+      "Lacks specific examples of how this jealousy manifests in controlling actions.",
+      "None.",
+      "None",
+      "May overlap with general jealousy.",
+      "May overlap with similar possessive items.",
+      "May overlap with general jealousy, not always controlling.",
+      "Could overlap with accusations of infidelity",
+      "Jealousy might overlap with emotional abuse aspects.",
+      "Focuses on emotion more than specific controlling acts."
+    ]
+  },
+  "IT14": {
+    "dimension": "Controlling and Possessive Behaviors",
+    "fit_scores": [
+      4,
+      4,
+      4,
+      4,
+      4,
+      4,
+      4,
+      4,
+      4
+    ],
+    "clarity_scores": [
+      3,
+      4,
+      4,
+      4,
+      4,
+      4,
+      5,
+      5,
+      4
+    ],
+    "redundancy_flags": [
+      false,
+      false,
+      false,
+      true,
+      true,
+      true,
+      false,
+      false,
+      false
+    ],
+    "overlaps_with_all": [
+      [],
+      [],
+      [],
+      [
+        "IT22"
+      ],
+      [
+        "IT22"
+      ],
+      [
+        "IT22"
+      ],
+      [
+        "IT22"
+      ],
+      [
+        "IT22"
+      ],
+      [
+        "IT22"
+      ]
+    ],
+    "recommendations": [
+      "Revise",
+      "Retain",
+      "Retain",
+      "Retain",
+      "Retain",
+      "Revise",
+      "Retain",
+      "Retain",
+      "Retain"
+    ],
+    "justifications": [
+      "Clarify 'insistent' to better convey controlling intent.",
+      "Captures monitoring and pressure, a common controlling tactic.",
+      "Excessive contact is a common tactic for monitoring and control, fitting the dimension.",
+      "Strong fit with minor ambiguity; overlaps but provides unique example.",
+      "Strong fit, minor overlap, clear enough.",
+      "Strong fit but overlaps with IT22; minor tweaks for uniqueness could enhance.",
+      "Strong indicator of controlling communication, clearly stated.",
+      "Strong example of controlling communication; wording is clear.",
+      "Strong example of control via communication monitoring."
+    ],
+    "evidence_for": [
+      "Excessive contact is a form of monitoring and control.",
+      "Excessive contact can be a form of monitoring and control.",
+      "Excessive contact can be a form of monitoring and control.",
+      "Describes monitoring through excessive contact.",
+      "Describes monitoring through excessive contact.",
+      "Illustrates monitoring through excessive messaging, restricting freedom.",
+      "Describes persistent messaging and calling as control",
+      "Describes excessive messaging and calls, showing monitoring.",
+      "Describes excessive messaging and calls as monitoring behavior."
+    ],
+    "evidence_against": [
+      "Could be perceived as simply attentive rather than controlling.",
+      "Could be perceived as attentiveness if not framed as insistent.",
+      "Could be perceived as caring by some, less clearly controlling.",
+      "Could be seen as normal communication.",
+      "Focuses on frequency, not core restriction.",
+      "Could be seen as normal communication in some contexts.",
+      "Could be seen as concern rather than control",
+      "Could also reflect anxiety or insecurity, not just control.",
+      "Could overlap with emotional abuse if perceived as nagging."
+    ]
+  },
+  "IT11": {
+    "dimension": "Controlling and Possessive Behaviors",
+    "fit_scores": [
+      4,
+      4,
+      4,
+      5,
+      4,
+      4,
+      4,
+      4,
+      4
+    ],
+    "clarity_scores": [
+      3,
+      5,
+      4,
+      5,
+      4,
+      5,
+      5,
+      4,
+      4
+    ],
+    "redundancy_flags": [
+      false,
+      false,
+      false,
+      false,
+      true,
+      false,
+      false,
+      false,
+      false
+    ],
+    "overlaps_with_all": [
+      [],
+      [],
+      [],
+      [],
+      [
+        "IT25"
+      ],
+      [],
+      [],
+      [],
+      []
+    ],
+    "recommendations": [
+      "Revise",
+      "Retain",
+      "Retain",
+      "Retain",
+      "Retain",
+      "Retain",
+      "Retain",
+      "Retain",
+      "Retain"
+    ],
+    "justifications": [
+      "Rephrase to emphasize the restrictive nature of the demands.",
+      "Clearly describes limiting activities and demanding time, a control tactic.",
+      "Demanding most of the time limits autonomy and social engagement, fitting the dimension.",
+      "Indispensable for isolation tactics; unambiguous and unique.",
+      "Strong fit with overlap, slightly ambiguous wording.",
+      "Strong indicator of isolation tactics; clear and non-redundant.",
+      "Strong example of possessive time control, unambiguous.",
+      "Strong control through time demands; minor ambiguity present.",
+      "Represents controlling demands on partner's time."
+    ],
+    "evidence_for": [
+      "Demands for time and criticism of other activities restrict autonomy.",
+      "Restricts social time and demands excessive togetherness, limiting autonomy.",
+      "Restricts time and demands exclusivity, limiting autonomy.",
+      "Shows restriction of autonomy and social time.",
+      "Highlights demands for time and isolation.",
+      "Demands more time together, limiting social and personal activities.",
+      "Demands excessive time together, limits autonomy",
+      "Demands excessive time together, limiting personal freedom.",
+      "Demands excessive time together, limiting autonomy."
+    ],
+    "evidence_against": [
+      "Could be interpreted as a desire for quality time.",
+      "Could be seen as a desire for closeness if not framed as restrictive.",
+      "Could be interpreted as wanting quality time, not purely control.",
+      "Might imply mutual relationship demands.",
+      "Emphasizes neglect over direct control.",
+      "Might reflect normal relationship needs, not always possessive.",
+      "May reflect relational expectations, not always control",
+      "Could be interpreted as need for closeness, not control.",
+      "Could reflect relational dissatisfaction rather than control."
+    ]
+  },
+  "IT21": {
+    "dimension": "Controlling and Possessive Behaviors",
+    "fit_scores": [
+      4,
+      5,
+      5,
+      5,
+      5,
+      5,
+      5,
+      5,
+      5
+    ],
+    "clarity_scores": [
+      4,
+      5,
+      5,
+      5,
+      5,
+      5,
+      5,
+      5,
+      5
+    ],
+    "redundancy_flags": [
+      false,
+      false,
+      false,
+      true,
+      true,
+      true,
+      false,
+      false,
+      false
+    ],
+    "overlaps_with_all": [
+      [],
+      [],
+      [],
+      [
+        "IT20",
+        "IT22"
+      ],
+      [
+        "IT20"
+      ],
+      [
+        "IT20"
+      ],
+      [
+        "IT20"
+      ],
+      [
+        "IT20"
+      ],
+      [
+        "IT20"
+      ]
+    ],
+    "recommendations": [
+      "Retain",
+      "Retain",
+      "Retain",
+      "Retain",
+      "Retain",
+      "Retain",
+      "Retain",
+      "Retain",
+      "Retain"
+    ],
+    "justifications": [
+      "Directly reflects jealousy and accusation, common control tactics.",
+      "Directly measures jealousy-driven accusations, a core controlling behavior.",
+      "Accusations of infidelity are a direct manifestation of jealousy and control.",
+      "Core behavior; clear and specific despite overlaps.",
+      "Indispensable, clear, minor overlap with similar items.",
+      "Core to dimension and clear; overlaps slightly but adds specific accusation detail.",
+      "Core jealousy accusation, distinct from general possessiveness.",
+      "Core possessive behavior; clear and indispensable.",
+      "Core item reflecting possessive accusations."
+    ],
+    "evidence_for": [
+      "Accusations of flirting are a tactic to control social interactions.",
+      "Accusations of flirting are linked to jealousy and control.",
+      "Accusations of flirting/cheating fuel jealousy and control.",
+      "Illustrates accusations to restrict freedom.",
+      "Accusations indicate possessiveness and mistrust.",
+      "Accusations of flirting indicate jealousy and control over interactions.",
+      "Accuses partner of flirting or cheating, jealousy tactic",
+      "Accusations of flirting or cheating restrict autonomy.",
+      "Accusations of flirting/trading imply jealousy and control."
+    ],
+    "evidence_against": [
+      "Could stem from insecurity rather than control.",
+      "None.",
+      "None",
+      "Could be misinterpreted as insecurity.",
+      "Specific to infidelity, not general control.",
+      "Could stem from insecurity without intent to control.",
+      "Could overlap with jealousy item IT20",
+      "May overlap with jealousy or emotional abuse items.",
+      "Potential overlap with emotional abuse via blame."
+    ]
+  },
+  "IT24": {
+    "dimension": "Controlling and Possessive Behaviors",
+    "fit_scores": [
+      5,
+      5,
+      5,
+      5,
+      5,
+      5,
+      5,
+      5,
+      5
+    ],
+    "clarity_scores": [
+      5,
+      5,
+      5,
+      4,
+      5,
+      4,
+      5,
+      5,
+      5
+    ],
+    "redundancy_flags": [
+      false,
+      false,
+      false,
+      true,
+      true,
+      true,
+      true,
+      false,
+      false
+    ],
+    "overlaps_with_all": [
+      [],
+      [],
+      [],
+      [
+        "IT22",
+        "IT25"
+      ],
+      [
+        "IT22"
+      ],
+      [
+        "IT22",
+        "IT25"
+      ],
+      [
+        "IT22",
+        "IT25",
+        "IT10"
+      ],
+      [
+        "IT25",
+        "IT10",
+        "IT22"
+      ],
+      [
+        "IT25",
+        "IT10"
+      ]
+    ],
+    "recommendations": [
+      "Retain",
+      "Retain",
+      "Retain",
+      "Retain",
+      "Retain",
+      "Revise",
+      "Retain",
+      "Retain",
+      "Retain"
+    ],
+    "justifications": [
+      "Core item, explicitly describes controlling behavior and social restriction.",
+      "Explicitly captures attempts to control behavior and social life.",
+      "This item is a clear and direct measure of controlling behavior regarding activities and social contacts.",
+      "Strong fit with minor tweaks needed; overlaps but essential.",
+      "Core item, unambiguous, some redundancy present.",
+      "Indispensable fit but minor ambiguity; revise for clarity and reduce overlap.",
+      "Core controlling behavior, though overlaps, is essential.",
+      "Central controlling behavior; distinct from isolation specifics.",
+      "Essential for capturing direct controlling behaviors."
+    ],
+    "evidence_for": [
+      "Directly states attempts to control activities and social contacts.",
+      "Directly states attempts to control activities and social interactions.",
+      "Directly states an attempt to control activities and social interactions.",
+      "Directly addresses control over actions and associates.",
+      "Directly addresses monitoring and restrictions.",
+      "Explicitly about controlling activities and social connections.",
+      "Attempts to control activities and social contacts",
+      "Attempts to control actions and social contacts.",
+      "Direct control of activities and social contacts."
+    ],
+    "evidence_against": [
+      "None.",
+      "None.",
+      "None",
+      "Vague on specific tactics.",
+      "Broad, could overlap with other items.",
+      "Vague on methods, potentially overlapping with other items.",
+      "Broad phrasing might overlap with other control items",
+      "Could overlap with social isolation dimension.",
+      "Could be broad; overlaps with social isolation items."
+    ]
+  },
+  "IT23": {
+    "dimension": "Controlling and Possessive Behaviors",
+    "fit_scores": [
+      4,
+      3,
+      4,
+      4,
+      4,
+      4,
+      4,
+      4,
+      4
+    ],
+    "clarity_scores": [
+      4,
+      5,
+      4,
+      5,
+      4,
+      5,
+      5,
+      5,
+      5
+    ],
+    "redundancy_flags": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      true,
+      false,
+      false
+    ],
+    "overlaps_with_all": [
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [
+        "IT24"
+      ],
+      [],
+      []
+    ],
+    "recommendations": [
+      "Retain",
+      "Retain",
+      "Retain",
+      "Retain",
+      "Retain",
+      "Retain",
+      "Retain",
+      "Retain",
+      "Retain"
+    ],
+    "justifications": [
+      "Clearly addresses control over personal expression and autonomy.",
+      "Shows control over personal choices, fitting the dimension.",
+      "Limiting clothing choices infringes on personal autonomy and fits the controlling dimension.",
+      "Fits as side aspect; clear and non-redundant.",
+      "Strong fit, minor ambiguity in personal context.",
+      "Strong side aspect of control; clear and unique within dimension.",
+      "Important specific control aspect, clear and relevant.",
+      "Strong example of control over autonomy; clearly stated.",
+      "Specific but relevant control over personal choices."
+    ],
+    "evidence_for": [
+      "Restricting clothing choices limits personal autonomy.",
+      "Restricts personal expression (clothing) as a form of control.",
+      "Restricts personal choice in appearance, impacting autonomy.",
+      "Indicates restriction of personal choices.",
+      "Illustrates restriction of personal autonomy.",
+      "Restricts personal choices like clothing, limiting autonomy.",
+      "Restricts freedom in personal dress choices",
+      "Restricts freedom in personal appearance choices.",
+      "Restricts freedom to dress as desired."
+    ],
+    "evidence_against": [
+      "Could be about partner's preferences, not control.",
+      "Could be a minor preference if not framed as a restriction.",
+      "Could be seen as a preference or suggestion, not outright control.",
+      "Focuses on appearance, not core autonomy.",
+      "Focuses on appearance, not core behaviors.",
+      "May relate to cultural norms, not always possessive.",
+      "Specific aspect, may overlap with broader control items",
+      "May overlap with emotional abuse if linked to criticism.",
+      "Narrow focus, but fits controlling domain."
+    ]
+  },
+  "IT25": {
+    "dimension": "Controlling and Possessive Behaviors",
+    "fit_scores": [
+      5,
+      5,
+      5,
+      5,
+      5,
+      5,
+      5,
+      5,
+      5
+    ],
+    "clarity_scores": [
+      5,
+      5,
+      5,
+      5,
+      5,
+      5,
+      5,
+      5,
+      5
+    ],
+    "redundancy_flags": [
+      false,
+      false,
+      false,
+      true,
+      true,
+      true,
+      true,
+      false,
+      true
+    ],
+    "overlaps_with_all": [
+      [],
+      [],
+      [],
+      [
+        "IT10",
+        "IT24"
+      ],
+      [
+        "IT11"
+      ],
+      [
+        "IT10",
+        "IT24"
+      ],
+      [
+        "IT10",
+        "IT24"
+      ],
+      [
+        "IT10",
+        "IT24"
+      ],
+      [
+        "IT10",
+        "IT24"
+      ]
+    ],
+    "recommendations": [
+      "Retain",
+      "Retain",
+      "Retain",
+      "Retain",
+      "Retain",
+      "Retain",
+      "Retain",
+      "Retain",
+      "Retain"
+    ],
+    "justifications": [
+      "Excellent item, captures isolation and manipulation tactics.",
+      "Directly addresses isolation from support networks, a key controlling behavior.",
+      "This item directly addresses isolation from social support networks, a core controlling behavior.",
+      "Core to dimension; unambiguous despite overlaps.",
+      "Indispensable, clear, with internal overlap.",
+      "Core isolation tactic; clear despite overlaps, essential for dimension.",
+      "Key social isolation behavior, core to dimension.",
+      "Essential social control item; clearly expressed.",
+      "Key item illustrating isolation tactics despite overlap."
+    ],
+    "evidence_for": [
+      "Isolates from family/friends, framing partner as sole support.",
+      "Isolates from family/friends, a clear tactic of control and dependency.",
+      "Isolates from family/friends, a key controlling tactic.",
+      "Describes isolation from social networks.",
+      "Promotes isolation from social networks.",
+      "Isolation from family and friends, demanding loyalty.",
+      "Prevents seeing family and friends, isolates socially",
+      "Prevents seeing family/friends, claiming exclusive loyalty.",
+      "Prevents contact with family/friends, claims exclusivity."
+    ],
+    "evidence_against": [
+      "None.",
+      "None.",
+      "None",
+      "May overlap with external concerns dimension.",
+      "Overlaps with social isolation dimension.",
+      "Could be misinterpreted as protective behavior.",
+      "Some overlap with IT10 and IT24",
+      "Overlap with social isolation dimension possible.",
+      "Overlaps with social isolation dimension."
+    ]
+  },
+  "IT10": {
+    "dimension": "Controlling and Possessive Behaviors",
+    "fit_scores": [
+      5,
+      5,
+      5,
+      4,
+      4,
+      4,
+      5,
+      4,
+      4
+    ],
+    "clarity_scores": [
+      5,
+      5,
+      5,
+      4,
+      4,
+      4,
+      5,
+      5,
+      5
+    ],
+    "redundancy_flags": [
+      false,
+      false,
+      false,
+      true,
+      true,
+      true,
+      true,
+      false,
+      true
+    ],
+    "overlaps_with_all": [
+      [],
+      [],
+      [],
+      [
+        "IT25"
+      ],
+      [
+        "IT25"
+      ],
+      [
+        "IT25"
+      ],
+      [
+        "IT25",
+        "IT24"
+      ],
+      [
+        "IT25",
+        "IT24"
+      ],
+      [
+        "IT25",
+        "IT24"
+      ]
+    ],
+    "recommendations": [
+      "Retain",
+      "Retain",
+      "Retain",
+      "Retain",
+      "Retain",
+      "Revise",
+      "Retain",
+      "Retain",
+      "Retain"
+    ],
+    "justifications": [
+      "Directly addresses undermining friendships and demanding isolation.",
+      "Measures manipulation and isolation tactics targeting social connections.",
+      "Speaking negatively of friends and demanding they be avoided is a clear isolation tactic.",
+      "Strong fit with slight ambiguity; overlaps but adds detail.",
+      "Strong fit, clear but redundant with similar items.",
+      "Mixed fit with overlap; revise for specificity to reduce redundancy.",
+      "Specific social control behavior, essential despite overlap.",
+      "Strong social control tactic; wording is unambiguous.",
+      "Important item about social control though overlapping."
+    ],
+    "evidence_for": [
+      "Undermines social support network and demands isolation.",
+      "Undermines social support and demands isolation from friends.",
+      "Undermines social support and demands isolation.",
+      "Promotes isolation by criticizing associates.",
+      "Encourages alienation from friends.",
+      "Discourages friendships, promoting isolation and loyalty.",
+      "Speaks badly of friends, requests to avoid them",
+      "Speaks badly of friends to isolate the individual.",
+      "Speaks badly of friends to limit social contact."
+    ],
+    "evidence_against": [
+      "None.",
+      "None.",
+      "None",
+      "Could be seen as opinion sharing.",
+      "Links to social isolation externally.",
+      "Might be advice, not necessarily controlling.",
+      "Overlap with isolation/control items",
+      "Could also fit social isolation dimension.",
+      "Could reflect emotional abuse via verbal aggression."
+    ]
+  },
+  "IT22": {
+    "dimension": "Controlling and Possessive Behaviors",
+    "fit_scores": [
+      4,
+      5,
+      5,
+      5,
+      4,
+      5,
+      5,
+      5,
+      5
+    ],
+    "clarity_scores": [
+      3,
+      5,
+      5,
+      4,
+      4,
+      4,
+      5,
+      5,
+      5
+    ],
+    "redundancy_flags": [
+      false,
+      false,
+      false,
+      true,
+      true,
+      true,
+      true,
+      false,
+      true
+    ],
+    "overlaps_with_all": [
+      [],
+      [],
+      [],
+      [
+        "IT14",
+        "IT20",
+        "IT21",
+        "IT24"
+      ],
+      [
+        "IT14",
+        "IT24"
+      ],
+      [
+        "IT14",
+        "IT24"
+      ],
+      [
+        "IT14",
+        "IT24"
+      ],
+      [
+        "IT14",
+        "IT24"
+      ],
+      [
+        "IT14"
+      ]
+    ],
+    "recommendations": [
+      "Revise",
+      "Retain",
+      "Retain",
+      "Retain",
+      "Retain",
+      "Revise",
+      "Retain",
+      "Retain",
+      "Retain"
+    ],
+    "justifications": [
+      "Clarify 'always' and 'continuously' to emphasize oppressive nature.",
+      "Captures the pervasive feeling of being monitored and distrusted.",
+      "This item captures the essence of constant monitoring and lack of trust, central to control.",
+      "Indispensable; minor tweaks for clarity despite overlaps.",
+      "Strong fit with overlaps, slightly ambiguous wording.",
+      "Strong fit but overlaps; clarify wording to minimize redundancy.",
+      "Core monitoring/control behavior, clearly stated.",
+      "Core controlling behavior; very clear and specific.",
+      "Strong control item despite overlap with communication."
+    ],
+    "evidence_for": [
+      "Constant monitoring and demand for whereabouts show lack of trust and control.",
+      "Constant monitoring and distrust are core to controlling behavior.",
+      "Constant monitoring and distrust, indicative of control.",
+      "Highlights constant monitoring and distrust.",
+      "Describes constant monitoring and mistrust.",
+      "Describes constant monitoring and lack of trust.",
+      "Constant monitoring and distrust expressed",
+      "Constant monitoring and questioning of whereabouts.",
+      "Constant monitoring and distrust described clearly."
+    ],
+    "evidence_against": [
+      "Could be interpreted as seeking reassurance.",
+      "None.",
+      "None",
+      "Subjective feeling, not direct behavior.",
+      "Subjective feeling, less behavioral.",
+      "Subjective feeling, not always behavioral evidence.",
+      "Some overlap with IT14 and IT24",
+      "Could overlap with anxiety/fear dimension.",
+      "May overlap with emotional abuse or fear dimensions."
+    ]
+  },
+  "IT19": {
+    "dimension": "Controlling and Possessive Behaviors",
+    "fit_scores": [
+      3,
+      3,
+      3,
+      4,
+      5,
+      4,
+      4,
+      4,
+      4
+    ],
+    "clarity_scores": [
+      3,
+      4,
+      4,
+      5,
+      5,
+      5,
+      5,
+      5,
+      5
+    ],
+    "redundancy_flags": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "overlaps_with_all": [
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ],
+    "recommendations": [
+      "Revise",
+      "Retain",
+      "Revise",
+      "Retain",
+      "Retain",
+      "Retain",
+      "Retain",
+      "Retain",
+      "Retain"
+    ],
+    "justifications": [
+      "Rephrase to highlight the coercive aspect of demanding 'proof'.",
+      "Reflects a demand for validation, which can be controlling.",
+      "While potentially controlling, it's less direct than other items. Could be rephrased for clarity.",
+      "Fits as strong aspect; clear and unique.",
+      "Core and unambiguous, no redundancy.",
+      "Key aspect of possessiveness; clear and non-redundant.",
+      "Strong control indicator, distinct from other items.",
+      "Important control indicator; clearly worded.",
+      "Represents control through loyalty demands."
+    ],
+    "evidence_for": [
+      "Demanding proof of love/fidelity is a control tactic.",
+      "Demanding proof of love/fidelity can be a control tactic.",
+      "Demanding proof of loyalty can be a control tactic.",
+      "Demands loyalty, restricting autonomy.",
+      "Demands loyalty and proofs, restricting autonomy.",
+      "Demands loyalty, restricting personal freedom.",
+      "Demands proof of love and loyalty",
+      "Demands proof of love and fidelity.",
+      "Demands proof of love and fidelity."
+    ],
+    "evidence_against": [
+      "Could be seen as seeking reassurance in a relationship.",
+      "Could be a relationship insecurity if not framed as a demand.",
+      "Could be seen as seeking reassurance, not necessarily control.",
+      "Could be normal in relationships.",
+      "Could blend into emotional abuse.",
+      "Could be seen as normal relationship expectation.",
+      "Could be emotional manipulation, borderline with other dimensions",
+      "May overlap with emotional abuse and control.",
+      "Could overlap with emotional abuse via manipulation."
+    ]
+  },
+  "IT28": {
+    "dimension": "Emotional and Psychological Abuse",
+    "fit_scores": [
+      5,
+      5,
+      5,
+      5,
+      5,
+      5,
+      5,
+      5,
+      5
+    ],
+    "clarity_scores": [
+      5,
+      5,
+      5,
+      4,
+      5,
+      4,
+      5,
+      5,
+      5
+    ],
+    "redundancy_flags": [
+      false,
+      false,
+      false,
+      true,
+      true,
+      false,
+      false,
+      false,
+      true
+    ],
+    "overlaps_with_all": [
+      [],
+      [],
+      [],
+      [
+        "IT30",
+        "IT40"
+      ],
+      [
+        "IT30"
+      ],
+      [],
+      [
+        "IT29",
+        "IT30",
+        "IT40"
+      ],
+      [
+        "IT29",
+        "IT30",
+        "IT40"
+      ],
+      [
+        "IT40",
+        "IT29"
+      ]
+    ],
+    "recommendations": [
+      "Retain",
+      "Retain",
+      "Retain",
+      "Retain",
+      "Retain",
+      "Retain",
+      "Retain",
+      "Retain",
+      "Retain"
+    ],
+    "justifications": [
+      "Core item, clearly captures verbal aggression and devaluation.",
+      "Core item for verbal and emotional abuse, clearly stated.",
+      "This item clearly and directly measures verbal aggression and devaluation.",
+      "Core to dimension; minor ambiguity despite overlaps.",
+      "Indispensable, clear, minor overlap with critiques.",
+      "Core to abuse; minor ambiguity but essential for dimension.",
+      "Core verbal abuse item, very clear and essential.",
+      "Core emotional abuse item; clear and direct.",
+      "Core verbal abuse item despite some overlap."
+    ],
+    "evidence_for": [
+      "Directly describes verbal aggression and devaluation.",
+      "Directly describes put-downs, insults, and criticism.",
+      "Directly describes put-downs, insults, and criticism.",
+      "Direct verbal aggression and humiliation.",
+      "Direct verbal aggression and devaluation.",
+      "Direct verbal aggression undermining self-esteem.",
+      "Includes insults, criticism, and emotional harm",
+      "Includes insults, put-downs, and criticism.",
+      "Includes insults, verbal criticism, and putting down."
+    ],
+    "evidence_against": [
+      "None.",
+      "None.",
+      "None",
+      "Vague on specific contexts.",
+      "General, lacks specific manipulation.",
+      "Vague on specifics of insults.",
+      "Broad but clearly fits dimension",
+      "None significant.",
+      "General; may overlap with other verbal aggression items."
+    ]
+  },
+  "IT12": {
+    "dimension": "Emotional and Psychological Abuse",
+    "fit_scores": [
+      4,
+      4,
+      5,
+      4,
+      4,
+      4,
+      4,
+      4,
+      4
+    ],
+    "clarity_scores": [
+      3,
+      5,
+      5,
+      4,
+      3,
+      5,
+      5,
+      4,
+      5
+    ],
+    "redundancy_flags": [
+      false,
+      false,
+      false,
+      true,
+      false,
+      true,
+      false,
+      false,
+      false
+    ],
+    "overlaps_with_all": [
+      [],
+      [],
+      [],
+      [
+        "IT28",
+        "IT29"
+      ],
+      [],
+      [
+        "IT28"
+      ],
+      [],
+      [],
+      []
+    ],
+    "recommendations": [
+      "Revise",
+      "Retain",
+      "Retain",
+      "Retain",
+      "Revise",
+      "Revise",
+      "Retain",
+      "Retain",
+      "Retain"
+    ],
+    "justifications": [
+      "Clarify 'judged' to imply negative, devaluing judgment.",
+      "Captures judgmental behavior that undermines self-worth.",
+      "Feeling judged about life choices is a clear indicator of psychological devaluation.",
+      "Strong fit; slight ambiguity and overlaps present.",
+      "Mixed fit, noticeable ambiguity needs clarification.",
+      "Strong fit but overlaps; revise for uniqueness.",
+      "Strong emotional abuse aspect, clear wording.",
+      "Strong emotional abuse indicator; minor ambiguity.",
+      "Captures subtle emotional judgment."
+    ],
+    "evidence_for": [
+      "Feeling judged in life choices is a form of devaluation.",
+      "Feeling judged about life choices is a form of devaluation.",
+      "Feeling judged undermines self-esteem and is a form of psychological abuse.",
+      "Involves judgment undermining self-esteem.",
+      "Involves judgment and devaluation.",
+      "Judgment and criticism distort self-worth.",
+      "Judgment about actions and life organization",
+      "Judgment about life choices and organization.",
+      "Judgment on personal life and organization."
+    ],
+    "evidence_against": [
+      "Could be constructive criticism.",
+      "None.",
+      "None",
+      "May be general criticism.",
+      "Vague on specific behaviors.",
+      "May reflect general advice, not abuse.",
+      "Could be perceived as criticism, not abuse",
+      "Could be perceived as concern rather than abuse.",
+      "Less intense than insults; borderline between control and abuse."
+    ]
+  },
+  "IT15": {
+    "dimension": "Emotional and Psychological Abuse",
+    "fit_scores": [
+      4,
+      4,
+      5,
+      4,
+      4,
+      4,
+      4,
+      4,
+      4
+    ],
+    "clarity_scores": [
+      4,
+      4,
+      5,
+      5,
+      4,
+      4,
+      5,
+      5,
+      5
+    ],
+    "redundancy_flags": [
+      false,
+      false,
+      false,
+      false,
+      true,
+      true,
+      false,
+      false,
+      false
+    ],
+    "overlaps_with_all": [
+      [],
+      [],
+      [],
+      [],
+      [
+        "IT28"
+      ],
+      [
+        "IT28"
+      ],
+      [
+        "IT12"
+      ],
+      [
+        "IT12"
+      ],
+      [
+        "IT12"
+      ]
+    ],
+    "recommendations": [
+      "Retain",
+      "Retain",
+      "Retain",
+      "Retain",
+      "Retain",
+      "Revise",
+      "Retain",
+      "Retain",
+      "Retain"
+    ],
+    "justifications": [
+      "Addresses criticism of personal care and appearance, a form of devaluation.",
+      "Addresses criticism of personal care, a form of devaluation.",
+      "Criticizing self-care and appearance directly attacks self-esteem, fitting the dimension.",
+      "Fits as mixed aspect; unambiguous and unique.",
+      "Strong fit with overlap, minor tweaks needed.",
+      "Mixed fit with overlap; clarify to distinguish from other criticisms.",
+      "Specific form of devaluation, relevant and clear.",
+      "Clear emotional abuse example; relevant and specific.",
+      "Specific form of emotional abuse on appearance."
+    ],
+    "evidence_for": [
+      "Criticism of self-care and appearance is demeaning.",
+      "Criticism of self-care and appearance is demeaning.",
+      "Devalues self-care and appearance, undermining self-worth.",
+      "Devalues personal care and appearance.",
+      "Criticism of self-care undermines self-esteem.",
+      "Criticism of self-care devalues personal identity.",
+      "Negative comments about self-care and appearance",
+      "Negative remarks about self-care and physical appearance.",
+      "Negative comments about self-care and appearance."
+    ],
+    "evidence_against": [
+      "Could be about partner's preferences.",
+      "Could be constructive feedback if not delivered negatively.",
+      "None",
+      "Could relate to concern.",
+      "Focuses on appearance, not core abuse.",
+      "Could be concern, not abusive intent.",
+      "May overlap with general criticism",
+      "Could overlap with emotional neglect or criticism.",
+      "Could overlap with judgment but distinct focus on physical care."
+    ]
+  },
+  "IT40": {
+    "dimension": "Emotional and Psychological Abuse",
+    "fit_scores": [
+      5,
+      5,
+      5,
+      5,
+      5,
+      5,
+      5,
+      5,
+      5
+    ],
+    "clarity_scores": [
+      5,
+      5,
+      5,
+      5,
+      5,
+      5,
+      5,
+      5,
+      5
+    ],
+    "redundancy_flags": [
+      false,
+      false,
+      false,
+      true,
+      false,
+      false,
+      false,
+      false,
+      true
+    ],
+    "overlaps_with_all": [
+      [],
+      [],
+      [],
+      [
+        "IT28"
+      ],
+      [],
+      [],
+      [
+        "IT28"
+      ],
+      [
+        "IT28"
+      ],
+      [
+        "IT28"
+      ]
+    ],
+    "recommendations": [
+      "Retain",
+      "Retain",
+      "Retain",
+      "Retain",
+      "Retain",
+      "Retain",
+      "Retain",
+      "Retain",
+      "Retain"
+    ],
+    "justifications": [
+      "Captures public humiliation, a key aspect of psychological abuse.",
+      "Directly measures public humiliation and aggression, key abuse elements.",
+      "Public humiliation is a potent form of psychological abuse, clearly fitting the dimension.",
+      "Indispensable; clear despite overlaps.",
+      "Core to dimension, unambiguous.",
+      "Indispensable for abuse dimension; clear and specific.",
+      "Important public humiliation aspect, distinct and clear.",
+      "Strong public humiliation example; clear and important.",
+      "Important public humiliation item despite overlap."
+    ],
+    "evidence_for": [
+      "Public humiliation is a severe form of psychological abuse.",
+      "Public humiliation and yelling are clear psychological abuse tactics.",
+      "Humiliation in front of others is a severe form of psychological abuse.",
+      "Public humiliation tactic.",
+      "Public humiliation tactic.",
+      "Public humiliation as a control tactic.",
+      "Yelling and humiliation in front of others",
+      "Yelling and humiliating in front of others.",
+      "Public humiliation and yelling described."
+    ],
+    "evidence_against": [
+      "None.",
+      "None.",
+      "None",
+      "Overlaps with physical intimidation.",
+      "Could involve physical elements.",
+      "Context-dependent, might not always undermine.",
+      "Potential overlap with IT28",
+      "Could overlap with physical intimidation dimension.",
+      "Overlaps with IT28 but adds public context."
+    ]
+  },
+  "IT30": {
+    "dimension": "Emotional and Psychological Abuse",
+    "fit_scores": [
+      5,
+      5,
+      5,
+      5,
+      5,
+      5,
+      5,
+      5,
+      5
+    ],
+    "clarity_scores": [
+      5,
+      5,
+      5,
+      5,
+      5,
+      5,
+      5,
+      5,
+      5
+    ],
+    "redundancy_flags": [
+      false,
+      false,
+      false,
+      true,
+      true,
+      true,
+      false,
+      false,
+      false
+    ],
+    "overlaps_with_all": [
+      [],
+      [],
+      [],
+      [
+        "IT28",
+        "IT29"
+      ],
+      [
+        "IT28"
+      ],
+      [
+        "IT28"
+      ],
+      [
+        "IT28"
+      ],
+      [
+        "IT28",
+        "IT29"
+      ],
+      [
+        "IT28"
+      ]
+    ],
+    "recommendations": [
+      "Retain",
+      "Retain",
+      "Retain",
+      "Retain",
+      "Retain",
+      "Retain",
+      "Retain",
+      "Retain",
+      "Retain"
+    ],
+    "justifications": [
+      "Directly addresses extreme devaluation and isolation threats.",
+      "Captures severe devaluation and isolation threats, core psychological abuse.",
+      "Telling someone they are worthless and will be alone is direct psychological devaluation.",
+      "Core behavior; unambiguous with overlaps.",
+      "Indispensable, clear, with internal redundancy.",
+      "Core element; clear despite overlap, adds depth.",
+      "Powerful verbal abuse item, key to dimension.",
+      "Core verbal abuse item; highly relevant.",
+      "Core item on devaluation and emotional manipulation."
+    ],
+    "evidence_for": [
+      "Telling someone they are worthless is extreme devaluation.",
+      "Devaluation and threats of abandonment undermine self-esteem.",
+      "Devalues worth and threatens abandonment, a form of manipulation.",
+      "Devaluation to create insecurity.",
+      "Devaluation and blame for isolation.",
+      "Devaluation and blame to create insecurity.",
+      "Verbal devaluation and isolation threats",
+      "Verbal devaluation and threats of abandonment.",
+      "Verbal devaluation and threats of abandonment."
+    ],
+    "evidence_against": [
+      "None.",
+      "None.",
+      "None",
+      "Subjective interpretation.",
+      "Overlaps with general criticism.",
+      "May be exaggeration in arguments.",
+      "Some overlap with IT28",
+      "Overlap with emotional abuse general items possible.",
+      "Overlap with general insults but specific threat content."
+    ]
+  },
+  "IT29": {
+    "dimension": "Emotional and Psychological Abuse",
+    "fit_scores": [
+      5,
+      5,
+      5,
+      5,
+      4,
+      5,
+      5,
+      5,
+      5
+    ],
+    "clarity_scores": [
+      5,
+      5,
+      5,
+      4,
+      4,
+      4,
+      5,
+      5,
+      5
+    ],
+    "redundancy_flags": [
+      false,
+      false,
+      false,
+      true,
+      true,
+      false,
+      false,
+      false,
+      true
+    ],
+    "overlaps_with_all": [
+      [],
+      [],
+      [],
+      [
+        "IT12",
+        "IT30"
+      ],
+      [
+        "IT38"
+      ],
+      [],
+      [
+        "IT26"
+      ],
+      [
+        "IT28",
+        "IT30"
+      ],
+      [
+        "IT28"
+      ]
+    ],
+    "recommendations": [
+      "Retain",
+      "Retain",
+      "Retain",
+      "Retain",
+      "Retain",
+      "Retain",
+      "Retain",
+      "Retain",
+      "Retain"
+    ],
+    "justifications": [
+      "Clearly describes blame-shifting and making the victim feel responsible.",
+      "Measures blame-shifting and making the victim feel faulty.",
+      "Making someone feel wrong and responsible for partner's distress is classic blame-shifting.",
+      "Strong fit; minor tweaks needed despite overlaps.",
+      "Strong fit, clear but overlaps slightly.",
+      "Strong fit; minor clarity issue but essential.",
+      "Core emotional abuse through blame, clear and critical.",
+      "Key emotional abuse tactic; clear and important.",
+      "Key item on blame and emotional manipulation."
+    ],
+    "evidence_for": [
+      "Blame-shifting and making someone feel wrong is emotional manipulation.",
+      "Blame-shifting and making someone feel wrong is gaslighting/manipulation.",
+      "Blame and making someone feel wrong is emotional manipulation.",
+      "Blame manipulation tactic.",
+      "Blame and gaslighting elements.",
+      "Blame shifting to manipulate and distort reality.",
+      "Blames victim for abuser’s emotional state",
+      "Blames victim for abuser's negative feelings.",
+      "Blaming victim for abuser's distress."
+    ],
+    "evidence_against": [
+      "None.",
+      "None.",
+      "None",
+      "May be mutual fault.",
+      "Subjective fault attribution.",
+      "Could be mutual relationship dynamic.",
+      "Could overlap with emotional manipulation items",
+      "None significant.",
+      "Could be seen as manipulation or emotional abuse overlap."
+    ]
+  },
+  "IT38": {
+    "dimension": "Emotional and Psychological Abuse",
+    "fit_scores": [
+      5,
+      5,
+      5,
+      5,
+      5,
+      5,
+      5,
+      5,
+      5
+    ],
+    "clarity_scores": [
+      5,
+      5,
+      5,
+      5,
+      5,
+      5,
+      4,
+      5,
+      4
+    ],
+    "redundancy_flags": [
+      false,
+      false,
+      false,
+      false,
+      true,
+      false,
+      false,
+      false,
+      false
+    ],
+    "overlaps_with_all": [
+      [],
+      [],
+      [],
+      [],
+      [
+        "IT29"
+      ],
+      [],
+      [],
+      [],
+      []
+    ],
+    "recommendations": [
+      "Retain",
+      "Retain",
+      "Retain",
+      "Retain",
+      "Retain",
+      "Retain",
+      "Retain",
+      "Retain",
+      "Revise"
+    ],
+    "justifications": [
+      "Excellent item, captures gaslighting and reality distortion.",
+      "Directly addresses gaslighting, a severe form of psychological abuse.",
+      "Denying abuse and causing self-doubt is a clear example of gaslighting.",
+      "Indispensable and clear; unique element.",
+      "Core item, unambiguous, minor overlap.",
+      "Core manipulation tactic; unambiguous and unique.",
+      "Essential gaslighting item, slight clarity reduction due to complexity.",
+      "Essential gaslighting item; very clear.",
+      "Important gaslighting item but clarity could improve."
+    ],
+    "evidence_for": [
+      "Denial of abuse (gaslighting) distorts reality and creates insecurity.",
+      "Denial of abuse and gaslighting distort reality and create insecurity.",
+      "Gaslighting: denying reality and making partner doubt themselves.",
+      "Gaslighting to distort reality.",
+      "Direct gaslighting behavior.",
+      "Gaslighting by denying events.",
+      "Denies abuse, causes victim to doubt reality",
+      "Denies abuse occurred, causing doubt and confusion.",
+      "Denial of abuse, causing doubt and gaslighting."
+    ],
+    "evidence_against": [
+      "None.",
+      "None.",
+      "None",
+      "Requires specific context.",
+      "Specific to denial post-event.",
+      "Might involve memory issues, not intent.",
+      "Complex but central gaslighting behavior",
+      "May overlap with gaslighting but distinct enough.",
+      "Complex concept; possible clarity issues."
+    ]
+  },
+  "IT13": {
+    "dimension": "Emotional and Psychological Abuse",
+    "fit_scores": [
+      4,
+      4,
+      5,
+      4,
+      4,
+      4,
+      4,
+      4,
+      4
+    ],
+    "clarity_scores": [
+      3,
+      4,
+      5,
+      4,
+      4,
+      5,
+      5,
+      5,
+      5
+    ],
+    "redundancy_flags": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "overlaps_with_all": [
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [
+        "IT26"
+      ],
+      [
+        "IT26"
+      ]
+    ],
+    "recommendations": [
+      "Revise",
+      "Retain",
+      "Retain",
+      "Retain",
+      "Retain",
+      "Retain",
+      "Retain",
+      "Retain",
+      "Retain"
+    ],
+    "justifications": [
+      "Clarify 'punitive' or 'silent treatment' to ensure it's seen as abuse.",
+      "Captures punitive emotional withdrawal, a manipulative tactic.",
+      "The silent treatment as punishment is a form of emotional manipulation and abuse.",
+      "Fits strongly; slight ambiguity but non-redundant.",
+      "Strong fit, clear enough.",
+      "Side aspect of abuse; clear and non-redundant.",
+      "Relevant punitive withdrawal behavior, clearly stated.",
+      "Common emotional abuse tactic; wording is clear.",
+      "Distinct punitive withdrawal behavior."
+    ],
+    "evidence_for": [
+      "Punitive withdrawal of communication is a form of emotional punishment.",
+      "Punitive withdrawal (silent treatment) is a form of emotional punishment.",
+      "Punitive withdrawal of communication is emotional manipulation.",
+      "Punitive withdrawal as manipulation.",
+      "Punitive withdrawal as manipulation.",
+      "Punitive withdrawal as emotional manipulation.",
+      "Silent treatment as punishment after conflicts",
+      "Silent treatment as punishment for displeasing behavior.",
+      "Silent treatment after conflict."
+    ],
+    "evidence_against": [
+      "Could be a need for space.",
+      "Could be a need for space if not punitive.",
+      "None",
+      "Could be personal space.",
+      "Indirect, focuses on silence.",
+      "Normal response in conflicts.",
+      "May overlap with emotional withdrawal",
+      "Could be perceived as withdrawal rather than abuse.",
+      "Could overlap with emotional manipulation or mood swings."
+    ]
+  },
+  "IT26": {
+    "dimension": "Emotional and Psychological Abuse",
+    "fit_scores": [
+      3,
+      4,
+      5,
+      4,
+      4,
+      4,
+      4,
+      4,
+      4
+    ],
+    "clarity_scores": [
+      3,
+      4,
+      5,
+      5,
+      4,
+      4,
+      5,
+      4,
+      5
+    ],
+    "redundancy_flags": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "overlaps_with_all": [
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [
+        "IT29"
+      ],
+      [
+        "IT13"
+      ],
+      [
+        "IT13"
+      ]
+    ],
+    "recommendations": [
+      "Revise",
+      "Retain",
+      "Retain",
+      "Retain",
+      "Revise",
+      "Revise",
+      "Retain",
+      "Retain",
+      "Retain"
+    ],
+    "justifications": [
+      "Rephrase to emphasize the abusive pattern, not just mood swings.",
+      "Describes emotional volatility used to confuse and control.",
+      "This describes a cycle of abuse (push-pull), a form of emotional manipulation.",
+      "Strong side aspect; clear and unique.",
+      "Mixed fit, minor ambiguity on intent.",
+      "Tangential fit; clarify to focus on abusive intent.",
+      "Relevant emotional abuse feature, adds nuance.",
+      "Relevant emotional abuse behavior; minor clarity issues.",
+      "Captures emotional volatility relevant to abuse."
+    ],
+    "evidence_for": [
+      "Rapid mood swings create instability and fear.",
+      "Rapid mood swings and aggression followed by affection is manipulation.",
+      "Rapid mood swings and aggression followed by affection is manipulation.",
+      "Emotional manipulation through mood swings.",
+      "Emotional manipulation through mood swings.",
+      "Mood swings for manipulation and control.",
+      "Mood swings with aggression and apologies",
+      "Mood swings from anger to apology confuse victim.",
+      "Mood swings from anger to apology."
+    ],
+    "evidence_against": [
+      "Could be a personality trait or mental health issue.",
+      "Could be genuine emotional dysregulation.",
+      "None",
+      "May indicate mental health issues.",
+      "May relate to mental health issues.",
+      "Could indicate mental health issues.",
+      "Could relate to emotional instability, not abuse",
+      "Could indicate emotional instability more than abuse.",
+      "Could overlap with emotional instability rather than abuse."
+    ]
+  },
+  "IT37": {
+    "dimension": "Physical Aggression, Threats, and Intimidation",
+    "fit_scores": [
+      5,
+      5,
+      5,
+      5,
+      5,
+      5,
+      5,
+      5,
+      5
+    ],
+    "clarity_scores": [
+      5,
+      5,
+      5,
+      5,
+      5,
+      5,
+      5,
+      5,
+      5
+    ],
+    "redundancy_flags": [
+      false,
+      false,
+      false,
+      true,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "overlaps_with_all": [
+      [],
+      [],
+      [],
+      [
+        "IT39"
+      ],
+      [],
+      [],
+      [],
+      [],
+      []
+    ],
+    "recommendations": [
+      "Retain",
+      "Retain",
+      "Retain",
+      "Retain",
+      "Retain",
+      "Retain",
+      "Retain",
+      "Retain",
+      "Retain"
+    ],
+    "justifications": [
+      "Core item, clearly and comprehensively describes physical violence.",
+      "Comprehensive description of physical violence, a core element.",
+      "This item comprehensively covers direct physical violence, fitting the dimension perfectly.",
+      "Core to dimension; unambiguous despite overlaps.",
+      "Indispensable, unambiguous core behavior.",
+      "Core to dimension; clear and indispensable.",
+      "Core physical aggression item, indispensable.",
+      "Core physical aggression item; very comprehensive.",
+      "Essential physical abuse item."
+    ],
+    "evidence_for": [
+      "Describes direct physical violence.",
+      "Directly lists various physical assault actions.",
+      "Directly lists various physical assault behaviors.",
+      "Direct physical violence described.",
+      "Direct physical violence described.",
+      "Direct physical violence as intimidation.",
+      "Describes direct physical violence in detail",
+      "Describes multiple forms of physical violence.",
+      "Describes direct physical violence and harm."
+    ],
+    "evidence_against": [
+      "None.",
+      "None.",
+      "None",
+      "Too graphic, potentially overwhelming.",
+      "Graphic, potentially too broad.",
+      "Specific acts might vary in severity.",
+      "None, very clear fit",
+      "None significant.",
+      "None; core physical aggression item."
+    ]
+  },
+  "IT39": {
+    "dimension": "Physical Aggression, Threats, and Intimidation",
+    "fit_scores": [
+      4,
+      5,
+      5,
+      5,
+      4,
+      5,
+      5,
+      4,
+      4
+    ],
+    "clarity_scores": [
+      4,
+      5,
+      5,
+      5,
+      5,
+      5,
+      5,
+      5,
+      5
+    ],
+    "redundancy_flags": [
+      false,
+      false,
+      false,
+      true,
+      false,
+      false,
+      true,
+      false,
+      false
+    ],
+    "overlaps_with_all": [
+      [],
+      [],
+      [],
+      [
+        "IT37"
+      ],
+      [],
+      [],
+      [
+        "IT36"
+      ],
+      [
+        "IT36"
+      ],
+      [
+        "IT36"
+      ]
+    ],
+    "recommendations": [
+      "Retain",
+      "Retain",
+      "Retain",
+      "Retain",
+      "Retain",
+      "Retain",
+      "Retain",
+      "Retain",
+      "Retain"
+    ],
+    "justifications": [
+      "Captures intimidation through destruction of property.",
+      "Measures intimidation through property destruction.",
+      "Destroying property to intimidate is a clear tactic within this dimension.",
+      "Indispensable; clear with overlaps.",
+      "Strong fit, clear and non-redundant.",
+      "Key intimidation tactic; clear and unique.",
+      "Important intimidation tactic, overlaps but distinct.",
+      "Clear intimidation tactic; complements related items.",
+      "Key intimidation tactic, distinct from verbal threats."
+    ],
+    "evidence_for": [
+      "Breaking objects is an intimidation tactic.",
+      "Breaking objects is a clear intimidation tactic.",
+      "Breaking objects to intimidate is a form of threat and intimidation.",
+      "Intimidation through property destruction.",
+      "Intimidation via property destruction.",
+      "Destruction of property to instill fear.",
+      "Describes destruction of objects to intimidate",
+      "Breaks and throws objects to intimidate.",
+      "Destruction of objects to intimidate."
+    ],
+    "evidence_against": [
+      "Could be an expression of frustration.",
+      "None.",
+      "None",
+      "Not direct physical harm.",
+      "No direct physical harm.",
+      "Not always physical harm.",
+      "May overlap with threats to property",
+      "Could overlap with threats to property item.",
+      "Might overlap with threats to property (IT36)."
+    ]
+  },
+  "IT34": {
+    "dimension": "Physical Aggression, Threats, and Intimidation",
+    "fit_scores": [
+      5,
+      5,
+      5,
+      5,
+      5,
+      5,
+      5,
+      5,
+      5
+    ],
+    "clarity_scores": [
+      5,
+      5,
+      5,
+      5,
+      5,
+      4,
+      5,
+      5,
+      5
+    ],
+    "redundancy_flags": [
+      false,
+      false,
+      false,
+      false,
+      true,
+      true,
+      false,
+      false,
+      false
+    ],
+    "overlaps_with_all": [
+      [],
+      [],
+      [],
+      [],
+      [
+        "IT35"
+      ],
+      [
+        "IT36"
+      ],
+      [],
+      [],
+      [
+        "IT35",
+        "IT36"
+      ]
+    ],
+    "recommendations": [
+      "Retain",
+      "Retain",
+      "Retain",
+      "Retain",
+      "Retain",
+      "Revise",
+      "Retain",
+      "Retain",
+      "Retain"
+    ],
+    "justifications": [
+      "Directly addresses threats of harm, a key intimidation tactic.",
+      "Directly captures threats of harm, a key intimidation tactic.",
+      "Threatening harm to loved ones is a direct intimidation tactic.",
+      "Core intimidation; unambiguous and unique.",
+      "Core item, clear with minor overlap.",
+      "Strong fit but overlaps; minor clarity tweak needed.",
+      "Core threat item, essential and clear.",
+      "Essential threat item; clear and direct.",
+      "Core threat item."
+    ],
+    "evidence_for": [
+      "Threats of harm to self or others instill fear.",
+      "Threats of harm to self or others instills fear.",
+      "Threats of harm to self or others are intimidation tactics.",
+      "Threats to harm others for control.",
+      "Threats to harm others for control.",
+      "Threats of harm for control.",
+      "Threatens harm to victim or others",
+      "Threatens harm to victim or social circle.",
+      "Threats of harm to victim or others."
+    ],
+    "evidence_against": [
+      "None.",
+      "None.",
+      "None",
+      "Overlaps with emotional abuse.",
+      "Indirect physical aggression.",
+      "May be empty threats.",
+      "None, very direct fit",
+      "None significant.",
+      "Broad but central to dimension."
+    ]
+  },
+  "IT36": {
+    "dimension": "Physical Aggression, Threats, and Intimidation",
+    "fit_scores": [
+      4,
+      5,
+      5,
+      4,
+      4,
+      4,
+      4,
+      4,
+      4
+    ],
+    "clarity_scores": [
+      4,
+      5,
+      5,
+      5,
+      5,
+      5,
+      5,
+      5,
+      5
+    ],
+    "redundancy_flags": [
+      false,
+      false,
+      false,
+      true,
+      true,
+      true,
+      true,
+      false,
+      false
+    ],
+    "overlaps_with_all": [
+      [],
+      [],
+      [],
+      [
+        "IT39"
+      ],
+      [
+        "IT39"
+      ],
+      [
+        "IT34"
+      ],
+      [
+        "IT39"
+      ],
+      [
+        "IT39"
+      ],
+      [
+        "IT39"
+      ]
+    ],
+    "recommendations": [
+      "Retain",
+      "Retain",
+      "Retain",
+      "Retain",
+      "Retain",
+      "Drop",
+      "Retain",
+      "Retain",
+      "Retain"
+    ],
+    "justifications": [
+      "Specific threat to personal belongings, a form of intimidation.",
+      "Measures threats against personal belongings, a form of intimidation.",
+      "Threatening property damage is a clear intimidation tactic.",
+      "Strong fit; clear despite overlaps.",
+      "Strong fit, clear but redundant.",
+      "Tangential and redundant; similar to other threats, less essential.",
+      "Specific threat to property, complements IT39.",
+      "Specific threat type; complements other intimidation items.",
+      "Important property threat item despite overlap."
+    ],
+    "evidence_for": [
+      "Threats to property are a form of intimidation.",
+      "Threatening destruction of property is intimidation.",
+      "Threatening destruction of property is intimidation.",
+      "Threats of property destruction.",
+      "Threats of property destruction.",
+      "Threats to destroy possessions.",
+      "Threatens to destroy personal belongings",
+      "Threatens to destroy personal belongings.",
+      "Threats to destroy personal belongings."
+    ],
+    "evidence_against": [
+      "None.",
+      "None.",
+      "None",
+      "Less severe than physical harm.",
+      "Similar to IT39's intimidation.",
+      "Not direct physical threat.",
+      "Overlap with IT39",
+      "Overlap with IT39 but more specific to property.",
+      "Overlap with object destruction (IT39)."
+    ]
+  },
+  "IT35": {
+    "dimension": "Physical Aggression, Threats, and Intimidation",
+    "fit_scores": [
+      3,
+      4,
+      4,
+      4,
+      4,
+      4,
+      4,
+      4,
+      4
+    ],
+    "clarity_scores": [
+      3,
+      4,
+      5,
+      5,
+      5,
+      5,
+      5,
+      5,
+      5
+    ],
+    "redundancy_flags": [
+      false,
+      false,
+      false,
+      false,
+      true,
+      false,
+      false,
+      false,
+      false
+    ],
+    "overlaps_with_all": [
+      [],
+      [],
+      [],
+      [],
+      [
+        "IT34"
+      ],
+      [],
+      [],
+      [],
+      [
+        "IT34"
+      ]
+    ],
+    "recommendations": [
+      "Revise",
+      "Retain",
+      "Retain",
+      "Retain",
+      "Retain",
+      "Retain",
+      "Retain",
+      "Retain",
+      "Retain"
+    ],
+    "justifications": [
+      "Rephrase to emphasize the manipulative/coercive use of self-harm threats.",
+      "Captures threats of self-harm, often used for control and intimidation.",
+      "Threatening self-harm is a manipulative tactic that creates fear and fits the dimension.",
+      "Fits as tangential; unambiguous and non-redundant.",
+      "Strong fit with overlap, unambiguous.",
+      "Intimidation aspect; clear and non-redundant.",
+      "Important intimidation tactic, distinct focus.",
+      "Important threat type; clearly stated.",
+      "Captures coercive threats to self-harm."
+    ],
+    "evidence_for": [
+      "Threats of self-harm are manipulative and intimidating.",
+      "Threatening self-harm is a manipulative and intimidating tactic.",
+      "Threatening self-harm to manipulate is a form of intimidation/abuse.",
+      "Self-harm threats for manipulation.",
+      "Self-harm threats for manipulation.",
+      "Self-harm threats for manipulation.",
+      "Threatens self-harm to manipulate victim",
+      "Threatens self-harm to manipulate victim.",
+      "Threats of self-harm linked to victim."
+    ],
+    "evidence_against": [
+      "Could be genuine suicidal ideation.",
+      "Could be genuine distress if not used manipulatively.",
+      "None",
+      "May relate to mental health.",
+      "Not direct aggression to others.",
+      "Focuses on self, not others.",
+      "Could be emotional abuse, borderline dimension",
+      "Could overlap with emotional abuse manipulation.",
+      "Less direct than other threats; borderline physical aggression."
+    ]
+  },
+  "IT41": {
+    "dimension": "Sexual Coercion and Violation of Privacy",
+    "fit_scores": [
+      5,
+      5,
+      5,
+      5,
+      5,
+      5,
+      5,
+      5,
+      5
+    ],
+    "clarity_scores": [
+      5,
+      5,
+      5,
+      4,
+      5,
+      5,
+      5,
+      5,
+      5
+    ],
+    "redundancy_flags": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "overlaps_with_all": [
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ],
+    "recommendations": [
+      "Retain",
+      "Retain",
+      "Retain",
+      "Retain",
+      "Retain",
+      "Retain",
+      "Retain",
+      "Retain",
+      "Retain"
+    ],
+    "justifications": [
+      "Core item, clearly defines sexual coercion and disregard for consent.",
+      "Clearly describes sexual coercion and disregard for consent.",
+      "Pressuring for sex despite refusal is a direct form of sexual coercion.",
+      "Core to dimension; minor tweaks for clarity.",
+      "Core to dimension, unambiguous.",
+      "Core coercion element; unambiguous and essential.",
+      "Core sexual coercion item, essential.",
+      "Core sexual coercion item; very clear.",
+      "Essential for sexual coercion dimension."
+    ],
+    "evidence_for": [
+      "Insistent sexual pressure and disregard for 'no' is coercion.",
+      "Insistent sexual pressure and disregarding 'no' is coercion.",
+      "Insistent sexual pressure and disregard for 'no' is coercion.",
+      "Pressure ignoring consent.",
+      "Persistent pressure ignoring consent.",
+      "Persistent pressure ignoring consent.",
+      "Insistent sexual pressure ignoring refusal",
+      "Insistent sexual pressure ignoring refusal.",
+      "Insistent sexual pressure ignoring refusal."
+    ],
+    "evidence_against": [
+      "None.",
+      "None.",
+      "None",
+      "Vague on coercion level.",
+      "Lacks privacy violation aspect.",
+      "Might be miscommunication.",
+      "None, very explicit fit",
+      "None significant.",
+      "None; core sexual coercion item."
+    ]
+  },
+  "IT31": {
+    "dimension": "Sexual Coercion and Violation of Privacy",
+    "fit_scores": [
+      5,
+      5,
+      5,
+      5,
+      5,
+      5,
+      5,
+      5,
+      5
+    ],
+    "clarity_scores": [
+      5,
+      5,
+      5,
+      5,
+      5,
+      5,
+      5,
+      5,
+      5
+    ],
+    "redundancy_flags": [
+      false,
+      false,
+      false,
+      true,
+      true,
+      false,
+      false,
+      false,
+      false
+    ],
+    "overlaps_with_all": [
+      [],
+      [],
+      [],
+      [
+        "IT32"
+      ],
+      [
+        "IT32"
+      ],
+      [],
+      [
+        "IT32"
+      ],
+      [
+        "IT32",
+        "IT33"
+      ],
+      [
+        "IT32"
+      ]
+    ],
+    "recommendations": [
+      "Retain",
+      "Retain",
+      "Retain",
+      "Retain",
+      "Retain",
+      "Retain",
+      "Retain",
+      "Retain",
+      "Retain"
+    ],
+    "justifications": [
+      "Directly addresses non-consensual sharing of intimate images.",
+      "Directly measures violation of privacy through intimate images.",
+      "Sharing intimate images without consent is a severe violation of privacy and sexual coercion.",
+      "Indispensable; clear despite overlaps.",
+      "Indispensable, clear with overlap.",
+      "Direct violation; clear and indispensable.",
+      "Key privacy violation, core to dimension.",
+      "Key privacy violation; clearly worded.",
+      "Critical item on privacy violation."
+    ],
+    "evidence_for": [
+      "Sharing intimate images without consent is a violation.",
+      "Sharing intimate images without consent is a violation.",
+      "Sharing intimate images without consent violates privacy and is coercive.",
+      "Unauthorized sharing of intimate images.",
+      "Unauthorized sharing of intimate images.",
+      "Unauthorized sharing of intimate images.",
+      "Shares intimate images without consent",
+      "Shares intimate images without consent.",
+      "Sharing intimate images without consent."
+    ],
+    "evidence_against": [
+      "None.",
+      "None.",
+      "None",
+      "Specific to privacy violation.",
+      "Specific, not general coercion.",
+      "One-time act, not ongoing.",
+      "None, clear violation",
+      "None significant.",
+      "None; core privacy violation."
+    ]
+  },
+  "IT32": {
+    "dimension": "Sexual Coercion and Violation of Privacy",
+    "fit_scores": [
+      5,
+      5,
+      5,
+      5,
+      5,
+      5,
+      5,
+      5,
+      5
+    ],
+    "clarity_scores": [
+      5,
+      5,
+      5,
+      5,
+      5,
+      5,
+      5,
+      5,
+      5
+    ],
+    "redundancy_flags": [
+      false,
+      false,
+      false,
+      true,
+      true,
+      true,
+      true,
+      false,
+      false
+    ],
+    "overlaps_with_all": [
+      [],
+      [],
+      [],
+      [
+        "IT31",
+        "IT33"
+      ],
+      [
+        "IT31"
+      ],
+      [
+        "IT33"
+      ],
+      [
+        "IT31"
+      ],
+      [
+        "IT31",
+        "IT33"
+      ],
+      [
+        "IT31"
+      ]
+    ],
+    "recommendations": [
+      "Retain",
+      "Retain",
+      "Retain",
+      "Retain",
+      "Retain",
+      "Retain",
+      "Retain",
+      "Retain",
+      "Retain"
+    ],
+    "justifications": [
+      "Captures the threat of sharing intimate images, a form of coercion.",
+      "Captures threats to share intimate images, a coercive tactic.",
+      "Threatening to share private images is a coercive tactic to control behavior.",
+      "Core coercion; unambiguous with overlaps.",
+      "Core item, unambiguous but redundant.",
+      "Key control tactic; clear despite overlap.",
+      "Distinct threat vs. action, important nuance.",
+      "Important coercion tactic; clear and specific.",
+      "Important threat item related to privacy."
+    ],
+    "evidence_for": [
+      "Threatening to share intimate images is coercion.",
+      "Threatening to share intimate images is coercion and blackmail.",
+      "Threatening to share intimate images is a coercive tactic.",
+      "Threats to share intimate images.",
+      "Threats to share private images.",
+      "Threats to share private images.",
+      "Threatens to share intimate images",
+      "Threatens to share intimate images with others.",
+      "Threatens to share intimate images."
+    ],
+    "evidence_against": [
+      "None.",
+      "None.",
+      "None",
+      "Overlaps with general threats.",
+      "Overlaps with IT31 directly.",
+      "Similar to general threats.",
+      "Overlap with IT31",
+      "Overlap with IT31 but threat aspect distinct.",
+      "Overlap with IT31 but distinct threat focus."
+    ]
+  },
+  "IT33": {
+    "dimension": "Sexual Coercion and Violation of Privacy",
+    "fit_scores": [
+      5,
+      5,
+      5,
+      4,
+      4,
+      4,
+      4,
+      5,
+      4
+    ],
+    "clarity_scores": [
+      5,
+      5,
+      5,
+      5,
+      4,
+      4,
+      5,
+      5,
+      5
+    ],
+    "redundancy_flags": [
+      false,
+      false,
+      false,
+      true,
+      false,
+      true,
+      false,
+      false,
+      false
+    ],
+    "overlaps_with_all": [
+      [],
+      [],
+      [],
+      [
+        "IT32"
+      ],
+      [],
+      [
+        "IT32"
+      ],
+      [],
+      [
+        "IT31",
+        "IT32"
+      ],
+      []
+    ],
+    "recommendations": [
+      "Retain",
+      "Retain",
+      "Retain",
+      "Retain",
+      "Revise",
+      "Revise",
+      "Retain",
+      "Retain",
+      "Retain"
+    ],
+    "justifications": [
+      "Clearly describes using personal information as a threat.",
+      "Measures threats to reveal personal information for control.",
+      "Threatening to reveal personal secrets is a coercive tactic, fitting the dimension.",
+      "Strong fit; clear despite overlaps.",
+      "Strong fit, minor ambiguity on sexual link.",
+      "Mixed fit with overlap; revise for specificity to privacy violations.",
+      "Important coercion via privacy violation, clear.",
+      "Critical coercion via secrets; clearly stated.",
+      "Captures coercion via personal information threats."
+    ],
+    "evidence_for": [
+      "Threatening to reveal secrets is a form of blackmail/coercion.",
+      "Threatening to reveal secrets is blackmail and coercive control.",
+      "Threatening to reveal secrets is blackmail and coercive.",
+      "Threats to reveal personal secrets.",
+      "Coercion via personal secrets.",
+      "Threats to reveal personal secrets.",
+      "Threatens to reveal personal secrets coercively",
+      "Threatens to reveal personal secrets if left.",
+      "Threatens to reveal personal secrets."
+    ],
+    "evidence_against": [
+      "None.",
+      "None.",
+      "None",
+      "Broader than sexual context.",
+      "Broader than sexual specifics.",
+      "Not explicitly sexual.",
+      "Broader than sexual content, but fits coercion",
+      "Overlap with IT31 and IT32 but content distinct.",
+      "Broader than sexual images but fits coercion."
+    ]
+  },
+  "IT16": {
+    "dimension": "Fear, Anxiety, and Feeling Unsafe",
+    "fit_scores": [
+      5,
+      5,
+      5,
+      5,
+      5,
+      5,
+      5,
+      5,
+      5
+    ],
+    "clarity_scores": [
+      5,
+      5,
+      5,
+      5,
+      4,
+      5,
+      5,
+      5,
+      5
+    ],
+    "redundancy_flags": [
+      false,
+      false,
+      false,
+      true,
+      true,
+      false,
+      false,
+      false,
+      true
+    ],
+    "overlaps_with_all": [
+      [],
+      [],
+      [],
+      [
+        "IT42",
+        "IT27"
+      ],
+      [
+        "IT42"
+      ],
+      [],
+      [
+        "IT42"
+      ],
+      [
+        "IT42",
+        "IT27",
+        "IT17"
+      ],
+      [
+        "IT42",
+        "IT27",
+        "IT17"
+      ]
+    ],
+    "recommendations": [
+      "Retain",
+      "Retain",
+      "Retain",
+      "Retain",
+      "Retain",
+      "Retain",
+      "Retain",
+      "Retain",
+      "Retain"
+    ],
+    "justifications": [
+      "Core item, directly captures feelings of fear and unsafety.",
+      "Core item for feeling unsafe and fearful in the partner's presence.",
+      "This item directly measures the subjective experience of fear and unsafety.",
+      "Core to dimension; unambiguous despite overlaps.",
+      "Core to dimension, clear with overlap.",
+      "Core to emotional experience; clear and essential.",
+      "Core subjective fear item, clear and essential.",
+      "Core fear item; very clear.",
+      "Core fear item despite overlap."
+    ],
+    "evidence_for": [
+      "Directly expresses fear and lack of safety.",
+      "Directly states experiencing fear and lack of safety.",
+      "Directly expresses fear and feeling unsafe in partner's presence.",
+      "Direct expression of fear and insecurity.",
+      "Direct expression of fear and insecurity.",
+      "Direct expression of fear and insecurity.",
+      "Expresses fear and lack of safety near partner",
+      "Expresses fear and lack of safety near partner.",
+      "Expresses fear and lack of safety near partner."
+    ],
+    "evidence_against": [
+      "None.",
+      "None.",
+      "None",
+      "Subjective and general.",
+      "Vague on causes.",
+      "Subjective, not behavioral.",
+      "None, very direct",
+      "None significant.",
+      "General; overlaps with other fear items."
+    ]
+  },
+  "IT42": {
+    "dimension": "Fear, Anxiety, and Feeling Unsafe",
+    "fit_scores": [
+      4,
+      5,
+      5,
+      5,
+      4,
+      4,
+      5,
+      5,
+      5
+    ],
+    "clarity_scores": [
+      3,
+      5,
+      5,
+      4,
+      4,
+      4,
+      5,
+      5,
+      5
+    ],
+    "redundancy_flags": [
+      false,
+      false,
+      false,
+      true,
+      true,
+      true,
+      true,
+      false,
+      true
+    ],
+    "overlaps_with_all": [
+      [],
+      [],
+      [],
+      [
+        "IT16",
+        "IT27"
+      ],
+      [
+        "IT16"
+      ],
+      [
+        "IT16"
+      ],
+      [
+        "IT16"
+      ],
+      [
+        "IT16"
+      ],
+      [
+        "IT16"
+      ]
+    ],
+    "recommendations": [
+      "Revise",
+      "Retain",
+      "Retain",
+      "Retain",
+      "Retain",
+      "Revise",
+      "Retain",
+      "Retain",
+      "Retain"
+    ],
+    "justifications": [
+      "Clarify the link between anticipation and partner's specific behaviors.",
+      "Captures anticipatory fear of partner's negative behavior.",
+      "Anticipating negative or embarrassing behavior creates fear and fits the dimension.",
+      "Indispensable; minor ambiguity with overlaps.",
+      "Strong fit, minor redundancy and ambiguity.",
+      "Strong fit but overlaps; clarify for uniqueness.",
+      "Important anticipatory fear, complements IT16.",
+      "Important anticipatory fear item; clear.",
+      "Important anticipatory fear item."
+    ],
+    "evidence_for": [
+      "Anticipating negative behaviors creates anxiety and fear.",
+      "Fear of partner's behavior and potential negative reactions.",
+      "Anticipatory fear of partner's negative behavior.",
+      "Anticipation of harmful behavior.",
+      "Anticipation of harm or embarrassment.",
+      "Anticipation of harm causing anxiety.",
+      "Fear of partner’s potential harmful behavior",
+      "Fear of partner’s behaviors causing harm or embarrassment.",
+      "Fear of seeing partner due to potential harm or embarrassment."
+    ],
+    "evidence_against": [
+      "Could be general anxiety.",
+      "None.",
+      "None",
+      "Vague on specific fears.",
+      "Similar to IT16.",
+      "Vague on specific behaviors.",
+      "Overlap with IT16",
+      "Overlap with IT16 but focuses on anticipatory fear.",
+      "Overlap with IT16 but more anticipatory fear."
+    ]
+  },
+  "IT27": {
+    "dimension": "Fear, Anxiety, and Feeling Unsafe",
+    "fit_scores": [
+      4,
+      5,
+      5,
+      5,
+      5,
+      5,
+      5,
+      5,
+      5
+    ],
+    "clarity_scores": [
+      4,
+      5,
+      5,
+      5,
+      5,
+      5,
+      5,
+      5,
+      5
+    ],
+    "redundancy_flags": [
+      false,
+      false,
+      false,
+      true,
+      false,
+      false,
+      false,
+      false,
+      true
+    ],
+    "overlaps_with_all": [
+      [],
+      [],
+      [],
+      [
+        "IT16",
+        "IT42"
+      ],
+      [],
+      [],
+      [
+        "IT17"
+      ],
+      [
+        "IT17"
+      ],
+      [
+        "IT16",
+        "IT17"
+      ]
+    ],
+    "recommendations": [
+      "Retain",
+      "Retain",
+      "Retain",
+      "Retain",
+      "Retain",
+      "Retain",
+      "Retain",
+      "Retain",
+      "Retain"
+    ],
+    "justifications": [
+      "Effectively captures the feeling of needing to be cautious.",
+      "Excellent descriptor of anxiety and fear of negative reactions.",
+      "The 'walking on eggshells' feeling is a strong indicator of anxiety and fear.",
+      "Core experience; clear and specific.",
+      "Indispensable, unambiguous.",
+      "Indispensable for anxiety depiction; clear.",
+      "Captures anxiety and hypervigilance, distinct.",
+      "Strong anxiety indicator; clearly expressed.",
+      "Captures anxiety and vigilance in partner's presence."
+    ],
+    "evidence_for": [
+      "Walking on eggshells indicates fear of partner's reactions.",
+      "Feeling the need to 'walk on eggshells' indicates fear and anxiety.",
+      "Feeling uncomfortable and 'walking on eggshells' indicates fear/anxiety.",
+      "Constant anxiety in interactions.",
+      "Constant unease and caution.",
+      "Constant vigilance to avoid reactions.",
+      "Feeling discomfort and need to be cautious around partner",
+      "Feels discomfort and need to be cautious around partner.",
+      "Feeling uncomfortable, walking on eggshells around partner."
+    ],
+    "evidence_against": [
+      "Could be a personality trait.",
+      "None.",
+      "None",
+      "Could be relationship dynamics.",
+      "Subjective, less specific.",
+      "May relate to general stress.",
+      "Overlap with fear but more about anxiety",
+      "Could overlap with anxiety or control dimensions.",
+      "Overlap with other fear/anxiety items."
+    ]
+  },
+  "IT17": {
+    "dimension": "Fear, Anxiety, and Feeling Unsafe",
+    "fit_scores": [
+      4,
+      5,
+      5,
+      4,
+      4,
+      4,
+      4,
+      4,
+      4
+    ],
+    "clarity_scores": [
+      4,
+      5,
+      5,
+      4,
+      4,
+      5,
+      5,
+      5,
+      5
+    ],
+    "redundancy_flags": [
+      false,
+      false,
+      false,
+      true,
+      true,
+      true,
+      true,
+      false,
+      true
+    ],
+    "overlaps_with_all": [
+      [],
+      [],
+      [],
+      [
+        "IT27"
+      ],
+      [
+        "IT27"
+      ],
+      [
+        "IT27"
+      ],
+      [
+        "IT27"
+      ],
+      [
+        "IT27"
+      ],
+      [
+        "IT27",
+        "IT16"
+      ]
+    ],
+    "recommendations": [
+      "Retain",
+      "Retain",
+      "Retain",
+      "Retain",
+      "Retain",
+      "Drop",
+      "Retain",
+      "Retain",
+      "Retain"
+    ],
+    "justifications": [
+      "Shows fear influencing behavior and hiding true feelings.",
+      "Measures suppression of feelings due to fear of partner's anger.",
+      "Hiding discomfort due to fear of anger directly reflects the impact of the partner's behavior.",
+      "Strong fit; slight ambiguity despite overlaps.",
+      "Strong fit with overlap, slightly ambiguous.",
+      "Tangential and redundant; less unique contribution.",
+      "Highlights fear-driven self-censorship, complements IT27.",
+      "Relevant fear-related behavior; clear wording.",
+      "Reflects fear-driven behavior; overlaps but distinct."
+    ],
+    "evidence_for": [
+      "Hiding discomfort due to fear of anger is a key indicator.",
+      "Hiding discomfort/disagreement due to fear of partner's anger.",
+      "Hiding true feelings due to fear of partner's anger.",
+      "Hiding feelings due to fear.",
+      "Hiding feelings due to fear.",
+      "Hiding feelings due to fear.",
+      "Suppresses feelings/actions out of fear of anger",
+      "Hides discomfort to avoid partner’s anger.",
+      "Hides discomfort to avoid partner's anger."
+    ],
+    "evidence_against": [
+      "Could be introversion.",
+      "None.",
+      "None",
+      "Overlaps with general discomfort.",
+      "Overlaps with general anxiety.",
+      "Not always relationship-specific.",
+      "Overlap with IT27",
+      "Could be seen as emotional abuse or control.",
+      "Overlap with other fear items."
+    ]
+  },
+  "IT01": {
+    "dimension": "Supportive and Healthy Relationship Dynamics",
+    "fit_scores": [
+      5,
+      5,
+      5,
+      5,
+      5,
+      5,
+      5,
+      5,
+      5
+    ],
+    "clarity_scores": [
+      5,
+      5,
+      5,
+      5,
+      5,
+      5,
+      5,
+      5,
+      5
+    ],
+    "redundancy_flags": [
+      false,
+      false,
+      false,
+      true,
+      true,
+      false,
+      false,
+      false,
+      false
+    ],
+    "overlaps_with_all": [
+      [],
+      [],
+      [],
+      [
+        "IT02",
+        "IT03"
+      ],
+      [
+        "IT02"
+      ],
+      [],
+      [
+        "IT02",
+        "IT03"
+      ],
+      [
+        "IT02",
+        "IT03",
+        "IT05"
+      ],
+      [
+        "IT02",
+        "IT03"
+      ]
+    ],
+    "recommendations": [
+      "Retain",
+      "Retain",
+      "Retain",
+      "Retain",
+      "Retain",
+      "Retain",
+      "Retain",
+      "Retain",
+      "Retain"
+    ],
+    "justifications": [
+      "Core item, clearly reflects positive support.",
+      "Core item for supportive behaviors, clearly stated.",
+      "Feeling supported is a cornerstone of healthy relationships.",
+      "Core positive dynamic; unambiguous despite overlaps.",
+      "Core positive dynamic, clear with overlap.",
+      "Core positive dynamic; clear and essential.",
+      "Core supportive behavior, fundamental to dimension.",
+      "Core positive support item; clear and essential.",
+      "Fundamental support item."
+    ],
+    "evidence_for": [
+      "Expresses feeling supported in personal endeavors.",
+      "Directly expresses receiving support for personal endeavors.",
+      "Directly measures feeling supported in one's endeavors.",
+      "Encourages and supports activities.",
+      "Encourages and supports activities.",
+      "Encourages and supports personal endeavors.",
+      "Feels partner’s support in activities",
+      "Feels partner’s support in activities.",
+      "Expresses feeling supported in activities."
+    ],
+    "evidence_against": [
+      "None.",
+      "None.",
+      "None",
+      "Vague on specific support.",
+      "Vague on specifics.",
+      "Vague on specific support types.",
+      "None, clear positive behavior",
+      "None significant.",
+      "None; core positive support item."
+    ]
+  },
+  "IT02": {
+    "dimension": "Supportive and Healthy Relationship Dynamics",
+    "fit_scores": [
+      5,
+      5,
+      5,
+      5,
+      4,
+      4,
+      4,
+      4,
+      4
+    ],
+    "clarity_scores": [
+      5,
+      5,
+      5,
+      5,
+      5,
+      5,
+      5,
+      5,
+      5
+    ],
+    "redundancy_flags": [
+      false,
+      false,
+      false,
+      true,
+      true,
+      true,
+      true,
+      false,
+      false
+    ],
+    "overlaps_with_all": [
+      [],
+      [],
+      [],
+      [
+        "IT01"
+      ],
+      [
+        "IT01"
+      ],
+      [
+        "IT01"
+      ],
+      [
+        "IT01",
+        "IT03"
+      ],
+      [
+        "IT01",
+        "IT03"
+      ],
+      [
+        "IT01"
+      ]
+    ],
+    "recommendations": [
+      "Retain",
+      "Retain",
+      "Retain",
+      "Retain",
+      "Retain",
+      "Retain",
+      "Retain",
+      "Retain",
+      "Retain"
+    ],
+    "justifications": [
+      "Captures encouragement and support for personal development.",
+      "Measures encouragement and fostering of personal growth.",
+      "Encouragement for personal growth is a key positive relationship dynamic.",
+      "Indispensable; clear with overlaps.",
+      "Strong fit, redundant but unambiguous.",
+      "Strong fit; overlaps but adds value for encouragement.",
+      "Important encouragement aspect, complements others.",
+      "Important positive dynamic; clear.",
+      "Important encouragement item."
+    ],
+    "evidence_for": [
+      "Indicates encouragement for personal growth and new experiences.",
+      "Encouragement to try new things fosters growth and autonomy.",
+      "Encouragement to try new things fosters growth and autonomy.",
+      "Promotes personal growth.",
+      "Promotes exploration and growth.",
+      "Promotes growth through new experiences.",
+      "Encourages trying new things",
+      "Encourages trying new things.",
+      "Encouragement to try new things."
+    ],
+    "evidence_against": [
+      "None.",
+      "None.",
+      "None",
+      "Could be generic encouragement.",
+      "Similar to IT01 support.",
+      "Could be generic encouragement.",
+      "Overlap with IT01 and IT03",
+      "Overlap with IT01 and IT03 but distinct encouragement aspect.",
+      "Overlap with IT01 but distinct encouragement focus."
+    ]
+  },
+  "IT03": {
+    "dimension": "Supportive and Healthy Relationship Dynamics",
+    "fit_scores": [
+      5,
+      5,
+      5,
+      5,
+      5,
+      5,
+      5,
+      5,
+      5
+    ],
+    "clarity_scores": [
+      5,
+      5,
+      5,
+      5,
+      5,
+      5,
+      5,
+      5,
+      5
+    ],
+    "redundancy_flags": [
+      false,
+      false,
+      false,
+      true,
+      true,
+      false,
+      true,
+      false,
+      false
+    ],
+    "overlaps_with_all": [
+      [],
+      [],
+      [],
+      [
+        "IT01",
+        "IT43"
+      ],
+      [
+        "IT43"
+      ],
+      [],
+      [
+        "IT01",
+        "IT02"
+      ],
+      [
+        "IT01",
+        "IT02"
+      ],
+      [
+        "IT01"
+      ]
+    ],
+    "recommendations": [
+      "Retain",
+      "Retain",
+      "Retain",
+      "Retain",
+      "Retain",
+      "Retain",
+      "Retain",
+      "Retain",
+      "Retain"
+    ],
+    "justifications": [
+      "Highlights feeling listened to and valued, key to healthy communication.",
+      "Captures feeling heard and valued, key to healthy communication.",
+      "Feeling heard and valued is essential for healthy communication and connection.",
+      "Core element; unambiguous despite overlaps.",
+      "Indispensable, clear with minor redundancy.",
+      "Key to healthy dynamics; clear and non-redundant.",
+      "Key communication support, core dimension item.",
+      "Key communication support item; clear.",
+      "Core listening and interest item."
+    ],
+    "evidence_for": [
+      "Describes feeling heard and valued when sharing.",
+      "Feeling listened to and valued fosters emotional safety.",
+      "Feeling listened to and valued fosters emotional connection.",
+      "Fosters open communication.",
+      "Open communication and interest.",
+      "Fosters open communication and interest.",
+      "Listens and shows interest in sharing",
+      "Listens and shows interest in sharing.",
+      "Feeling listened to and partner interest."
+    ],
+    "evidence_against": [
+      "None.",
+      "None.",
+      "None",
+      "Subjective listening quality.",
+      "General, could overlap.",
+      "May not cover conflicts.",
+      "Overlap with IT01 and IT02",
+      "Overlap with IT01 and IT02 but social support distinct.",
+      "Overlap with IT01 but interpersonal focus."
+    ]
+  },
+  "IT04": {
+    "dimension": "Supportive and Healthy Relationship Dynamics",
+    "fit_scores": [
+      5,
+      5,
+      5,
+      5,
+      5,
+      5,
+      5,
+      5,
+      5
+    ],
+    "clarity_scores": [
+      5,
+      5,
+      5,
+      5,
+      5,
+      4,
+      5,
+      5,
+      5
+    ],
+    "redundancy_flags": [
+      false,
+      false,
+      false,
+      true,
+      true,
+      true,
+      false,
+      false,
+      false
+    ],
+    "overlaps_with_all": [
+      [],
+      [],
+      [],
+      [
+        "IT05"
+      ],
+      [
+        "IT05"
+      ],
+      [
+        "IT05"
+      ],
+      [
+        "IT05",
+        "IT06"
+      ],
+      [
+        "IT05",
+        "IT06"
+      ],
+      [
+        "IT05"
+      ]
+    ],
+    "recommendations": [
+      "Retain",
+      "Retain",
+      "Retain",
+      "Retain",
+      "Retain",
+      "Revise",
+      "Retain",
+      "Retain",
+      "Retain"
+    ],
+    "justifications": [
+      "Excellent item, addresses respect for autonomy and social needs.",
+      "Directly measures respect for autonomy and need for space.",
+      "Respecting personal space and time with others is crucial for autonomy.",
+      "Strong fit; clear and essential.",
+      "Core item, unambiguous and relevant.",
+      "Core element; minor clarity and overlap issues.",
+      "Essential respect for autonomy, distinct item.",
+      "Crucial autonomy respect item; clear.",
+      "Key item respecting autonomy."
+    ],
+    "evidence_for": [
+      "Shows respect for personal space and autonomy.",
+      "Respect for personal space and autonomy is crucial.",
+      "Respects need for space and separate activities.",
+      "Respects personal space.",
+      "Respects personal space and autonomy.",
+      "Respects personal space and autonomy.",
+      "Understands need for personal space and other social contacts",
+      "Respects need for personal space and other relationships.",
+      "Understands need for personal space and other social contacts."
+    ],
+    "evidence_against": [
+      "None.",
+      "None.",
+      "None",
+      "May overlap with autonomy.",
+      "Links to other dimensions.",
+      "Overlaps with other respect items.",
+      "None, clear positive behavior",
+      "None significant.",
+      "None; distinct autonomy respect."
+    ]
+  },
+  "IT05": {
+    "dimension": "Supportive and Healthy Relationship Dynamics",
+    "fit_scores": [
+      5,
+      5,
+      5,
+      5,
+      4,
+      4,
+      4,
+      5,
+      5
+    ],
+    "clarity_scores": [
+      5,
+      5,
+      5,
+      4,
+      5,
+      5,
+      5,
+      5,
+      5
+    ],
+    "redundancy_flags": [
+      false,
+      false,
+      false,
+      true,
+      true,
+      true,
+      true,
+      false,
+      false
+    ],
+    "overlaps_with_all": [
+      [],
+      [],
+      [],
+      [
+        "IT04"
+      ],
+      [
+        "IT04"
+      ],
+      [
+        "IT04"
+      ],
+      [
+        "IT04",
+        "IT06"
+      ],
+      [
+        "IT04"
+      ],
+      [
+        "IT04"
+      ]
+    ],
+    "recommendations": [
+      "Retain",
+      "Retain",
+      "Retain",
+      "Retain",
+      "Retain",
+      "Drop",
+      "Retain",
+      "Retain",
+      "Retain"
+    ],
+    "justifications": [
+      "Directly reflects freedom and autonomy in personal choices.",
+      "Measures freedom in personal choices, indicating respect for autonomy.",
+      "This item directly measures freedom and autonomy in personal choices.",
+      "Core autonomy; minor tweaks despite overlaps.",
+      "Strong fit, redundant but clear.",
+      "Redundant with IT04; less unique contribution.",
+      "Important autonomy support, complements similar items.",
+      "Important autonomy support; clearly worded.",
+      "Important autonomy support item."
+    ],
+    "evidence_for": [
+      "Confirms freedom in making personal choices about time management.",
+      "Freedom to make personal choices about time management is autonomy.",
+      "Empowers freedom in managing personal time.",
+      "Allows freedom in time management.",
+      "Allows freedom in time management.",
+      "Allows freedom in time management.",
+      "Allows freedom in time management choices",
+      "Feels free to make own time management choices.",
+      "Partner allows freedom in time management."
+    ],
+    "evidence_against": [
+      "None.",
+      "None.",
+      "None",
+      "Vague on boundaries.",
+      "Overlaps with IT04.",
+      "Similar to autonomy themes.",
+      "Overlap with IT04 and IT06",
+      "Overlap with IT04 but slightly different focus.",
+      "Overlap with IT04 but specific focus."
+    ]
+  },
+  "IT06": {
+    "dimension": "Supportive and Healthy Relationship Dynamics",
+    "fit_scores": [
+      5,
+      5,
+      5,
+      5,
+      5,
+      5,
+      5,
+      5,
+      5
+    ],
+    "clarity_scores": [
+      5,
+      5,
+      5,
+      5,
+      5,
+      4,
+      5,
+      5,
+      5
+    ],
+    "redundancy_flags": [
+      false,
+      false,
+      false,
+      true,
+      true,
+      true,
+      true,
+      false,
+      false
+    ],
+    "overlaps_with_all": [
+      [],
+      [],
+      [],
+      [
+        "IT08"
+      ],
+      [
+        "IT08"
+      ],
+      [
+        "IT08"
+      ],
+      [
+        "IT04",
+        "IT05"
+      ],
+      [
+        "IT08"
+      ],
+      [
+        "IT08"
+      ]
+    ],
+    "recommendations": [
+      "Retain",
+      "Retain",
+      "Retain",
+      "Retain",
+      "Retain",
+      "Retain",
+      "Retain",
+      "Retain",
+      "Retain"
+    ],
+    "justifications": [
+      "Strong item, covers safety, acceptance, and respect for autonomy.",
+      "Combines safety, acceptance, and respect for choices.",
+      "Feeling safe due to acceptance and respect is a core aspect of healthy dynamics.",
+      "Indispensable; unambiguous with overlaps.",
+      "Indispensable, clear with overlap.",
+      "Indispensable; clear despite overlap, core to safety.",
+      "Core emotional safety item, complements autonomy items.",
+      "Key safety and respect item; clear.",
+      "Essential emotional safety item."
+    ],
+    "evidence_for": [
+      "Combines feelings of safety, acceptance, and respect for choices.",
+      "Feeling safe due to acceptance and respect for choices.",
+      "Feeling safe due to acceptance and respect for choices.",
+      "Provides emotional safety.",
+      "Provides emotional safety and acceptance.",
+      "Provides emotional safety and acceptance.",
+      "Feels safe and respected for who they are",
+      "Feels safe due to partner’s knowledge and respect.",
+      "Feeling safe and accepted for who one is."
+    ],
+    "evidence_against": [
+      "None.",
+      "None.",
+      "None",
+      "Overlaps with fear dimension.",
+      "Similar to safety items.",
+      "Vague on specific actions.",
+      "Overlap with IT04 and IT05",
+      "Overlap with IT08 but more focused on respect.",
+      "None; core emotional safety."
+    ]
+  },
+  "IT07": {
+    "dimension": "Supportive and Healthy Relationship Dynamics",
+    "fit_scores": [
+      4,
+      5,
+      5,
+      5,
+      4,
+      4,
+      5,
+      5,
+      5
+    ],
+    "clarity_scores": [
+      4,
+      5,
+      5,
+      5,
+      4,
+      5,
+      5,
+      5,
+      5
+    ],
+    "redundancy_flags": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "overlaps_with_all": [
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ],
+    "recommendations": [
+      "Retain",
+      "Retain",
+      "Retain",
+      "Retain",
+      "Retain",
+      "Retain",
+      "Retain",
+      "Retain",
+      "Retain"
+    ],
+    "justifications": [
+      "Captures healthy conflict resolution, a positive relationship dynamic.",
+      "Captures healthy conflict resolution and emotional safety.",
+      "Constructive conflict resolution is vital for a healthy relationship.",
+      "Core dynamic; clear and unique.",
+      "Strong fit, minor ambiguity.",
+      "Strong side aspect; clear and unique.",
+      "Important conflict management aspect, unique item.",
+      "Important healthy conflict indicator; clear.",
+      "Captures healthy conflict dynamics."
+    ],
+    "evidence_for": [
+      "Indicates ability to resolve conflict constructively.",
+      "Ability to confront/argue without harm indicates healthy conflict resolution.",
+      "Ability to disagree constructively without causing harm.",
+      "Healthy conflict resolution.",
+      "Healthy conflict resolution.",
+      "Enables constructive conflict resolution.",
+      "Can argue and confront without harm",
+      "Can argue without harm, indicating healthy conflict.",
+      "Ability to argue without harm."
+    ],
+    "evidence_against": [
+      "None.",
+      "None.",
+      "None",
+      "Assumes no abuse.",
+      "Vague on outcomes.",
+      "Assumes no harm occurs.",
+      "None, clear healthy dynamic",
+      "None significant.",
+      "None; important conflict management."
+    ]
+  },
+  "IT08": {
+    "dimension": "Supportive and Healthy Relationship Dynamics",
+    "fit_scores": [
+      5,
+      5,
+      5,
+      5,
+      4,
+      5,
+      5,
+      5,
+      5
+    ],
+    "clarity_scores": [
+      5,
+      5,
+      5,
+      5,
+      5,
+      5,
+      5,
+      5,
+      5
+    ],
+    "redundancy_flags": [
+      false,
+      false,
+      false,
+      true,
+      true,
+      true,
+      true,
+      false,
+      false
+    ],
+    "overlaps_with_all": [
+      [],
+      [],
+      [],
+      [
+        "IT06"
+      ],
+      [
+        "IT06"
+      ],
+      [
+        "IT06"
+      ],
+      [
+        "IT06"
+      ],
+      [
+        "IT06"
+      ],
+      [
+        "IT06"
+      ]
+    ],
+    "recommendations": [
+      "Retain",
+      "Retain",
+      "Retain",
+      "Retain",
+      "Retain",
+      "Retain",
+      "Retain",
+      "Retain",
+      "Retain"
+    ],
+    "justifications": [
+      "Core item, directly reflects feeling comfortable and safe.",
+      "Directly measures comfort and safety in the partner's presence.",
+      "Comfort and safety in a partner's presence are fundamental to a healthy dynamic.",
+      "Strong fit; unambiguous despite overlaps.",
+      "Strong fit, clear but redundant.",
+      "Core dynamic; clear and valuable despite overlap.",
+      "Reinforces safety feeling, complements IT06.",
+      "Core comfort and safety item; clear.",
+      "Important comfort and safety item."
+    ],
+    "evidence_for": [
+      "Expresses comfort and safety in the partner's presence.",
+      "Feeling comfortable and safe in partner's company.",
+      "Feeling comfortable and safe in partner's presence.",
+      "Creates comfort and security.",
+      "Comfort and security in presence.",
+      "Creates comfort and security.",
+      "Feels comfortable and safe with partner",
+      "Feels comfortable and safe with partner.",
+      "Feeling comfortable and safe with partner."
+    ],
+    "evidence_against": [
+      "None.",
+      "None.",
+      "None",
+      "Subjective feeling.",
+      "Overlaps with IT06.",
+      "Overlaps with safety items.",
+      "Overlap with IT06",
+      "Overlap with IT06 but more about emotional comfort.",
+      "Overlap with IT06 but general comfort focus."
+    ]
+  },
+  "IT43": {
+    "dimension": "Supportive and Healthy Relationship Dynamics",
+    "fit_scores": [
+      4,
+      5,
+      5,
+      5,
+      5,
+      4,
+      5,
+      5,
+      5
+    ],
+    "clarity_scores": [
+      4,
+      5,
+      5,
+      5,
+      5,
+      5,
+      5,
+      5,
+      5
+    ],
+    "redundancy_flags": [
+      false,
+      false,
+      false,
+      true,
+      true,
+      true,
+      true,
+      false,
+      false
+    ],
+    "overlaps_with_all": [
+      [],
+      [],
+      [],
+      [
+        "IT03"
+      ],
+      [
+        "IT03"
+      ],
+      [
+        "IT03"
+      ],
+      [
+        "IT03"
+      ],
+      [
+        "IT03"
+      ],
+      [
+        "IT03"
+      ]
+    ],
+    "recommendations": [
+      "Retain",
+      "Retain",
+      "Retain",
+      "Retain",
+      "Retain",
+      "Drop",
+      "Retain",
+      "Retain",
+      "Retain"
+    ],
+    "justifications": [
+      "Addresses the ability to communicate openly about anything.",
+      "Measures open and uninhibited communication.",
+      "Open communication about anything fosters trust and intimacy.",
+      "Core communication; clear with overlaps.",
+      "Core item, unambiguous with overlap.",
+      "Redundant; covered by existing items, less essential.",
+      "Key communication openness, overlaps but valuable.",
+      "Key open communication item; clearly stated.",
+      "Key open communication item."
+    ],
+    "evidence_for": [
+      "Indicates open and honest communication is possible.",
+      "Open communication about any topic fosters trust.",
+      "Open communication about any topic is a sign of trust.",
+      "Enables open discussions.",
+      "Openness in communication.",
+      "Promotes open and trusting communication.",
+      "Feels able to talk about anything with partner",
+      "Feels able to talk about anything with partner.",
+      "Feeling able to talk about anything."
+    ],
+    "evidence_against": [
+      "None.",
+      "None.",
+      "None",
+      "Vague on topics.",
+      "Similar to IT03.",
+      "Similar to IT03.",
+      "Overlap with IT03",
+      "Overlap with IT03 but more general openness.",
+      "Overlap with IT03 but broader communication."
+    ]
+  },
+  "IT18": {
+    "dimension": "Social Isolation and External Concerns",
+    "fit_scores": [
+      4,
+      4,
+      5,
+      5,
+      4,
+      5,
+      4,
+      4,
+      5
+    ],
+    "clarity_scores": [
+      3,
+      4,
+      5,
+      5,
+      5,
+      5,
+      5,
+      5,
+      5
+    ],
+    "redundancy_flags": [
+      false,
+      false,
+      false,
+      true,
+      true,
+      false,
+      false,
+      false,
+      false
+    ],
+    "overlaps_with_all": [
+      [],
+      [],
+      [],
+      [
+        "IT09"
+      ],
+      [
+        "IT09"
+      ],
+      [],
+      [
+        "IT09"
+      ],
+      [
+        "IT09"
+      ],
+      [
+        "IT09"
+      ]
+    ],
+    "recommendations": [
+      "Revise",
+      "Retain",
+      "Retain",
+      "Retain",
+      "Retain",
+      "Retain",
+      "Retain",
+      "Retain",
+      "Retain"
+    ],
+    "justifications": [
+      "Clarify that concern is about the relationship/partner's behavior.",
+      "Captures external validation of relationship issues.",
+      "External concerns from loved ones indicate potential problems in the relationship.",
+      "Core to dimension; unambiguous despite overlaps.",
+      "Strong fit, clear but overlaps with IT09.",
+      "Core to external concerns; clear and indispensable.",
+      "Important external concern indicator, complements IT09.",
+      "Important external concern indicator; clear.",
+      "Important external concern indicator."
+    ],
+    "evidence_for": [
+      "External concern from friends/family signals relationship issues.",
+      "External concern from friends/family indicates a problem.",
+      "External concern from friends/family suggests relationship issues.",
+      "External worries about relationship.",
+      "External worries about relationship.",
+      "External worries indicate relationship issues.",
+      "Friends/family express worry about relationship",
+      "Friends/family express worry about relationship.",
+      "Friends/family express worry about relationship."
+    ],
+    "evidence_against": [
+      "Could be external factors unrelated to partner.",
+      "Could be external judgment unrelated to partner's behavior.",
+      "None",
+      "Not direct isolation behavior.",
+      "Indirect, not behavioral.",
+      "Not direct behavior.",
+      "External perspective, not direct behavior",
+      "Could reflect external perception, not direct behavior.",
+      "External perspective, may overlap with social isolation."
+    ]
+  },
+  "IT09": {
+    "dimension": "Social Isolation and External Concerns",
+    "fit_scores": [
+      4,
+      4,
+      4,
+      4,
+      4,
+      4,
+      4,
+      4,
+      5
+    ],
+    "clarity_scores": [
+      3,
+      5,
+      5,
+      5,
+      4,
+      4,
+      5,
+      5,
+      5
+    ],
+    "redundancy_flags": [
+      false,
+      false,
+      false,
+      true,
+      true,
+      true,
+      true,
+      false,
+      false
+    ],
+    "overlaps_with_all": [
+      [],
+      [],
+      [],
+      [
+        "IT18"
+      ],
+      [
+        "IT18"
+      ],
+      [
+        "IT18"
+      ],
+      [
+        "IT18"
+      ],
+      [
+        "IT18"
+      ],
+      [
+        "IT18"
+      ]
+    ],
+    "recommendations": [
+      "Revise",
+      "Retain",
+      "Retain",
+      "Retain",
+      "Retain",
+      "Drop",
+      "Retain",
+      "Retain",
+      "Retain"
+    ],
+    "justifications": [
+      "Rephrase to focus on friends' concern about the partner's behavior.",
+      "Measures friends' negative perceptions of partner's behavior.",
+      "Friends observing negative behavior provides external validation of relationship issues.",
+      "Strong fit; clear with overlaps.",
+      "Mixed fit, clear with redundancy.",
+      "Overlaps with IT18; tangential and less unique.",
+      "Valuable social feedback item, complements IT18.",
+      "Valuable external perspective; clear and relevant.",
+      "Captures social feedback on relationship health."
+    ],
+    "evidence_for": [
+      "Friends noticing negative behavior implies external awareness.",
+      "Friends noticing negative behavior suggests external awareness.",
+      "Friends noticing negative behavior indicates external awareness.",
+      "Friends notice problematic behavior.",
+      "Friends' observations of behavior.",
+      "Friends' observations of negative behavior.",
+      "Friends comment negatively on partner’s behavior",
+      "Friends notice and disapprove of partner’s behavior.",
+      "Friends disapprove of partner's behavior."
+    ],
+    "evidence_against": [
+      "Could be friends' bias.",
+      "None.",
+      "None",
+      "Indirect to isolation.",
+      "External focus, not direct isolation.",
+      "Subjective and external.",
+      "External perspective, may overlap with IT18",
+      "External observation, may not reflect victim’s experience.",
+      "Overlap with IT18 but specific friend view."
+    ]
+  }
+}

@@ -1,0 +1,109 @@
+### Psychometrician (openai/gpt-4.1-mini)
+Here is a psychometrically coherent grouping of the items into latent dimensions, with clear labels and rationales:
+
+---
+
+### 1. **Emotional Support and Positive Communication**  
+**Items:**  
+- Sento di potergli parlare di qualsiasi cosa  
+- Sento il suo sostegno nelle cose che faccio  
+- Mi incoraggia a provare nuove cose  
+- Sento che possiamo confrontarci e anche litigare senza farci male  
+- Mi sento ascoltata e si mostra interessato quando ho qualcosa che voglio condividere  
+- In sua compagnia mi sento a mio agio e al sicuro  
+- Mi fa sentire libera di fare le mie scelte su come gestire il mio tempo  
+- Mi sento al sicuro con lui perché so che mi conosce e mi vuole bene per quella che sono e rispetta le mie scelte  
+
+**Rationale:**  
+These items reflect positive relational qualities such as emotional availability, support, open communication, respect for autonomy, and a sense of safety and acceptance. They cluster around the experience of a healthy, supportive interpersonal connection.
+
+---
+
+### 2. **Controlling and Restrictive Behaviors**  
+**Items:**  
+- Capisce che ho bisogno anche di miei spazi personali e comprende che ci sono momenti in cui mi piace stare da sola o con persone diverse da lui (amici, familiari ecc.) [reverse, absence indicates control]  
+- Cerca di controllare ciò che faccio e con chi mi vedo  
+- Non mi sento libera di vestirmi come voglio  
+- Diventa estremamente geloso/ o possessivo/a  
+- Mi accusa di flirtare o di tradirlo/a  
+- Non vuole che io veda la mia famiglia, le mie amiche o i miei amici. Mi dice che è lui adesso la mia famiglia, che loro cercano di separarci  
+- Dice che sono impegnata in troppe cose e che lo trascuro, vorrebbe che passassimo la maggior parte del tempo insieme  
+- Mi sento costantemente controllata, ho la sensazione che non si fidi di me e che voglia sapere sempre dove sono e co chi, me lo chiede continuamente  
+- Sento che mi manda troppi messaggi o mi chiama spesso, a volte in modo insistente  
+- Pretende prove d'amore e dimostrazioni di fedeltà nei suoi confronti  
+
+**Rationale:**  
+This dimension captures attempts to restrict freedom, impose surveillance, jealousy, and demands for loyalty, reflecting controlling and possessive behaviors that limit personal autonomy.
+
+---
+
+### 3. **Verbal and Psychological Abuse**  
+**Items:**  
+- Mi butta giù, mi insulta o mi critica  
+- Non mi fa sentire bene quando parla di come mi prendo cura di me stessa e del mio aspetto fisico  
+- Parla male delle mie amiche e dice che sono delle “poco di buono”. Mi chiede di non vederle  
+- Dopo che mi ha aggredito (fisicamente o verbalmente) nega di averlo fatto e mi fa dubitare che sia realmente successo  
+- Quando faccio qualcosa che a lui non va bene poi non mi parla per giorni  
+- Mi dice che non valgo niente e resterei sola se non stessi con lui perché nessuno mi vorrebbe  
+- Mi fa sentire spesso sbagliata e mi dice che è colpa mia se sta male  
+- Mi sento giudicata rispetto alle cose che faccio e come organizzo la mia vita  
+- Urla o mi umilia di fronte ad altre persone  
+
+**Rationale:**  
+These items describe verbal insults, criticism, emotional manipulation, gaslighting, and humiliation, reflecting psychological and emotional abuse.
+
+---
+
+### 4. **Physical and Threatening Abuse**  
+**Items:**  
+- Minaccia di fare del male a me, ai miei amici o alla mia famiglia  
+- Minaccia di mostrare ai miei amici o ai miei familiari mie immagini intime  
+- Minaccia di farsi del male a causa mia  
+- Minacce di distruggere le mie cose (telefono, vestiti, computer, auto, ecc.)  
+- Mi afferra per i capelli, mi strattona, mi mette le mani al collo, tenta di soffocarmi, mi dà dei pugni, mi schiaffeggia, mi getta addosso degli oggetti o mi fa male in qualche modo  
+- Rompe e getta oggetti per intimidirmi  
+- Ha mostrato mie immagini intime ad altre persone senza il mio consenso  
+- Mi dice che, se lo lasciassi, rivelerebbe ad altri dei miei segreti o delle cose molto personali che sa di me  
+
+**Rationale:**  
+This dimension groups physical violence, threats of harm to self or others, intimidation, and coercive control involving privacy violations and blackmail, all indicative of severe abusive behavior.
+
+---
+
+### 5. **Fear, Anxiety, and Safety Concerns**  
+**Items:**  
+- In sua compagnia mi capita di sentirmi a disagio e ho la sensazione di dover stare attenta a ciò che dico o a ciò che faccio, come se dovessi “camminare sulle uova” per evitare sue reazioni negative  
+- A volte sento disagio o non voglio fare qualcosa ma lo nascondo per paura che si arrabbi  
+- Ho paura di vederlo perché so che potrebbe avere comportamenti che mi possono fare stare male o sentire in imbarazzo  
+- A volte provo paura vicino a lui, non mi sento al sicuro  
+- Ha forti oscillazioni d'umore, il minuto prima si arrabbia e mi urla contro e quello successivo è dolce e si scusa  
+
+**Rationale:**  
+These items reflect internal emotional states of fear, anxiety, hypervigilance, and insecurity stemming from unpredictable or threatening partner behavior.
+
+---
+
+### 6. **Social Isolation and Negative Social Feedback**  
+**Items:**  
+- Le mie amiche o la mia famiglia sono preoccupate per me  
+- I miei amici mi hanno fatto notare che non piace loro come si comporta con me  
+
+**Rationale:**  
+This dimension captures external social signals and concerns from the person’s social network about the partner’s behavior, reflecting social isolation or social warning signs.
+
+---
+
+### Summary Table:
+
+| Dimension Label                     | Number of Items | Core Theme                              |
+|-----------------------------------|-----------------|---------------------------------------|
+| 1. Emotional Support and Positive Communication | 8               | Support, trust, positive interaction |
+| 2. Controlling and Restrictive Behaviors        | 10              | Control, jealousy, autonomy restriction|
+| 3. Verbal and Psychological Abuse               | 9               | Verbal insults, gaslighting, humiliation|
+| 4. Physical and Threatening Abuse                | 8               | Physical violence, threats, intimidation |
+| 5. Fear, Anxiety, and Safety Concerns            | 5               | Fear, insecurity, emotional distress   |
+| 6. Social Isolation and Negative Social Feedback | 2               | Social warnings and isolation           |
+
+---
+
+This structure avoids overlap by clearly distinguishing supportive vs abusive behaviors, control tactics, emotional states, and social context.

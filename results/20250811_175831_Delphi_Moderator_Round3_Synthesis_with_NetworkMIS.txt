@@ -1,0 +1,43 @@
+Here is a synthesis of the Round 3 decisions:
+
+**Controlling and Possessive Behaviors:**
+*   **Retained:** IT20, IT11, IT23, IT25, IT22, IT19.
+*   **Dropped:** IT14, IT21, IT24, IT10.
+*   **Reasons for Dropping:** Items IT14, IT21, IT24, and IT10 were dropped primarily due to pairwise redundancy with other retained items (IT22, IT20, IT25, IT25 respectively), exceeding the 0.50 threshold.
+*   **Borderline Cases:** IT23 and IT19 were retained via fallback to majority recommendation despite not meeting all primary criteria.
+
+**Emotional and Psychological Abuse:**
+*   **Retained:** IT12, IT15, IT40, IT30, IT29, IT38, IT13, IT26.
+*   **Dropped:** IT28.
+*   **Reasons for Dropping:** IT28 was dropped due to pairwise redundancy with IT40.
+*   **Borderline Cases:** None. All retained items met the primary criteria.
+
+**Physical Aggression, Threats, and Intimidation:**
+*   **Retained:** IT37, IT39, IT35.
+*   **Dropped:** IT36.
+*   **Reasons for Dropping:** IT36 was dropped due to pairwise redundancy with IT39.
+*   **Borderline Cases:** IT35 was retained via fallback to majority recommendation. IT39 was retained despite an IQR of 1.0.
+
+**Sexual Coercion and Violation of Privacy:**
+*   **Retained:** IT41, IT33.
+*   **Dropped:** IT32.
+*   **Reasons for Dropping:** IT32 was dropped due to pairwise redundancy with IT31.
+*   **Borderline Cases:** IT33 was retained despite an IQR of 1.0.
+
+**Fear, Anxiety, and Feeling Unsafe:**
+*   **Retained:** IT16, IT17.
+*   **Dropped:** IT42, IT27.
+*   **Reasons for Dropping:** IT42 and IT27 were dropped due to pairwise redundancy with IT16.
+*   **Borderline Cases:** IT17 was retained despite an IQR of 0.0, meeting all other criteria.
+
+**Supportive and Healthy Relationship Dynamics:**
+*   **Retained:** IT01, IT04, IT06, IT07, IT43.
+*   **Dropped:** IT02, IT03, IT05, IT08.
+*   **Reasons for Dropping:** Items IT02, IT03, IT05, and IT08 were dropped due to pairwise redundancy with retained items (IT01, IT01, IT04, IT06 respectively).
+*   **Borderline Cases:** IT07 was retained despite an IQR of 1.0.
+
+**Social Isolation and External Concerns:**
+*   **Retained:** IT18, IT09.
+*   **Dropped:** None.
+*   **Reasons for Dropping:** No items were dropped.
+*   **Borderline Cases:** IT09 was retained as a coverage safeguard despite pairwise redundancy with IT18.

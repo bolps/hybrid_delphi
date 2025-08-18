@@ -3,6 +3,7 @@ import os
 import json
 import argparse
 from pathlib import Path
+from typing import Dict, List
 
 import pandas as pd
 from dotenv import load_dotenv
@@ -42,11 +43,40 @@ def load_questions(path: str) -> pd.DataFrame:
     return df[["item_id", "item_text", "dimension_id", "dimension_text"]]
 
 
-def make_prompts(narrative: str, template_path: str, questions_df: pd.DataFrame):
+def load_narratives(path: str) -> List[Dict]:
+    """
+    Loads narratives from JSON file and returns a list of narrative objects.
+    Each narrative should have: narrative_id, text, source, lang, subreddit (optional)
+    """
+    with open(path, 'r', encoding='utf-8') as f:
+        narratives = json.load(f)
+    
+    # Validate that each narrative has required fields
+    required_fields = ['narrative_id', 'text']
+    for i, narrative in enumerate(narratives):
+        missing_fields = [field for field in required_fields if field not in narrative]
+        if missing_fields:
+            raise ValueError(f"Narrative {i} missing required fields: {missing_fields}")
+    
+    return narratives
+
+
+def get_narrative_by_id(narratives: List[Dict], narrative_id: str) -> str:
+    """
+    Retrieves the text of a specific narrative by its ID.
+    """
+    for narrative in narratives:
+        if narrative['narrative_id'] == narrative_id:
+            return narrative['text']
+    
+    raise ValueError(f"Narrative with ID '{narrative_id}' not found")
+
+
+def make_prompts(narrative: str, narrative_id: str, template_path: str, questions_df: pd.DataFrame):
     """
     Formats one prompt per row in questions_df using the template file.
     The template should contain string.format placeholders:
-      {item_id}, {item_text}, {dimension_text}, {narrative}
+      {item_id}, {item_text}, {dimension_text}, {narrative}, {narrative_id}
     """
     template = Path(template_path).read_text(encoding="utf-8")
     prompts = []
@@ -56,8 +86,13 @@ def make_prompts(narrative: str, template_path: str, questions_df: pd.DataFrame)
             item_text=row["item_text"],
             dimension_text=row["dimension_text"],
             narrative=narrative,
+            narrative_id=narrative_id,
         )
-        prompts.append({"item_id": row["item_id"], "prompt": prompt})
+        prompts.append({
+            "item_id": row["item_id"], 
+            "prompt": prompt,
+            "narrative_id": narrative_id
+        })
     return prompts
 
 
@@ -89,61 +124,89 @@ def main():
     parser = argparse.ArgumentParser(description="Label items using an LLM via OpenRouter + OpenAI SDK")
     parser.add_argument("--questions-xlsx", required=True, help="Path to the Excel file with items/questions")
     parser.add_argument("--prompt-template", default="narrative_prompt.txt", help="Path to the prompt template file")
-    parser.add_argument("--narrative-file", required=True, help="Path to the narrative text file")
+    parser.add_argument("--narratives-json", required=True, help="Path to the narratives JSON file")
+    parser.add_argument("--narrative-id", required=True, help="ID of the specific narrative to use")
     parser.add_argument("--out", default="labeled_items.jsonl", help="Output JSONL path")
     parser.add_argument("--model", default="openai/gpt-4o", help="OpenRouter model name (e.g. openai/gpt-4o)")
     parser.add_argument("--temperature", type=float, default=0.0, help="Sampling temperature")
     parser.add_argument("--max-tokens", type=int, default=256, help="Max tokens for completion")
+    
+    # Optional: process all narratives
+    parser.add_argument("--process-all", action="store_true", help="Process all narratives in the JSON file")
+    
     args = parser.parse_args()
 
     # Load inputs
     qdf = load_questions(args.questions_xlsx)
+    narratives = load_narratives(args.narratives_json)
 
-    npath = Path(args.narrative_file)
-    if not npath.exists():
-        raise FileNotFoundError(f"Narrative file not found: {args.narrative_file}")
-    narrative = npath.read_text(encoding="utf-8")
-
-    prompts = make_prompts(narrative, args.prompt_template, qdf)
+    # Determine which narratives to process
+    if args.process_all:
+        narrative_ids = [n['narrative_id'] for n in narratives]
+        print(f"Processing all {len(narrative_ids)} narratives")
+    else:
+        narrative_ids = [args.narrative_id]
+        print(f"Processing narrative: {args.narrative_id}")
 
     # Client
     client = make_openrouter_client()
 
-    # Write outputs
-    out_fp = Path(args.out)
-    out_fp.parent.mkdir(parents=True, exist_ok=True)
-    wrote = 0
+    # Process each narrative
+    for narrative_id in narrative_ids:
+        try:
+            narrative_text = get_narrative_by_id(narratives, narrative_id)
+            prompts = make_prompts(narrative_text, narrative_id, args.prompt_template, qdf)
 
-    with out_fp.open("w", encoding="utf-8") as f:
-        for p in prompts:
-            try:
-                content = call_llm_openrouter(
-                    p["prompt"],
-                    client=client,
-                    model=args.model,
-                    temperature=args.temperature,
-                    max_tokens=args.max_tokens,
-                )
-                # Try to parse assistant output as JSON (your template should make the model return one line JSON)
-                try:
-                    parsed = json.loads(content)
-                except Exception:
-                    parsed = None
+            # Determine output file name
+            if args.process_all:
+                out_file = Path(args.out).with_name(f"{narrative_id}_{Path(args.out).name}")
+            else:
+                out_file = Path(args.out)
 
-                row = {
-                    "item_id": p["item_id"],
-                    "model": args.model,
-                    "raw_response": content,
-                    "parsed": parsed,
-                }
-                f.write(json.dumps(row, ensure_ascii=False) + "\n")
-                wrote += 1
-            except Exception as e:
-                err = {"item_id": p["item_id"], "error": str(e)}
-                f.write(json.dumps(err, ensure_ascii=False) + "\n")
-                print(f"[error] item {p['item_id']}: {e}")
+            # Write outputs
+            out_file.parent.mkdir(parents=True, exist_ok=True)
+            wrote = 0
 
-    print(f"Wrote {wrote} rows to {out_fp.resolve()}")
+            with out_file.open("w", encoding="utf-8") as f:
+                for p in prompts:
+                    try:
+                        content = call_llm_openrouter(
+                            p["prompt"],
+                            client=client,
+                            model=args.model,
+                            temperature=args.temperature,
+                            max_tokens=args.max_tokens,
+                        )
+                        # Try to parse assistant output as JSON
+                        try:
+                            parsed = json.loads(content)
+                        except Exception:
+                            parsed = None
+
+                        row = {
+                            "item_id": p["item_id"],
+                            "narrative_id": p["narrative_id"],
+                            "model": args.model,
+                            "raw_response": content,
+                            "parsed": parsed,
+                        }
+                        f.write(json.dumps(row, ensure_ascii=False) + "\n")
+                        wrote += 1
+                    except Exception as e:
+                        err = {
+                            "item_id": p["item_id"], 
+                            "narrative_id": p["narrative_id"],
+                            "error": str(e)
+                        }
+                        f.write(json.dumps(err, ensure_ascii=False) + "\n")
+                        print(f"[error] item {p['item_id']} (narrative {p['narrative_id']}): {e}")
+
+            print(f"Wrote {wrote} rows for narrative {narrative_id} to {out_file.resolve()}")
+            
+        except Exception as e:
+            print(f"[error] Failed to process narrative {narrative_id}: {e}")
+
+    print("Processing complete!")
 
 
 if __name__ == "__main__":

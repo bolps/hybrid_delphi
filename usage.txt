@@ -1,0 +1,7 @@
+To process a single narrative:
+
+python fill_with_narrative.py --questions-xlsx questions.xlsx --narratives-json narratives_clean.json --narrative-id r_0001
+
+To process all the narratives in the json:
+
+python fill_with_narrative.py --questions-xlsx questions.xlsx --narratives-json narratives_clean.json --process-all

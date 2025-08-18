@@ -30,4 +30,3 @@ RESPONSE FORMAT (single line JSON):
 QUALITY CHECKS BEFORE ANSWERING:
 - If labeling True, evidence_span must be a verbatim substring supporting it.
 - If labeling False due to absence, evidence_span must be exactly: "Not specified in the narrative".
-- Avoid redundant evidence across items; choose the most specific sentence.

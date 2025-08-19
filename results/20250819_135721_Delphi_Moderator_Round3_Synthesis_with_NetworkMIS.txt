@@ -1,0 +1,37 @@
+Here's a summary of the Round 3 Delphi decisions:
+
+**Coercive Control & Monitoring:**
+*   **Retained (4):** IT23, IT24, IT20, IT12. IT23 and IT24 met all rubric thresholds (fit mean ≥4, IQR ≤1, clarity ≥4). IT20 and IT12 were retained via majority recommendation despite not meeting all initial thresholds.
+*   **Revised (1):** IT28. This item was flagged for revision due to a higher IQR (1.25), indicating some disagreement among panelists on its fit.
+*   **Dropped (3):** IT25, IT15, IT18. IT25 and IT15 were dropped due to high redundancy (≥0.50) with IT23, despite meeting other thresholds. IT18 was dropped by majority recommendation, also showing redundancy with IT28.
+
+**Emotional & Psychological Abuse:**
+*   **Retained (5):** IT29, IT16, IT27, IT39, IT14. All retained items met rubric thresholds for fit, IQR, and clarity.
+*   **Dropped (4):** IT31, IT30, IT41, IT13. IT31, IT30, and IT41 were dropped due to high redundancy (≥0.50) with IT29. IT13 was dropped due to redundancy with IT16.
+
+**Social Isolation & Jealousy:**
+*   **Retained (3):** IT11, IT10, IT21. These items met the rubric thresholds.
+*   **Dropped (2):** IT26, IT22. Both were dropped due to high redundancy (≥0.50) with IT11 and IT21, respectively.
+
+**Threats & Intimidation:**
+*   **Retained (3):** IT35, IT36, IT40, IT33. All met rubric thresholds.
+*   **Dropped (2):** IT37, IT34. Both were dropped due to high redundancy (≥0.50) with IT40 and IT33, respectively.
+
+**Physical Violence:**
+*   **Retained (1):** IT38. This item met all rubric thresholds.
+
+**Sexual Coercion:**
+*   **Retained (2):** IT42, IT32. Both items met all rubric thresholds.
+
+**Impact & External Concern:**
+*   **Retained (2):** IT17, IT19. Both met rubric thresholds.
+*   **Dropped (2):** IT43, IT09. Both were dropped due to high redundancy (≥0.50) with IT17 and IT19, respectively.
+
+**Healthy Relationship Indicators:**
+*   **Retained (5):** IT44, IT02, IT06, IT08, IT01. These items met rubric thresholds.
+*   **Dropped (4):** IT03, IT04, IT05, IT07. All were dropped due to high redundancy (≥0.50) with IT44, IT06, and IT08.
+
+**Unresolved Disagreements/Borderline Cases:**
+*   In "Coercive Control & Monitoring," IT20 and IT12 were retained by majority recommendation despite not fully meeting the fit mean threshold, indicating some lingering ambiguity or lower consensus on their "fit" within the dimension.
+*   IT28 in "Coercive Control & Monitoring" requires revision due to higher rater disagreement (IQR > 1.0), suggesting clarity or wording issues.
+*   Across dimensions, the primary reason for dropping items was redundancy (pairwise redundancy ≥0.50) with other highly-rated items, ensuring a concise and non-overlapping set of indicators.

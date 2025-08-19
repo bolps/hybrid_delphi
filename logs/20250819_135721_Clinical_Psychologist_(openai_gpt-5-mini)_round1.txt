@@ -1,0 +1,94 @@
+### Clinical Psychologist (openai/gpt-5-mini)
+Below I group the items into coherent, non‑overlapping clinical constructs (latent dimensions). For each dimension I give a short label, the items that belong to it (verbatim, in Italian), and a concise rationale.
+
+1) Physical violence / bodily harm
+- Mi afferra per i capelli, mi strattona, mi mette le mani al collo, tenta di soffocarmi, mi dà dei pugni, mi schiaffeggia, mi getta addosso degli oggetti o mi fa male in qualche modo
+Rationale: Behaviors that involve direct physical assault or bodily harm — clear indicator of physical IPV.
+
+2) Threats, intimidation and coercive threats (including blackmail)
+- Minaccia di farsi del male a causa mia
+- Rompe e lancia oggetti per intimidirmi
+- Minaccia di fare del male a me, ai miei amici/amiche o alla mia famiglia
+- Minacce di distruggere le mie cose (telefono, vestiti, computer, auto, ecc.)
+- Mi dice che, se lo lasciassi, rivelerebbe ad altri dei miei segreti o delle cose molto personali che sa di me
+Rationale: Explicit threats, property destruction and coercive blackmail used to intimidate, control, or punish — a coercive tactic distinct from physical assault itself.
+
+3) Sexual coercion and image‑based abuse
+- Ha mostrato mie immagini intime ad altre persone senza il mio consenso
+- Mi chiede insistentemente di fare sesso e non accetta quando dico di no o che non mi va
+- Minaccia di mostrare ai miei amici o ai miei familiari mie immagini intime
+Rationale: Non‑consensual sexual pressure and the sharing/threatening to share intimate images — sexualized forms of abuse and violation.
+
+4) Coercive surveillance and behavioural control
+- Sento che mi manda troppi messaggi o mi chiama in modo insistente
+- Cerca di controllare ciò che faccio e con chi mi vedo
+- Mi sento controllata, ho la sensazione che non si fidi di me e che voglia sapere sempre dove sono e con chi, me lo chiede continuamente
+- Non mi sento libera di vestirmi come voglio
+- Controlla come spendo i miei soldi
+Rationale: Persistent monitoring, demands for whereabouts, restrictions on behaviour/appearance and intrusive contact — core elements of coercive control distinct from financial, sexual or physical abuse.
+
+5) Economic abuse and financial control
+- Mi impedisce di avere accesso al conto corrente o alle mie risorse economiche
+- Controlla come spendo i miei soldi
+- Mi viene chiesto di giustificare ogni acquisto che faccio
+- Mi impedisce cercare un lavoro per essere indipendente
+Rationale: Behaviors that restrict economic autonomy and use finances to control dependency — separable from other control strategies.
+
+6) Emotional/verbal abuse and devaluation
+- Urla o mi umilia di fronte ad altre persone
+- Mi butta giù, mi insulta o mi critica
+- Mi sento giudicata rispetto alle cose che faccio e a come organizzo la mia vita
+- Mi fa sentire spesso sbagliata e mi dice che è colpa mia se sta male
+- Non mi fa sentire bene quando parla di come mi prendo cura di me stessa e del mio aspetto fisico
+- Mi dice che non valgo niente e che resterei sola se non stessi con lui perché nessuno mi vorrebbe
+Rationale: Repeated verbal attacks, humiliation, blame and devaluation that damage self‑esteem — core psychological abuse distinct from threats, control, or physical assault.
+
+7) Gaslighting and denial / reality undermining
+- Dopo che mi ha aggredito (fisicamente o verbalmente) nega di averlo fatto e mi fa dubitare che sia realmente successo.
+Rationale: Denial and manipulation of the victim’s perception of events (gaslighting) — a specific cognitive/relational tactic that undermines reality and confidence.
+
+8) Jealousy, possessiveness and fidelity policing
+- Diventa estremamente geloso o possessivo
+- Mi accusa di flirtare o di tradirlo
+- Pretende prove d'amore e dimostrazioni di fedeltà nei suoi confronti
+- Dice che sono impegnata in troppe cose e che lo trascuro, vorrebbe che passassimo la maggior parte del tempo insieme
+Rationale: Jealousy-driven control and demands for loyalty/constant exclusivity — a distinct motivational cluster fueling other abusive acts.
+
+9) Emotional volatility and intermittent reinforcement
+- Ha forti oscillazioni d'umore, il minuto prima si arrabbia e mi urla contro e quello successivo è dolce e si scusa
+- Quando faccio qualcosa che a lui non va bene poi non mi parla per giorni
+Rationale: Rapid mood shifts and intermittent punishment/withdrawal (silent treatment) that create unpredictability and reinforce dependency.
+
+10) Social isolation and manipulation of relationships
+- Parla male delle mie amici/amiche e dice che sono dei/delle “poco di buono”
+- Non vuole che io veda la mia famiglia, i miei amici/amiche
+- Mi chiede di non vedere i miei amici/amiche
+Rationale: Active undermining and restriction of social ties to isolate the person from support networks — a classic coercive control strategy.
+
+11) External warnings / others’ concern
+- I miei amici/amiche mi hanno fatto notare che non piace loro come si comporta con me
+- Le mie amiche o la mia famiglia sono preoccupate per me
+Rationale: Reports from third parties flagging concern — external indicators of an unhealthy or abusive dynamic (useful clinically as collateral information).
+
+12) Supportive / healthy relationship behaviours
+- Sento il suo sostegno nelle cose che faccio
+- Sento che possiamo confrontarci e anche litigare senza farci male
+- Mi sento ascoltata e si mostra interessato quando ho qualcosa che voglio condividere
+- Mi incoraggia a provare nuove cose
+- In sua compagnia mi sento a mio agio e al sicuro
+- Mi fa sentire libera di fare le mie scelte su come gestire il mio tempo
+- Mi vuole bene per quella che sono e rispetta le mie scelte
+- Sento di potergli parlare di qualsiasi cosa
+- Capisce che ho bisogno anche di miei spazi personali e comprende che ci sono momenti in cui mi piace stare da sola o con persone diverse da lui (amici/amiche, familiari ecc.)
+Rationale: Positive, autonomy‑respecting, supportive behaviors that define non‑abusive, healthy relational functioning — included to contrast protective/benign patterns.
+
+13) Subjective fear and perceived lack of safety
+- Ho paura di vederlo perché so che potrebbe avere comportamenti che mi possono fare stare male o sentire in imbarazzo
+- Sento disagio o non voglio fare qualcosa ma lo nascondo per paura che si arrabbi
+- In sua compagnia mi capita di sentirmi a disagio e ho la sensazione di dover stare attenta a ciò che dico o a ciò che faccio, come se dovessi “camminare sulle uova” per evitare sue reazioni negative
+- Provo paura vicino a lui, non mi sento al sicuro
+Rationale: Subjective experiences of fear, hypervigilance and self‑censorship — the lived sense of danger or threat that often results from the behaviors in other dimensions and is clinically important in its own right.
+
+Notes:
+- I aimed to keep categories mutually exclusive (e.g., economic behaviors are in 5, monitoring/jealousy in 4/8) and to place items where their primary clinical meaning lies.
+- Some behaviors contribute to multiple processes (e.g., threats can serve to isolate or to control finances), but I assigned each item to the most specific, clinically informative construct. If you want, I can (a) collapse some dimensions into broader factors, (b) produce a psychometrically oriented factor structure suggestion, or (c) map these onto diagnostic/forensic categories (e.g., coercive control, intimate partner violence).

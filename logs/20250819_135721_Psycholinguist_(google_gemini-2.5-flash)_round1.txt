@@ -1,0 +1,90 @@
+### Psycholinguist (google/gemini-2.5-flash)
+Here's a grouping of the items based on semantic similarity and latent linguistic meaning, aiming for distinct dimensions:
+
+---
+
+**Dimension 1: Coercive Control & Isolation**
+
+*   **Label:** **Controlling & Isolating Behavior**
+*   **Items:**
+    *   Mi sento controllata, ho la sensazione che non si fidi di me e che voglia sapere sempre dove sono e con chi, me lo chiede continuamente
+    *   Mi chiede di non vedere i miei amici/amiche
+    *   Sento che mi manda troppi messaggi o mi chiama in modo insistente
+    *   Non mi sento libera di vestirmi come voglio
+    *   Mi impedisce di avere accesso al conto corrente o alle mie risorse economiche
+    *   Controlla come spendo i miei soldi
+    *   Cerca di controllare ciò che faccio e con chi mi vedo
+    *   Mi impedisce cercare un lavoro per essere indipendente
+    *   Dice che sono impegnata in troppe cose e che lo trascuro, vorrebbe che passassimo la maggior parte del tempo insieme
+    *   Non vuole che io veda la mia famiglia, i miei amici/amiche
+    *   Mi viene chiesto di giustificare ogni acquisto che faccio
+    *   Diventa estremamente geloso o possessivo
+*   **Rationale:** This dimension captures behaviors aimed at restricting the individual's autonomy, freedom, and connections with others. It's about the pervasive pattern of control over daily life, finances, social interactions, and personal choices, often stemming from jealousy and a desire for exclusive access.
+
+---
+
+**Dimension 2: Emotional & Psychological Abuse**
+
+*   **Label:** **Emotional & Psychological Manipulation/Abuse**
+*   **Items:**
+    *   Sento disagio o non voglio fare qualcosa ma lo nascondo per paura che si arrabbi
+    *   Pretende prove d'amore e dimostrazioni di fedeltà nei suoi confronti
+    *   Mi dice che non valgo niente e che resterei sola se non stessi con lui perché nessuno mi vorrebbe
+    *   Ha forti oscillazioni d'umore, il minuto prima si arrabbia e mi urla contro e quello successivo è dolce e si scusa
+    *   Mi accusa di flirtare o di tradirlo
+    *   Dopo che mi ha aggredito (fisicamente o verbalmente) nega di averlo fatto e mi fa dubitare che sia realmente successo.
+    *   Mi sento giudicata rispetto alle cose che faccio e a come organizzo la mia vita
+    *   Mi butta giù, mi insulta o mi critica
+    *   Minaccia di farsi del male a causa mia
+    *   Mi dice che, se lo lasciassi, rivelerebbe ad altri dei miei segreti o delle cose molto personali che sa di me
+    *   Urla o mi umilia di fronte ad altre persone
+    *   In sua compagnia mi capita di sentirsi a disagio e ho la sensazione di dover stare attenta a ciò che dico o a ciò che faccio, come se dovessi “camminare sulle uova” per evitare sue reazioni negative
+    *   Non mi fa sentire bene quando parla di come mi prendo cura di me stessa e del mio aspetto fisico
+    *   Parla male delle mie amici/amiche e dice che sono dei/delle “poco di buono”
+    *   Mi fa sentire spesso sbagliata e mi dice che è colpa mia se sta male
+    *   Quando faccio qualcosa che a lui non va bene poi non mi parla per giorni
+*   **Rationale:** This dimension encompasses behaviors that undermine self-esteem, create fear, induce guilt, and manipulate the victim's perception of reality. It includes insults, threats of self-harm, gaslighting, public humiliation, and constant criticism, all designed to exert psychological dominance and control.
+
+---
+
+**Dimension 3: Threats & Physical/Sexual Violence**
+
+*   **Label:** **Threats & Direct Harm**
+*   **Items:**
+    *   Rompe e lancia oggetti per intimidirmi
+    *   Minaccia di mostrare ai miei amici o ai miei familiari mie immagini intime
+    *   Ho paura di vederlo perché so che potrebbe avere comportamenti che mi possono fare stare male o sentire in imbarazzo
+    *   Minaccia di fare del male a me, ai miei amici/amiche o alla mia famiglia
+    *   Mi afferra per i capelli, mi strattona, mi mette le mani al collo, tenta di soffocarmi, mi dà dei pugni, mi schiaffeggia, mi getta addosso degli oggetti o mi fa male in qualche modo
+    *   Ha mostrato mie immagini intime ad altre persone senza il mio consenso
+    *   Mi chiede insistentemente di fare sesso e non accetta quando dico di no o che non mi va
+    *   Minacce di distruggere le mie cose (telefono, vestiti, computer, auto, ecc.)
+*   **Rationale:** This dimension groups overt acts of aggression, intimidation, and direct harm, including physical violence, sexual coercion, and threats involving property damage or the dissemination of sensitive information. It represents the most direct and tangible forms of abuse.
+
+---
+
+**Dimension 4: Impact & External Awareness**
+
+*   **Label:** **Impact & External Concern**
+*   **Items:**
+    *   Le mie amiche o la mia famiglia sono preoccupate per me
+    *   I miei amici/amiche mi hanno fatto notare che non piace loro come si comporta con me
+    *   Provo paura vicino a lui, non mi sento al sicuro
+*   **Rationale:** This dimension focuses on the consequences of the relationship on the individual's emotional state (fear, lack of safety) and the recognition of problematic behavior by external parties (friends, family). It highlights the subjective experience of fear and the objective observation of concern from others.
+
+---
+
+**Dimension 5: Healthy Relationship Indicators**
+
+*   **Label:** **Positive Relational Dynamics**
+*   **Items:**
+    *   Sento che possiamo confrontarci e anche litigare senza farci male
+    *   Sento il suo sostegno nelle cose che faccio
+    *   Sento di potergli parlare di qualsiasi cosa
+    *   Mi vuole bene per quella che sono e rispetta le mie scelte
+    *   Capisce che ho bisogno anche di miei spazi personali e comprende che ci sono momenti in cui mi piace stare da sola o con persone diverse da lui (amici/amiche, familiari ecc.)
+    *   Mi incoraggia a provare nuove cose
+    *   Mi sento ascoltata e si mostra interessato quando ho qualcosa che voglio condividere
+    *   In sua compagnia mi sento a mio agio e al sicuro
+    *   Mi fa sentire libera di fare le mie scelte su come gestire il mio tempo
+*   **Rationale:** This dimension serves as a contrast, capturing the characteristics of a healthy, supportive, and respectful relationship. These items describe positive communication, mutual respect, personal autonomy, and emotional security, providing a benchmark against which the abusive behaviors can be understood.

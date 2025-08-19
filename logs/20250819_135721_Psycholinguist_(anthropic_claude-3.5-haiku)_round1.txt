@@ -1,0 +1,54 @@
+### Psycholinguist (anthropic/claude-3.5-haiku)
+Based on the psychological items provided, I'll analyze the semantic dimensions and group them into latent constructs:
+
+1. EMOTIONAL CONTROL AND MANIPULATION
+- Minacce di distruggere le mie cose
+- Mi impedisce di avere accesso al conto corrente
+- Cerca di controllare ciò che faccio e con chi mi vedo
+- Mi sento controllata, dove sono e con chi
+- Controlla come spendo i miei soldi
+- Ha forti oscillazioni d'umore
+- Quando faccio qualcosa che non va bene non mi parla per giorni
+
+Rationale: This dimension represents systematic attempts to control the partner's autonomy through financial, social, and emotional manipulation.
+
+2. PSYCHOLOGICAL ABUSE AND INTIMIDATION
+- Mi dice che non valgo niente
+- Mi fa sentire sbagliata
+- Mi butta giù, mi insulta o mi critica
+- Urla o mi umilia di fronte ad altre persone
+- Minaccia di fare del male a me/famiglia
+- Rompe e lancia oggetti per intimidirmi
+- Provo paura vicino a lui
+
+Rationale: Represents persistent psychological aggression aimed at destroying self-esteem and creating fear.
+
+3. SEXUAL AND INTIMATE BOUNDARY VIOLATIONS
+- Mi chiede insistentemente di fare sesso
+- Ha mostrato mie immagini intime senza consenso
+- Minaccia di mostrare immagini intime
+- Pretende prove d'amore e fedeltà
+- Mi afferra fisicamente, mi strattona
+
+Rationale: Highlights violations of sexual consent and intimate personal boundaries.
+
+4. SOCIAL ISOLATION TACTICS
+- Non vuole che io veda la mia famiglia/amici
+- Mi chiede di non vedere amici
+- Parla male delle mie amiche
+- Diventa geloso o possessivo
+
+Rationale: Strategies to progressively isolate the partner from support networks.
+
+5. POSITIVE RELATIONAL ASPECTS (Counterpoint)
+- Sento il suo sostegno
+- Mi fa sentire libera
+- Mi vuole bene per come sono
+- Mi incoraggia a provare nuove cose
+- Sento che possiamo confrontarci
+
+Rationale: Represents healthy relational dynamics, providing contrast to abusive patterns.
+
+These dimensions reveal complex psychological dynamics of control, abuse, and intermittent positive reinforcement characteristic of toxic relationships.
+
+Would you like me to elaborate on any of these dimensions or provide further analysis?

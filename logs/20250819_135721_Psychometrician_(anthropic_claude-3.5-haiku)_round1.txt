@@ -1,0 +1,54 @@
+### Psychometrician (anthropic/claude-3.5-haiku)
+Based on a psychometric analysis, I'll identify the following latent dimensions:
+
+1. EMOTIONAL CONTROL AND MANIPULATION
+Items:
+- Says I'm worthless and would be alone without him
+- Makes me feel wrong and says it's my fault if he's unhappy
+- Has extreme mood swings
+- Threatens to reveal my secrets
+- Denies aggression and makes me doubt my perception
+
+Rationale: Captures psychological abuse targeting self-esteem and emotional autonomy
+
+2. SOCIAL ISOLATION AND RESTRICTION
+Items:
+- Prevents me from seeing friends/family
+- Criticizes my friends as "bad"
+- Demands most of my time together
+- Controls who I see and meet
+- Prevents me from working independently
+
+Rationale: Represents systematic attempts to limit social connections and independence
+
+3. PHYSICAL AND SEXUAL COERCION
+Items:
+- Physically aggressive (grabbing, hitting)
+- Insistently asks for sex without accepting "no"
+- Feels uncomfortable/afraid near him
+- Threatens physical harm to self/others
+- Breaks objects to intimidate
+
+Rationale: Encompasses physical violence and sexual boundary violations
+
+4. SUPPORTIVE AND RESPECTFUL RELATIONSHIP DIMENSION
+Items:
+- Feels supported in activities
+- Respects my choices
+- Understands my need for personal space
+- Makes me feel comfortable and safe
+- Can discuss anything openly
+
+Rationale: Represents positive relational characteristics contrasting with abusive behaviors
+
+5. FINANCIAL AND PERSONAL CONTROL
+Items:
+- Prevents access to bank account
+- Demands justification for every purchase
+- Controls how I spend money
+- Judges how I organize my life
+- Restricts clothing choices
+
+Rationale: Focuses on economic and personal autonomy restrictions
+
+These dimensions reveal a comprehensive framework of relationship dynamics, highlighting both abusive and supportive characteristics.

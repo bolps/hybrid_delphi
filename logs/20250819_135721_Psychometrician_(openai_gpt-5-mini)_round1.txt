@@ -1,0 +1,103 @@
+### Psychometrician (openai/gpt-5-mini)
+Below I propose a parsimonious, non‑overlapping set of latent dimensions (factors) that organize the 48 items. For each factor I give: a clear label, the items assigned (verbatim in Italian), and a brief psychometric rationale.
+
+1) Physical violence and property aggression
+- Items:
+  - "Mi afferra per i capelli, mi strattona, mi mette le mani al collo, tenta di soffocarmi, mi dà dei pugni, mi schiaffeggia, mi getta addosso degli oggetti o mi fa male in qualche modo"
+  - "Rompe e lancia oggetti per intimidirmi"
+- Rationale: Direct, observable physical harm and destructive acts form a single behavioral dimension of bodily/physical aggression.
+
+2) Threats, intimidation and coercive disclosure
+- Items:
+  - "Minacce di distruggere le mie cose (telefono, vestiti, computer, auto, ecc.)"
+  - "Minaccia di farsi del male a causa mia"
+  - "Minaccia di fare del male a me, ai miei amici/amiche o alla mia famiglia"
+  - "Mi dice che, se lo lasciassi, rivelerebbe ad altri dei miei segreti o delle cose molto personali che sa di me"
+  - "Minaccia di mostrare ai miei amici o ai miei familiari mie immagini intime"
+- Rationale: Verbal/behavioural threats and explicit intimidation (including blackmail/exposure threats) cluster together as coercive strategies distinct from enacted physical violence.
+
+3) Sexual coercion and image‑based abuse
+- Items:
+  - "Mi chiede insistentemente di fare sesso e non accetta quando dico di no o che non mi va"
+  - "Ha mostrato mie immagini intime ad altre persone senza il mio consenso"
+- Rationale: Coerced sexual contact and non-consensual distribution of sexual images are specific forms of sexual violence/abuse that deserve their own dimension.
+
+4) Economic and resource control
+- Items:
+  - "Mi viene chiesto di giustificare ogni acquisto che faccio"
+  - "Controlla come spendo i miei soldi"
+  - "Mi impedisce di avere accesso al conto corrente o alle mie risorse economiche"
+  - "Mi impedisce cercare un lavoro per essere indipendente"
+- Rationale: Behaviors that restrict financial autonomy and access to resources cohere as an economic coercion factor.
+
+5) Social isolation and autonomy restriction
+- Items:
+  - "Non vuole che io veda la mia famiglia, i miei amici/amiche"
+  - "Mi chiede di non vedere i miei amici/amiche"
+  - "Parla male delle mie amici/amiche e dice che sono dei/delle “poco di buono”"
+  - "Dice che sono impegnata in troppe cose e che lo trascuro, vorrebbe che passassimo la maggior parte del tempo insieme"
+  - "Non mi sento libera di vestirmi come voglio"
+- Rationale: Attempts to cut off or undermine social supports, monopolize time, and restrict personal expression form a coherent isolation/control dimension.
+
+6) Jealousy, surveillance and possessive monitoring
+- Items:
+  - "Diventa estremamente geloso o possessivo"
+  - "Mi accusa di flirtare o di tradirlo"
+  - "Pretende prove d'amore e dimostrazioni di fedeltà nei suoi confronti"
+  - "Sento che mi manda troppi messaggi o mi chiama in modo insistente"
+  - "Mi sento controllata, ho la sensazione che non si fidi di me e che voglia sapere sempre dove sono e con chi, me lo chiede continuamente"
+- Rationale: Persistent suspicion, demands for proof, and intrusive monitoring reflect jealousy‑driven control distinct from broader isolation or economic control.
+
+7) Emotional/verbal abuse and manipulation (including gaslighting)
+- Items:
+  - "Mi fa sentire spesso sbagliata e mi dice che è colpa mia se sta male"
+  - "Mi dice che non valgo niente e che resterei sola se non stessi con lui perché nessuno mi vorrebbe"
+  - "Mi butta giù, mi insulta o mi critica"
+  - "Urla o mi umilia di fronte ad altre persone"
+  - "Quando faccio qualcosa che a lui non va bene poi non mi parla per giorni"
+  - "Dopo che mi ha aggredito (fisicamente o verbalmente) nega di averlo fatto e mi fa dubitare che sia realmente successo."
+  - "Mi sento giudicata rispetto alle cose che faccio e a come organizzo la mia vita"
+  - "Non mi fa sentire bene quando parla di come mi prendo cura di me stessa e del mio aspetto fisico"
+- Rationale: Verbal denigration, blaming, silent‑treatment punishment and gaslighting tap into a single latent domain of emotional/psychological abuse.
+
+8) Fear, hypervigilance and perceived unsafety
+- Items:
+  - "In sua compagnia mi capita di sentirmi a disagio e ho la sensazione di dover stare attenta a ciò che dico o a ciò che faccio, come se dovessi “camminare sulle uova” per evitare sue reazioni negative"
+  - "Ho paura di vederlo perché so che potrebbe avere comportamenti che mi possono fare stare male o sentire in imbarazzo"
+  - "Sento disagio o non voglio fare qualcosa ma lo nascondo per paura che si arrabbi"
+  - "Provo paura vicino a lui, non mi sento al sicuro"
+- Rationale: Subjective fear, anticipatory vigilance and avoidance reflect the psychological state resulting from abusive dynamics; these items form an experiential factor distinct from specific behaviours.
+
+9) Affective instability / mood volatility
+- Items:
+  - "Ha forti oscillazioni d'umore, il minuto prima si arrabbia e mi urla contro e quello successivo è dolce e si scusa"
+- Rationale: Rapid mood swings and unpredictable affect are a distinct interpersonal risk factor (affective instability) that can drive other abusive behaviors.
+
+10) Supportive, respectful and autonomy‑affirming behaviors (healthy relationship factor)
+- Items:
+  - "Mi vuole bene per quella che sono e rispetta le mie scelte"
+  - "Mi sento ascoltata e si mostra interessato quando ho qualcosa che voglio condividere"
+  - "In sua compagnia mi sento a mio agio e al sicuro"
+  - "Mi incoraggia a provare nuove cose"
+  - "Sento di potergli parlare di qualsiasi cosa"
+  - "Capisce che ho bisogno anche di miei spazi personali e comprende che ci sono momenti in cui mi piace stare da sola o con persone diverse da lui (amici/amiche, familiari ecc.)"
+  - "Sento che possiamo confrontarci e anche litigare senza farci male"
+  - "Sento il suo sostegno nelle cose che faccio"
+  - "Mi fa sentire libera di fare le mie scelte su come gestire il mio tempo"
+- Rationale: Positive behaviors and perceived support load together as a healthy‑relationship dimension, useful as a contrast to abusive factors.
+
+11) External concern / social warning signs (others' observations)
+- Items:
+  - "Le mie amiche o la mia famiglia sono preoccupate per me"
+  - "I miei amici/amiche mi hanno fatto notare che non piace loro come si comporta con me"
+- Rationale: Reports of friends/family concern function as externally‑observed indicators of relationship risk and are psychometrically distinct from self‑reported behaviors or feelings.
+
+Notes on structure and logic
+- Items are assigned uniquely to one factor to preserve discriminant validity (no overlaps).
+- Some behaviors are causally related (e.g., mood volatility can precipitate emotional abuse), but psychometrically they represent separable latent constructs: (a) observed acts (physical, sexual, economic), (b) coercive tactics/threats, (c) monitoring/jealousy, (d) subjective states (fear/hypervigilance), and (e) positive/supportive behaviors.
+- This structure supports scale development: several narrow, behaviorally specific subscales (physical violence; sexual coercion; economic control; threats; monitoring/isolation) plus broader psychosocial scales (emotional abuse, fear, support, affective instability, external concern).
+
+If you want, I can:
+- produce a proposed shorter factor map (e.g., combine some factors into higher‑order factors),
+- suggest item groupings for scale scoring,
+- or run a mock exploratory factor analysis plan (sample sizes, rotation choices, expected loadings) for these clusters.

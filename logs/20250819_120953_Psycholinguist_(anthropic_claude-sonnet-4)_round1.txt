@@ -1,0 +1,58 @@
+### Psycholinguist (anthropic/claude-sonnet-4)
+Based on my analysis of these Italian statements about relationship dynamics, I've identified four distinct latent dimensions:
+
+## **1. CONTROLLO E ISOLAMENTO (Control and Isolation)**
+- Mi chiede di non vedere i miei amici/amiche
+- Cerca di controllare ciò che faccio e con chi mi vedo
+- Mi sento controllata, ho la sensazione che non si fidi di me e che voglia sapere sempre dove sono e con chi
+- Non vuole che io veda la mia famiglia, i miei amici/amiche
+- Mi impedisce cercare un lavoro per essere indipendente
+- Dice che sono impegnata in troppe cose e che lo trascuro, vorrebbe che passassimo la maggior parte del tempo insieme
+- Parla male delle mie amici/amiche e dice che sono dei/delle "poco di buono"
+- Diventa estremamente geloso o possessivo
+- Mi accusa di flirtare o di tradirlo
+- Pretende prove d'amore e dimostrazioni di fedeltà nei suoi confronti
+
+**Rationale:** These items reflect systematic attempts to restrict autonomy, limit social connections, and establish dominance through surveillance and jealousy-based control mechanisms.
+
+## **2. ABUSO PSICOLOGICO E MANIPOLAZIONE (Psychological Abuse and Manipulation)**
+- Mi dice che non valgo niente e che resterei sola se non stessi con lui perché nessuno mi vorrebbe
+- Mi fa sentire spesso sbagliata e mi dice che è colpa mia se sta male
+- Mi butta giù, mi insulta o mi critica
+- Dopo che mi ha aggredito nega di averlo fatto e mi fa dubitare che sia realmente successo
+- Ha forti oscillazioni d'umore, il minuto prima si arrabbia e mi urla contro e quello successivo è dolce e si scusa
+- Quando faccio qualcosa che a lui non va bene poi non mi parla per giorni
+- Minaccia di farsi del male a causa mia
+- Non mi fa sentire bene quando parla di come mi prendo cura di me stessa e del mio aspetto fisico
+- Mi sento giudicata rispetto alle cose che faccio e a come organizzo la mia vita
+
+**Rationale:** These behaviors constitute emotional manipulation tactics designed to undermine self-worth, create dependency, and distort reality through gaslighting and emotional volatility.
+
+## **3. MINACCE E VIOLENZA (Threats and Violence)**
+- Provo paura vicino a lui, non mi sento al sicuro
+- Minacce di distruggere le mie cose
+- Minaccia di mostrare ai miei amici o ai miei familiari mie immagini intime
+- Ha mostrato mie immagini intime ad altre persone senza il mio consenso
+- Mi dice che, se lo lasciassi, rivelerebbe ad altri dei miei segreti
+- Minaccia di fare del male a me, ai miei amici/amiche o alla mia famiglia
+- Mi afferra per i capelli, mi strattona, mi mette le mani al collo, tenta di soffocarmi, mi dà dei pugni, mi schiaffeggia
+- Rompe e lancia oggetti per intimidirmi
+- Urla o mi umilia di fronte ad altre persone
+
+**Rationale:** This dimension encompasses direct threats, physical violence, and intimidation tactics that create fear and establish power through force or the threat of force.
+
+## **4. RELAZIONE SANA E SUPPORTIVA (Healthy and Supportive Relationship)**
+- Mi vuole bene per quella che sono e rispetta le mie scelte
+- Sento di potergli parlare di qualsiasi cosa
+- Capisce che ho bisogno anche di miei spazi personali
+- Sento che possiamo confrontarci e anche litigare senza farci male
+- Mi incoraggia a provare nuove cose
+- Mi sento ascoltata e si mostra interessato quando ho qualcosa che voglio condividere
+- Mi fa sentire libera di fare le mie scelte su come gestire il mio tempo
+- In sua compagnia mi sento a mio agio e al sicuro
+- Sento il suo sostegno nelle cose che faccio
+
+**Rationale:** These items represent the antithesis of abuse—healthy relationship dynamics characterized by mutual respect, emotional safety, autonomy support, and genuine care.
+
+**Additional items reflecting abuse impact/awareness:**
+- Various statements about feeling unsafe, walking on eggshells, hiding discomfort, and concerns from friends/family represent the psychological consequences and external recognition of the abusive dynamics described in the first three dimensions.

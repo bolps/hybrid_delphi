@@ -1,0 +1,64 @@
+### Psychometrician (anthropic/claude-sonnet-4)
+Based on psychometric analysis, I identify **5 latent dimensions** underlying these items:
+
+## **1. EMOTIONAL ABUSE & MANIPULATION**
+**Items:**
+- Mi fa sentire spesso sbagliata e mi dice che è colpa mia se sta male
+- Mi dice che non valgo niente e che resterei sola se non stessi con lui perché nessuno mi vorrebbe
+- Mi butta giù, mi insulta o mi critica
+- Urla o mi umilia di fronte ad altre persone
+- Dopo che mi ha aggredito nega di averlo fatto e mi fa dubitare che sia realmente successo
+- Minaccia di farsi del male a causa mia
+- Non mi fa sentire bene quando parla di come mi prendo cura di me stessa e del mio aspetto fisico
+
+**Rationale:** These items reflect psychological manipulation tactics including blame-shifting, degradation, gaslighting, and emotional blackmail designed to undermine self-worth and reality perception.
+
+## **2. CONTROL & ISOLATION**
+**Items:**
+- Non vuole che io veda la mia famiglia, i miei amici/amiche
+- Mi chiede di non vedere i miei amici/amiche
+- Cerca di controllare ciò che faccio e con chi mi vedo
+- Parla male delle mie amici/amiche e dice che sono dei/delle "poco di buono"
+- Mi sento controllata, ho la sensazione che non si fidi di me e che voglia sapere sempre dove sono e con chi
+- Sento che mi manda troppi messaggi o mi chiama in modo insistente
+- Non mi sento libera di vestirmi come voglio
+- Mi impedisce cercare un lavoro per essere indipendente
+
+**Rationale:** These items capture systematic efforts to isolate the victim from support systems and control their autonomy, independence, and social connections.
+
+## **3. PHYSICAL & SEXUAL VIOLENCE**
+**Items:**
+- Mi afferra per i capelli, mi strattona, mi mette le mani al collo, tenta di soffocarmi, mi dà dei pugni, mi schiaffeggia, mi getta addosso degli oggetti o mi fa male in qualche modo
+- Mi chiede insistentemente di fare sesso e non accetta quando dico di no o che non mi va
+- Rompe e lancia oggetti per intimidirmi
+- Minacce di distruggere le mie cose (telefono, vestiti, computer, auto, ecc.)
+- Minaccia di fare del male a me, ai miei amici/amiche o alla mia famiglia
+
+**Rationale:** These items represent direct physical aggression, sexual coercion, and intimidation through violence or threats of violence.
+
+## **4. FINANCIAL CONTROL & DIGITAL ABUSE**
+**Items:**
+- Mi viene chiesto di giustificare ogni acquisto che faccio
+- Controlla come spendo i miei soldi
+- Mi impedisce di avere accesso al conto corrente o alle mie risorse economiche
+- Ha mostrato mie immagini intime ad altre persone senza il mio consenso
+- Minaccia di mostrare ai miei amici o ai miei familiari mie immagini intime
+- Mi dice che, se lo lasciassi, rivelerebbe ad altri dei miei segreti o delle cose molto personali che sa di me
+
+**Rationale:** These items reflect economic abuse and technology-facilitated abuse, including financial control and non-consensual sharing or threats involving private information/images.
+
+## **5. HEALTHY RELATIONSHIP BEHAVIORS** *(Reverse-coded dimension)*
+**Items:**
+- Mi vuole bene per quella che sono e rispetta le mie scelte
+- Mi sento ascoltata e si mostra interessato quando ho qualcosa che voglio condividere
+- In sua compagnia mi sento a mio agio e al sicuro
+- Mi incoraggia a provare nuove cose
+- Sento di potergli parlare di qualsiasi cosa
+- Capisce che ho bisogno anche di miei spazi personali
+- Sento che possiamo confrontarci e anche litigare senza farci male
+- Sento il suo sostegno nelle cose che faccio
+- Mi fa sentire libera di fare le mie scelte su come gestire il mio tempo
+
+**Rationale:** These items represent positive relationship qualities including respect, support, healthy communication, and autonomy - serving as protective factors and indicators of relationship health.
+
+**Note:** Several items reflect victim impact/responses (fear, walking on eggshells, external concern) that could form a separate "Victim Impact" dimension, but they conceptually overlap with the abuse dimensions as psychological consequences.

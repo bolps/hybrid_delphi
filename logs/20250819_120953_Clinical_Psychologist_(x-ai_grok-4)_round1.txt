@@ -1,0 +1,85 @@
+### Clinical Psychologist (x-ai/grok-4)
+Below, I present the latent dimensions underlying the provided list of items. As a clinical psychologist specializing in relational and affective disorders, I analyzed these items through the lens of intimate partner violence (IPV) frameworks, attachment theory, and affective dysregulation patterns. The items largely reflect a dichotomy between abusive dynamics (e.g., coercive control, emotional manipulation) and healthy relational bonds (e.g., secure attachment and mutual respect). I identified six coherent, non-overlapping dimensions by clustering items based on shared psychological constructs, such as power imbalances, fear induction, autonomy restriction, and supportive reciprocity. These dimensions are derived from evidence-based models like the Duluth Model of domestic abuse and attachment-based relational health.
+
+### 1. Physical Violence
+**Items:**
+- Mi afferra per i capelli, mi strattona, mi mette le mani al collo, tenta di soffocarmi, mi dà dei pugni, mi schiaffeggia, mi getta addosso degli oggetti o mi fa male in qualche modo
+- Rompe e lancia oggetti per intimidirmi
+
+**Rationale:** These items represent direct physical aggression and intimidation through destruction of property, aligning with the construct of physical abuse in IPV, which aims to instill fear and dominance through bodily harm or threats of harm, often escalating relational power imbalances.
+
+### 2. Emotional Abuse and Manipulation
+**Items:**
+- Mi fa sentire spesso sbagliata e mi dice che è colpa mia se sta male
+- Mi butta giù, mi insulta o mi critica
+- Quando faccio qualcosa che a lui non va bene poi non mi parla per giorni
+- In sua compagnia mi capita di sentirmi a disagio e ho la sensazione di dover stare attenta a ciò che dico o a ciò che faccio, come se dovessi “camminare sulle uova” per evitare sue reazioni negative
+- Sento disagio o non voglio fare qualcosa ma lo nascondo per paura che si arrabbi
+- Mi dice che non valgo niente e che resterei sola se non stessi con lui perché nessuno mi vorrebbe
+- Ha forti oscillazioni d'umore, il minuto prima si arrabbia e mi urla contro e quello successivo è dolce e si scusa
+- Dopo che mi ha aggredito (fisicamente o verbalmente) nega di averlo fatto e mi fa dubitare che sia realmente successo.
+- Non mi fa sentire bene quando parla di come mi prendo cura di me stessa e del mio aspetto fisico
+- Mi sento giudicata rispetto alle cose che faccio e a come organizzo la mia vita
+- Ho paura di vederlo perché so che potrebbe avere comportamenti che mi possono fare stare male o sentire in imbarazzo
+- Urla o mi umilia di fronte ad altre persone
+- Provo paura vicino a lui, non mi sento al sicuro
+
+**Rationale:** This dimension captures psychological tactics like gaslighting, blame-shifting, mood volatility, and humiliation, which erode self-esteem and foster emotional dependency. Rooted in affective disorders and manipulative attachment styles, these behaviors create a cycle of idealization-devaluation, leading to anxiety and self-doubt in the victim.
+
+### 3. Coercive Control and Surveillance
+**Items:**
+- Cerca di controllare ciò che faccio e con chi mi vedo
+- Mi sento controllata, ho la sensazione che non si fidi di me e che voglia sapere sempre dove sono e con chi, me lo chiede continuamente
+- Sento che mi manda troppi messaggi o mi chiama in modo insistente
+- Diventa estremamente geloso o possessivo
+- Mi accusa di flirtare o di tradirlo
+- Non mi sento libera di vestirmi come voglio
+- Pretende prove d'amore e dimostrazioni di fedeltà nei suoi confronti
+- Dice che sono impegnata in troppe cose e che lo trascuro, vorrebbe che passassimo la maggior parte del tempo insieme
+
+**Rationale:** These items reflect surveillance and possessiveness, hallmarks of coercive control in relational disorders. This construct involves restricting autonomy and fostering paranoia, often linked to insecure attachment and jealousy-driven affective dysregulation, to maintain dominance and prevent independence.
+
+### 4. Isolation and Social Restriction
+**Items:**
+- I miei amici/amiche mi hanno fatto notare che non piace loro come si comporta con me
+- Non vuole che io veda la mia famiglia, i miei amici/amiche
+- Le mie amiche o la mia famiglia sono preoccupate per me
+- Mi chiede di non vedere i miei amici/amiche
+- Parla male delle mie amici/amiche e dice che sono dei/delle “poco di buono”
+
+**Rationale:** This grouping involves tactics to sever external support networks, a key feature of abusive relational dynamics. By isolating the individual, the abuser amplifies dependency, consistent with attachment theory's emphasis on how such behaviors disrupt secure social bonds and heighten vulnerability to affective distress.
+
+### 5. Sexual and Economic Coercion
+**Items:**
+- Mi chiede insistentemente di fare sesso e non accetta quando dico di no o che non mi va
+- Ha mostrato mie immagini intime ad altre persone senza il mio consenso
+- Mi impedisce di avere accesso al conto corrente o alle mie risorse economiche
+- Minaccia di mostrare ai miei amici o ai miei familiari mie immagini intime
+- Mi impedisce cercare un lavoro per essere indipendente
+- Controlla come spendo i miei soldi
+- Mi viene chiesto di giustificare ogni acquisto che faccio
+- Mi dice che, se lo lasciassi, rivelerebbe ad altri dei miei segreti o delle cose molto personali che sa di me
+
+**Rationale:** These items encompass violations of bodily and financial autonomy, including sexual pressure and economic control, which are forms of coercion in IPV. This dimension ties into power dynamics in relational disorders, where withholding resources or privacy exploits vulnerabilities to enforce compliance and prevent separation.
+
+### 6. Threats and Intimidation
+**Items:**
+- Minaccia di fare del male a me, ai miei amici/amiche o alla mia famiglia
+- Minaccia di farsi del male a causa mia
+- Minacce di distruggere le mie cose (telefono, vestiti, computer, auto, ecc.)
+
+**Rationale:** Focused on explicit threats of harm to self, others, or property, this dimension represents intimidation tactics in abusive relationships. It aligns with affective dysregulation constructs, such as borderline features, where threats manipulate emotions like guilt or fear to maintain control.
+
+### 7. Healthy Relational Support
+**Items:**
+- Mi vuole bene per quella che sono e rispetta le mie scelte
+- Mi fa sentire libera di fare le mie scelte su come gestire il mio tempo
+- Mi sento ascoltata e si mostra interessato quando ho qualcosa che voglio condividere
+- Mi incoraggia a provare nuove cose
+- In sua compagnia mi sento a mio agio e al sicuro
+- Capisce che ho bisogno anche di miei spazi personali e comprende che ci sono momenti in cui mi piace stare da sola o con persone diverse da lui (amici/amiche, familiari ecc.)
+- Sento di potergli parlare di qualsiasi cosa
+- Sento che possiamo confrontarci e anche litigare senza farci male
+- Sento il suo sostegno nelle cose che faccio
+
+**Rationale:** In contrast to abusive dimensions, these items embody secure attachment and mutual respect, promoting emotional safety, autonomy, and growth. This construct reflects healthy affective regulation in relationships, fostering trust and resilience without fear or control.

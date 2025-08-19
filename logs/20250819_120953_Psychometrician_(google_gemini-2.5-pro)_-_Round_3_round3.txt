@@ -1,0 +1,609 @@
+### Psychometrician (google/gemini-2.5-pro) - Round 3
+```json
+[
+  {
+    "item_id": "IT29",
+    "dimension": "Psychological & Emotional Abuse",
+    "evidence_for": "Directly captures verbal attacks and criticism, undermining self-worth.",
+    "evidence_against": "The word 'critica' could be interpreted broadly, but context helps.",
+    "fit": 5,
+    "clarity": 4,
+    "redundant": false,
+    "overlaps_with": [],
+    "recommendation": "Retain",
+    "justification": "A core, clear item capturing verbal abuse and undermining self-worth, central to the dimension."
+  },
+  {
+    "item_id": "IT31",
+    "dimension": "Psychological & Emotional Abuse",
+    "evidence_for": "Classic example of undermining self-worth and creating emotional dependency.",
+    "evidence_against": "The phrasing is very specific; not all abusers use these exact words.",
+    "fit": 5,
+    "clarity": 5,
+    "redundant": false,
+    "overlaps_with": [],
+    "recommendation": "Retain",
+    "justification": "A powerful, specific, and unambiguous item capturing a core tactic of emotional abuse."
+  },
+  {
+    "item_id": "IT16",
+    "dimension": "Psychological & Emotional Abuse",
+    "evidence_for": "Captures criticism aimed at self-worth, specifically targeting physical appearance.",
+    "evidence_against": "Wording 'non mi fa sentire bene' is subjective and less direct than 'critica'.",
+    "fit": 3,
+    "clarity": 4,
+    "redundant": true,
+    "overlaps_with": [
+      "IT29"
+    ],
+    "recommendation": "Drop",
+    "justification": "A specific, weaker instance of criticism already covered by IT29. Dropping it improves scale parsimony."
+  },
+  {
+    "item_id": "IT41",
+    "dimension": "Psychological & Emotional Abuse",
+    "evidence_for": "Captures public humiliation, a potent and distinct form of emotional abuse.",
+    "evidence_against": "'Urla' could also fit intimidation, but 'umilia' anchors it here.",
+    "fit": 5,
+    "clarity": 5,
+    "redundant": false,
+    "overlaps_with": [],
+    "recommendation": "Retain",
+    "justification": "Captures the important public dimension of humiliation, distinct from private verbal attacks."
+  },
+  {
+    "item_id": "IT13",
+    "dimension": "Psychological & Emotional Abuse",
+    "evidence_for": "Taps into the feeling of being constantly scrutinized.",
+    "evidence_against": "Focuses on the victim's feeling ('mi sento') rather than the abuser's action.",
+    "fit": 3,
+    "clarity": 4,
+    "redundant": true,
+    "overlaps_with": [
+      "IT29"
+    ],
+    "recommendation": "Drop",
+    "justification": "Focuses on the victim's feeling, not the action. It is a weaker, more subjective version of the criticism captured in IT29."
+  },
+  {
+    "item_id": "IT30",
+    "dimension": "Psychological & Emotional Abuse",
+    "evidence_for": "Perfectly describes manipulation through blame-shifting and guilt-tripping.",
+    "evidence_against": "'Mi fa sentire' is subjective, but balanced by the specific behavioral description.",
+    "fit": 5,
+    "clarity": 5,
+    "redundant": false,
+    "overlaps_with": [],
+    "recommendation": "Retain",
+    "justification": "Clearly captures the core manipulation tactics of blame-shifting and guilt-tripping."
+  },
+  {
+    "item_id": "IT39",
+    "dimension": "Psychological & Emotional Abuse",
+    "evidence_for": "A classic description of gaslighting, undermining the victim's perception of reality.",
+    "evidence_against": "Parenthetical '(fisicamente o verbalmente)' could create cross-loading with the physical violence dimension.",
+    "fit": 5,
+    "clarity": 4,
+    "redundant": false,
+    "overlaps_with": [],
+    "recommendation": "Revise",
+    "justification": "Core gaslighting item. Revise to remove the parenthetical to keep it focused purely on psychological manipulation and avoid dimension cross-loading."
+  },
+  {
+    "item_id": "IT14",
+    "dimension": "Psychological & Emotional Abuse",
+    "evidence_for": "Describes the 'silent treatment,' a classic form of emotional punishment and manipulation.",
+    "evidence_against": "A passive behavior, but its manipulative intent fits the dimension.",
+    "fit": 4,
+    "clarity": 5,
+    "redundant": false,
+    "overlaps_with": [],
+    "recommendation": "Retain",
+    "justification": "Captures the 'silent treatment,' a distinct and important manipulative behavior not covered elsewhere."
+  },
+  {
+    "item_id": "IT27",
+    "dimension": "Psychological & Emotional Abuse",
+    "evidence_for": "Describes the cycle of abuse, creating an unpredictable, anxiety-inducing environment.",
+    "evidence_against": "Describes a pattern over time, not a single abusive act.",
+    "fit": 4,
+    "clarity": 5,
+    "redundant": false,
+    "overlaps_with": [],
+    "recommendation": "Retain",
+    "justification": "Effectively captures the cyclical nature of abuse and the creation of an unpredictable environment, a key aspect of psychological abuse."
+  },
+  {
+    "item_id": "IT28",
+    "dimension": "Psychological & Emotional Abuse",
+    "evidence_for": "Perfectly describes the hypervigilance ('walking on eggshells') created by an abusive environment.",
+    "evidence_against": "Describes the victim's internal state/coping, not the abuser's direct action.",
+    "fit": 4,
+    "clarity": 5,
+    "redundant": false,
+    "overlaps_with": [],
+    "recommendation": "Retain",
+    "justification": "'Walking on eggshells' is a hallmark indicator of an abusive environment, capturing the dimension's core atmosphere of anxiety."
+  },
+  {
+    "item_id": "IT18",
+    "dimension": "Psychological & Emotional Abuse",
+    "evidence_for": "Shows the effect of intimidation on behavior, leading to self-censorship.",
+    "evidence_against": "Focuses on the victim's internal conflict and fear, not the abuser's action.",
+    "fit": 3,
+    "clarity": 4,
+    "redundant": true,
+    "overlaps_with": [
+      "IT28"
+    ],
+    "recommendation": "Drop",
+    "justification": "Weaker and more general than IT28. 'Walking on eggshells' (IT28) is a more robust psychometric concept that encompasses this idea."
+  },
+  {
+    "item_id": "IT23",
+    "dimension": "Coercive Control & Social Isolation",
+    "evidence_for": "Directly describes surveillance ('wants to know where I am') and control.",
+    "evidence_against": "Starts with 'Mi sento' and is long; combines multiple behaviors.",
+    "fit": 4,
+    "clarity": 3,
+    "redundant": true,
+    "overlaps_with": [
+      "IT25",
+      "IT15"
+    ],
+    "recommendation": "Drop",
+    "justification": "This item is long, multi-faceted, and its core ideas are better and more cleanly captured by IT25 and IT15."
+  },
+  {
+    "item_id": "IT25",
+    "dimension": "Coercive Control & Social Isolation",
+    "evidence_for": "A clear, general statement about behavioral control and social restriction.",
+    "evidence_against": "It is general, but serves as a good anchor for the dimension.",
+    "fit": 5,
+    "clarity": 5,
+    "redundant": false,
+    "overlaps_with": [],
+    "recommendation": "Retain",
+    "justification": "A strong, clear, and comprehensive item that captures the essence of coercive control over activities and social life."
+  },
+  {
+    "item_id": "IT15",
+    "dimension": "Coercive Control & Social Isolation",
+    "evidence_for": "Specific behavioral example of surveillance and intrusive digital contact.",
+    "evidence_against": "'Troppi' (too many) is subjective, but the context implies coercion.",
+    "fit": 4,
+    "clarity": 4,
+    "redundant": false,
+    "overlaps_with": [],
+    "recommendation": "Retain",
+    "justification": "Captures a very common and specific modern form of control (digital surveillance), which is distinct from other items."
+  },
+  {
+    "item_id": "IT24",
+    "dimension": "Coercive Control & Social Isolation",
+    "evidence_for": "Specific example of restricting personal autonomy and expression.",
+    "evidence_against": "'Non mi sento libera' is an internal state, not a direct action.",
+    "fit": 4,
+    "clarity": 4,
+    "redundant": false,
+    "overlaps_with": [],
+    "recommendation": "Revise",
+    "justification": "Good content. Revise to focus on the partner's behavior for greater strength, e.g., 'Cerca di controllare come mi vesto.'"
+  },
+  {
+    "item_id": "IT21",
+    "dimension": "Coercive Control & Social Isolation",
+    "evidence_for": "Jealousy is the motivation behind many controlling behaviors.",
+    "evidence_against": "Describes a trait/emotion rather than a specific controlling action.",
+    "fit": 3,
+    "clarity": 4,
+    "redundant": true,
+    "overlaps_with": [
+      "IT22",
+      "IT25"
+    ],
+    "recommendation": "Drop",
+    "justification": "Describes the motivation, not the action. Other items (e.g., IT22, IT25) capture the specific behaviors of jealousy more effectively."
+  },
+  {
+    "item_id": "IT22",
+    "dimension": "Coercive Control & Social Isolation",
+    "evidence_for": "A specific verbal tactic of control stemming from jealousy.",
+    "evidence_against": "Could also fit Psychological Abuse, but the context of control is stronger.",
+    "fit": 4,
+    "clarity": 5,
+    "redundant": false,
+    "overlaps_with": [],
+    "recommendation": "Retain",
+    "justification": "A specific and common controlling behavior (accusations) that is often used to justify isolation and surveillance."
+  },
+  {
+    "item_id": "IT20",
+    "dimension": "Coercive Control & Social Isolation",
+    "evidence_for": "Describes a form of coercive testing and control.",
+    "evidence_against": "Ambiguous. 'Proof of love' can mean many different things.",
+    "fit": 3,
+    "clarity": 3,
+    "redundant": false,
+    "overlaps_with": [],
+    "recommendation": "Drop",
+    "justification": "Too ambiguous. The specific behaviors it might imply are better captured by other, clearer items in the scale."
+  },
+  {
+    "item_id": "IT11",
+    "dimension": "Coercive Control & Social Isolation",
+    "evidence_for": "Direct, clear example of attempted social isolation from friends.",
+    "evidence_against": "'Chiede' (asks) is a softer verb than others might use.",
+    "fit": 5,
+    "clarity": 5,
+    "redundant": true,
+    "overlaps_with": [
+      "IT26"
+    ],
+    "recommendation": "Drop",
+    "justification": "Highly redundant with IT26, which is slightly stronger and broader by including family in addition to friends."
+  },
+  {
+    "item_id": "IT26",
+    "dimension": "Coercive Control & Social Isolation",
+    "evidence_for": "Core item for social isolation, covering both friends and family.",
+    "evidence_against": "None.",
+    "fit": 5,
+    "clarity": 5,
+    "redundant": false,
+    "overlaps_with": [],
+    "recommendation": "Retain",
+    "justification": "A core, clear, and comprehensive item on social isolation from key support networks."
+  },
+  {
+    "item_id": "IT10",
+    "dimension": "Coercive Control & Social Isolation",
+    "evidence_for": "A specific tactic to undermine support networks and achieve isolation.",
+    "evidence_against": "Could be seen as verbal abuse, but the clear goal is isolation.",
+    "fit": 4,
+    "clarity": 5,
+    "redundant": false,
+    "overlaps_with": [],
+    "recommendation": "Retain",
+    "justification": "Describes a key tactic ('poisoning the well') used to achieve social isolation, distinct from directly forbidding contact."
+  },
+  {
+    "item_id": "IT12",
+    "dimension": "Coercive Control & Social Isolation",
+    "evidence_for": "A manipulative tactic to monopolize time and limit autonomy.",
+    "evidence_against": "Can be framed as a desire for closeness, making it subtle.",
+    "fit": 4,
+    "clarity": 5,
+    "redundant": false,
+    "overlaps_with": [],
+    "recommendation": "Retain",
+    "justification": "Captures a subtle but important form of control: monopolizing the partner's time under the guise of love or neglect."
+  },
+  {
+    "item_id": "IT38",
+    "dimension": "Physical Violence & Intimidation",
+    "evidence_for": "Lists multiple, severe, and unambiguous acts of physical violence.",
+    "evidence_against": "Very long 'laundry list' item, but this can increase endorsement.",
+    "fit": 5,
+    "clarity": 5,
+    "redundant": false,
+    "overlaps_with": [],
+    "recommendation": "Retain",
+    "justification": "A crucial behavioral checklist item that captures a range of severe physical violence, increasing the likelihood of endorsement for any single act."
+  },
+  {
+    "item_id": "IT40",
+    "dimension": "Physical Violence & Intimidation",
+    "evidence_for": "Perfect example of intimidation through destruction of property.",
+    "evidence_against": "No direct physical contact, but the intent is clearly intimidation.",
+    "fit": 5,
+    "clarity": 5,
+    "redundant": false,
+    "overlaps_with": [],
+    "recommendation": "Retain",
+    "justification": "Captures a key form of intimidation that doesn't involve direct physical assault but creates a clear climate of threat."
+  },
+  {
+    "item_id": "IT17",
+    "dimension": "Physical Violence & Intimidation",
+    "evidence_for": "Captures the emotional result of intimidation and violence.",
+    "evidence_against": "It's an internal state (fear), not the behavior causing it.",
+    "fit": 3,
+    "clarity": 5,
+    "redundant": false,
+    "overlaps_with": [],
+    "recommendation": "Drop",
+    "justification": "Measures the outcome (fear) rather than the perpetrator's actions. IT38 and IT40 are stronger behavioral items that cause this feeling."
+  },
+  {
+    "item_id": "IT43",
+    "dimension": "Physical Violence & Intimidation",
+    "evidence_for": "Describes anticipatory fear based on past behavior.",
+    "evidence_against": "'Sentire in imbarazzo' (embarrassed) points more to psychological abuse; wording is vague.",
+    "fit": 2,
+    "clarity": 2,
+    "redundant": true,
+    "overlaps_with": [
+      "IT17"
+    ],
+    "recommendation": "Drop",
+    "justification": "Vague, confusing, and mixes concepts from different dimensions. Much weaker than other items intended to measure intimidation."
+  },
+  {
+    "item_id": "IT35",
+    "dimension": "Threats & Blackmail",
+    "evidence_for": "Core item covering threats of physical harm to victim and third parties.",
+    "evidence_against": "None.",
+    "fit": 5,
+    "clarity": 5,
+    "redundant": false,
+    "overlaps_with": [],
+    "recommendation": "Retain",
+    "justification": "A core, clear, and comprehensive item capturing threats of physical violence against the victim and their network."
+  },
+  {
+    "item_id": "IT37",
+    "dimension": "Threats & Blackmail",
+    "evidence_for": "Clear example of threats against property.",
+    "evidence_against": "None.",
+    "fit": 5,
+    "clarity": 5,
+    "redundant": false,
+    "overlaps_with": [],
+    "recommendation": "Retain",
+    "justification": "Captures a distinct and important type of threat (against property) not covered by other items."
+  },
+  {
+    "item_id": "IT34",
+    "dimension": "Threats & Blackmail",
+    "evidence_for": "Classic example of reputational blackmail using secrets.",
+    "evidence_against": "None.",
+    "fit": 5,
+    "clarity": 5,
+    "redundant": false,
+    "overlaps_with": [],
+    "recommendation": "Retain",
+    "justification": "Clearly captures blackmail related to reputational harm and personal secrets, a key form of coercion."
+  },
+  {
+    "item_id": "IT36",
+    "dimension": "Threats & Blackmail",
+    "evidence_for": "A common and powerful form of coercive threat and emotional blackmail.",
+    "evidence_against": "None.",
+    "fit": 5,
+    "clarity": 5,
+    "redundant": false,
+    "overlaps_with": [],
+    "recommendation": "Retain",
+    "justification": "Captures the distinct and highly manipulative tactic of threatening self-harm to control the partner."
+  },
+  {
+    "item_id": "IT33",
+    "dimension": "Threats & Blackmail",
+    "evidence_for": "Specific, modern form of blackmail (revenge porn threat).",
+    "evidence_against": "It is a highly specific subset of revealing secrets.",
+    "fit": 4,
+    "clarity": 5,
+    "redundant": true,
+    "overlaps_with": [
+      "IT34"
+    ],
+    "recommendation": "Drop",
+    "justification": "While important, this is a specific example of the broader principle in IT34 ('revealing secrets'). For parsimony, IT34 is sufficient."
+  },
+  {
+    "item_id": "IT42",
+    "dimension": "Sexual Coercion & Violation",
+    "evidence_for": "Clearly describes sexual coercion and disregard for consent.",
+    "evidence_against": "None.",
+    "fit": 5,
+    "clarity": 5,
+    "redundant": false,
+    "overlaps_with": [],
+    "recommendation": "Retain",
+    "justification": "A core, clear item that captures sexual coercion and the violation of consent within a relationship."
+  },
+  {
+    "item_id": "IT32",
+    "dimension": "Sexual Coercion & Violation",
+    "evidence_for": "Clear violation of sexual privacy and autonomy.",
+    "evidence_against": "It is the act of showing, not coercion into a sexual act.",
+    "fit": 4,
+    "clarity": 5,
+    "redundant": false,
+    "overlaps_with": [],
+    "recommendation": "Retain",
+    "justification": "Captures a critical and distinct aspect of sexual violation (non-consensual image sharing), complementing the coercion item."
+  },
+  {
+    "item_id": "IT46",
+    "dimension": "Economic Abuse",
+    "evidence_for": "A direct, severe form of economic control over resources.",
+    "evidence_against": "None.",
+    "fit": 5,
+    "clarity": 5,
+    "redundant": false,
+    "overlaps_with": [],
+    "recommendation": "Retain",
+    "justification": "A core, clear item describing a severe form of economic abuse: blocking access to financial resources."
+  },
+  {
+    "item_id": "IT48",
+    "dimension": "Economic Abuse",
+    "evidence_for": "Describes sabotaging economic independence at the source.",
+    "evidence_against": "None.",
+    "fit": 5,
+    "clarity": 5,
+    "redundant": false,
+    "overlaps_with": [],
+    "recommendation": "Retain",
+    "justification": "A core item capturing a key tactic of economic abuse: preventing the partner from gaining financial independence."
+  },
+  {
+    "item_id": "IT45",
+    "dimension": "Economic Abuse",
+    "evidence_for": "Describes direct control over spending, a key aspect of economic abuse.",
+    "evidence_against": "None.",
+    "fit": 5,
+    "clarity": 5,
+    "redundant": false,
+    "overlaps_with": [],
+    "recommendation": "Retain",
+    "justification": "A clear, core item that captures the controlling aspect of monitoring and dictating spending."
+  },
+  {
+    "item_id": "IT47",
+    "dimension": "Economic Abuse",
+    "evidence_for": "A specific behavioral example of financial control.",
+    "evidence_against": "This is the primary mechanism of the behavior in IT45.",
+    "fit": 4,
+    "clarity": 5,
+    "redundant": true,
+    "overlaps_with": [
+      "IT45"
+    ],
+    "recommendation": "Drop",
+    "justification": "Highly redundant with IT45. 'Controls how I spend my money' is a broader statement that implies this justification requirement."
+  },
+  {
+    "item_id": "IT19",
+    "dimension": "External Warning Signs & Social Validation",
+    "evidence_for": "Captures the social network's general concern for the person.",
+    "evidence_against": "A perception of others' feelings, not a direct communication.",
+    "fit": 4,
+    "clarity": 5,
+    "redundant": true,
+    "overlaps_with": [
+      "IT09"
+    ],
+    "recommendation": "Drop",
+    "justification": "Redundant with IT09, which is stronger because it specifies the partner's behavior as the cause of concern."
+  },
+  {
+    "item_id": "IT09",
+    "dimension": "External Warning Signs & Social Validation",
+    "evidence_for": "Captures a specific, communicated observation from the social network.",
+    "evidence_against": "Limited to friends, while family is also a key source.",
+    "fit": 5,
+    "clarity": 5,
+    "redundant": false,
+    "overlaps_with": [],
+    "recommendation": "Revise",
+    "justification": "Excellent item. Should be broadened to include 'familiari' (family) to be more comprehensive and capture all key social validators."
+  },
+  {
+    "item_id": "IT07",
+    "dimension": "Healthy Relationship Dynamics",
+    "evidence_for": "Excellent indicator of healthy conflict resolution and emotional safety.",
+    "evidence_against": "None.",
+    "fit": 5,
+    "clarity": 5,
+    "redundant": false,
+    "overlaps_with": [],
+    "recommendation": "Retain",
+    "justification": "Captures the crucial concept of safe and constructive conflict, a hallmark of a healthy relationship."
+  },
+  {
+    "item_id": "IT01",
+    "dimension": "Healthy Relationship Dynamics",
+    "evidence_for": "Directly measures perceived support, a key component of a healthy bond.",
+    "evidence_against": "A bit general compared to other items, but 'support' is fundamental.",
+    "fit": 4,
+    "clarity": 5,
+    "redundant": true,
+    "overlaps_with": [
+      "IT02"
+    ],
+    "recommendation": "Retain",
+    "justification": "While slightly general, 'support' is a fundamental concept. It's broader than just encouragement (IT02) and worth keeping for its face validity."
+  },
+  {
+    "item_id": "IT44",
+    "dimension": "Healthy Relationship Dynamics",
+    "evidence_for": "Excellent measure of open communication and psychological safety.",
+    "evidence_against": "None.",
+    "fit": 5,
+    "clarity": 5,
+    "redundant": false,
+    "overlaps_with": [],
+    "recommendation": "Retain",
+    "justification": "Captures the feeling of open communication channels, which is distinct from the act of being listened to (IT03). Both are valuable."
+  },
+  {
+    "item_id": "IT06",
+    "dimension": "Healthy Relationship Dynamics",
+    "evidence_for": "Measures unconditional positive regard and respect for autonomy.",
+    "evidence_against": "It is double-barreled ('loves me' and 'respects my choices').",
+    "fit": 5,
+    "clarity": 3,
+    "redundant": true,
+    "overlaps_with": [
+      "IT05"
+    ],
+    "recommendation": "Revise",
+    "justification": "Strong concepts but double-barreled. Should be revised to focus only on 'rispetta le mie scelte' to improve clarity and reduce redundancy."
+  },
+  {
+    "item_id": "IT04",
+    "dimension": "Healthy Relationship Dynamics",
+    "evidence_for": "Directly measures respect for autonomy and individuality.",
+    "evidence_against": "Very long, convoluted, and internally redundant.",
+    "fit": 5,
+    "clarity": 2,
+    "redundant": true,
+    "overlaps_with": [
+      "IT05"
+    ],
+    "recommendation": "Drop",
+    "justification": "Extremely redundant with IT05, which is far more concise, clear, and psychometrically sound."
+  },
+  {
+    "item_id": "IT02",
+    "dimension": "Healthy Relationship Dynamics",
+    "evidence_for": "Specific, positive behavior that demonstrates support for growth.",
+    "evidence_against": "A 'nice to have' but maybe not as core as safety or respect.",
+    "fit": 4,
+    "clarity": 5,
+    "redundant": false,
+    "overlaps_with": [],
+    "recommendation": "Retain",
+    "justification": "A good, specific item that taps into active support for personal growth, a positive and distinct relationship indicator."
+  },
+  {
+    "item_id": "IT03",
+    "dimension": "Healthy Relationship Dynamics",
+    "evidence_for": "Measures active listening and validation, key to good communication.",
+    "evidence_against": "None.",
+    "fit": 5,
+    "clarity": 5,
+    "redundant": false,
+    "overlaps_with": [],
+    "recommendation": "Retain",
+    "justification": "Captures the crucial communication skill of active listening, which is distinct from the potential to talk about anything (IT44)."
+  },
+  {
+    "item_id": "IT08",
+    "dimension": "Healthy Relationship Dynamics",
+    "evidence_for": "Measures the fundamental feeling of safety and comfort.",
+    "evidence_against": "It's a feeling, but a foundational one for this dimension.",
+    "fit": 5,
+    "clarity": 5,
+    "redundant": false,
+    "overlaps_with": [],
+    "recommendation": "Retain",
+    "justification": "Arguably the most fundamental indicator of a healthy, non-abusive relationship. A cornerstone item."
+  },
+  {
+    "item_id": "IT05",
+    "dimension": "Healthy Relationship Dynamics",
+    "evidence_for": "Clear measure of autonomy support regarding time management.",
+    "evidence_against": "The 'mi fa sentire' phrasing is slightly weaker than a direct behavioral statement.",
+    "fit": 5,
+    "clarity": 4,
+    "redundant": false,
+    "overlaps_with": [],
+    "recommendation": "Revise",
+    "justification": "Excellent concept. Rephrase to be more behavioral for greater strength, e.g., 'Rispetta le mie scelte su come gestisco il mio tempo.'"
+  }
+]
+```

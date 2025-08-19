@@ -1,0 +1,128 @@
+### Psycholinguist (openai/gpt-5-chat)
+Great — I’ll analyze the list through a **lexical-semantic and psycholinguistic lens**, seeking underlying conceptual categories that organize these behaviors and statements. The latent dimensions capture *types of relational dynamics*: coercion, control, emotional abuse, support, etc.  
+
+Here is a structured grouping:
+
+---
+
+### **1. Sexual Coercion and Intimate Boundary Violations**
+- Mi chiede insistentemente di fare sesso e non accetta quando dico di no o che non mi va  
+- Ha mostrato mie immagini intime ad altre persone senza il mio consenso  
+- Minaccia di mostrare ai miei amici o ai miei familiari mie immagini intime  
+
+**Rationale:** These items cluster around violations of sexual autonomy and intimacy boundaries, involving coercion, non-consensual sharing of sexual material, and sexual blackmail.
+
+---
+
+### **2. Economic Control and Dependency**
+- Mi impedisce di avere accesso al conto corrente o alle mie risorse economiche  
+- Mi viene chiesto di giustificare ogni acquisto che faccio  
+- Controlla come spendo i miei soldi  
+- Mi impedisce cercare un lavoro per essere indipendente  
+
+**Rationale:** All these reflect financial abuse or economic restriction, aiming to reduce independence and enforce dependence.
+
+---
+
+### **3. Isolation from Social Support**
+- Mi chiede di non vedere i miei amici/amiche  
+- Non vuole che io veda la mia famiglia, i miei amici/amiche  
+- Dice che sono impegnata in troppe cose e che lo trascuro, vorrebbe che passassimo la maggior parte del tempo insieme  
+- Parla male delle mie amici/amiche e dice che sono dei/delle “poco di buono”  
+
+**Rationale:** These items describe systematic isolation — discouraging or prohibiting outside connections, monopolizing time, and denigrating the person’s network.  
+
+---
+
+### **4. Monitoring, Jealousy, and Possessiveness**
+- Cerca di controllare ciò che faccio e con chi mi vedo  
+- Mi sento controllata, ho la sensazione che non si fidi di me e che voglia sapere sempre dove sono e con chi, me lo chiede continuamente  
+- Diventa estremamente geloso o possessivo  
+- Sento che mi manda troppi messaggi o mi chiama in modo insistente  
+- Pretende prove d'amore e dimostrazioni di fedeltà nei suoi confronti  
+- Mi accusa di flirtare o di tradirlo  
+
+**Rationale:** This dimension reflects intrusive surveillance, possessiveness, jealousy, and demands for constant reassurance — all tied to control rooted in insecurity.
+
+---
+
+### **5. Emotional Abuse and Psychological Manipulation**
+- Mi fa sentire spesso sbagliata e mi dice che è colpa mia se sta male  
+- Mi butta giù, mi insulta o mi critica  
+- Mi dice che non valgo niente e che resterei sola se non stessi con lui perché nessuno mi vorrebbe  
+- Non mi fa sentire bene quando parla di come mi prendo cura di me stessa e del mio aspetto fisico  
+- Mi sento giudicata rispetto alle cose che faccio e a come organizzo la mia vita  
+- Dopo che mi ha aggredito (fisicamente o verbalmente) nega di averlo fatto e mi fa dubitare che sia realmente successo  
+- Quando faccio qualcosa che a lui non va bene poi non mi parla per giorni  
+
+**Rationale:** These items denote verbal abuse, humiliation, invalidation, gaslighting, and manipulation, undermining self-esteem and inducing guilt/shame.  
+
+---
+
+### **6. Threats, Intimidation, and Fear Induction**
+- Minaccia di farsi del male a causa mia  
+- Minacce di distruggere le mie cose (telefono, vestiti, computer, auto, ecc.)  
+- Minaccia di fare del male a me, ai miei amici/amiche o alla mia famiglia  
+- Mi dice che, se lo lasciassi, rivelerebbe ad altri dei miei segreti o delle cose molto personali che sa di me  
+- Rompe e lancia oggetti per intimidirmi  
+- Urla o mi umilia di fronte ad altre persone  
+
+**Rationale:** All describe threat-based tactics (self-harm threats, violence toward others, intimidation, humiliation) designed to instill fear and gain submission.  
+
+---
+
+### **7. Physical Violence**
+- Mi afferra per i capelli, mi strattona, mi mette le mani al collo, tenta di soffocarmi, mi dà dei pugni, mi schiaffeggia, mi getta addosso degli oggetti o mi fa male in qualche modo  
+
+**Rationale:** This explicitly describes direct physical aggression, distinct from intimidation or emotional tactics.  
+
+---
+
+### **8. Psychological Consequences for the Victim**
+- Sento disagio o non voglio fare qualcosa ma lo nascondo per paura che si arrabbi  
+- In sua compagnia mi capita di sentirmi a disagio e ho la sensazione di dover stare attenta a ciò che dico o a ciò che faccio, come se dovessi “camminare sulle uova” per evitare sue reazioni negative  
+- Provo paura vicino a lui, non mi sento al sicuro  
+- Ho paura di vederlo perché so che potrebbe avere comportamenti che mi possono fare stare male o sentire in imbarazzo  
+
+**Rationale:** These items mark lived consequences for the partner — fear, hypervigilance, emotional paralysis — showing the internalized effects of abuse and control.  
+
+---
+
+### **9. Positive Relational Qualities (Protective Contrast Set)**
+- Sento di potergli parlare di qualsiasi cosa  
+- Capisce che ho bisogno anche di miei spazi personali e comprende che ci sono momenti in cui mi piace stare da sola o con persone diverse da lui  
+- Sento il suo sostegno nelle cose che faccio  
+- In sua compagnia mi sento a mio agio e al sicuro  
+- Sento che possiamo confrontarci e anche litigare senza farci male  
+- Mi fa sentire libera di fare le mie scelte su come gestire il mio tempo  
+- Mi sento ascoltata e si mostra interessato quando ho qualcosa che voglio condividere  
+- Mi incoraggia a provare nuove cose  
+- Mi vuole bene per quella che sono e rispetta le mie scelte  
+
+**Rationale:** These are positive indicators (mutual respect, support, security, autonomy). They act as conceptual opposites of controlling or violent dynamics, serving as a comparison set.  
+
+---
+
+### **10. External Observers’ Concerns**
+- I miei amici/amiche mi hanno fatto notare che non piace loro come si comporta con me  
+- Le mie amiche o la mia famiglia sono preoccupate per me  
+
+**Rationale:** These are meta-reflective perspectives — external others witnessing warning signs — highlighting social validation of abuse dynamics.  
+
+---
+
+✅ **Summary of latent dimensions:**  
+1. Sexual coercion & intimate violations  
+2. Economic control  
+3. Isolation tactics  
+4. Surveillance & jealousy  
+5. Emotional abuse & gaslighting  
+6. Threats & intimidation  
+7. Physical violence  
+8. Victim’s fear & emotional impact  
+9. Positive relational qualities (alternative secure model)  
+10. External social feedback  
+
+---
+
+Would you like me to **collapse these 10 into a smaller set of higher-order factors** (e.g., “Control,” “Abuse/Violence,” “Supportive Dynamics”) to see the *deepest latent dimensions*?

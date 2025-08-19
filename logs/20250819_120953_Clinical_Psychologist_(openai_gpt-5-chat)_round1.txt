@@ -1,0 +1,101 @@
+### Clinical Psychologist (openai/gpt-5-chat)
+Ottima lista: ciò che emerge è un insieme eterogeneo di descrizioni che spaziano da comportamenti di **cura e sostegno** ad altri che indicano **controllo, violenza psicologica, economica, sessuale e fisica**.  
+Il compito clinico consiste nell’estrarre i **fattori latenti**, ossia le dimensioni psicologiche sottese, senza sovrapposizioni.  
+
+---
+
+## 📑 Dimensioni latenti individuate
+
+### 1. **Relazione di cura e sostegno**
+- In sua compagnia mi sento a mio agio e al sicuro  
+- Sento di potergli parlare di qualsiasi cosa  
+- Sento che possiamo confrontarci e anche litigare senza farci male  
+- Mi vuole bene per quella che sono e rispetta le mie scelte  
+- Capisce che ho bisogno anche di miei spazi personali e comprende che ci sono momenti in cui mi piace stare da sola o con persone diverse da lui (amici/amiche, familiari ecc.)  
+- Sento il suo sostegno nelle cose che faccio  
+- Mi fa sentire libera di fare le mie scelte su come gestire il mio tempo  
+- Mi incoraggia a provare nuove cose  
+- Mi sento ascoltata e si mostra interessato quando ho qualcosa che voglio condividere  
+
+**Razionale:** descrivono un **pattern relazionale sano**, fondato su sicurezza, accettazione, rispetto dei confini personali e supporto.
+
+---
+
+### 2. **Controllo e limitazione dell’autonomia**
+- Cerca di controllare ciò che faccio e con chi mi vedo  
+- Non mi sento libera di vestirmi come voglio  
+- Mi impedisce cercare un lavoro per essere indipendente  
+- Dice che sono impegnata in troppe cose e che lo trascuro, vorrebbe che passassimo la maggior parte del tempo insieme  
+- Mi viene chiesto di giustificare ogni acquisto che faccio  
+- Mi chiede di non vedere i miei amici/amiche  
+- Non vuole che io veda la mia famiglia, i miei amici/amiche  
+- Controlla come spendo i miei soldi  
+- Mi impedisce di avere accesso al conto corrente o alle mie risorse economiche  
+- Pretende prove d'amore e dimostrazioni di fedeltà nei suoi confronti  
+- Mi sento controllata, ho la sensazione che non si fidi di me e che voglia sapere sempre dove sono e con chi, me lo chiede continuamente  
+- Sento che mi manda troppi messaggi o mi chiama in modo insistente  
+
+**Razionale:** si tratta di **comportamenti intrusivi e possessivi**, che limitano l’indipendenza e il diritto alla libera autodeterminazione, spesso con caratteristiche di **abuso psicologico o coercizione economica**.
+
+---
+
+### 3. **Violenza psicologica ed emotiva**
+- Non mi fa sentire bene quando parla di come mi prendo cura di me stessa e del mio aspetto fisico  
+- Parla male delle mie amici/amiche e dice che sono dei/delle “poco di buono”  
+- Mi butta giù, mi insulta o mi critica  
+- Quando faccio qualcosa che a lui non va bene poi non mi parla per giorni  
+- Dopo che mi ha aggredito (fisicamente o verbalmente) nega di averlo fatto e mi fa dubitare che sia realmente successo.  
+- In sua compagnia mi capita di sentirmi a disagio e ho la sensazione di dover stare attenta a ciò che dico o a ciò che faccio, come se dovessi “camminare sulle uova” per evitare sue reazioni negative  
+- Mi fa sentire spesso sbagliata e mi dice che è colpa mia se sta male  
+- Mi sento giudicata rispetto alle cose che faccio e a come organizzo la mia vita  
+- Mi dice che non valgo niente e che resterei sola se non stessi con lui perché nessuno mi vorrebbe  
+- Urla o mi umilia di fronte ad altre persone  
+
+**Razionale:** pattern di svalutazione, colpevolizzazione, umiliazione e **gaslighting** che minano l’autostima e il senso di realtà.
+
+---
+
+### 4. **Minacce e intimidazioni**
+- Mi dice che, se lo lasciassi, rivelerebbe ad altri dei miei segreti o delle cose molto personali che sa di me  
+- Minacce di distruggere le mie cose (telefono, vestiti, computer, auto, ecc.)  
+- Rompe e lancia oggetti per intimidirmi  
+- Ha mostrato mie immagini intime ad altre persone senza il mio consenso  
+- Minaccia di mostrare ai miei amici o ai miei familiari mie immagini intime  
+- Minaccia di farsi del male a causa mia  
+- Minaccia di fare del male a me, ai miei amici/amiche o alla mia famiglia  
+
+**Razionale:** uso della minaccia (autolesiva, diffamatoria, distruttiva, aggressiva) come **strumento di potere e coercizione**.
+
+---
+
+### 5. **Violenza fisica e sessuale**
+- Mi chiede insistentemente di fare sesso e non accetta quando dico di no o che non mi va  
+- Mi afferra per i capelli, mi strattona, mi mette le mani al collo, tenta di soffocarmi, mi dà dei pugni, mi schiaffeggia, mi getta addosso degli oggetti o mi fa male in qualche modo  
+
+**Razionale:** comportamenti che costituiscono **abusi sessuali e fisici diretti**, con potenziale danno grave e immediato.
+
+---
+
+### 6. **Segnali esterni di allarme e percezione soggettiva di rischio**
+- Le mie amiche o la mia famiglia sono preoccupate per me  
+- I miei amici/amiche mi hanno fatto notare che non piace loro come si comporta con me  
+- Ha forti oscillazioni d'umore, il minuto prima si arrabbia e mi urla contro e quello successivo è dolce e si scusa  
+- Provo paura vicino a lui, non mi sento al sicuro  
+- Diventa estremamente geloso o possessivo  
+- Ho paura di vederlo perché so che potrebbe avere comportamenti che mi possono fare stare male o sentire in imbarazzo  
+- Sento disagio o non voglio fare qualcosa ma lo nascondo per paura che si arrabbi  
+- Mi accusa di flirtare o di tradirlo  
+
+**Razionale:** includono sia la **consapevolezza soggettiva di rischio**, sia **feedback esterni** (osservazioni di altri significativi). Costituiscono campanelli d’allarme legati al vissuto di paura e insicurezza.
+
+---
+
+## 🔎 Sintesi
+- **Benessere e sicurezza (1)** ↔ fattori protettivi.  
+- **Controllo/limitazione (2)**, **violenza psicologica (3)**, **minacce (4)**, **violenza fisica/sessuale (5)**, **segnali di pericolo soggettivi ed esterni (6)** ↔ differenti modalità di **dinamica abusiva**.  
+
+⚖️ Questi cluster riflettono la distinzione clinicamente utile tra **comportamenti di supporto** e **dinamiche coercitive/abusive**, con gradi diversi di gravità e rischio.  
+
+---
+
+Vuoi che trasformi questa classificazione in una **scala clinico-diagnostica** (con punteggi e soglie indicative di rischio relazionale), oppure preferisci mantenerla come mappatura qualitativa delle dimensioni?

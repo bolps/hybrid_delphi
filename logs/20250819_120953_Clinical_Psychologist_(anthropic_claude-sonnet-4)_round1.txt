@@ -1,0 +1,59 @@
+### Clinical Psychologist (anthropic/claude-sonnet-4)
+Based on my clinical analysis, I've identified five core dimensions that capture the psychological constructs underlying these relational behaviors:
+
+## 1. **COERCIVE CONTROL AND ISOLATION**
+**Items:**
+- Cerca di controllare ciò che faccio e con chi mi vedo
+- Mi sento controllata, ho la sensazione che non si fidi di me e che voglia sapere sempre dove sono e con chi
+- Non vuole che io veda la mia famiglia, i miei amici/amiche
+- Mi chiede di non vedere i miei amici/amiche
+- Dice che sono impegnata in troppe cose e che lo trascuro, vorrebbe che passassimo la maggior parte del tempo insieme
+- Parla male delle mie amici/amiche e dice che sono dei/delle "poco di buono"
+
+**Rationale:** This dimension captures systematic efforts to isolate the victim and establish dominance through control of social connections and autonomy.
+
+## 2. **PSYCHOLOGICAL MANIPULATION AND GASLIGHTING**
+**Items:**
+- Dopo che mi ha aggredito nega di averlo fatto e mi fa dubitare che sia realmente successo
+- Ha forti oscillazioni d'umore, il minuto prima si arrabbia e mi urla contro e quello successivo è dolce e si scusa
+- Mi fa sentire spesso sbagliata e mi dice che è colpa mia se sta male
+- Mi dice che non valgo niente e che resterei sola se non stessi con lui perché nessuno mi vorrebbe
+- Sento disagio o non voglio fare qualcosa ma lo nascondo per paura che si arrabbi
+
+**Rationale:** These behaviors represent deliberate psychological manipulation designed to undermine the victim's reality testing and self-worth.
+
+## 3. **INTIMIDATION AND THREATS**
+**Items:**
+- Rompe e lancia oggetti per intimidirmi
+- Minaccia di farsi del male a causa mia
+- Minaccia di fare del male a me, ai miei amici/amiche o alla mia famiglia
+- Minacce di distruggere le mie cose
+- Mi dice che, se lo lasciassi, rivelerebbe ad altri dei miei segreti
+- Minaccia di mostrare ai miei amici o ai miei familiari mie immagini intime
+
+**Rationale:** This dimension encompasses intimidation tactics and threats used to instill fear and maintain control through coercion.
+
+## 4. **DIRECT ABUSE (Physical, Sexual, Verbal)**
+**Items:**
+- Mi afferra per i capelli, mi strattona, mi mette le mani al collo, tenta di soffocarmi, mi dà dei pugni, mi schiaffeggia
+- Urla o mi umilia di fronte ad altre persone
+- Mi butta giù, mi insulta o mi critica
+- Mi chiede insistentemente di fare sesso e non accetta quando dico di no
+- Ha mostrato mie immagini intime ad altre persone senza il mio consenso
+
+**Rationale:** This represents overt abusive behaviors across physical, sexual, and verbal domains that cause direct harm.
+
+## 5. **HEALTHY RELATIONSHIP FUNCTIONING**
+**Items:**
+- Sento il suo sostegno nelle cose che faccio
+- Sento che possiamo confrontarci e anche litigare senza farci male
+- Mi sento ascoltata e si mostra interessato quando ho qualcosa che voglio condividere
+- Mi incoraggia a provare nuove cose
+- In sua compagnia mi sento a mio agio e al sicuro
+- Mi fa sentire libera di fare le mie scelte su come gestire il mio tempo
+- Mi vuole bene per quella che sono e rispetta le mie scelte
+- Capisce che ho bisogno anche di miei spazi personali
+
+**Rationale:** These items reflect secure attachment behaviors and healthy relationship dynamics, serving as protective factors and indicators of relationship quality.
+
+**Note:** Several items related to external validation (friends/family concerns, fear responses) and economic control could form additional dimensions but appear to be consequences or specific manifestations of the core abusive patterns identified above.

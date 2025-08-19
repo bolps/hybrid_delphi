@@ -1,0 +1,117 @@
+### Psycholinguist (google/gemini-2.5-pro)
+Certamente. In qualità di psicolinguista, analizzo il significato latente e le connessioni semantiche degli item forniti. Emergono diverse dimensioni psicologiche che descrivono dinamiche relazionali, prevalentemente disfunzionali, contrapposte a un nucleo di comportamenti sani.
+
+Ecco la mia analisi e raggruppamento in 9 dimensioni latenti.
+
+***
+
+### Dimensione 1: Controllo e Isolamento
+Questa dimensione raggruppa comportamenti volti a limitare l'autonomia della partner, monitorare le sue attività e separarla dalla sua rete di supporto sociale. Il significato latente è la possessività e la riduzione della libertà individuale.
+
+*   **Item:**
+    *   Mi sento controllata, ho la sensazione che non si fidi di me e che voglia sapere sempre dove sono e con chi, me lo chiede continuamente
+    *   Mi chiede di non vedere i miei amici/amiche
+    *   Sento che mi manda troppi messaggi o mi chiama in modo insistente
+    *   Non mi sento libera di vestirmi come voglio
+    *   Cerca di controllare ciò che faccio e con chi mi vedo
+    *   Non vuole che io veda la mia famiglia, i miei amici/amiche
+    *   Parla male delle mie amici/amiche e dice che sono dei/delle “poco di buono”
+    *   Diventa estremamente geloso o possessivo
+    *   Dice che sono impegnata in troppe cose e che lo trascuro, vorrebbe che passassimo la maggior parte del tempo insieme
+
+*   **Rationale:** Tutti questi item descrivono un pattern di controllo pervasivo. L'obiettivo semantico comune è l'erosione dello spazio personale e sociale della vittima, funzionale a stabilire un dominio esclusivo su di lei.
+
+### Dimensione 2: Svalutazione e Abuso Emotivo
+Questo cluster si concentra su attacchi verbali e psicologici diretti a minare l'autostima e il valore personale della partner. Il nucleo semantico è la denigrazione sistematica.
+
+*   **Item:**
+    *   Mi dice che non valgo niente e che resterei sola se non stessi con lui perché nessuno mi vorrebbe
+    *   Mi sento giudicata rispetto alle cose che faccio e a come organizzo la mia vita
+    *   Mi butta giù, mi insulta o mi critica
+    *   Urla o mi umilia di fronte ad altre persone
+    *   Non mi fa sentire bene quando parla di come mi prendo cura di me stessa e del mio aspetto fisico
+
+*   **Rationale:** A differenza del controllo, il focus qui è sull'attacco all'identità. Il linguaggio usato mira a demolire la fiducia in sé stessi, creando dipendenza emotiva attraverso la svalutazione.
+
+### Dimensione 3: Manipolazione Psicologica e Gaslighting
+Questa dimensione include tattiche manipolatorie più sottili, come la distorsione della realtà, l'induzione del senso di colpa e l'uso del silenzio come punizione.
+
+*   **Item:**
+    *   Pretende prove d'amore e dimostrazioni di fedeltà nei suoi confronti
+    *   Dopo che mi ha aggredito (fisicamente o verbalmente) nega di averlo fatto e mi fa dubitare che sia realmente successo.
+    *   Mi accusa di flirtare o di tradirlo
+    *   Mi fa sentire spesso sbagliata e mi dice che è colpa mia se sta male
+    *   Quando faccio qualcosa che a lui non va bene poi non mi parla per giorni
+
+*   **Rationale:** Il filo conduttore è la manipolazione della percezione e delle emozioni. Questi comportamenti non sono attacchi diretti, ma strategie subdole per confondere la vittima, farla sentire responsabile del comportamento dell'abusante e mantenere il potere.
+
+### Dimensione 4: Intimidazione e Minacce
+Qui si raggruppano le azioni e le parole che creano un clima di paura attraverso minacce esplicite di violenza verso la persona, i suoi cari, i suoi beni o sé stesso.
+
+*   **Item:**
+    *   Rompe e lancia oggetti per intimidirmi
+    *   Minaccia di mostrare ai miei amici o ai miei familiari mie immagini intime
+    *   Minaccia di farsi del male a causa mia
+    *   Mi dice che, se lo lasciassi, rivelerebbe ad altri dei miei segreti o delle cose molto personali che sa di me
+    *   Minaccia di fare del male a me, ai miei amici/amiche o alla mia famiglia
+    *   Minacce di distruggere le mie cose (telefono, vestiti, computer, auto, ecc.)
+
+*   **Rationale:** Il significato latente è l'uso della paura come strumento di coercizione. L'aggressività non è (ancora o non solo) fisica sulla persona, ma viene agita su oggetti o verbalizzata come minaccia per ottenere obbedienza.
+
+### Dimensione 5: Abuso Economico
+Questa dimensione è molto specifica e riguarda il controllo delle risorse finanziarie come forma di potere e limitazione dell'indipendenza.
+
+*   **Item:**
+    *   Mi impedisce di avere accesso al conto corrente o alle mie risorse economiche
+    *   Controlla come spendo i miei soldi
+    *   Mi impedisce cercare un lavoro per essere indipendente
+    *   Mi viene chiesto di giustificare ogni acquisto che faccio
+
+*   **Rationale:** Il cluster è semanticamente coeso attorno al tema del denaro e del lavoro. L'obiettivo è rendere la partner economicamente dipendente, una leva potente per impedirle di lasciare la relazione.
+
+### Dimensione 6: Violenza Fisica e Sessuale
+Questo cluster descrive l'aggressione fisica diretta e la coercizione sessuale, rappresentando la forma più esplicita di abuso.
+
+*   **Item:**
+    *   Mi afferra per i capelli, mi strattona, mi mette le mani al collo, tenta di soffocarmi, mi dà dei pugni, mi schiaffeggia, mi getta addosso degli oggetti o mi fa male in qualche modo
+    *   Ha mostrato mie immagini intime ad altre persone senza il mio consenso
+    *   Mi chiede insistentemente di fare sesso e non accetta quando dico di no o che non mi va
+
+*   **Rationale:** La dimensione è definita dall'attraversamento del confine corporeo. Include sia la violenza fisica conclamata sia la violenza sessuale (coercizione e violazione della privacy a sfondo sessuale).
+
+### Dimensione 7: Clima di Paura e Instabilità Emotiva
+Questa dimensione cattura l'esperienza soggettiva della vittima: l'atmosfera di tensione, imprevedibilità e paura che pervade la relazione.
+
+*   **Item:**
+    *   Sento disagio o non voglio fare qualcosa ma lo nascondo per paura che si arrabbi
+    *   Ha forti oscillazioni d'umore, il minuto prima si arrabbia e mi urla contro e quello successivo è dolce e si scusa
+    *   Ho paura di vederlo perché so che potrebbe avere comportamenti che mi possono fare stare male o sentire in imbarazzo
+    *   In sua compagnia mi capita di sentirmi a disagio e ho la sensazione di dover stare attenta a ciò che dico o a ciò che faccio, come se dovessi “camminare sulle uova” per evitare sue reazioni negative
+    *   Provo paura vicino a lui, non mi sento al sicuro
+
+*   **Rationale:** A differenza delle altre dimensioni che descrivono i comportamenti dell'abusante, questa descrive lo stato emotivo risultante nella vittima. Il nucleo semantico è l'ipervigilanza ("camminare sulle uova") e la paura costante generate dall'imprevedibilità del partner.
+
+### Dimensione 8: Percezione Esterna e Preoccupazione Sociale
+Questo piccolo ma significativo cluster evidenzia la consapevolezza della rete sociale riguardo alla problematicità della relazione.
+
+*   **Item:**
+    *   Le mie amiche o la mia famiglia sono preoccupate per me
+    *   I miei amici/amiche mi hanno fatto notare che non piace loro come si comporta con me
+
+*   **Rationale:** Il significato latente è la validazione esterna del malessere. Questi item indicano che il problema non è solo percepito internamente, ma è visibile e riconosciuto anche da osservatori esterni, fungendo da potenziale campanello d'allarme.
+
+### Dimensione 9: Relazione Sana: Rispetto, Supporto e Sicurezza
+Infine, questa dimensione raggruppa tutti gli item che descrivono una dinamica relazionale positiva, basata sulla fiducia, il rispetto reciproco e il sostegno. Funge da polo opposto a tutte le altre dimensioni.
+
+*   **Item:**
+    *   Sento che possiamo confrontarci e anche litigare senza farci male
+    *   Sento il suo sostegno nelle cose che faccio
+    *   Sento di potergli parlare di qualsiasi cosa
+    *   Mi vuole bene per quella che sono e rispetta le mie scelte
+    *   Capisce che ho bisogno anche di miei spazi personali e comprende che ci sono momenti in cui mi piace stare da sola o con persone diverse da lui (amici/amiche, familiari ecc.)
+    *   Mi incoraggia a provare nuove cose
+    *   Mi sento ascoltata e si mostra interessato quando ho qualcosa che voglio condividere
+    *   In sua compagnia mi sento a mio agio e al sicuro
+    *   Mi fa sentire libera di fare le mie scelte su come gestire il mio tempo
+
+*   **Rationale:** Questi item sono semanticamente opposti a quelli delle dimensioni di abuso. Il loro nucleo comune è la promozione dell'individualità all'interno di un legame sicuro, caratterizzato da comunicazione aperta, accettazione e incoraggiamento.

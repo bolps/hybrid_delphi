@@ -142,11 +142,12 @@ id_by_text = {v: k for k, v in item_id_map.items()}
 # Models & roles
 # =====================
 models = [
-    "google/gemini-2.5-flash-lite",
-    "x-ai/grok-3-mini",
-    "openai/gpt-4.1-mini",
+    "google/gemini-2.5-pro",
+    "x-ai/grok-4",
+    "anthropic/claude-sonnet-4",
+    "openai/gpt-5-chat",
 ]
-moderator_model = "google/gemini-2.5-flash-lite"
+moderator_model = "google/gemini-2.5-pro"
 
 roles = [
     {

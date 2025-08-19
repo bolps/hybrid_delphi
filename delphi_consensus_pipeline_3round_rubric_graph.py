@@ -155,7 +155,7 @@ models = [
 ]
 
 #moderator_model = "google/gemini-2.5-pro"
-moderator_model = "qwen/qwen3-235b-a22b-2507"
+moderator_model = "meta-llama/llama-4-maverick"
 
 roles = [
     {

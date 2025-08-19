@@ -124,7 +124,7 @@ items = [
     "Minacce di distruggere le mie cose (telefono, vestiti, computer, auto, ecc.)",
     "Mi afferra per i capelli, mi strattona, mi mette le mani al collo, tenta di soffocarmi, mi dà dei pugni, mi schiaffeggia, mi getta addosso degli oggetti o mi fa male in qualche modo",
     "Dopo che mi ha aggredito (fisicamente o verbalmente) nega di averlo fatto e mi fa dubitare che sia realmente successo.",
-    "Rompe e lancia oggetti per intimidirmi (con "getta" può sembrare che li butti via)",
+    "Rompe e lancia oggetti per intimidirmi",
     "Urla o mi umilia di fronte ad altre persone",
     "Mi chiede insistentemente di fare sesso e non accetta quando dico di no o che non mi va",
     "Ho paura di vederlo perché so che potrebbe avere comportamenti che mi possono fare stare male o sentire in imbarazzo",

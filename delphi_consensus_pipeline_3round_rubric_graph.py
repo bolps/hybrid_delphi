@@ -895,7 +895,6 @@ for dim in dimension_order:
             rec["reason"]
         ])
 
-# Print in console
 headers = [
     "Item ID", "Item Text", "Dim ID", "Dimension Text",
     "Fit Mean", "Clarity Mean", "Fit IQR", "Redundancy",
@@ -903,6 +902,7 @@ headers = [
 ]
 
 df = pd.DataFrame(table_data, columns=headers)
+df.drop(columns=["Redundancy"], inplace=True)  # Remove Dim ID for clarity
 excel_path = f"results/{timestamp}_Round3_Decisions.xlsx"
 df.to_excel(excel_path, index=False)
 print(f"\n💾 Final decisions table saved to: {excel_path}")

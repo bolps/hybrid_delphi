@@ -3,7 +3,7 @@ import os
 import json
 import argparse
 from pathlib import Path
-from typing import Dict, List
+from typing import Dict, List, Iterable
 
 import pandas as pd
 from dotenv import load_dotenv
@@ -72,16 +72,47 @@ def get_narrative_by_id(narratives: List[Dict], narrative_id: str) -> str:
     raise ValueError(f"Narrative with ID '{narrative_id}' not found")
 
 
+def _escape_non_placeholder_braces(template: str, placeholders: Iterable[str]) -> str:
+    """
+    Protects the known placeholders like {item_id} by swapping them to sentinel tokens,
+    then escapes ALL other braces in the template (turns { -> {{ and } -> }}),
+    and finally restores the protected placeholders.
+
+    This lets you keep JSON in your template (with lots of braces) while still using
+    str.format() only for the fields we explicitly support.
+    """
+    # 1) Protect placeholders
+    protected = {}
+    protected_template = template
+    for name in placeholders:
+        literal = "{" + name + "}"
+        token = f"__PLACEHOLDER_{name.upper()}__"
+        protected[name] = token
+        protected_template = protected_template.replace(literal, token)
+
+    # 2) Escape all remaining braces
+    protected_template = protected_template.replace("{", "{{").replace("}", "}}")
+
+    # 3) Restore placeholders
+    for name, token in protected.items():
+        protected_template = protected_template.replace(token, "{" + name + "}")
+
+    return protected_template
+
+
 def make_prompts(narrative: str, narrative_id: str, template_path: str, questions_df: pd.DataFrame):
     """
     Formats one prompt per row in questions_df using the template file.
-    The template should contain string.format placeholders:
+    The template can safely contain JSON with braces. Use these placeholders:
       {item_id}, {item_text}, {dimension_text}, {narrative}, {narrative_id}
     """
     template = Path(template_path).read_text(encoding="utf-8")
+    placeholders = ["item_id", "item_text", "dimension_text", "narrative", "narrative_id"]
+    safe_template = _escape_non_placeholder_braces(template, placeholders)
+
     prompts = []
     for _, row in questions_df.iterrows():
-        prompt = template.format(
+        prompt = safe_template.format(
             item_id=row["item_id"],
             item_text=row["item_text"],
             dimension_text=row["dimension_text"],
@@ -125,7 +156,10 @@ def main():
     parser.add_argument("--questions-xlsx", required=True, help="Path to the Excel file with items/questions")
     parser.add_argument("--prompt-template", default="narrative_prompt.txt", help="Path to the prompt template file")
     parser.add_argument("--narratives-json", required=True, help="Path to the narratives JSON file")
-    parser.add_argument("--narrative-id", required=True, help="ID of the specific narrative to use")
+
+    # NOTE: --narrative-id is optional now. Required only when --process-all is NOT set.
+    parser.add_argument("--narrative-id", required=False, help="ID of the specific narrative to use")
+
     parser.add_argument("--out", default="labeled_items.jsonl", help="Output JSONL path")
     parser.add_argument("--model", default="openai/gpt-4o", help="OpenRouter model name (e.g. openai/gpt-4o)")
     parser.add_argument("--temperature", type=float, default=0.0, help="Sampling temperature")
@@ -135,6 +169,12 @@ def main():
     parser.add_argument("--process-all", action="store_true", help="Process all narratives in the JSON file")
     
     args = parser.parse_args()
+
+    # Validate flags: --narrative-id is required unless --process-all is used.
+    if not args.process_all and not args.narrative_id:
+        parser.error("--narrative-id is required unless --process-all is provided")
+    if args.process_all and args.narrative_id:
+        print("[info] --process-all provided; --narrative-id will be ignored.")
 
     # Load inputs
     qdf = load_questions(args.questions_xlsx)
@@ -190,7 +230,7 @@ def main():
                             "raw_response": content,
                             "parsed": parsed,
                         }
-                        f.write(json.dumps(row, ensure_ascii=False) + "\n")
+                        f.write(json.dumps(row, ensure_ascii=False) + "\\n")
                         wrote += 1
                     except Exception as e:
                         err = {
@@ -198,7 +238,7 @@ def main():
                             "narrative_id": p["narrative_id"],
                             "error": str(e)
                         }
-                        f.write(json.dumps(err, ensure_ascii=False) + "\n")
+                        f.write(json.dumps(err, ensure_ascii=False) + "\\n")
                         print(f"[error] item {p['item_id']} (narrative {p['narrative_id']}): {e}")
 
             print(f"Wrote {wrote} rows for narrative {narrative_id} to {out_file.resolve()}")

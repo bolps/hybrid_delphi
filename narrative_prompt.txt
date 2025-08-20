@@ -1,15 +1,11 @@
-You are labeling a boolean questionnaire from a single Reddit narrative.
-CRITICAL RULES (False-by-default policy, no Unknown option):
-- Only use information explicitly stated in the narrative. Do not infer or guess.
-- Labels:
-  * True  → the narrative contains an explicit statement supporting the item.
-  * False → the item is NOT mentioned in the narrative OR the narrative explicitly contradicts it.
-- Evidence:
-  * For True: MUST include a minimal verbatim quote supporting the item.
-  * For False: 
-      - If there is an explicit denial, quote it.
-      - If the item is not mentioned at all, set evidence_span to "Not specified in the narrative".
-- Never invent details. Prefer the shortest exact substring(s) as evidence.
+You are filling a boolean questionnaire for one Reddit narrative.
+
+LABELING POLICY:
+- Use common-sense inference and paraphrases. If the item is clearly implied, mark True.
+- True → narrative supports the item (explicitly OR implicitly).
+- False → narrative contradicts it OR provides no reasonable support.
+- Evidence: give a short snippet (quote or paraphrase). If False due to no support, write:
+  "No supporting evidence in the narrative".
 
 QUESTIONNAIRE ITEM (Italian):
 {item_id}: {item_text}
@@ -19,14 +15,3 @@ NARRATIVE:
 """
 {narrative}
 """
-
-RESPONSE FORMAT (single line JSON):
-{
-  "item_id": "{item_id}",
-  "label": "True|False",
-  "evidence_span": "verbatim quote or 'Not specified in the narrative'"
-}
-
-QUALITY CHECKS BEFORE ANSWERING:
-- If labeling True, evidence_span must be a verbatim substring supporting it.
-- If labeling False due to absence, evidence_span must be exactly: "Not specified in the narrative".

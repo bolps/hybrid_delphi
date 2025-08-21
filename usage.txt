@@ -1,7 +1,1 @@
-To process a single narrative:
-
-python fill_with_narrative.py --questions-xlsx questions.xlsx --narratives-json narratives_clean.json --narrative-id r_0001
-
-To process all the narratives in the json:
-
-python fill_with_narrative.py --questions-xlsx questions.xlsx --narratives-json narratives_clean.json --process-all
+uv run batch_infer_narratives.py --input narratives_small.json --prompt labeling_prompt.yaml --output inference_results_miniset_oss120b.jsonl --model openai/gpt-oss-120b --temperature 0.3  --sleep 0.2

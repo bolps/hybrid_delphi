@@ -84,15 +84,15 @@ ITEMS = [
     ("IT37","Minacce di distruggere le mie cose (telefono, vestiti, computer, auto, ecc.)"),
 ]
 
-SYSTEM_PROMPT = """You are a strict labeler. You must read an English narrative and,
+SYSTEM_PROMPT = """You are a nlp labeler. You must read an English narrative and,
 for each item in the provided list (items are in Italian), return:
-- "label": true if the aspect is clearly present in the narrative, otherwise false.
+- "label": true if the aspect is present in the narrative, otherwise false.
 - "xai": a short explanation in English (1–3 sentences) justifying the choice,
   citing words/clues from the narrative; if label=false, explain why there is no evidence.
 Rules:
 - Do not infer beyond what is written: avoid speculation.
 - Consider synonyms and paraphrases.
-- If the text is ambiguous or neutral regarding an item, mark it as false.
+- If the text is too ambiguous or neutral regarding an item, mark it as false.
 - Respond ONLY in valid JSON, no additional text.
 Expected schema:
 {
@@ -139,9 +139,9 @@ def call_ollama_via_openai(client: OpenAI, model: str, narrative: str, temperatu
                 ],
                 temperature=temperature,
                 stream=False,
-                response_format={"type": "json_object"},  # enforce JSON
             )
             content = (resp.choices[0].message.content or "").strip()
+            print("RAW RESPONSE:", content)
             return json.loads(content)
         except Exception as e:
             last_err = e

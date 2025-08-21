@@ -1,0 +1,201 @@
+{
+  "narrative_id": "r_0003",
+  "items": {
+    "IT10": {
+      "label": false,
+      "xai": "No mention of speaking negatively about friends."
+    },
+    "IT12": {
+      "label": false,
+      "xai": "No reference to being busy or wanting more shared time."
+    },
+    "IT22": {
+      "label": false,
+      "xai": "No accusation of flirting or cheating is described."
+    },
+    "IT24": {
+      "label": false,
+      "xai": "No restriction on clothing choices is reported."
+    },
+    "IT25": {
+      "label": false,
+      "xai": "No control over activities or companions is mentioned."
+    },
+    "IT26": {
+      "label": false,
+      "xai": "No prohibition of seeing family or friends is stated."
+    },
+    "IT15": {
+      "label": false,
+      "xai": "No mention of excessive texting or calling."
+    },
+    "IT11": {
+      "label": false,
+      "xai": "No request to avoid seeing friends is described."
+    },
+    "IT20": {
+      "label": false,
+      "xai": "No demand for proof of love or fidelity is noted."
+    },
+    "IT21": {
+      "label": false,
+      "xai": "No jealousy or possessiveness is reported."
+    },
+    "IT23": {
+      "label": false,
+      "xai": "No continuous questioning of location or trust is mentioned."
+    },
+    "IT45": {
+      "label": false,
+      "xai": "No control over spending is described."
+    },
+    "IT46": {
+      "label": false,
+      "xai": "No restriction on access to bank accounts is reported."
+    },
+    "IT48": {
+      "label": false,
+      "xai": "No prevention of job searching is mentioned."
+    },
+    "IT47": {
+      "label": false,
+      "xai": "No demand to justify purchases is stated."
+    },
+    "IT09": {
+      "label": false,
+      "xai": "Friends did not comment on his behavior in the narrative."
+    },
+    "IT19": {
+      "label": false,
+      "xai": "No concern from friends or family is mentioned."
+    },
+    "IT01": {
+      "label": false,
+      "xai": "The narrative describes negative support, not supportive."
+    },
+    "IT03": {
+      "label": false,
+      "xai": "No indication of being listened to or interested."
+    },
+    "IT04": {
+      "label": false,
+      "xai": "No mention of respecting personal space."
+    },
+    "IT06": {
+      "label": false,
+      "xai": "No expression of love or respect for choices."
+    },
+    "IT07": {
+      "label": false,
+      "xai": "No mention of healthy confrontation or non-harmful arguments."
+    },
+    "IT08": {
+      "label": false,
+      "xai": "No sense of comfort or safety is reported."
+    },
+    "IT02": {
+      "label": false,
+      "xai": "No encouragement to try new things is described."
+    },
+    "IT05": {
+      "label": false,
+      "xai": "No freedom to manage time is mentioned."
+    },
+    "IT44": {
+      "label": false,
+      "xai": "No indication of being able to talk openly."
+    },
+    "IT17": {
+      "label": true,
+      "xai": "She feels unsafe and used, indicating fear near him."
+    },
+    "IT38": {
+      "label": true,
+      "xai": "He forced her head down and slapped her behind, a form of physical aggression."
+    },
+    "IT40": {
+      "label": false,
+      "xai": "No mention of breaking or throwing objects."
+    },
+    "IT43": {
+      "label": false,
+      "xai": "The narrative does not state fear of seeing him."
+    },
+    "IT14": {
+      "label": false,
+      "xai": "No mention of silent periods after disagreement."
+    },
+    "IT16": {
+      "label": false,
+      "xai": "No comment on self‑care or appearance."
+    },
+    "IT28": {
+      "label": false,
+      "xai": "No description of walking on eggs or constant caution."
+    },
+    "IT29": {
+      "label": true,
+      "xai": "He made her feel bad about her choices, a form of criticism."
+    },
+    "IT30": {
+      "label": false,
+      "xai": "No statement blaming her for his unhappiness."
+    },
+    "IT39": {
+      "label": false,
+      "xai": "No denial of aggression or doubt induced."
+    },
+    "IT41": {
+      "label": false,
+      "xai": "No public humiliation or shouting is mentioned."
+    },
+    "IT27": {
+      "label": false,
+      "xai": "No mood swings or apologies are described."
+    },
+    "IT13": {
+      "label": false,
+      "xai": "No feeling of being judged on life organization."
+    },
+    "IT18": {
+      "label": false,
+      "xai": "No hidden discomfort to avoid anger is reported."
+    },
+    "IT31": {
+      "label": false,
+      "xai": "No statement about worthlessness or being alone."
+    },
+    "IT32": {
+      "label": false,
+      "xai": "No sharing of intimate images with others."
+    },
+    "IT42": {
+      "label": true,
+      "xai": "He insisted on sex and threatened anger if she refused."
+    },
+    "IT33": {
+      "label": false,
+      "xai": "No threat to show intimate images to others."
+    },
+    "IT34": {
+      "label": false,
+      "xai": "No threat of revealing secrets if she left."
+    },
+    "IT35": {
+      "label": false,
+      "xai": "No threat of harming her or others."
+    },
+    "IT36": {
+      "label": false,
+      "xai": "No threat of self‑harm due to her."
+    },
+    "IT37": {
+      "label": false,
+      "xai": "No threat to destroy her belongings."
+    }
+  },
+  "meta": {
+    "model": "gpt-4o-mini",
+    "confidence_note": "All labels are based on explicit statements in the narrative; no inference beyond the text."
+  }
+}

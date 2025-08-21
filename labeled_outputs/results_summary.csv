@@ -1,0 +1,117 @@
+narrative_id,item_id,label,xai
+r_0001,IT10,False,Narrative does not mention him speaking negatively about the narrator's friends.
+r_0001,IT12,False,No evidence that he accuses her of being too busy or neglecting him.
+r_0001,IT22,False,He does not accuse her of flirting or cheating.
+r_0001,IT24,False,No mention of controlling her clothing choices.
+r_0001,IT25,False,No indication that he tries to control her activities or companions.
+r_0001,IT26,False,He does not forbid her from seeing family or friends.
+r_0001,IT15,False,Narrative does not describe him sending excessive messages or calls.
+r_0001,IT11,False,He does not ask her to avoid her friends.
+r_0001,IT20,False,No claim that he demands proof of love or fidelity.
+r_0001,IT21,False,No evidence of jealousy or possessiveness.
+r_0001,IT23,False,She does not feel he constantly wants to know her whereabouts.
+r_0001,IT45,False,No mention of him monitoring her spending.
+r_0001,IT46,False,No indication that he restricts her access to finances.
+r_0001,IT48,False,He does not prevent her from seeking employment.
+r_0001,IT47,False,No request to justify purchases.
+r_0001,IT09,False,Friends are not mentioned as commenting on his behavior.
+r_0001,IT19,False,No mention of friends or family expressing concern.
+r_0001,IT01,False,No evidence of his support for her actions.
+r_0001,IT03,False,No indication that he listens or shows interest.
+r_0001,IT04,False,No mention of respecting her personal space.
+r_0001,IT06,False,No evidence that he respects her choices.
+r_0001,IT07,False,No mention of healthy confrontation or non‑harmful arguments.
+r_0001,IT08,False,She does not feel comfortable or safe with him.
+r_0001,IT02,False,No evidence that he encourages new experiences.
+r_0001,IT05,False,No mention of freedom in managing her time.
+r_0001,IT44,False,No evidence that she can talk to him about anything.
+r_0001,IT17,False,She does not express fear or lack of safety.
+r_0001,IT38,False,No physical violence described.
+r_0001,IT40,False,No mention of him throwing objects.
+r_0001,IT43,False,No fear of seeing him for potential harmful behavior.
+r_0001,IT14,False,No mention of him ignoring her for days.
+r_0001,IT16,False,No criticism of her self‑care or appearance.
+r_0001,IT28,False,No sense of walking on eggshells around him.
+r_0001,IT29,False,No insults or criticism noted.
+r_0001,IT30,False,No blame or self‑fault statements from him.
+r_0001,IT39,False,No denial of aggression or doubt induction.
+r_0001,IT41,False,No public humiliation described.
+r_0001,IT27,False,No mood swings or apologies described.
+r_0001,IT13,False,No judgment of her life organization.
+r_0001,IT18,False,No hidden discomfort to avoid his anger.
+r_0001,IT31,False,No statements about worthlessness or dependency.
+r_0001,IT32,False,No sharing of intimate images.
+r_0001,IT42,False,No insistence on sex or refusal to accept a 'no'.
+r_0001,IT33,False,No threat to show intimate images to others.
+r_0001,IT34,False,No threat of revealing secrets.
+r_0001,IT35,False,No threat of harm to her or others.
+r_0001,IT36,False,No threat of self‑harm because of her.
+r_0001,IT37,False,No threat to destroy her belongings.
+r_0002,IT10,False,No mention of her speaking badly about the narrator's friends.
+r_0002,IT12,False,Narrative does not state she feels the narrator is too busy or wants more time together.
+r_0002,IT22,False,No accusation of flirting or cheating is described.
+r_0002,IT24,False,No restriction on clothing choices is mentioned.
+r_0002,IT25,False,No controlling behavior regarding who he sees or what he does is reported.
+r_0002,IT26,False,She does not forbid him from seeing family or friends.
+r_0002,IT15,False,No mention of excessive texting or calling.
+r_0002,IT11,False,She does not ask him not to see his friends.
+r_0002,IT20,False,No demand for proof of love or fidelity is stated.
+r_0002,IT21,False,No extreme jealousy or possessiveness is described.
+r_0002,IT23,False,No continuous questioning of his whereabouts or lack of trust is mentioned.
+r_0002,IT45,False,No control over his spending is reported.
+r_0002,IT46,False,No restriction on access to his bank account is described.
+r_0002,IT48,False,No attempt to stop him from seeking employment is mentioned.
+r_0002,IT47,False,No demand to justify every purchase is reported.
+r_0002,IT09,False,Friends have not commented on her behavior toward him.
+r_0002,IT19,False,No concern from friends or family is noted.
+r_0002,IT01,False,"He feels his efforts are not appreciated, indicating lack of support."
+r_0002,IT03,False,No evidence that he feels listened to or that she shows interest.
+r_0002,IT04,False,No mention of her understanding his need for personal space.
+r_0002,IT06,False,No indication that she loves him for who he is or respects his choices.
+r_0002,IT07,False,No evidence of healthy confrontation or conflict resolution.
+r_0002,IT08,False,No sense of comfort or safety in her presence is described.
+r_0002,IT02,False,No encouragement to try new things is mentioned.
+r_0002,IT05,False,No freedom to manage his time is reported.
+r_0002,IT44,False,No indication that he can talk to her about anything.
+r_0002,IT17,False,No fear or lack of safety is expressed.
+r_0002,IT38,False,No physical aggression or assault is described.
+r_0002,IT40,False,No breaking or throwing objects is mentioned.
+r_0002,IT43,False,No fear of seeing her due to potential harmful behavior.
+r_0002,IT14,False,No period of silence after a disagreement is reported.
+r_0002,IT16,False,No criticism of his self‑care or appearance is mentioned.
+r_0002,IT28,True,"He explicitly says he feels like he is ""walking on eggshells"" around her."
+r_0002,IT29,True,"She yells at him for small things and criticizes his humor, fitting the description of criticism."
+r_0002,IT30,False,No statement that she blames him for her unhappiness.
+r_0002,IT39,False,No denial of an alleged aggression or doubt about its occurrence.
+r_0002,IT41,False,No mention of her yelling or humiliating him in front of others.
+r_0002,IT27,False,No mood swings or alternating anger and sweetness are described.
+r_0002,IT13,False,No explicit judgment of his life organization is reported.
+r_0002,IT18,False,No mention of hiding discomfort to avoid her anger.
+r_0002,IT31,False,No threat that he is worthless or would be alone without her.
+r_0002,IT32,False,No disclosure of intimate images to others.
+r_0002,IT42,False,No insistence on sex or refusal to accept a no.
+r_0002,IT33,False,No threat to show intimate images to friends or family.
+r_0002,IT34,False,No threat to reveal secrets if he leaves.
+r_0002,IT35,False,No threat of harming him or his loved ones.
+r_0002,IT36,False,No threat of self‑harm because of him.
+r_0002,IT37,False,No threat to destroy his belongings.
+r_0003,IT10,False,No mention of speaking negatively about friends.
+r_0003,IT12,False,No reference to being busy or wanting more shared time.
+r_0003,IT22,False,No accusation of flirting or cheating is described.
+r_0003,IT24,False,No restriction on clothing choices is reported.
+r_0003,IT25,False,No control over activities or companions is mentioned.
+r_0003,IT26,False,No prohibition of seeing family or friends is stated.
+r_0003,IT15,False,No mention of excessive texting or calling.
+r_0003,IT11,False,No request to avoid seeing friends is described.
+r_0003,IT20,False,No demand for proof of love or fidelity is noted.
+r_0003,IT21,False,No jealousy or possessiveness is reported.
+r_0003,IT23,False,No continuous questioning of location or trust is mentioned.
+r_0003,IT45,False,No control over spending is described.
+r_0003,IT46,False,No restriction on access to bank accounts is reported.
+r_0003,IT48,False,No prevention of job searching is mentioned.
+r_0003,IT47,False,No demand to justify purchases is stated.
+r_0003,IT09,False,Friends did not comment on his behavior in the narrative.
+r_0003,IT19,False,No concern from friends or family is mentioned.
+r_0003,IT01,False,"The narrative describes negative support, not supportive."
+r_0003,IT03,False,No indication of being listened to or interested.
+r_0003,IT04,False,No mention of respecting personal space.

@@ -6,7 +6,6 @@ from datetime import datetime
 import random
 import re
 from typing import List, Dict, Any, Tuple, Set
-from tabulate import tabulate
 import pandas as pd
 
 random.seed(42)
@@ -916,6 +915,3 @@ df.drop(columns=["Redundancy"], inplace=True)  # Remove Dim ID for clarity
 excel_path = f"results/{timestamp}_Round3_Decisions.xlsx"
 df.to_excel(excel_path, index=False)
 print(f"\n💾 Final decisions table saved to: {excel_path}")
-
-#print("\n📊 Final Decisions Table:")
-#print(tabulate(table_data, headers=headers, tablefmt="fancy_grid", floatfmt=".2f"))

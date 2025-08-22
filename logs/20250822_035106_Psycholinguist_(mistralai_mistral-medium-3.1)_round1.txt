@@ -1,0 +1,138 @@
+### Psycholinguist (mistralai/mistral-medium-3.1)
+Below is a **latent dimensional analysis** of the provided items, grouped into **coherent semantic and psychological categories** reflecting underlying themes of **abusive, controlling, manipulative, and emotionally harmful behaviors** in intimate relationships. Each dimension is labeled to capture the core psychological and behavioral dynamics, with minimal overlap.
+
+---
+
+### **1. Emotional Manipulation & Gaslighting**
+*(Distorting reality, inducing self-doubt, and shifting blame)*
+- Mi accusa di flirtare o di tradirlo
+- Dopo che mi ha aggredito (fisicamente o verbalmente) nega di averlo fatto e mi fa dubitare che sia realmente successo
+- Mi fa sentire spesso sbagliata e mi dice che è colpa mia se sta male
+- Mi dice che non valgo niente e che resterei sola se non stessi con lui perché nessuno mi vorrebbe
+- Ha forti oscillazioni d'umore, il minuto prima si arrabbia e mi urla contro e quello successivo è dolce e si scusa
+
+**Rationale**:
+These items reflect **cognitive distortion tactics** where the abuser undermines the victim’s perception of reality, induces guilt, or creates dependency through emotional instability. The core mechanism is **eroding self-trust and autonomy** while reinforcing the abuser’s narrative.
+
+---
+
+### **2. Isolation & Social Control**
+*(Restricting access to support networks and enforcing dependency)*
+- Non vuole che io veda la mia famiglia, i miei amici/amiche
+- Mi chiede di non vedere i miei amici/amiche
+- Parla male delle mie amici/amiche e dice che sono dei/delle “poco di buono”
+- Le mie amiche o la mia famiglia sono preoccupate per me
+- I miei amici/amiche mi hanno fatto notare che non piace loro come si comporta con me
+- Pretende prove d'amore e dimostrazioni di fedeltà nei suoi confronti
+
+**Rationale**:
+These items center on **systematically cutting off external support** to increase the victim’s reliance on the abuser. Tactics include **discrediting loved ones, enforcing loyalty tests, and creating a narrative of "us vs. them."**
+
+---
+
+### **3. Coercive Control & Surveillance**
+*(Monitoring, restricting autonomy, and enforcing compliance)*
+- Mi sento controllata, ho la sensazione che non si fidi di me e che voglia sapere sempre dove sono e con chi, me lo chiede continuamente
+- Cerca di controllare ciò che faccio e con chi mi vedo
+- Non mi sento libera di fare le mie scelte su come gestire il mio tempo
+- Non mi fa sentire libera di vestirmi come voglio
+- Mi viene chiesto di giustificare ogni acquisto che faccio
+- Controlla come spendo i miei soldi
+- Non mi impedisce di avere accesso al conto corrente o alle mie risorse economiche *(Note: Corrected to "Mi impedisce..." as in original item)*
+- Sento che mi manda troppi messaggi o mi chiama in modo insistente
+
+**Rationale**:
+This dimension captures **micromanagement of behavior, finances, and personal freedom**, reflecting a **pattern of dominance** through intrusion, justification demands, and resource restriction.
+
+---
+
+### **4. Physical & Sexual Violence**
+*(Explicit or threatened bodily harm and sexual coercion)*
+- Mi afferra per i capelli, mi strattona, mi mette le mani al collo, tenta di soffocarmi, mi dà dei pugni, mi schiaffeggia, mi getta addosso degli oggetti o mi fa male in qualche modo
+- Rompe e lancia oggetti per intimidirmi
+- Mi chiede insistentemente di fare sesso e non accetta quando dico di no o che non mi va
+- Minaccia di fare del male a me, ai miei amici/amiche o alla mia famiglia
+- Minaccia di distruggere le mie cose (telefono, vestiti, computer, auto, ecc.)
+
+**Rationale**:
+These items describe **direct physical aggression, sexual coercion, and property destruction** as tools of terror and submission. The threat or use of force is central.
+
+---
+
+### **5. Psychological Intimidation & Threats**
+*(Leveraging fear through threats, blackmail, or humiliation)*
+- Minaccia di mostrare ai miei amici o ai miei familiari mie immagini intime
+- Ha mostrato mie immagini intime ad altre persone senza il mio consenso
+- Mi dice che, se lo lasciassi, rivelerebbe ad altri dei miei segreti o delle cose molto personali che sa di me
+- Urla o mi umilia di fronte ad altre persone
+- Diventa estremamente geloso o possessivo
+
+**Rationale**:
+This dimension focuses on **exploiting vulnerability** (e.g., secrets, intimacy) to **instill fear of exposure, shame, or retaliation**. The abuser weaponizes **private information or public humiliation** to maintain control.
+
+---
+### **6. Emotional Neglect & Invalidating Environment**
+*(Withholding support, dismissing needs, and creating hostility)*
+- Non sento di avere il suo sostegno nelle cose che faccio
+- Non si mostra interessato quando ho qualcosa che voglio condividere
+- Non mi incoraggia a provare nuove cose
+- Non mi sento ascoltata
+- Non capisce che ho bisogno anche di miei spazi personali e non comprende che ci sono momenti in cui mi piace stare da sola o con persone diverse da lui
+- Non sento che possiamo confrontarci e anche litigare senza farci male
+
+**Rationale**:
+These items reflect **passive-aggressive abandonment**—the abuser **fails to provide emotional nourishment**, dismisses the victim’s needs, and fosters an environment of **loneliness and self-silencing**.
+
+---
+### **7. Economic Abuse**
+*(Controlling financial independence and resources)*
+- Mi impedisce di cercare un lavoro per essere indipendente
+- Non mi fa sentire libera di gestire le mie risorse economiche *(Note: Paraphrased from original item for clarity)*
+
+**Rationale**:
+A distinct but critical dimension where **financial autonomy is stripped** to **enforce dependency** and limit escape options.
+
+---
+### **8. Fear & Hypervigilance**
+*(Chronic anxiety and adaptive behaviors to avoid harm)*
+- Provo paura vicino a lui, non mi sento al sicuro
+- Ho paura di vederlo perché so che potrebbe avere comportamenti che mi possono fare stare male o sentire in imbarazzo
+- In sua compagnia mi capita di sentirmi a disagio e ho la sensazione di dover stare attenta a ciò che dico o a ciò che faccio, come se dovessi “camminare sulle uova”
+- In sua compagnia non mi sento a mio agio e al sicuro
+- Sento disagio o non voglio fare qualcosa ma lo nascondo per paura che si arrabbi
+
+**Rationale**:
+These items capture the **subjective experience of terror and adaptive self-censorship**. The victim **internalizes the abuser’s volatility**, leading to **constant vigilance and suppression of their own needs**.
+
+---
+### **9. Verbal & Emotional Abuse**
+*(Degradation, criticism, and erosion of self-worth)*
+- Mi butta giù di morale, mi insulta o mi critica
+- Non mi fa sentire bene quando parla di come mi prendo cura di me stessa e del mio aspetto fisico
+- Mi sento giudicata rispetto alle cose che faccio e a come organizzo la mia vita
+- Dice che sono impegnata in troppe cose e che lo trascuro, vorrebbe che passassimo la maggior parte del tempo insieme
+
+**Rationale**:
+This dimension focuses on **systematic demoralization** through **criticism, shaming, and unrealistic demands**, undermining self-esteem and reinforcing compliance.
+
+---
+### **10. Positive Outlier (Healthy Dynamic)**
+*(The sole item reflecting trust and safety—likely a foil or contrast)*
+- Sento di potergli parlare di qualsiasi cosa
+
+**Rationale**:
+This item **stands in stark contrast** to the others, representing **emotional safety and trust**. Its inclusion may serve as a **benchmark for healthy relationship dynamics** or highlight its absence in abusive contexts.
+
+---
+### **Key Observations**:
+1. **Overlap Avoidance**: Each dimension captures a **distinct mechanism of harm** (e.g., gaslighting vs. isolation vs. physical violence), though real-world behaviors may intersect.
+2. **Power & Control**: The latent structure aligns with the **Power and Control Wheel** (Duluth Model), a framework for understanding abusive relationships.
+3. **Trauma Bonds**: Items in **Emotional Manipulation** and **Fear & Hypervigilance** reflect cycles that **reinforce trauma bonds** (intermittent reinforcement of abuse and affection).
+4. **Cultural/Linguistic Nuance**: The Italian phrasing (e.g., *"camminare sulle uova"*) emphasizes **cultural expressions of anxiety**, which are critical to semantic analysis.
+
+---
+### **Suggested Use**:
+This dimensional breakdown can inform:
+- **Clinical assessments** (e.g., identifying dominant abuse tactics in therapy).
+- **Educational tools** (e.g., teaching warning signs of abusive relationships).
+- **Research** (e.g., scaling these dimensions for quantitative studies on coercive control).

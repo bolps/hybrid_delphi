@@ -1,0 +1,66 @@
+### Psycholinguist (meta-llama/llama-4-maverick)
+After analyzing the provided list of psychological items, I have identified several latent dimensions that capture the underlying semantic similarity and linguistic meaning. Here are the dimensions, along with their corresponding labels, items, and a brief rationale for the grouping:
+
+**Dimension 1: Emotional Abuse and Manipulation**
+- Mi fa sentire spesso sbagliata e mi dice che è colpa mia se sta male
+- Mi dice che non valgo niente e che resterei sola se non stessi con lui perché nessuno mi vorrebbe
+- Mi butta giù, mi insulta o mi critica
+- Urla o mi umilia di fronte ad altre persone
+- Dopo che mi ha aggredito (fisicamente o verbalmente) nega di averlo fatto e mi fa dubitare che sia realmente successo.
+
+Rationale: These items all relate to behaviors that are emotionally abusive or manipulative, making the person feel bad about themselves, or controlling their perception of reality.
+
+**Dimension 2: Control and Possessiveness**
+- Mi chiede di non vedere i miei amici/amiche
+- Non vuole che io veda la mia famiglia, i miei amici/amiche
+- Mi viene chiesto di giustificare ogni acquisto che faccio
+- Cerca di controllare ciò che faccio e con chi mi vedo
+- Mi sento controllata, ho la sensazione che non si fidi di me e che voglia sapere sempre dove sono e con chi, me lo chiede continuamente
+- Controlla come spendo i miei soldi
+- Sento che mi manda troppi messaggi o mi chiama in modo insistente
+
+Rationale: These items reflect behaviors that are controlling or possessive, limiting the person's autonomy and freedom.
+
+**Dimension 3: Physical and Sexual Violence**
+- Mi afferra per i capelli, mi strattona, mi mette le mani al collo, tenta di soffocarmi, mi dà dei pugni, mi schiaffeggia, mi getta addosso degli oggetti o mi fa male in qualche modo
+- Ha mostrato mie immagini intime ad altre persone senza il mio consenso
+- Minaccia di mostrare ai miei amici o ai miei familiari mie immagini intime
+
+Rationale: These items involve physical or sexual violence, or threats thereof, indicating a severe form of abuse.
+
+**Dimension 4: Isolation and Restriction**
+- Mi impedisce di avere accesso al conto corrente o alle mie risorse economiche
+- Mi impedisce cercare un lavoro per essere indipendente
+- Non mi sento libera di vestirmi come voglio
+
+Rationale: These items are related to behaviors that isolate or restrict the person, limiting their access to resources or autonomy.
+
+**Dimension 5: Threats and Intimidation**
+- Minaccia di farsi del male a causa mia
+- Minacce di distruggere le mie cose (telefono, vestiti, computer, auto, ecc.)
+- Minaccia di fare del male a me, ai miei amici/amiche o alla mia famiglia
+- Rompe e lancia oggetti per intimidirmi
+
+Rationale: These items involve threats or acts of intimidation, creating fear or anxiety in the person.
+
+**Dimension 6: Healthy Relationship Dynamics**
+- Sento di potergli parlare di qualsiasi cosa
+- Sento che possiamo confrontarci e anche litigare senza farci male
+- Mi sento ascoltata e si mostra interessato quando ho qualcosa che voglio condividere
+- Mi incoraggia a provare nuove cose
+- Mi fa sentire libera di fare le mie scelte su come gestire il mio tempo
+- Mi vuole bene per quella che sono e rispetta le mie scelte
+- Capisce che ho bisogno anche di miei spazi personali e comprende che ci sono momenti in cui mi piace stare da sola o con persone diverse da lui (amici/amiche, familiari ecc.)
+- In sua compagnia mi sento a mio agio e al sicuro
+
+Rationale: These items describe positive, healthy aspects of a relationship, characterized by mutual respect, trust, and open communication.
+
+**Dimension 7: Jealousy and Possessiveness**
+- Diventa estremamente geloso o possessivo
+- Mi accusa di flirtare o di tradirlo
+- Pretende prove d'amore e dimostrazioni di fedeltà nei suoi confronti
+- Dice che sono impegnata in troppe cose e che lo trascuro, vorrebbe che passassimo la maggior parte del tempo insieme
+
+Rationale: These items reflect excessive jealousy or possessiveness, indicating an unhealthy level of attachment or control.
+
+The identified dimensions capture a range of abusive and controlling behaviors, as well as characteristics of healthy relationships. They highlight the complexities of interpersonal dynamics and the various ways in which relationships can be affected by negative or positive interactions.

@@ -1,0 +1,123 @@
+### Psycholinguist (qwen/qwen3-235b-a22b-2507)
+Based on a psycholinguistic and semantic analysis of the items—focusing on **latent meaning**, **emotional tone**, **interpersonal dynamics**, and **underlying psychological functions**—the 38 items can be grouped into **six distinct, non-overlapping dimensions**. These dimensions reflect core aspects of **abusive control**, **emotional manipulation**, **autonomy erosion**, **fear and safety**, **positive relational qualities**, and **social isolation**. Each group is semantically coherent and captures a unique psychological construct.
+
+---
+
+### **1. Coercive Control and Surveillance**
+*Label:* **Monitoring, Restricting, and Controlling Behavior**
+
+**Items:**
+- Mi chiede di non vedere i miei amici/amiche  
+- Sento di potergli parlare di qualsante mi manda troppi messaggi o mi chiama in modo insistente  
+- Mi sento controllata, ho la sensazione che non si fidi di me e che voglia sapere sempre dove sono e con chi, me lo chiede continuamente  
+- Controlla ciò che faccio e con chi mi vedo  
+- Controlla come spendo i miei soldi  
+- Mi viene chiesto di giustificare ogni acquisto che faccio  
+- Non mi fa sentire libera di vestirmi come voglio  
+- Mi impedisce di avere accesso al conto corrente o alle mie risorse economiche  
+- Mi impedisce di cercare un lavoro per essere indipendente  
+- Dice che sono impegnata in troppe cose e che lo trascuro, vorrebbe che passassimo la maggior parte del tempo insieme  
+
+**Rationale:**  
+These items center on **behavioral control** and **intrusive monitoring**. The semantic core is *restriction of autonomy* through surveillance, financial control, and regulation of appearance, time, and social interaction. The underlying theme is a partner’s attempt to dominate daily life under the guise of concern or love, using control as a mechanism of power.
+
+---
+
+### **2. Emotional Abuse and Degradation**
+*Label:* **Verbal Aggression, Criticism, and Self-Worth Undermining**
+
+**Items:**
+- Mi dice che non valgo niente e che resterei sola se non stessi con lui perché nessuno mi vorrebbe  
+- Parla male delle mie amiche/amiche e dice che sono dei/delle “poco di buono”  
+- Urla o mi umilia di fronte ad altre persone  
+- Mi butta giù, mi insulta o mi critica  
+- Mi fa sentire spesso sbagliata e mi dice che è colpa mia se sta male  
+- Non mi fa sentire bene quando parla di come mi prendo cura di me stessa e del mio aspetto fisico  
+- Sento disagio o non voglio fare qualcosa ma lo nascondo per paura che si arrabbi  
+- In sua compagnia mi capita di sentirmi a disagio e ho la sensazione di dover stare attenta a ciò che dico o a ciò che faccio, come se dovessi “camminare sulle uova”  
+- I miei amici/amiche mi hanno fatto notare che non piace loro come si comporta con me  
+
+**Rationale:**  
+This cluster reflects **emotional invalidation** and **psychological degradation**. The language patterns emphasize *blame*, *shame*, and *fear of expression*. The latent dimension is the erosion of self-esteem through persistent criticism, public humiliation, and induced self-doubt. The speaker feels constantly on edge, indicating a climate of emotional unpredictability and punishment.
+
+---
+
+### **3. Threats, Intimidation, and Fear Induction**
+*Label:* **Coercion Through Fear and Intimidation**
+
+**Items:**
+- Rompe e lancia oggetti per intimidirmi  
+- Minaccia di farsi del male a causa mia  
+- Minaccia di fare del male a me, ai miei amici/amiche o alla mia famiglia  
+- Minaccia di mostrare ai miei amici o ai miei familiari mie immagini intime  
+- Minaccia di distruggere le mie cose (telefono, vestiti, computer, auto, ecc.)  
+- Mi accusa di flirtare o di tradirlo  
+- Ha forti oscillazioni d'umore, il minuto prima si arrabbia e mi urla contro e quello successivo è dolce e si scusa  
+- Dopo che mi ha aggredito (fisicamente o verbalmente) nega di averlo fatto e mi fa dubitare che sia realmente successo  
+- Ho paura di vederlo perché so che potrebbe avere comportamenti che mi possono fare stare male o sentire in imbarazzo  
+
+**Rationale:**  
+This group centers on **fear-based control** and **psychological manipulation through unpredictability**. The semantic field includes *threats*, *gaslighting*, and *emotional volatility*. The partner uses intimidation—direct and indirect—to maintain power. The oscillation between aggression and affection (love-bombing) creates trauma bonding, while denial of abuse fosters self-doubt. The core meaning is *instilling chronic fear* to prevent resistance.
+
+---
+
+### **4. Sexual and Digital Coercion**
+*Label:* **Violation of Bodily and Digital Autonomy**
+
+**Items:**
+- Mi chiede insistentemente di fare sesso e non accetta quando dico di no o che non mi va  
+- Ha mostrato mie immagini intime ad altre persone senza il mio consenso  
+- Mi dice che, se lo lasciassi, rivelerebbe ad altri dei miei segreti o delle cose molto personali che sa di me  
+- Pretende prove d'amore e dimostrazioni di fedeltà nei suoi confronti  
+
+**Rationale:**  
+This dimension captures **sexual coercion** and **digital/privacy abuse**. The language reveals violations of consent (sexual and digital), framed as "proof of love" or used as leverage. The latent theme is *using intimacy as a tool of control*, where privacy and bodily autonomy are weaponized. These items reflect modern forms of abuse enabled by technology and emotional manipulation.
+
+---
+
+### **5. Relational Safety and Healthy Support**
+*Label:* **Emotional Security and Mutual Respect**
+
+**Items:**
+- Sento di potergli parlare di qualsiasi cosa  
+- Mi incoraggia a provare nuove cose  
+- Mi vuole bene per quella che sono e rispetta le mie scelte  
+- In sua compagnia mi sento a mio agio e al sicuro  
+- Mi sento ascoltata e si mostra interessato quando ho qualcosa che voglio condividere  
+- Sento il suo sostegno nelle cose che faccio  
+- Capisce che ho bisogno anche di miei spazi personali e comprende che ci sono momenti in cui mi piace stare da sola o con persone diverse da lui  
+- Mi fa sentire libera di fare le mie scelte su come gestire il mio tempo  
+- Sento che possiamo confrontarci e anche litigare senza farci male  
+
+**Rationale:**  
+This cluster represents **healthy relational dynamics**. The semantic field is characterized by *trust*, *emotional availability*, *autonomy support*, and *non-judgmental listening*. These items form a coherent positive dimension, contrasting sharply with the others. They reflect psychological safety, mutual respect, and secure attachment—key markers of a supportive and non-abusive relationship.
+
+---
+
+### **6. Social Isolation and Third-Party Concern**
+*Label:* **Disconnection from Social Support Networks**
+
+**Items:**
+- Le mie amiche o la mia famiglia sono preoccupate per me  
+- Non vuole che io veda la mia famiglia, i miei amici/amiche  
+- I miei amici/amiche mi hanno fatto notare che non piace loro come si comporta con me  
+
+**Rationale:**  
+This small but powerful group centers on **isolation from external support systems**. While overlapping thematically with coercive control, the *semantic focus* here is on *others’ perception* and *estrangement from community*. The partner’s behavior creates a rift between the individual and their social network, a classic tactic in abusive relationships to increase dependency. The inclusion of others’ concern introduces an *external validation* of harm, distinguishing it from internal emotional states.
+
+---
+
+### **Summary of Dimensions**
+
+| Dimension | Label | Key Semantic Theme |
+|--------|------|------------------|
+| 1 | Coercive Control and Surveillance | Restriction of autonomy through monitoring and domination |
+| 2 | Emotional Abuse and Degradation | Undermining self-worth through criticism and blame |
+| 3 | Threats, Intimidation, and Fear Induction | Inducing fear via threats, volatility, and gaslighting |
+| 4 | Sexual and Digital Coercion | Violating consent and privacy as tools of control |
+| 5 | Relational Safety and Healthy Support | Emotional security, respect, and mutual care |
+| 6 | Social Isolation and Third-Party Concern | Alienation from friends/family and external concern |
+
+---
+
+These six dimensions are **semantically distinct**, **psychologically meaningful**, and reflect core constructs in intimate partner violence and healthy relationship research. They allow for a nuanced understanding of both risk and protective factors in close relationships.

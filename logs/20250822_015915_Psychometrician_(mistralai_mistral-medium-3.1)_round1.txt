@@ -1,0 +1,119 @@
+### Psychometrician (mistralai/mistral-medium-3.1)
+Below is a **psychometrically coherent factor structure** for the given items, organized into **latent dimensions of abusive, controlling, and manipulative behaviors** in intimate relationships. The grouping follows **theoretical consistency** (e.g., coercive control, emotional abuse, physical aggression) and **minimizes overlap** while ensuring **internal homogeneity** (items within a dimension share a core theme) and **external heterogeneity** (dimensions are distinct).
+
+---
+
+### **1. Coercive Control & Isolation**
+*(Systematic efforts to restrict autonomy, monitor behavior, and isolate the partner from support networks.)*
+**Items:**
+- Mi chiede di non vedere i miei amici/amiche
+- Non vuole che io veda la mia famiglia, i miei amici/amiche
+- Cerca di controllare ciò che faccio e con chi mi vedo
+- Non mi sento libera di vestirmi come voglio
+- Non mi sento libera di fare le mie scelte su come gestire il mio tempo
+- Mi impedisce di avere accesso al conto corrente o alle mie risorse economiche
+- Mi viene chiesto di giustificare ogni acquisto che faccio
+- Controlla come spendo i miei soldi
+- Mi impedisce cercare un lavoro per essere indipendente
+- Sento che mi manda troppi messaggi o mi chiama in modo insistente
+- Sento di dover stare attenta a ciò che dico/faccio ("camminare sulle uova")
+- Parla male delle mie amiche/amici e dice che sono "poco di buono"
+
+**Rationale:**
+These items reflect **a pattern of dominance through restriction**—financial, social, and behavioral. Coercive control is a **structural dimension** of abuse (Stark, 2007) that often precedes or co-occurs with physical/emotional abuse. Isolation and micromanagement are hallmarks of this construct.
+
+---
+
+### **2. Emotional Abuse & Degradation**
+*(Verbal/nonverbal behaviors that undermine self-worth, induce guilt, or create emotional dependence.)*
+**Items:**
+- Mi butta giù di morale, mi insulta o mi critica
+- Mi fa sentire spesso sbagliata e mi dice che è colpa mia se sta male
+- Dice che non valgo niente e che resterei sola se non stessi con lui
+- Non mi fa sentire bene quando parla di come mi prendo cura di me stessa/del mio aspetto
+- Non si mostra interessato quando ho qualcosa da condividere
+- Non mi sento ascoltata
+- Non mi incoraggia a provare nuove cose
+- Mi giudica rispetto a come organizzo la mia vita
+- Urla o mi umilia di fronte ad altre persone
+- Non capisce che ho bisogno di spazi personali
+- Non sento di avere il suo sostegno nelle cose che faccio
+- Non mi vuole bene per quella che sono e non rispetta le mie scelte
+
+**Rationale:**
+These items capture **psychological aggression** (e.g., humiliation, invalidation, gaslighting) and **emotional neglect**. The focus is on **eroding self-esteem** and **creating dependency** through criticism, indifference, or conditional "love." Distinct from coercive control, which is **behavioral**, this dimension is **affective-cognitive**.
+
+---
+
+### **3. Physical Aggression & Intimidation**
+*(Explicit or threatened physical harm, including sexual coercion and property destruction.)*
+**Items:**
+- Provo paura vicino a lui, non mi sento al sicuro
+- Rompe e lancia oggetti per intimidirmi
+- Mi afferra per i capelli, strattona, mette le mani al collo, tenta di soffocarmi, dà pugni/schiaffi, getta oggetti, mi fa male
+- Minaccia di distruggere le mie cose (telefono, vestiti, computer, auto, ecc.)
+- Minaccia di fare del male a me, ai miei amici/amiche o alla mia famiglia
+- Mi chiede insistentemente di fare sesso e non accetta un "no"
+- Ho paura di vederlo perché so che potrebbe avere comportamenti che mi fanno stare male
+
+**Rationale:**
+This dimension captures **overt physical violence** and **tactics of terror** (e.g., threats, property destruction). It aligns with the **Conflict Tactics Scale (CTS)** physical aggression subscale (Straus, 1979) but expands to include **sexual coercion** and **fear induction**. Critically, these items are **distinct from psychological abuse** in their **tangible harm potential**.
+
+---
+
+### **4. Manipulation & Gaslighting**
+*(Distorting reality, inducing self-doubt, or exploiting guilt to maintain power.)*
+**Items:**
+- Quando faccio qualcosa che non gli va, non mi parla per giorni (silent treatment)
+- Dice che sono impegnata in troppe cose e che lo trascuro, vorrebbe che passassimo tutto il tempo insieme
+- Pretende prove d'amore e dimostrazioni di fedeltà
+- Diventa estremamente geloso/possessivo
+- Mi accusa di flirtare o di tradirlo
+- Dopo avermi aggredito, nega di averlo fatto e mi fa dubitare che sia successo
+- Ha forti oscillazioni d'umore (arrabbia/urla → dolce/scuse)
+- Minaccia di rivelare segreti personali o immagini intime se lo lasciassi
+- Minaccia di mostrare immagini intime ad altri
+
+**Rationale:**
+These items reflect **machinations to distort perception** (gaslighting), **exploit guilt** ("you’re neglecting me"), or **leverage secrets** for control. The **Jekyll-Hyde dynamic** (rapid mood shifts) and **jealousy as a control tool** are classic manipulative tactics. This dimension overlaps conceptually with **narcissistic abuse** but is grounded in **behavioral specificity**.
+
+---
+### **5. Social Validation of Abuse**
+*(External observations or reactions that corroborate the abusive dynamic.)*
+**Items:**
+- I miei amici/amiche mi hanno fatto notare che non piace loro come si comporta con me
+- Le mie amiche/la mia famiglia sono preoccupate per me
+- Non sento che possiamo litigare senza farci male (lack of healthy conflict)
+
+**Rationale:**
+These items are **meta-indicators**—they reflect **third-party validation** of the abuse (a critical criterion in clinical/diagnostic contexts). While not "abusive behaviors" *per se*, they serve as **convergent validity checks** for the other dimensions. In scale design, these could be **standalone validity items** or a **separate subscale**.
+
+---
+### **6. Sexual Coercion & Violation of Boundaries**
+*(Explicitly sexualized control, including non-consensual sharing of intimate content.)*
+**Items:**
+- Mi chiede insistentemente di fare sesso e non accetta un "no"
+- Ha mostrato mie immagini intime ad altre persone senza consenso
+- Minaccia di mostrare immagini intime ai miei familiari/amici
+
+**Rationale:**
+While partially captured in **Physical Aggression**, these items warrant a **dedicated dimension** due to their **unique harm profile** (e.g., **image-based abuse**, a form of **technological coercion**). Sexual coercion is a **distinct construct** in trauma research (e.g., **Basile et al., 2007**).
+
+---
+### **Key Psychometric Considerations:**
+1. **Orthogonality:** Dimensions are theoretically distinct (e.g., **Coercive Control** ≠ **Emotional Abuse**).
+2. **Severity Gradient:** Physical Aggression and Sexual Coercion are **high-severity**; Manipulation and Emotional Abuse are **insidious but chronic**.
+3. **Cultural Validity:** Items reflect **universal abuse tactics** but may require **local adaptation** (e.g., financial control may manifest differently across cultures).
+4. **Scale Design Suggestion:**
+   - Use a **Likert-scale** (e.g., 1="Never" to 5="Always") for frequency.
+   - Include a **"Fear/Safety" thermometer** (e.g., "How safe do you feel with this person?") as a **global validity check**.
+   - For clinical use, add **behavioral anchors** (e.g., "In the past 6 months, how often...").
+
+---
+### **Potential Higher-Order Factors:**
+A **second-order factor analysis** might reveal:
+- **Dominance/Control** (Coercive Control + Manipulation)
+- **Aggression** (Physical + Sexual Coercion)
+- **Degradation** (Emotional Abuse)
+
+This structure aligns with **Johnson’s (2008) typology of intimate partner violence** (e.g., **coercive controlling violence** vs. **situational couple violence**).

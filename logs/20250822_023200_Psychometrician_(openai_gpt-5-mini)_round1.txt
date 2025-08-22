@@ -1,0 +1,88 @@
+### Psychometrician (openai/gpt-5-mini)
+Ecco una proposta di dimensioni latenti, ciascuna con etichetta, item assegnati e breve razionale. Ho evitato sovrapposizioni: ogni item è assegnato una sola volta.
+
+1) Violenza fisica diretta
+- Item:
+  - Mi afferra per i capelli, mi strattona, mi mette le mani al collo, tenta di soffocarmi, mi dà dei pugni, mi schiaffeggia, mi getta addosso degli oggetti o mi fa male in qualche modo
+- Razionale: atti di aggressione corporea e lesioni volontarie, indicatori chiari di violenza fisica.
+
+2) Coercizione sessuale e abuso legato alle immagini intime
+- Item:
+  - Mi chiede insistentemente di fare sesso e non accetta quando dico di no o che non mi va
+  - Ha mostrato mie immagini intime ad altre persone senza il mio consenso
+  - Minaccia di mostrare ai miei amici o ai miei familiari mie immagini intime
+  - Mi dice che, se lo lasciassi, rivelerebbe ad altri dei miei segreti o delle cose molto personali che sa di me
+- Razionale: pressioni sessuali, diffusione non consensuale di immagini e ricatto/ricattabilità legata alla privacy sessuale.
+
+3) Minacce e intimidazione (incluso danno a cose e minacce di violenza)
+- Item:
+  - Rompe e lancia oggetti per intimidirmi
+  - Minaccia di distruggere le mie cose (telefono, vestiti, computer, auto, ecc.)
+  - Minaccia di fare del male a me, ai miei amici/amiche o alla mia famiglia
+  - Minaccia di farsi del male a causa mia
+- Razionale: comportamenti volti a terrorizzare o ricattare tramite minacce dirette o distruttive (oggetti, persone, autolesionismo strumentale).
+
+4) Controllo coercitivo e sorveglianza (autonomia, finanze, relazioni, tempi)
+- Item:
+  - Mi viene chiesto di giustificare ogni acquisto che faccio
+  - Mi sento controllata, ho la sensazione che non si fidi di me e che voglia sapere sempre dove sono e con chi, me lo chiede continuamente
+  - Controlla come spendo i miei soldi
+  - Mi impedisce di avere accesso al conto corrente o alle mie risorse economiche
+  - Mi impedisce cercare un lavoro per essere indipendente
+  - Mi chiede di non vedere i miei amici/amiche
+  - Non vuole che io veda la mia famiglia, i miei amici/amiche
+  - Cerca di controllare ciò che faccio e con chi mi vedo
+  - Non mi fa sentire libera di fare le mie scelte su come gestire il mio tempo
+  - Dice che sono impegnata in troppe cose e che lo trascuro, vorrebbe che passassimo la maggior parte del tempo insieme
+  - Non mi sento libera di vestirmi come voglio
+  - Sento che mi manda troppi messaggi o mi chiama in modo insistente
+  - Pretende prove d'amore e dimostrazioni di fedeltà nei suoi confronti
+- Razionale: pratiche sistematiche che limitano l’autonomia personale, finanziare, sociali e di movimento, e che usano sorveglianza e controllo per dominare.
+
+5) Abuso emotivo/verbale e mancanza di supporto
+- Item:
+  - Mi fa sentire spesso sbagliata e mi dice che è colpa mia se sta male
+  - Mi butta giù di morale, mi insulta o mi critica
+  - Mi dice che non valgo niente e che resterei sola se non stessi con lui perché nessuno mi vorrebbe
+  - Urla o mi umilia di fronte ad altre persone
+  - Mi sento giudicata rispetto alle cose che faccio e a come organizzo la mia vita
+  - Non mi vuole bene per quella che sono e non rispetta le mie scelte
+  - Non mi sento ascoltata
+  - Non si mostra interessato quando ho qualcosa che voglio condividere
+  - Non mi incoraggia a provare nuove cose
+  - Non sento di avere il suo sostegno nelle cose che faccio
+  - Non mi fa sentire bene quando parla di come mi prendo cura di me stessa e del mio aspetto fisico
+  - Non sento che possiamo confrontarci e anche litigare senza farci male
+  - Sento di potergli parlare di qualsiasi cosa (questo item funge da indicatore inverso/di riferimento per la disponibilità emotiva)
+  - Ha forti oscillazioni d'umore, il minuto prima si arrabbia e mi urla contro e quello successivo è dolce e si scusa
+- Razionale: insulti, umiliazioni, svalutazione, assenza di ascolto e di sostegno emotivo; include anche volatilità emotiva che genera instabilità relazionale.
+
+6) Gaslighting, negazione e punizioni manipolatorie
+- Item:
+  - Dopo che mi ha aggredito (fisicamente o verbalmente) nega di averlo fatto e mi fa dubitare che sia realmente successo.
+  - Quando faccio qualcosa che a lui non va bene poi non mi parla per giorni
+  - Sento disagio o non voglio fare qualcosa ma lo nascondo per paura che si arrabbi
+- Razionale: tattiche che negano la responsabilità, manipolano la percezione della vittima o la puniscono (es. silenzio punitivo), contribuendo al dubbio di sé e al controllo psicologico.
+
+7) Gelosia, possessività e accuse relazionali
+- Item:
+  - Diventa estremamente geloso o possessivo
+  - Mi accusa di flirtare o di tradirlo
+- Razionale: comportamenti e accuse mirate a limitare la libertà relazionale e giustificare controllo e punizioni sul presupposto di infedeltà.
+
+8) Attacchi alle reti sociali e segnali esterni di preoccupazione
+- Item:
+  - Parla male delle mie amici/amiche e dice che sono dei/delle “poco di buono”
+  - I miei amici/amiche mi hanno fatto notare che non piace loro come si comporta con me
+  - Le mie amiche o la mia famiglia sono preoccupate per me
+- Razionale: azioni che isolano o screditano la vittima rispetto al suo contesto sociale; include anche l’osservazione esterna di comportamenti preoccupanti (indicatori di rischio riconosciuti dagli altri).
+
+9) Paura soggettiva e percezione di pericolo
+- Item:
+  - In sua compagnia mi capita di sentirmi a disagio e ho la sensazione di dover stare attenta a ciò che dico o a ciò che faccio, come se dovessi “camminare sulle uova” per evitare sue reazioni negative
+  - Provo paura vicino a lui, non mi sento al sicuro
+  - Ho paura di vederlo perché so che potrebbe avere comportamenti che mi possono fare stare male o sentire in imbarazzo
+  - In sua compagnia non mi sento a mio agio e al sicuro
+- Razionale: percezioni soggettive di minaccia, disagio e insicurezza fisica/emotiva che riflettono il clima di paura instaurato nella relazione.
+
+Nota metodologica rapida: le dimensioni sono pensate per rappresentare categorie psicometriche coerenti (violenza fisica, coercione sessuale, minacce, controllo coercitivo, abuso emotivo, gaslighting/punizione psicologica, gelosia, isolamento sociale, paura percepita). Ho assegnato ogni item a una sola dimensione per mantenere chiarezza fattoriale; alcune voci possono essere concettualmente correlate a più fattori nella realtà, ma per scopi di scale/fattori è utile questa distinzione netta. Vuoi che trasformi queste dimensioni in possibili scale (es. item count per fattore, nomi di scala, esempi di indicatori di soglia)?

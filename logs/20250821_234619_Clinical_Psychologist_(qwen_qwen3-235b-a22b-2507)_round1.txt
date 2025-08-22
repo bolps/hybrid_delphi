@@ -1,0 +1,109 @@
+### Clinical Psychologist (qwen/qwen3-235b-a22b-2507)
+
+
+### Latent Dimensions Underlying the Items
+
+#### **1. Emotional Abuse**  
+**Items:**  
+- Mi fa sentire spesso sbagliata e mi dice che è colpa mia se sta male  
+- Mi butta giù, mi insulta o mi critica  
+- Quando faccio qualcosa che a lui non va bene poi non mi parla per giorni  
+- In sua compagnia mi capita di sentirmi a disagio e ho la sensazione di dover stare attenta a ciò che dico o a ciò che faccio, come se dovessi “camminare sulle uova” per evitare sue reazioni negative  
+- Sento disagio o non voglio fare qualcosa ma lo nascondo per paura che si arrabbi  
+- I miei amici/amiche mi hanno fatto notare che non piace loro come si comporta con me  
+- Mi accusa di flirtare o di tradirlo  
+- Mi dice che non valgo niente e che resterei sola se non stessi con lui perché nessuno mi vorrebbe  
+- Le mie amiche o la mia famiglia sono preoccupate per me  
+- Ha forti oscillazioni d'umore, il minuto prima si arrabbia e mi urla contro e quello successivo è dolce e si scusa  
+- Dopo che mi ha aggredito (fisicamente o verbalmente) nega di averlo fatto e mi fa dubitare che sia realmente successo  
+- Non mi fa sentire bene quando parla di come mi prendo cura di me stessa e del mio aspetto fisico  
+- Diventa estremamente geloso o possessivo  
+- Mi sento giudicata rispetto alle cose che faccio e a come organizzo la mia vita  
+- Pretende prove d'amore e dimostrazioni di fedeltà nei suoi confronti  
+- Urla o mi umilia di fronte ad altre persone  
+
+**Rationale:**  
+This dimension captures patterns of psychological manipulation, verbal degradation, and emotional destabilization. Key indicators include blame-shifting ("it’s my fault he feels bad"), gaslighting (denying abuse), public/private humiliation, extreme jealousy, and mood swings that foster chronic anxiety ("walking on eggshells"). These tactics erode self-worth and autonomy, aligning with clinical definitions of emotional abuse in relational pathology (e.g., Jacobson & Gottman, 1998). External validation (e.g., friends’ concerns) reinforces the severity of these behaviors.
+
+---
+
+#### **2. Coercive Control and Isolation**  
+**Items:**  
+- Cerca di controllare ciò che faccio e con chi mi vedo  
+- Mi sento controllata, ho la sensazione che non si fidi di me e che voglia sapere sempre dove sono e con chi, me lo chiede continuamente  
+- Sento che mi manda troppi messaggi o mi chiama in modo insistente  
+- Non vuole che io veda la mia famiglia, i miei amici/amiche  
+- Mi chiede di non vedere i miei amici/amiche  
+- Non mi sento libera di vestirmi come voglio  
+- Parla male delle mie amici/amiche e dice che sono dei/delle “poco di buono”  
+- Dice che sono impegnata in troppe cose e che lo trascuro, vorrebbe che passassimo la maggior parte del tempo insieme  
+
+**Rationale:**  
+This construct reflects systematic efforts to restrict autonomy and sever external support networks. Behaviors include monitoring movements (e.g., constant check-ins), isolating from loved ones, controlling appearance, and monopolizing time. These actions create dependency and align with Stark’s (2007) framework of coercive control, where domination is maintained through micro-regulation of daily life. Unlike physical violence, this dimension operates through pervasive surveillance and social fragmentation.
+
+---
+
+#### **3. Financial Abuse**  
+**Items:**  
+- Mi impedisce di avere accesso al conto corrente o alle mie risorse economiche  
+- Mi impedisce cercare un lavoro per essere indipendente  
+- Controlla come spendo i miei soldi  
+- Mi viene chiesto di giustificare ogni acquisto che faccio  
+
+**Rationale:**  
+This dimension centers on economic sabotage to enforce dependency. Tactics include blocking financial access, preventing employment, and micromanaging expenditures (e.g., demanding purchase justifications). Financial abuse is a core component of coercive control (Postmus et al., 2012), as it undermines the victim’s capacity to leave the relationship by eroding economic self-sufficiency.
+
+---
+
+#### **4. Intimidation and Threats**  
+**Items:**  
+- Minaccia di fare del male a me, ai miei amici/amiche o alla mia famiglia  
+- Rompe e lancia oggetti per intimidirmi  
+- Minaccia di farsi del male a causa mia  
+- Minacce di distruggere le mie cose (telefono, vestiti, computer, auto, ecc.)  
+- Mi dice che, se lo lasciassi, rivelerebbe ad altri dei miei segreti o delle cose molto personali che sa di me  
+- Ho paura di vederlo perché so che potrebbe avere comportamenti che mi possono fare stare male o sentire in imbarazzo  
+- Provo paura vicino a lui, non mi sento al sicuro  
+
+**Rationale:**  
+This group encompasses explicit threats and fear-inducing behaviors designed to enforce compliance through terror. Includes direct threats of harm (to self/others), property destruction, and blackmail (e.g., exposing secrets). The resulting hypervigilance ("fear of meeting him") reflects trauma responses consistent with Biderman’s (1957) framework of coercive persuasion, where intimidation destabilizes psychological safety.
+
+---
+
+#### **5. Sexual Violence**  
+**Items:**  
+- Mi chiede insistentemente di fare sesso e non accetta quando dico di no o che non mi va  
+- Ha mostrato mie immagini intime ad altre persone senza il mio consenso  
+- Minaccia di mostrare ai miei amici o ai miei familiari mie immagini intime  
+
+**Rationale:**  
+This dimension highlights violations of sexual autonomy, including coercive pressure for sex, non-consensual dissemination of intimate imagery ("revenge porn"), and threats involving sexual humiliation. These acts constitute sexual violence per WHO (2021) definitions, emphasizing the weaponization of sexuality to exert power and control, often intersecting with emotional abuse (e.g., using threats to enforce compliance).
+
+---
+
+#### **6. Physical Violence**  
+**Items:**  
+- Mi afferra per i capelli, mi strattona, mi mette le mani al collo, tenta di soffocarmi, mi dà dei pugni, mi schiaffeggia, mi getta addosso degli oggetti o mi fa male in qualche modo  
+
+**Rationale:**  
+This singular item represents overt physical aggression causing bodily harm. While other dimensions (e.g., intimidation) involve physicality (e.g., property destruction), this item is distinct in its direct infliction of injury. Physical violence is a critical marker of severity in intimate partner violence (IPV), often escalating alongside other abusive tactics (Campbell, 2002).
+
+---
+
+#### **7. Healthy Relationship Dynamics**  
+**Items:**  
+- Mi vuole bene per quella che sono e rispetta le mie scelte  
+- Mi fa sentire libera di fare le mie scelte su come gestire il mio tempo  
+- Mi sento ascoltata e si mostra interessato quando ho qualcosa che voglio condividere  
+- Mi incoraggia a provare nuove cose  
+- In sua compagnia mi sento a mio agio e al sicuro  
+- Sento di potergli parlare di qualsiasi cosa  
+- Capisce che ho bisogno anche di miei spazi personali e comprende che ci sono momenti in cui mi piace stare da sola o con persone diverse da lui (amici/amiche, familiari ecc.)  
+- Sento che possiamo confrontarci e anche litigare senza farci male  
+- Sento il suo sostegno nelle cose che faccio  
+
+**Rationale:**  
+This dimension reflects relational safety, mutual respect, and autonomy support. Indicators include emotional availability ("I feel heard"), validation of boundaries ("respects my need for space"), and constructive conflict resolution. These align with Johnson’s (2008) conceptualization of healthy interdependence, where security and individuality coexist—contrasting sharply with all abusive dimensions.  
+
+---  
+**Note:** Groupings avoid overlap by distinguishing *tactics* (e.g., financial abuse vs. coercive control) and separating victim experiences (e.g., fear in "Intimidation") from perpetrator behaviors. Positive items form a distinct construct, as they reflect protective factors absent in abusive dynamics.

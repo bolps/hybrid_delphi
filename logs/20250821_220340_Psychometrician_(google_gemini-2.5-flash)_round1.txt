@@ -1,0 +1,119 @@
+### Psychometrician (google/gemini-2.5-flash)
+As a psychometrician, I've analyzed the provided items to identify underlying latent dimensions. My approach is to group items that co-vary conceptually, representing distinct psychological constructs. I aim for parsimony and clarity, ensuring each item loads onto only one dimension.
+
+Here are the identified latent dimensions:
+
+---
+
+### **Dimension 1: Psychological & Emotional Abuse**
+
+**Label:** Psychological & Emotional Abuse
+**Items:**
+*   Mi butta giù, mi insulta o mi critica
+*   Non mi fa sentire bene quando parla di come mi prendo cura di me stessa e del mio aspetto fisico
+*   Mi dice che non valgo niente e che resterei sola se non stessi con lui perché nessuno mi vorrebbe
+*   Mi fa sentire spesso sbagliata e mi dice che è colpa mia se sta male
+*   Urla o mi umilia di fronte ad altre persone
+*   Sento disagio o non voglio fare qualcosa ma lo nascondo per paura che si arrabbi
+*   In sua compagnia mi capita di sentirsi a disagio e ho la sensazione di dover stare attenta a ciò che dico o a ciò che faccio, come se dovessi “camminare sulle uova” per evitare sue reazioni negative
+*   Ho paura di vederlo perché so che potrebbe avere comportamenti che mi possono fare stare male o sentire in imbarazzo
+*   Provo paura vicino a lui, non mi sento al sicuro
+*   Sento che possiamo confrontarci e anche litigare senza farci male (negative loading/absence of this indicates abuse)
+*   Sento che mi manda troppi messaggi o mi chiama in modo insistente
+*   Sento di potergli parlare di qualsiasi cosa (negative loading/absence of this indicates abuse)
+*   Sento il suo sostegno nelle cose che faccio (negative loading/absence of this indicates abuse)
+*   Mi sento giudicata rispetto alle cose che faccio e a come organizzo la mia vita
+*   Dopo che mi ha aggredito (fisicamente o verbalmente) nega di averlo fatto e mi fa dubitare che sia realmente successo.
+
+**Rationale:** This dimension captures behaviors that undermine a person's self-worth, create a climate of fear and anxiety, and involve emotional manipulation. It includes direct insults, gaslighting, constant criticism, and the creation of an environment where the victim feels unsafe or must walk on eggshells. The absence of positive relational qualities (e.g., feeling safe, open communication, support) also points to a lack of psychological safety.
+
+---
+
+### **Dimension 2: Coercive Control & Isolation**
+
+**Label:** Coercive Control & Isolation
+**Items:**
+*   Mi chiede di non vedere i miei amici/amiche
+*   Non vuole che io veda la mia famiglia, i miei amici/amiche
+*   Mi impedisce cercare un lavoro per essere indipendente
+*   Mi impedisce di avere accesso al conto corrente o alle mie risorse economiche
+*   Controlla come spendo i miei soldi
+*   Sento che mi manda troppi messaggi o mi chiama in modo insistente
+*   Mi sento controllata, ho la sensazione che non si fidi di me e che voglia sapere sempre dove sono e con chi, me lo chiede continuamente
+*   Cerca di controllare ciò che faccio e con chi mi vedo
+*   Dice che sono impegnata in troppe cose e che lo trascuro, vorrebbe che passassimo la maggior parte del tempo insieme
+*   Pretende prove d'amore e dimostrazioni di fedeltà nei suoi confronti
+*   Mi accusa di flirtare o di tradirlo
+*   Non mi sento libera di vestirmi come voglio
+*   Mi viene chiesto di giustificare ogni acquisto che faccio
+
+**Rationale:** This dimension encompasses a pattern of behaviors designed to restrict a person's autonomy, isolate them from their support networks (friends, family), and control their resources (financial, time, social). It reflects a systematic effort to dominate and create dependency, often through jealousy, possessiveness, and surveillance.
+
+---
+
+### **Dimension 3: Threat & Intimidation**
+
+**Label:** Threat & Intimidation
+**Items:**
+*   Minaccia di mostrare ai miei amici o ai miei familiari mie immagini intime
+*   Ha mostrato mie immagini intime ad altre persone senza il mio consenso
+*   Mi dice che, se lo lasciassi, rivelerebbe ad altri dei miei segreti o delle cose molto personali che sa di me
+*   Minaccia di distruggere le mie cose (telefono, vestiti, computer, auto, ecc.)
+*   Rompe e lancia oggetti per intimidirmi
+*   Minaccia di farsi del male a causa mia
+*   Minaccia di fare del male a me, ai miei amici/amiche o alla mia famiglia
+
+**Rationale:** This dimension groups items related to the use of threats, blackmail, and property destruction to instill fear and control. These are direct or indirect threats of harm (physical, reputational, emotional) to the victim or their loved ones, or to their possessions, aimed at coercing behavior or preventing departure.
+
+---
+
+### **Dimension 4: Physical & Sexual Coercion**
+
+**Label:** Physical & Sexual Coercion
+**Items:**
+*   Mi chiede insistentemente di fare sesso e non accetta quando dico di no o che non mi va
+*   Mi afferra per i capelli, mi strattona, mi mette le mani al collo, tenta di soffocarmi, mi dà dei pugni, mi schiaffeggia, mi getta addosso degli oggetti o mi fa male in qualche modo
+
+**Rationale:** This dimension is specific to direct physical violence and sexual coercion. It captures behaviors that involve unwanted physical contact, assault, and pressuring or forcing sexual acts against consent.
+
+---
+
+### **Dimension 5: Relational Instability & Hostility**
+
+**Label:** Relational Instability & Hostility
+**Items:**
+*   Ha forti oscillazioni d'umore, il minuto prima si arrabbia e mi urla contro e quello successivo è dolce e si scusa
+*   Quando faccio qualcosa che a lui non va bene poi non mi parla per giorni
+*   Diventa estremamente geloso o possessivo
+*   Parla male delle mie amici/amiche e dice che sono dei/delle “poco di buono”
+
+**Rationale:** This dimension focuses on erratic and unpredictable behaviors that create an unstable and hostile relational environment. It includes mood swings, silent treatment, excessive jealousy, and undermining the victim's social relationships through denigration of their friends. These behaviors contribute to a sense of walking on eggshells and an unpredictable emotional landscape.
+
+---
+
+### **Dimension 6: External Awareness & Concern**
+
+**Label:** External Awareness & Concern
+**Items:**
+*   I miei amici/amiche mi hanno fatto notare che non piace loro come si comporta con me
+*   Le mie amiche o la mia famiglia sono preoccupate per me
+
+**Rationale:** This dimension captures the observation of the problematic relationship dynamics by external parties, specifically friends and family. It indicates that the negative behaviors are noticeable and concerning to those outside the immediate relationship, often serving as an early warning sign or validation for the victim.
+
+---
+
+### **Dimension 7: Positive Relational Qualities**
+
+**Label:** Positive Relational Qualities
+**Items:**
+*   Mi incoraggia a provare nuove cose
+*   Sento il suo sostegno nelle cose che faccio
+*   Sento di potergli parlare di qualsiasi cosa
+*   Sento che possiamo confrontarci e anche litigare senza farci male
+*   Capisce che ho bisogno anche di miei spazi personali e comprende che ci sono momenti in cui mi piace stare da sola o con persone diverse da lui (amici/amiche, familiari ecc.)
+*   Mi sento ascoltata e si mostra interessato quando ho qualcosa che voglio condividere
+*   Mi fa sentire libera di fare le mie scelte su come gestire il mio tempo
+*   Mi vuole bene per quella che sono e rispetta le mie scelte
+*   In sua compagnia mi sento a mio agio e al sicuro
+
+**Rationale:** This dimension groups items that describe healthy, supportive, and respectful aspects of a relationship. These are the inverse of abusive dynamics, indicating trust, autonomy, open communication, emotional safety, and genuine care. This dimension serves as a contrast to the various forms of abuse, highlighting the absence of these positive qualities in unhealthy relationships.

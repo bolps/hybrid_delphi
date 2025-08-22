@@ -1,0 +1,54 @@
+### Psycholinguist (meta-llama/llama-4-maverick)
+After analyzing the given list of psychological items, I identified four latent dimensions underlying the list. Here are the dimensions, along with their corresponding items, labels, and rationales:
+
+**Dimension 1: Emotional Manipulation and Control**
+
+* Minaccia di mostrare ai miei amici o ai miei familiari mie immagini intime
+* Minaccia di farsi del male a causa mia
+* Minaccia di fare del male a me, ai miei amici/amiche o alla mia famiglia
+* Minaccia di distruggere le mie cose (telefono, vestiti, computer, auto, ecc.)
+* Mi fa sentire spesso sbagliata e mi dice che è colpa mia se sta male
+* Mi dice che non valgo niente e che resterei sola se non stessi con lui perché nessuno mi vorrebbe
+* Mi butta giù di morale, mi insulta o mi critica
+* Mi viene chiesto di giustificare ogni acquisto che faccio
+* Controlla come spendo i miei soldi
+* Mi impedisce di avere accesso al conto corrente o alle mie risorse economiche
+
+Rationale: These items all relate to behaviors that involve manipulating or controlling the victim's emotions, actions, or decisions. The perpetrator uses threats, guilt, or self-pity to exert control over the victim.
+
+**Dimension 2: Isolation and Restriction**
+
+* Non vuole che io veda la mia famiglia, i miei amici/amiche
+* Mi chiede di non vedere i miei amici/amiche
+* Mi impedisce cercare un lavoro per essere indipendente
+* Non mi sento libera di vestirmi come voglio
+* Non mi fa sentire libera di fare le mie scelte su come gestire il mio tempo
+* Dice che sono impegnata in troppe cose e che lo trascuro, vorrebbe che passassimo la maggior parte del tempo insieme
+
+Rationale: These items involve behaviors that isolate the victim from others, restrict their autonomy, or limit their freedom to make choices.
+
+**Dimension 3: Verbal and Physical Abuse**
+
+* Parla male delle mie amici/amiche e dice che sono dei/delle “poco di buono”
+* Urla o mi umilia di fronte ad altre persone
+* Mi afferra per i capelli, mi strattona, mi mette le mani al collo, tenta di soffocarmi, mi dà dei pugni, mi schiaffeggia, mi getta addosso degli oggetti o mi fa male in qualche modo
+* Rompe e lancia oggetti per intimidirmi
+* Ha mostrato mie immagini intime ad altre persone senza il mio consenso
+
+Rationale: These items involve behaviors that are verbally or physically abusive, causing harm or fear to the victim.
+
+**Dimension 4: Emotional Distress and Lack of Support**
+
+* Non mi sento ascoltata
+* Non sento di potergli parlare di qualsiasi cosa
+* Non sento che possiamo confrontarci e anche litigare senza farci male
+* Non mi incoraggia a provare nuove cose
+* Non sento di avere il suo sostegno nelle cose che faccio
+* Non si mostra interessato quando ho qualcosa che voglio condividere
+* Provo paura vicino a lui, non mi sento al sicuro
+* In sua compagnia non mi sento a mio agio e al sicuro
+* In sua compagnia mi capita di sentirmi a disagio e ho la sensazione di dover stare attenta a ciò che dico o a ciò che faccio
+
+Rationale: These items involve behaviors that cause emotional distress or a lack of support, making the victim feel unheard, un validated, or unsupported.
+
+These dimensions capture the underlying patterns of abusive behaviors and their effects on the victim.

@@ -1,0 +1,76 @@
+### Psycholinguist (google/gemma-3-27b-it)
+
+
+## Analysis of Psychological Items: Relationship Dynamics
+
+Here's a grouping of the provided items based on semantic similarity and latent linguistic meaning, focusing on dimensions within a potentially abusive relationship.
+
+**1. Controlling & Isolating Behavior**
+
+*   Mi sento controllata, ho la sensazione che non si fidi di me e che voglia sapere sempre dove sono e con chi, me lo chiede continuamente
+*   Mi chiede di non vedere i miei amici/amiche
+*   Mi impedisce di avere accesso al conto corrente o alle mie risorse economiche
+*   Mi impedisce cercare un lavoro per essere indipendente
+*   Controlla come spendo i miei soldi
+*   Cerca di controllare ciò che faccio e con chi mi vedo
+*   Dice che sono impegnata in troppe cose e che lo trascuro, vorrebbe che passassimo la maggior parte del tempo insieme
+*   Non vuole che io veda la mia famiglia, i miei amici/amiche
+*   Mi viene chiesto di giustificare ogni acquisto che faccio
+*   Mi butta giù, mi insulta o mi critica
+
+**Rationale:** These items all relate to attempts to exert power and control over the individual's life, finances, social connections, and daily activities. The underlying theme is restriction of autonomy and increasing dependence on the abuser.
+
+**2. Emotional Abuse & Manipulation**
+
+*   Mi dice che non valgo niente e che resterei sola se non stessi con lui perché nessuno mi vorrebbe
+*   Sento che mi manda troppi messaggi o mi chiama in modo insistente
+*   Sento disagio o non voglio fare qualcosa ma lo nascondo per paura che si arrabbi
+*   Mi accusa di flirtare o di tradirlo
+*   Mi fa sentire spesso sbagliata e mi dice che è colpa mia se sta male
+*   Non mi fa sentire bene quando parla di come mi prendo cura di me stessa e del mio aspetto fisico
+*   Mi giudica rispetto alle cose che faccio e a come organizzo la mia vita
+*   Quando faccio qualcosa che a lui non va bene poi non mi parla per giorni
+*   Parla male delle mie amici/amiche e dice che sono dei/delle “poco di buono”
+
+**Rationale:** This dimension centers on undermining the individual’s self-worth, creating fear, and distorting reality.  It includes gaslighting (accusations, blame-shifting), emotional blackmail, and excessive communication as a form of control.
+
+**3. Physical & Threatening Violence**
+
+*   Ha forti oscillazioni d'umore, il minuto prima si arrabbia e mi urla contro e quello successivo è dolce e si scusa
+*   Rompe e lancia oggetti per intimidirmi
+*   Dopo che mi ha aggredito (fisicamente o verbalmente) nega di averlo fatto e mi fa dubitare che sia realmente successo.
+*   Mi afferra per i capelli, mi strattona, mi mette le mani al collo, tenta di soffocarmi, mi dà dei pugni, mi schiaffeggia, mi getta addosso degli oggetti o mi fa male in qualche modo
+*   Minaccia di fare del male a me, ai miei amici/amiche o alla mia famiglia
+*   Minaccia di mostrare ai miei amici o ai miei familiari mie immagini intime
+*   Ha mostrato mie immagini intime ad altre persone senza il mio consenso
+*   Minacce di distruggere le mie cose (telefono, vestiti, computer, auto, ecc.)
+
+**Rationale:** This group represents escalating violence, both physical and psychological.  It includes direct physical harm, threats of harm, and coercive control through intimidation and the abuse of privacy. The cycle of abuse (oscillation of moods and denial) is also evident.
+
+**4. Positive Relationship Aspects / Healthy Dynamics (Contrast)**
+
+*   Sento che possiamo confrontarci e anche litigare senza farci male
+*   Sento il suo sostegno nelle cose che faccio
+*   Sento di potergli parlare di qualsiasi cosa
+*   Mi vuole bene per quella che sono e rispetta le mie scelte
+*   Mi incoraggia a provare nuove cose
+*   Mi sento ascoltata e si mostra interessato quando ho qualcosa che voglio condividere
+*   In sua compagnia mi sento a mio agio e al sicuro
+*   Mi fa sentire libera di fare le mie scelte su come gestire il mio tempo
+
+**Rationale:** These items describe aspects of a healthy, supportive relationship. They highlight mutual respect, open communication, emotional support, and personal freedom. Their presence alongside the other dimensions underscores the complex and often contradictory nature of abusive relationships, where moments of kindness can coexist with harmful behavior.
+
+**5. Awareness & External Perception**
+
+*   Le mie amiche o la mia famiglia sono preoccupate per me
+*   Ho paura di vederlo perché so che potrebbe avere comportamenti che mi possono fare stare male o sentire in imbarazzo
+*   In sua compagnia mi capita di sentirmi a disagio e ho la sensazione di dover stare attenta a ciò che dico o a ciò che faccio, come se dovessi “camminare sulle uova” per evitare sue reazioni negative
+*   I miei amici/amiche mi hanno fatto notare che non piace loro come si comporta con me
+*   Provo paura vicino a lui, non mi sento al sicuro
+*   Mi chiede insistentemente di fare sesso e non accetta quando dico di no o che non mi va
+
+**Rationale:** These items reflect the individual’s internal awareness of the problematic dynamics and the external validation of those concerns from others. They demonstrate a growing recognition of the unhealthy nature of the relationship and the fear it evokes. The last item also represents a violation of boundaries and potential sexual coercion.
+
+
+
+This grouping aims to provide a structured understanding of the different facets of the described situation, highlighting the potential for abuse and the importance of recognizing both the controlling behaviors and the subtle forms of emotional manipulation.

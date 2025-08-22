@@ -1,0 +1,56 @@
+### Clinical Psychologist (meta-llama/llama-4-maverick)
+After analyzing the given list of psychological items, I grouped them into four latent dimensions based on clinical psychological constructs. Here are the results:
+
+**Dimension 1: Emotional Abuse and Manipulation**
+
+* Mi dice che, se lo lasciassi, rivelerebbe ad altri dei miei segreti o delle cose molto personali che sa di me
+* Dopo che mi ha aggredito (fisicamente o verbalmente) nega di averlo fatto e mi fa dubitare che sia realmente successo
+* Mi fa sentire spesso sbagliata e mi dice che è colpa mia se sta male
+* Mi dice che non valgo niente e che resterei sola se non stessi con lui perché nessuno mi vorrebbe
+* Mi accusa di flirtare o di tradirlo
+* Pretende prove d'amore e dimostrazioni di fedeltà nei suoi confronti
+* Ha forti oscillazioni d'umore, il minuto prima si arrabbia e mi urla contro e quello successivo è dolce e si scusa
+
+Rationale: These items reflect behaviors that are characteristic of emotional abuse and manipulation, such as gaslighting, blame-shifting, and emotional blackmail. They indicate a pattern of controlling and exploitative behavior.
+
+**Dimension 2: Controlling and Restrictive Behavior**
+
+* Cerca di controllare ciò che faccio e con chi mi vedo
+* Mi impedisce cercare un lavoro per essere indipendente
+* Mi chiede di non vedere i miei amici/amiche
+* Non vuole che io veda la mia famiglia, i miei amici/amiche
+* Controlla come spendo i miei soldi
+* Mi impedisce di avere accesso al conto corrente o alle mie risorse economiche
+* Mi sento controllata, ho la sensazione che non si fidi di me e che voglia sapere sempre dove sono e con chi, me lo chiede continuamente
+
+Rationale: These items reflect behaviors that are characteristic of controlling and restrictive patterns, such as limiting the person's autonomy, freedom, and access to resources.
+
+**Dimension 3: Positive and Supportive Relationship**
+
+* In sua compagnia mi sento a mio agio e al sicuro
+* Sento di potergli parlare di qualsiasi cosa
+* Sento che possiamo confrontarci e anche litigare senza farci male
+* Mi vuole bene per quella che sono e rispetta le mie scelte
+* Capisce che ho bisogno anche di miei spazi personali e comprende che ci sono momenti in cui mi piace stare da sola o con persone diverse da lui (amici/amiche, familiari ecc.)
+* Sento il suo sostegno nelle cose che faccio
+* Mi fa sentire libera di fare le mie scelte su come gestire il mio tempo
+* Mi incoraggia a provare nuove cose
+* Mi sento ascoltata e si mostra interessato quando ho qualcosa che voglio condividere
+
+Rationale: These items reflect characteristics of a positive and supportive relationship, such as feeling safe, respected, and supported.
+
+**Dimension 4: Threats, Violence, and Fear**
+
+* Minacce di distruggere le mie cose (telefono, vestiti, computer, auto, ecc.)
+* Rompe e lancia oggetti per intimidirmi
+* Mi butta giù, mi insulta o mi critica
+* Urla o mi umilia di fronte ad altre persone
+* Mi afferra per i capelli, mi strattona, mi mette le mani al collo, tenta di soffocarmi, mi dà dei pugni, mi schiaffeggia, mi getta addosso degli oggetti o mi fa male in qualche modo
+* Minaccia di fare del male a me, ai miei amici/amiche o alla mia famiglia
+* Minaccia di mostrarmi ad altre persone senza il mio consenso
+* Provo paura vicino a lui, non mi sento al sicuro
+* Ho paura di vederlo perché so che potrebbe avere comportamenti che mi possono fare stare male o sentire in imbarazzo
+
+Rationale: These items reflect behaviors that are characteristic of threats, violence, and fear, such as physical aggression, intimidation, and threats of harm.
+
+These dimensions are distinct and non-overlapping, and they capture different aspects of the psychological experiences described in the items.

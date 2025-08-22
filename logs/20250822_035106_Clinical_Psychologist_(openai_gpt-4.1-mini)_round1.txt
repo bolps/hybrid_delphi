@@ -1,0 +1,114 @@
+### Clinical Psychologist (openai/gpt-4.1-mini)
+**Latent Dimension 1: Emotional and Behavioral Instability**  
+- Ha forti oscillazioni d'umore, il minuto prima si arrabbia e mi urla contro e quello successivo è dolce e si scusa  
+- Quando faccio qualcosa che a lui non va bene poi non mi parla per giorni  
+
+*Rationale:* These items reflect rapid mood swings and unpredictable emotional responses, characteristic of emotional dysregulation often seen in borderline or dysregulated relational dynamics.
+
+---
+
+**Latent Dimension 2: Physical and Verbal Aggression**  
+- Minaccia di distruggere le mie cose (telefono, vestiti, computer, auto, ecc.)  
+- Rompe e lancia oggetti per intimidirmi  
+- Mi afferra per i capelli, mi strattona, mi mette le mani al collo, tenta di soffocarmi, mi dà dei pugni, mi schiaffeggia, mi getta addosso degli oggetti o mi fa male in qualche modo  
+- Urla o mi umilia di fronte ad altre persone  
+
+*Rationale:* This dimension groups overt acts of physical violence and intimidation, including destruction of property and direct physical harm, as well as public verbal humiliation.
+
+---
+
+**Latent Dimension 3: Coercive Control and Surveillance**  
+- Mi sento controllata, ho la sensazione che non si fidi di me e che voglia sapere sempre dove sono e con chi, me lo chiede continuamente  
+- Sento che mi manda troppi messaggi o mi chiama in modo insistente  
+- Cerca di controllare ciò che faccio e con chi mi vedo  
+- Mi impedisce di avere accesso al conto corrente o alle mie risorse economiche  
+- Controlla come spendo i miei soldi  
+- Mi viene chiesto di giustificare ogni acquisto che faccio  
+- Mi impedisce cercare un lavoro per essere indipendente  
+- Non mi fa sentire libera di fare le mie scelte su come gestire il mio tempo  
+- Dice che sono impegnata in troppe cose e che lo trascuro, vorrebbe che passassimo la maggior parte del tempo insieme  
+
+*Rationale:* These items describe controlling behaviors aimed at restricting autonomy, monitoring, and limiting freedom in various life domains, consistent with coercive control.
+
+---
+
+**Latent Dimension 4: Psychological Manipulation and Gaslighting**  
+- Dopo che mi ha aggredito (fisicamente o verbalmente) nega di averlo fatto e mi fa dubitare che sia realmente successo.  
+- Mi fa sentire spesso sbagliata e mi dice che è colpa mia se sta male  
+- Mi butta giù di morale, mi insulta o mi critica  
+- Mi dice che non valgo niente e che resterei sola se non stessi con lui perché nessuno mi vorrebbe  
+- Mi accusa di flirtare o di tradirlo  
+- Non mi fa sentire bene quando parla di come mi prendo cura di me stessa e del mio aspetto fisico  
+- Non mi sento libera di vestirmi come voglio  
+- Sento di potergli parlare di qualsiasi cosa (reverse scored: implies lack of openness)  
+- Non sento che possiamo confrontarci e anche litigare senza farci male  
+- In sua compagnia mi capita di sentirmi a disagio e ho la sensazione di dover stare attenta a ciò che dico o a ciò che faccio, come se dovessi “camminare sulle uova” per evitare sue reazioni negative  
+- Sento disagio o non voglio fare qualcosa ma lo nascondo per paura che si arrabbi  
+
+*Rationale:* This cluster reflects emotional abuse through manipulation, blame-shifting, undermining self-esteem, and gaslighting, generating confusion and self-doubt.
+
+---
+
+**Latent Dimension 5: Social Isolation and Interference in Relationships**  
+- Non vuole che io veda la mia famiglia, i miei amici/amiche  
+- Mi chiede di non vedere i miei amici/amiche  
+- Parla male delle mie amici/amiche e dice che sono dei/delle “poco di buono”  
+- I miei amici/amiche mi hanno fatto notare che non piace loro come si comporta con me  
+- Le mie amiche o la mia famiglia sono preoccupate per me  
+- Non capisce che ho bisogno anche di miei spazi personali e non comprende che ci sono momenti in cui mi piace stare da sola o con persone diverse da lui (amici/amiche, familiari ecc.)  
+- Non si mostra interessato quando ho qualcosa che voglio condividere  
+
+*Rationale:* Items here describe efforts to isolate the person from their social support and invalidate their social needs, which is a classic tactic in abusive relationships.
+
+---
+
+**Latent Dimension 6: Threats and Intimidation**  
+- Minaccia di fare del male a me, ai miei amici/amiche o alla mia famiglia  
+- Minaccia di farsi del male a causa mia  
+- Minaccia di mostrare ai miei amici o ai miei familiari mie immagini intime  
+- Mi dice che, se lo lasciassi, rivelerebbe ad altri dei miei segreti o delle cose molto personali che sa di me  
+
+*Rationale:* This dimension groups explicit threats aimed at instilling fear and compliance through harm to self or others, or exposure of private information.
+
+---
+
+**Latent Dimension 7: Sexual Coercion and Abuse**  
+- Mi chiede insistentemente di fare sesso e non accetta quando dico di no o che non mi va  
+- Ha mostrato mie immagini intime ad altre persone senza il mio consenso  
+
+*Rationale:* These items represent non-consensual sexual pressure and violation of sexual privacy, indicating sexual abuse.
+
+---
+
+**Latent Dimension 8: Lack of Emotional Support and Respect**  
+- Non mi sento ascoltata  
+- Non sento di avere il suo sostegno nelle cose che faccio  
+- Non mi vuole bene per quella che sono e non rispetta le mie scelte  
+- Non mi sento libera di vestirmi come voglio  
+- Non mi incoraggia a provare nuove cose  
+
+*Rationale:* This cluster captures emotional neglect, lack of validation, and disrespect towards personal identity and growth.
+
+---
+
+**Latent Dimension 9: Fear and Safety Concerns**  
+- Provo paura vicino a lui, non mi sento al sicuro  
+- Ho paura di vederlo perché so che potrebbe avere comportamenti che mi possono fare stare male o sentire in imbarazzo  
+- In sua compagnia non mi sento a mio agio e al sicuro  
+
+*Rationale:* These items represent the subjective experience of fear and threat to personal safety in the presence of the partner.
+
+---
+
+**Summary:**  
+1. Emotional and Behavioral Instability  
+2. Physical and Verbal Aggression  
+3. Coercive Control and Surveillance  
+4. Psychological Manipulation and Gaslighting  
+5. Social Isolation and Interference in Relationships  
+6. Threats and Intimidation  
+7. Sexual Coercion and Abuse  
+8. Lack of Emotional Support and Respect  
+9. Fear and Safety Concerns  
+
+Each dimension groups items reflecting distinct clinical phenomena commonly observed in abusive and controlling relationships, avoiding overlap and maintaining conceptual clarity.

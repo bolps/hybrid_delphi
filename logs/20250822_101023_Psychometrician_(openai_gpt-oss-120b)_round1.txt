@@ -1,0 +1,11 @@
+### Psychometrician (openai/gpt-oss-120b)
+**Latent dimension 1 – Physical Violence & Direct Threats**  
+*Core idea:* Behaviours that involve the use (or the explicit threat) of physical force, damage to property, or the threat of self‑harm to manipulate the partner.  
+- *Minaccia di farsi del male a causa mia*  
+- *Rompe e lancia oggetti per intimidirmi*  
+- *Mi afferra per i capelli, mi strattona, mi mette le mani al collo, tenta di soffocarmi, mi dà dei pugni, mi schiaffeggia, mi getta addosso degli oggetti o mi fa male modo*  
+- *Minaccia di distruggere le mie cose (telefono, vestiti, computer, auto, ecc.)*  
+- *Minaccia di fare del male a me, ai miei amici/amiche o alla mia famiglia*  
+
+*Rationale:* All items describe overt physical aggression or explicit threats that can cause bodily injury or property loss. They cluster together because they tap a “danger‑to‑body” component that is distinct from purely psychological or controlling tactics.
+

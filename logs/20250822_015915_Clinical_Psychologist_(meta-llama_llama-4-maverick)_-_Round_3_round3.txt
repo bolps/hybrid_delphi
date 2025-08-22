@@ -1,0 +1,235 @@
+### Clinical Psychologist (meta-llama/llama-4-maverick) - Round 3
+Here is the evaluation of the items within their assigned dimensions for item reduction:
+
+```
+[
+  {
+    "item_id": "IT30",
+    "dimension": "Emotional Abuse",
+    "evidence_for": "Captures emotional harm through insults and criticism.",
+    "evidence_against": "May overlap with self-esteem issues.",
+    "fit": 5,
+    "clarity": 5,
+    "redundant": false,
+    "overlaps_with": [],
+    "recommendation": "Retain",
+    "justification": "Core aspect of emotional abuse."
+  },
+  {
+    "item_id": "IT31",
+    "dimension": "Emotional Abuse",
+    "evidence_for": "Describes blame-shifting and emotional manipulation.",
+    "evidence_against": "Could be seen as a specific instance of IT30.",
+    "fit": 4,
+    "clarity": 5,
+    "redundant": false,
+    "overlaps_with": ["IT30"],
+    "recommendation": "Retain",
+    "justification": "Strong aspect of emotional abuse."
+  },
+  {
+    "item_id": "IT14",
+    "dimension": "Emotional Abuse",
+    "evidence_for": "Captures judgmental behavior.",
+    "evidence_against": "May not directly imply emotional harm.",
+    "fit": 4,
+    "clarity": 4,
+    "redundant": false,
+    "overlaps_with": [],
+    "recommendation": "Retain",
+    "justification": "Relevant to emotional abuse, minor tweak possible."
+  },
+  {
+    "item_id": "IT17",
+    "dimension": "Emotional Abuse",
+    "evidence_for": "Describes negative comments on self-care and appearance.",
+    "evidence_against": "Could be seen as a specific instance of IT30.",
+    "fit": 4,
+    "clarity": 4,
+    "redundant": false,
+    "overlaps_with": ["IT30"],
+    "recommendation": "Retain",
+    "justification": "Relevant to emotional abuse, minor tweak possible."
+  },
+  {
+    "item_id": "IT24",
+    "dimension": "Control and Manipulation",
+    "evidence_for": "Captures controlling behavior and distrust.",
+    "evidence_against": "May overlap with IT26.",
+    "fit": 5,
+    "clarity": 5,
+    "redundant": false,
+    "overlaps_with": ["IT26"],
+    "recommendation": "Retain",
+    "justification": "Core aspect of control and manipulation."
+  },
+  {
+    "item_id": "IT26",
+    "dimension": "Control and Manipulation",
+    "evidence_for": "Describes controlling behavior.",
+    "evidence_against": "Similar to IT24, potential redundancy.",
+    "fit": 5,
+    "clarity": 5,
+    "redundant": true,
+    "overlaps_with": ["IT24"],
+    "recommendation": "Revise",
+    "justification": "Redundant with IT24, revise to capture distinct aspect."
+  },
+  {
+    "item_id": "IT12",
+    "dimension": "Control and Manipulation",
+    "evidence_for": "Captures restriction of social interactions.",
+    "evidence_against": "May not directly imply control.",
+    "fit": 4,
+    "clarity": 5,
+    "redundant": false,
+    "overlaps_with": ["IT27"],
+    "recommendation": "Retain",
+    "justification": "Relevant to control and manipulation."
+  },
+  {
+    "item_id": "IT27",
+    "dimension": "Control and Manipulation",
+    "evidence_for": "Describes restriction of social interactions.",
+    "evidence_against": "Similar to IT12, potential redundancy.",
+    "fit": 4,
+    "clarity": 5,
+    "redundant": true,
+    "overlaps_with": ["IT12"],
+    "recommendation": "Revise",
+    "justification": "Redundant with IT12, revise to capture distinct aspect."
+  },
+  {
+    "item_id": "IT46",
+    "dimension": "Control and Manipulation",
+    "evidence_for": "Captures financial control.",
+    "evidence_against": "None.",
+    "fit": 5,
+    "clarity": 5,
+    "redundant": false,
+    "overlaps_with": ["IT48"],
+    "recommendation": "Retain",
+    "justification": "Core aspect of control and manipulation."
+  },
+  {
+    "item_id": "IT48",
+    "dimension": "Control and Manipulation",
+    "evidence_for": "Describes financial control through justification.",
+    "evidence_against": "Similar to IT46, potential redundancy.",
+    "fit": 4,
+    "clarity": 4,
+    "redundant": true,
+    "overlaps_with": ["IT46"],
+    "recommendation": "Revise",
+    "justification": "Redundant with IT46, revise to capture distinct aspect."
+  },
+  {
+    "item_id": "IT36",
+    "dimension": "Threats and Intimidation",
+    "evidence_for": "Captures threats of harm.",
+    "evidence_against": "None.",
+    "fit": 5,
+    "clarity": 5,
+    "redundant": false,
+    "overlaps_with": [],
+    "recommendation": "Retain",
+    "justification": "Core aspect of threats and intimidation."
+  },
+  {
+    "item_id": "IT37",
+    "dimension": "Threats and Intimidation",
+    "evidence_for": "Describes self-harm threats.",
+    "evidence_against": "None.",
+    "fit": 5,
+    "clarity": 5,
+    "redundant": false,
+    "overlaps_with": [],
+    "recommendation": "Retain",
+    "justification": "Core aspect of threats and intimidation."
+  },
+  {
+    "item_id": "IT38",
+    "dimension": "Threats and Intimidation",
+    "evidence_for": "Captures threats of property damage.",
+    "evidence_against": "None.",
+    "fit": 5,
+    "clarity": 5,
+    "redundant": false,
+    "overlaps_with": [],
+    "recommendation": "Retain",
+    "justification": "Core aspect of threats and intimidation."
+  },
+  {
+    "item_id": "IT41",
+    "dimension": "Threats and Intimidation",
+    "evidence_for": "Describes intimidation through object throwing.",
+    "evidence_against": "None.",
+    "fit": 5,
+    "clarity": 5,
+    "redundant": false,
+    "overlaps_with": [],
+    "recommendation": "Retain",
+    "justification": "Core aspect of threats and intimidation."
+  },
+  {
+    "item_id": "IT18",
+    "dimension": "Fear and Anxiety",
+    "evidence_for": "Captures fear and lack of safety.",
+    "evidence_against": "None.",
+    "fit": 5,
+    "clarity": 5,
+    "redundant": false,
+    "overlaps_with": [],
+    "recommendation": "Retain",
+    "justification": "Core aspect of fear and anxiety."
+  },
+  {
+    "item_id": "IT19",
+    "dimension": "Fear and Anxiety",
+    "evidence_for": "Describes hiding feelings due to fear.",
+    "evidence_against": "None.",
+    "fit": 5,
+    "clarity": 4,
+    "redundant": false,
+    "overlaps_with": [],
+    "recommendation": "Retain",
+    "justification": "Relevant to fear and anxiety, minor tweak possible."
+  },
+  {
+    "item_id": "IT29",
+    "dimension": "Fear and Anxiety",
+    "evidence_for": "Captures feeling uneasy and walking on eggshells.",
+    "evidence_against": "None.",
+    "fit": 5,
+    "clarity": 4,
+    "redundant": false,
+    "overlaps_with": [],
+    "recommendation": "Retain",
+    "justification": "Relevant to fear and anxiety, minor tweak possible."
+  },
+  {
+    "item_id": "IT44",
+    "dimension": "Fear and Anxiety",
+    "evidence_for": "Describes fear of seeing the partner.",
+    "evidence_against": "None.",
+    "fit": 5,
+    "clarity": 5,
+    "redundant": false,
+    "overlaps_with": [],
+    "recommendation": "Retain",
+    "justification": "Core aspect of fear and anxiety."
+  },
+  {
+    "item_id": "IT39",
+    "dimension": "Physical Aggression",
+    "evidence_for": "Captures physical harm and aggression.",
+    "evidence_against": "None.",
+    "fit": 5,
+    "clarity": 5,
+    "redundant": false,
+    "overlaps_with": [],
+    "recommendation": "Retain",
+    "justification": "Core aspect of physical aggression."
+  }
+]
+```

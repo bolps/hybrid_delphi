@@ -1,0 +1,97 @@
+### Psycholinguist (qwen/qwen3-235b-a22b-2507)
+The list of items reflects a range of psychological and behavioral experiences, primarily related to **interpersonal control, emotional abuse, fear, and coercive dynamics** in an intimate relationship. Drawing from psycholinguistic and semantic analysis—focusing on latent meaning, thematic coherence, and emotional valence—the items can be grouped into **five non-overlapping latent dimensions**. These dimensions reflect distinct yet interrelated aspects of psychological and emotional abuse.
+
+---
+
+### **1. Coercive Control and Surveillance**
+**Items:**
+- Mi sento controllata, ho la sensazione che non si fidi di me e che voglia sapere sempre dove sono e con chi, me lo chiede continuamente  
+- Cerca di controllare ciò che faccio e con chi mi vedo  
+- Non vuole che io veda la mia famiglia, i miei amici/amiche  
+- Mi chiede di non vedere i miei amici/amiche  
+- Controlla come spendo i miei soldi  
+- Mi viene chiesto di giustificare ogni acquisto che faccio  
+- Mi impedisce cercare un lavoro per essere indipendente  
+- Mi impedisce di avere accesso al conto corrente o alle mie risorse economiche  
+- Non mi fa sentire libera di fare le mie scelte su come gestire il mio tempo  
+- Sento che mi manda troppi messaggi o mi chiama in modo insistente  
+
+**Rationale:**  
+This dimension captures **systematic attempts to dominate autonomy** across social, financial, and temporal domains. The semantic core is *invasion of agency*—monitoring, restricting, and justifying personal decisions. The language emphasizes *control*, *surveillance*, and *dependency*, reflecting coercive control as a strategy to erode independence.
+
+---
+
+### **2. Emotional Abuse and Degradation**
+**Items:**
+- Parla male delle mie amiche/amiche e dice che sono dei/delle “poco di buono”  
+- Mi dice che non valgo niente e che resterei sola se non stessi con lui perché nessuno mi vorrebbe  
+- Mi butta giù di morale, mi insulta o mi critica  
+- Mi fa sentire spesso sbagliata e mi dice che è colpa mia se sta male  
+- Non mi fa sentire bene quando parla di come mi prendo cura di me stessa e del mio aspetto fisico  
+- Mi sento giudicata rispetto alle cose che faccio e a come organizzo la mia vita  
+- Urla o mi umilia di fronte ad altre persone  
+- In sua compagnia mi capita di sentirmi a disagio e ho la sensazione di dover stare attenta a ciò che dico o a ciò che faccio, come se dovessi “camminare sulle uova”  
+
+**Rationale:**  
+This cluster centers on **verbal aggression, devaluation, and public or private humiliation**. The semantic field includes *worthlessness*, *blame*, and *shame*. The function is to undermine self-esteem and induce self-doubt. The phrase “camminare sulle uova” metaphorically encapsulates the anticipatory anxiety characteristic of emotional abuse.
+
+---
+
+### **3. Isolation and Social Undermining**
+**Items:**
+- Le mie amiche o la mia famiglia sono preoccupate per me  
+- I miei amici/amiche mi hanno fatto notare che non piace loro come si comporta con me  
+- Dice che sono impegnata in troppe cose e che lo trascuro, vorrebbe che passassimo la maggior parte del tempo insieme  
+- Non si mostra interessato quando ho qualcosa che voglio condividere  
+- Non mi incoraggia a provare nuove cose  
+- Non capisce che ho bisogno anche di miei spazi personali e non comprende che ci sono momenti in cui mi piace stare da sola o con persone diverse da lui  
+
+**Rationale:**  
+This dimension reflects **systematic erosion of social support and autonomy in relationships**. The key semantic theme is *disconnection*—from self, others, and growth. While some items are third-party observations (e.g., friends/family concerned), they serve as external validation of isolation tactics. The partner’s lack of interest and discouragement of autonomy function to deepen relational dependence.
+
+---
+
+### **4. Threats, Intimidation, and Coercion**
+**Items:**
+- Minaccia di mostrare ai miei amici o ai miei familiari mie immagini intime  
+- Rompe e lancia oggetti per intimidirmi  
+- Minaccia di farsi del male a causa mia  
+- Minaccia di fare del male a me, ai miei amici/amiche o alla mia famiglia  
+- Minaccia di distruggere le mie cose (telefono, vestiti, computer, auto, ecc.)  
+- Ha mostrato mie immagini intime ad altre persone senza il mio consenso  
+- Mi dice che, se lo lasciassi, rivelerebbe ad altri dei miei segreti o delle cose molto personali che sa di me  
+- Pretende prove d'amore e dimostrazioni di fedeltà nei suoi confronti  
+
+**Rationale:**  
+This dimension involves **explicit threats and acts of intimidation** designed to instill fear and ensure compliance. The semantic core is *coercion through fear*, including threats to self, others, privacy, and property. The disclosure of intimate images and secrets reflects **revenge porn and emotional blackmail**, while demands for "proof of love" signal manipulative control.
+
+---
+
+### **5. Fear, Safety, and Physical Violence**
+**Items:**
+- Provo paura vicino a lui, non mi sento al sicuro  
+- In sua compagnia non mi sento a mio agio e al sicuro  
+- Ho paura di vederlo perché so che potrebbe avere comportamenti che mi possono fare stare male o sentire in imbarazzo  
+- Dopo che mi ha aggredito (fisicamente o verbalmente) nega di averlo fatto e mi fa dubitare che sia realmente successo  
+- Mi afferra per i capelli, mi strattona, mi mette le mani al collo, tenta di soffocarmi, mi dà dei pugni, mi schiaffeggia, mi getta addosso degli oggetti o mi fa male in qualche modo  
+- Ha forti oscillazioni d'umore, il minuto prima si arrabbia e mi urla contro e quello successivo è dolce e si scusa  
+- Quando faccio qualcosa che a lui non va bene poi non mi parla per giorni  
+- Sento disagio o non voglio fare qualcosa ma lo nascondo per paura che si arrabbi  
+- Mi chiede insistentemente di fare sesso e non accetta quando dico di no o che non mi va  
+
+**Rationale:**  
+This cluster centers on **fear of harm, actual physical violence, and sexual coercion**, compounded by *gaslighting* and *emotional unpredictability*. The language conveys *bodily and psychological unsafety*. The presence of mood swings and post-abuse denial reflects **cycles of violence and manipulation**, reinforcing trauma bonding. The item about unwanted sex directly indicates **sexual coercion**, a severe form of violation.
+
+---
+
+### **Summary of Latent Dimensions:**
+
+| Dimension | Core Semantic Theme |
+|--------|---------------------|
+| 1. Coercive Control and Surveillance | Restriction of autonomy across time, space, and finances |
+| 2. Emotional Abuse and Degradation | Verbal attacks, humiliation, and erosion of self-worth |
+| 3. Isolation and Social Undermining | Disruption of relationships and discouragement of independence |
+| 4. Threats, Intimidation, and Coercion | Use of fear, blackmail, and threats to maintain control |
+| 5. Fear, Safety, and Physical Violence | Physical harm, sexual coercion, and chronic fear |
+
+These dimensions are distinct in their **semantic focus** (e.g., control vs. degradation vs. violence) but **interconnected in function**: all serve to establish and maintain dominance and dependency in an abusive relationship. The linguistic patterns—repetition of *paura*, *controllo*, *non mi sento*, *minaccia*—reflect a **discourse of disempowerment**, where the speaker’s agency is systematically negated.

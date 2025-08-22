@@ -1,1 +1,0 @@
-uv run batch_infer_narratives.py --input narratives_small.json --prompt labeling_prompt.yaml --output inference_results_miniset_oss120b.jsonl --model openai/gpt-oss-120b --temperature 0.3  --sleep 0.2

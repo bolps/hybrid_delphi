@@ -1,0 +1,75 @@
+### Clinical Psychologist (meta-llama/llama-4-maverick)
+After analyzing the given list of psychological items, I have identified several latent dimensions that underlie the experiences described. Below, I outline these dimensions, labeling each, listing the items that belong to it, and providing a brief rationale for the grouping based on clinical psychological constructs.
+
+### 1. **Emotional Abuse and Criticism**
+- Mi butta giù di morale, mi insulta o mi critica
+- Mi sento giudicata rispetto alle cose che faccio e a come organizzo la mia vita
+- Mi dice che non valgo niente e che resterei sola se non stessi con lui perché nessuno mi vorrebbe
+- Mi fa sentire spesso sbagliata e mi dice che è colpa mia se sta male
+- Non mi sento ascoltata
+- Non mi incoraggia a provare nuove cose
+- Non mi fa sentire bene quando parla di come mi prendo cura di me stessa e del mio aspetto fisico
+
+Rationale: These items reflect a pattern of emotional abuse where the individual is subjected to criticism, belittling, and being made to feel inadequate or guilty. This dimension captures the emotional manipulation and negative impact on the person's self-esteem.
+
+### 2. **Control and Possessiveness**
+- Non mi fa sentire libera di fare le mie scelte su come gestire il mio tempo
+- Non mi sento libera di vestirmi come voglio
+- Controlla come spendo i miei soldi
+- Cerca di controllare ciò che faccio e con chi mi vedo
+- Mi sento controllata, ho la sensazione che non si fidi di me e che voglia sapere sempre dove sono e con chi, me lo chiede continuamente
+- Mi viene chiesto di giustificare ogni acquisto che faccio
+- Mi impedisce di avere accesso al conto corrente o alle mie risorse economiche
+
+Rationale: This dimension involves behaviors that restrict the person's autonomy, including controlling their appearance, finances, and social interactions. It highlights a dynamic of possessiveness and a lack of trust.
+
+### 3. **Intimidation and Threats**
+- Minaccia di distruggere le mie cose (telefono, vestiti, computer, auto, ecc.)
+- Minaccia di fare del male a me, ai miei amici/amiche o alla mia famiglia
+- Minaccia di farsi del male a causa mia
+- Rompe e lancia oggetti per intimidirmi
+- Minaccia di mostrare ai miei amici o ai miei familiari mie immagini intime
+- Ha mostrato mie immagini intime ad altre persone senza il mio consenso
+
+Rationale: These items are characterized by threats, whether directed at the person, their loved ones, or themselves. They are used to intimidate, control, or punish, creating a climate of fear.
+
+### 4. **Isolation**
+- Non vuole che io veda la mia famiglia, i miei amici/amiche
+- Mi chiede di non vedere i miei amici/amiche
+- Dice che sono impegnata in troppe cose e che lo trascuro, vorrebbe che passassimo la maggior parte del tempo insieme
+- Parla male delle mie amici/amiche e dice che sono dei/delle “poco di buono”
+
+Rationale: This dimension involves behaviors aimed at isolating the individual from their support networks, including friends and family, thereby increasing dependence on the partner.
+
+### 5. **Fear and Anxiety**
+- Provo paura vicino a lui, non mi sento al sicuro
+- In sua compagnia non mi sento a mio agio e al sicuro
+- Ho paura di vederlo perché so che potrebbe avere comportamenti che mi possono fare stare male o sentire in imbarazzo
+- Sento disagio o non voglio fare qualcosa ma lo nascondo per paura che si arrabbi
+
+Rationale: These items reflect the emotional state of fear and anxiety that pervades the relationship, stemming from the partner's behavior.
+
+### 6. **Physical and Sexual Violence**
+- Mi afferra per i capelli, mi strattona, mi mette le mani al collo, tenta di soffocarmi, mi dà dei pugni, mi schiaffeggia, mi getta addosso degli oggetti o mi fa male in qualche modo
+- Mi chiede insistentemente di fare sesso e non accetta quando dico di no o che non mi va
+
+Rationale: This dimension includes acts of physical violence and coercive sexual behavior, highlighting a severe violation of personal boundaries and safety.
+
+### 7. **Lack of Emotional Support and Validation**
+- Non sento che possiamo confrontarci e anche litigare senza farci male
+- Non si mostra interessato quando ho qualcosa che voglio condividere
+- Non sento di potergli parlare di qualsiasi cosa
+- Non sento di avere il suo sostegno nelle cose che faccio
+- Non mi vuole bene per quella che sono e non rispetta le mie scelte
+
+Rationale: These items indicate a lack of emotional support, understanding, and validation within the relationship, contributing to feelings of isolation and not being valued.
+
+### 8. **Obsessive Behavior**
+- Diventa estremamente geloso o possessivo
+- Sento che mi manda troppi messaggi o mi chiama in modo insistente
+- Pretende prove d'amore e dimostrazioni di fedeltà nei suoi confronti
+- Mi accusa di flirtare o di tradirlo
+
+Rationale: This dimension is characterized by obsessive behaviors that are overly attentive, jealous, or demanding, reflecting an unhealthy level of attachment.
+
+Each of these dimensions captures a distinct aspect of potentially abusive or unhealthy relationship dynamics, highlighting the complex ways in which control, fear, and emotional distress can be inflicted on a partner.

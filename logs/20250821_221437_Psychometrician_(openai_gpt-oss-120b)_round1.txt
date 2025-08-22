@@ -1,0 +1,101 @@
+### Psychometrician (openai/gpt-oss-120b)
+**Latent dimension 1 – Healthy / Supportive Relationship Quality**  
+*What the factor captures:*  The partner is perceived as a safe base, a source of emotional intimacy, encouragement and respect for the respondent’s autonomy.  
+*Items that load on this factor*  
+
+- 3 – “Sento di potergli parlare di qualsiasi cosa”  
+- 4 – “Mi incoraggia a provare nuove cose”  
+- 5 – “Sento il suo sostegno nelle cose che faccio”  
+- 19 – “Sento che possiamo confrontarci e anche litigare senza farci male”  
+- 28 – “Capisce che ho bisogno anche di miei spazi personali …”  
+- 35 – “Mi sento ascoltata e si mostra interessato quando ho qualcosa che voglio condividere”  
+- 36 – “Mi fa sentire libera di fare le mie scelte su come gestire il mio tempo”  
+- 43 – “Mi vuole bene per quella che sono e rispetta le mie scelte”  
+- 45 – “In sua compagnia mi sento a mio agio e al sicuro”
+
+*Rationale:*  These statements describe openness, mutual respect, encouragement, and a feeling of safety – the hallmarks of a non‑abusive, supportive bond. They cluster together because they all refer to positive relational experiences rather than control, intimidation, or harm.
+
+---
+
+**Latent dimension 2 – Coercive Control & Social‑Economic Isolation**  
+*What the factor captures:*  Systematic attempts to dominate the partner’s life: restricting contacts, monitoring whereabouts, monopolising time, and controlling financial resources or personal appearance.  
+*Items that load on this factor*  
+
+- 2 – “Mi chiede di non vedere i miei amici/amiche”  
+- 11 – “Mi impedisce cercare un lavoro per essere indipendente”  
+- 17 – “Mi impedisce di avere accesso al conto corrente o alle mie risorse economiche”  
+- 18 – “Non vuole che io veda la mia famiglia, i miei amici/amiche”  
+- 21 – “Mi sento controllata … vuole sapere sempre dove sono e con chi”  
+- 23 – “Dice che sono impegnata in troppe cose … vorrebbe che passassimo la maggior parte del tempo insieme”  
+- 24 – “Diventa estremamente geloso o possessivo”  
+- 25 – “Mi dice che, se lo lasciassi, rivelerebbe… i miei segreti”  
+- 30 – “Controlla come spendo i miei soldi”  
+- 34 – “Sento che mi manda troppi messaggi o mi chiama in modo insistente”  
+- 39 – “Non mi sento libera di vestirmi come voglio”  
+- 44 – “Cerca di controllare ciò che faccio e con chi mi vedo”  
+- 48 – “Mi viene chiesto di giustificare ogni acquisto che faccio”
+
+*Rationale:*  All these items describe behaviours that limit the respondent’s autonomy, isolate her socially, or place her under constant surveillance and financial domination. They form a coherent “coercive‑control” factor that is distinct from overt physical aggression or emotional devaluation.
+
+---
+
+**Latent dimension 3 – Emotional / Verbal Abuse & Gaslighting**  
+*What the factor captures:*  Hostile communication that degrades, humiliates, blames, or distorts reality, creating chronic self‑doubt and psychological distress.  
+*Items that load on this factor*  
+
+- 1 – “Parla male delle mie amici/amiche … ‘poco di buono’”  
+- 6 – “Quando faccio qualcosa che a lui non va bene poi non mi parla per giorni” (silent‑treatment punishment)  
+- 7 – “Non mi fa sentire bene quando parla di come mi prendo cura di me stessa e del mio aspetto fisico”  
+- 13 – “Mi butta giù, mi insulta o mi critica”  
+- 15 – “Sento disagio … ma lo nascondo per paura che si arrabbi”  
+- 20 – “Dopo che mi ha aggredito … nega di averlo fatto e mi fa dubitare” (gaslighting)  
+- 29 – “Mi dice che non valgo niente … nessuno mi vorrebbe”  
+- 33 – “Urla o mi umilia di fronte ad altre persone”  
+- 37 – “Mi sento giudicata rispetto alle cose che faccio e a come organizzo la mia vita”  
+- 47 – “Mi fa sentire spesso sbagliata e mi dice che è colpa mia se sta male”  
+- 31 – “In sua compagnia mi capita di sentirmi a disagio … devo ‘camminare sulle uova’” (psychological intimidation)
+
+*Rationale:*  These statements share a common theme of hostile, demeaning, or reality‑distorting language. They are distinct from physical aggression (dimension 4) and from the controlling‑behaviour of dimension 2 because the primary mechanism is verbal/psychological attack rather than restriction of actions or resources.
+
+---
+
+**Latent dimension 4 – Physical, Sexual and Threatening Abuse**  
+*What the factor captures:*  Direct bodily harm, sexual coercion, and explicit threats of violence toward the respondent, her loved ones, or her property.  
+*Items that load on this factor*  
+
+- 9 – “Mi chiede insistentemente di fare sesso e non accetta quando dico di no” (sexual coercion)  
+- 10 – “Minaccia di mostrare ai miei amici o ai miei familiari mie immagini intime” (coercive‑sexual threat)  
+- 22 – “Ha mostrato mie immagini intime ad altre persone senza il mio consenso”  
+- 27 – “Mi afferra per i capelli, mi strattona, … mi dà dei pugni, mi schiaffeggia, …” (physical assault)  
+- 38 – “Minacce di distruggere le mie cose (telefono, vestiti, …)” (property intimidation)  
+- 40 – “Rompe e lancia oggetti per intimidirmi”  
+- 42 – “Minaccia di farsi del male a causa mia” (self‑harm threat used as manipulation)  
+- 46 – “Minaccia di fare del male a me, ai miei amici/amiche o alla mia famiglia”  
+- 12 – “Provo paura vicino a lui, non mi sento al sicuro” (fear of imminent physical harm)  
+- 32 – “Ho paura di vederlo perché so che potrebbe avere comportamenti che mi possono fare stare male” (anticipatory fear of physical/sexual abuse)
+
+*Rationale:*  These items involve overt or threatened bodily injury, sexual pressure, or intimidation through destruction of property. They cluster together because they represent the most severe, tangible forms of abuse, separate from the purely relational or verbal patterns captured in the previous dimensions.
+
+---
+
+**Latent dimension 5 – Emotional Instability / Mood Volatility**  
+*What the factor captures:*  Unpredictable, rapid shifts in affect that create a “walking on eggshells” environment independent of the other abuse tactics.  
+*Item that loads on this factor*  
+
+- 8 – “Ha forti oscillazioni d'umore, il minuto prima si arrabbia e mi urla contro e quello successivo è dolce e si scusa”
+
+*Rationale:*  This single item reflects a pattern of dramatic mood swings that can exacerbate all other abusive behaviours but is conceptually distinct as a characteristic of the perpetrator’s affective regulation rather than a specific controlling or violent act.
+
+---
+
+### Summary of the factor solution  
+
+| Dimension | Core theme | Representative items (examples) |
+|-----------|------------|----------------------------------|
+| 1. Healthy / Supportive Relationship Quality | Trust, encouragement, safety | 3, 4, 5, 19, 35, 36, 43, 45 |
+| 2. Coercive Control & Social‑Economic Isolation | Monitoring, jealousy, financial and social restriction | 2, 11, 17, 18, 21, 23, 24, 25, 30, 34, 39, 44, 48 |
+| 3. Emotional / Verbal Abuse & Gaslighting | Devaluation, humiliation, blame, reality‑distortion | 1, 6, 7, 13, 15, 20, 29, 33, 37, 47, 31 |
+| 4. Physical, Sexual & Threatening Abuse | Physical assault, sexual coercion, threats of harm or property damage | 9, 10, 22, 27, 38, 40, 42, 46, 12, 32 |
+| 5. Emotional Instability / Mood Volatility | Rapid, unpredictable mood swings | 8 |
+
+These five latent dimensions capture the major theoretical constructs that emerge from the item pool: (1) the presence of a genuinely supportive bond, (2) systematic control and isolation, (3) hostile verbal/psychological manipulation, (4) overt physical/sexual aggression and intimidation, and (5) the perpetrator’s affective instability.  Each item is placed in the single factor that best reflects its primary behavioural content, minimizing overlap while preserving conceptual coherence.

@@ -1,0 +1,73 @@
+### Clinical Psychologist (meta-llama/llama-4-maverick)
+After analyzing the given list of psychological items, I have identified several latent dimensions that underlie the list. Here are the grouped items, along with a clear label, and a brief rationale for the grouping:
+
+**1. Controlling Behavior**
+- Cerca di controllare ciò che faccio e con chi mi vedo
+- Mi impedisce cercare un lavoro per essere indipendente
+- Mi chiede di non vedere i miei amici/amiche
+- Non vuole che io veda la mia famiglia, i miei amici/amiche
+- Controlla come spendo i miei soldi
+- Mi impedisce di avere accesso al conto corrente o alle mie risorse economiche
+- Mi sento controllata, ho la sensazione che non si fidi di me e che voglia sapere sempre dove sono e con chi, me lo chiede continuamente
+
+Rationale: These items all relate to behaviors that restrict or monitor the individual's autonomy, freedom, and actions, indicating a pattern of control.
+
+**2. Emotional Abuse and Criticism**
+- Non mi fa sentire bene quando parla di come mi prendo cura di me stessa e del mio aspetto fisico
+- Mi butta giù, mi insulta o mi critica
+- Mi fa sentire spesso sbagliata e mi dice che è colpa mia se sta male
+- Mi sento giudicata rispetto alle cose che faccio e a come organizzo la mia vita
+- Mi dice che non valgo niente e che resterei sola se non stessi con lui perché nessuno mi vorrebbe
+
+Rationale: These items involve verbal or non-verbal behaviors that are demeaning, critical, or guilt-inducing, characteristic of emotional abuse.
+
+**3. Intimidation and Threats**
+- Minacce di distruggere le mie cose (telefono, vestiti, computer, auto, ecc.)
+- Rompe e lancia oggetti per intimidirmi
+- Minaccia di mostrare ai miei amici o ai miei familiari mie immagini intime
+- Minaccia di fare del male a me, ai miei amici/amiche o alla mia famiglia
+- Minaccia di farsi del male a causa mia
+
+Rationale: These behaviors are aimed at instilling fear or compliance through threats or acts of aggression.
+
+**4. Physical Abuse**
+- Mi afferra per i capelli, mi strattona, mi mette le mani al collo, tenta di soffocarmi, mi dà dei pugni, mi schiaffeggia, mi getta addosso degli oggetti o mi fa male in qualche modo
+
+Rationale: This item directly involves physical harm or aggression, a hallmark of physical abuse.
+
+**5. Coercion and Manipulation**
+- Mi dice che, se lo lasciassi, rivelerebbe ad altri dei miei segreti o delle cose molto personali che sa di me
+- Dopo che mi ha aggredito (fisicamente o verbalmente) nega di averlo fatto e mi fa dubitare che sia realmente successo
+- Pretende prove d'amore e dimostrazioni di fedeltà nei suoi confronti
+- Sento disagio o non voglio fare qualcosa ma lo nascondo per paura che si arrabbi
+
+Rationale: These behaviors involve forcing or manipulating the individual into compliance or maintaining the relationship through guilt, denial, or coercion.
+
+**6. Healthy Relationship Characteristics**
+- In sua compagnia mi sento a mio agio e al sicuro
+- Sento di potergli parlare di qualsiasi cosa
+- Sento che possiamo confrontarci e anche litigare senza farci male
+- Mi vuole bene per quella che sono e rispetta le mie scelte
+- Capisce che ho bisogno anche di miei spazi personali e comprende che ci sono momenti in cui mi piace stare da sola o con persone diverse da lui (amici/amiche, familiari ecc.)
+- Sento il suo sostegno nelle cose che faccio
+- Mi fa sentire libera di fare le mie scelte su come gestire il mio tempo
+- Mi incoraggia a provare nuove cose
+- Mi sento ascoltata e si mostra interessato quando ho qualcosa che voglio condividere
+
+Rationale: These items describe aspects of a healthy, supportive relationship where the individual feels valued, respected, and free.
+
+**7. Jealousy and Possessiveness**
+- Diventa estremamente geloso o possessivo
+- Mi accusa di flirtare o di tradirlo
+- Sento che mi manda troppi messaggi o mi chiama in modo insistente
+- Dice che sono impegnata in troppe cose e che lo trascuro, vorrebbe che passassimo la maggior parte del tempo insieme
+
+Rationale: These behaviors are indicative of excessive jealousy or possessiveness, often seen in abusive or controlling relationships.
+
+**8. External Observations of Concern**
+- Le mie amiche o la mia famiglia sono preoccupate per me
+- I miei amici/amiche mi hanno fatto notare che non piace loro come si comporta con me
+
+Rationale: These items reflect observations by others that the individual is in a concerning or potentially abusive relationship.
+
+Each of these dimensions captures a distinct aspect of the dynamics within a relationship, ranging from abusive behaviors to characteristics of healthy interactions.

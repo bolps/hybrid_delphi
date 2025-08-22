@@ -1,0 +1,99 @@
+### Psychometrician (google/gemini-2.5-flash)
+As a psychometrician, I will identify latent dimensions from the provided items, grouping them based on shared psychological constructs.
+
+## Latent Dimensions
+
+### Dimension 1: Coercive Control & Isolation
+
+**Label:** Relational Control & Isolation
+
+**Items:**
+* Non vuole che io veda la mia famiglia, i miei amici/amiche (Doesn't want me to see my family, my friends)
+* Mi sento controllata, ho la sensazione che non si fidi di me e che voglia sapere sempre dove sono e con chi, me lo chiede continuamente (I feel controlled, I have the feeling that they don't trust me and want to always know where I am and with whom, they ask me constantly)
+* Cerca di controllare ciò che faccio e con chi mi vedo (Tries to control what I do and who I see)
+* Non mi fa sentire libera di fare le mie scelte su come gestire il mio tempo (Doesn't make me feel free to make my choices on how to manage my time)
+* Mi chiede di non vedere i miei amici/amiche (Asks me not to see my friends)
+* Mi impedisce cercare un lavoro per essere indipendente (Prevents me from looking for a job to be independent)
+* Pretende prove d'amore e dimostrazioni di fedeltà nei suoi confronti (Demands proofs of love and demonstrations of loyalty towards them)
+* Dice che sono impegnata in troppe cose e che lo trascuro, vorrebbe che passassimo la maggior parte del tempo insieme (Says I'm busy with too many things and that I neglect them, would like us to spend most of our time together)
+* Non mi sento libera di vestirmi come voglio (I don't feel free to dress as I want)
+* Mi accusa di flirtare o di tradirlo (Accuses me of flirting or cheating)
+* Controlla come spendo i miei soldi (Controls how I spend my money)
+* Mi impedisce di avere accesso al conto corrente o alle mie risorse economiche (Prevents me from having access to my bank account or my financial resources)
+* Parla male delle mie amici/amiche e dice che sono dei/delle “poco di buono” (Speaks ill of my friends and says they are "no good")
+* Non capisce che ho bisogno anche di miei spazi personali e non comprende che ci sono momenti in cui mi piace stare da sola o con persone diverse da lui (amici/amiche, familiari ecc.) (Doesn't understand that I also need my personal space and doesn't understand that there are times when I like to be alone or with people other than them (friends, family, etc.))
+* Sento che mi manda troppi messaggi o mi chiama in modo insistente (I feel that they send me too many messages or call me insistently)
+
+**Rationale:** This dimension captures behaviors aimed at isolating the individual from their support network, controlling their autonomy, and dictating their choices, often stemming from possessiveness and mistrust. It encompasses social, financial, and personal freedom restrictions.
+
+### Dimension 2: Emotional & Psychological Abuse
+
+**Label:** Emotional & Psychological Manipulation
+
+**Items:**
+* Mi fa sentire spesso sbagliata e mi dice che è colpa mia se sta male (Often makes me feel wrong and tells me it's my fault if they are unwell)
+* Sento disagio o non voglio fare qualcosa ma lo nascondo per paura che si arrabbi (I feel discomfort or don't want to do something but I hide it for fear they will get angry)
+* Dopo che mi ha aggredito (fisicamente o verbalmente) nega di averlo fatto e mi fa dubitare che sia realmente successo. (After assaulting me (physically or verbally), they deny having done it and make me doubt that it really happened.)
+* Mi sento giudicata rispetto alle cose che faccio e a come organizzo la mia vita (I feel judged about the things I do and how I organize my life)
+* Mi butta giù di morale, mi insulta o mi critica (Puts me down, insults me or criticizes me)
+* Mi dice che non valgo niente e che resterei sola se non stessi con lui perché nessuno mi vorrebbe (Tells me I'm worthless and that I'd be alone if I wasn't with them because no one would want me)
+* Non mi vuole bene per quella che sono e non rispetta le mie scelte (Doesn't love me for who I am and doesn't respect my choices)
+* Non mi fa sentire bene quando parla di come mi prendo cura di me stessa e del mio aspetto fisico (Doesn't make me feel good when they talk about how I take care of myself and my physical appearance)
+* Non mi sento ascoltata (I don't feel heard)
+* Ha forti oscillazioni d'umore, il minuto prima si arrabbia e mi urla contro e quello successivo è dolce e si scusa (Has strong mood swings, one minute they're angry and yelling at me and the next they're sweet and apologize)
+* Mi viene chiesto di giustificare ogni acquisto che faccio (I am asked to justify every purchase I make)
+* Non si mostra interessato quando ho qualcosa che voglio condividere (Doesn't show interest when I have something I want to share)
+* Quando faccio qualcosa che a lui non va bene poi non mi parla per giorni (When I do something they don't like, they don't talk to me for days)
+* Non sento che possiamo confrontarci e anche litigare senza farci male (I don't feel that we can confront each other and even argue without hurting each other)
+* In sua compagnia mi capita di sentirmi a disagio e ho la sensazione di dover stare attenta a ciò che dico o a ciò che faccio, come se dovessi “camminare sulle uova” per evitare sue reazioni negative (In their company, I often feel uncomfortable and have the feeling that I have to be careful about what I say or do, as if I have to "walk on eggshells" to avoid their negative reactions)
+
+**Rationale:** This dimension encompasses behaviors that undermine an individual's self-worth, gaslighting, emotional invalidation, and creating an atmosphere of fear or constant anxiety about the partner's reactions. It focuses on the psychological impact of the abuser's actions.
+
+### Dimension 3: Threats & Intimidation
+
+**Label:** Threats & Intimidation
+
+**Items:**
+* Mi dice che, se lo lasciassi, rivelerebbe ad altri dei miei segreti o delle cose molto personali che sa di me (Tells me that if I left them, they would reveal my secrets or very personal things they know about me to others)
+* Minaccia di farsi del male a causa mia (Threatens to harm themselves because of me)
+* Rompe e lancia oggetti per intimidirmi (Breaks and throws objects to intimidate me)
+* Minaccia di fare del male a me, ai miei amici/amiche o alla mia famiglia (Threatens to harm me, my friends, or my family)
+* Minaccia di distruggere le mie cose (telefono, vestiti, computer, auto, ecc.) (Threatens to destroy my belongings (phone, clothes, computer, car, etc.))
+* Minaccia di mostrare ai miei amici o ai miei familiari mie immagini intime (Threatens to show my intimate images to my friends or family)
+
+**Rationale:** This dimension groups items related to direct or implied threats of harm (to self, others, or property) or exposure of private information, used as a means of control and to instill fear.
+
+### Dimension 4: Physical & Sexual Coercion
+
+**Label:** Physical & Sexual Coercion
+
+**Items:**
+* Mi chiede insistentemente di fare sesso e non accetta quando dico di no o che non mi va (Insistently asks me to have sex and doesn't accept when I say no or that I don't feel like it)
+* Mi afferra per i capelli, mi strattona, mi mette le mani al collo, tenta di soffocarmi, mi dà dei pugni, mi schiaffeggia, mi getta addosso degli oggetti o mi fa male in qualche modo (Grabs my hair, shoves me, puts their hands on my neck, tries to suffocate me, punches me, slaps me, throws objects at me or hurts me in some way)
+* Ha mostrato mie immagini intime ad altre persone senza il mio consenso (Has shown my intimate images to other people without my consent)
+
+**Rationale:** This dimension specifically addresses direct physical violence, sexual coercion, and the non-consensual sharing of intimate media, representing overt violations of bodily autonomy and privacy.
+
+### Dimension 5: Impact & External Awareness
+
+**Label:** Impact & External Awareness
+
+**Items:**
+* I miei amici/amiche mi hanno fatto notare che non piace loro come si comporta con me (My friends have pointed out to me that they don't like how they behave with me)
+* Le mie amiche o la mia famiglia sono preoccupate per me (My friends or family are worried about me)
+* Provo paura vicino a lui, non mi sento al sicuro (I feel fear near them, I don't feel safe)
+* In sua compagnia non mi sento a mio agio e al sicuro (In their company, I don't feel comfortable and safe)
+* Ho paura di vederlo perché so che potrebbe avere comportamenti che mi possono fare stare male o sentire in imbarazzo (I'm afraid to see them because I know they might have behaviors that could make me feel bad or embarrassed)
+
+**Rationale:** This dimension captures the observable consequences of the abusive relationship on the individual's emotional state (fear, discomfort) and the awareness of the abuse by external parties (friends, family). It reflects the impact rather than the specific abusive behaviors themselves.
+
+### Dimension 6: Lack of Support & Reciprocity
+
+**Label:** Lack of Support & Reciprocity
+
+**Items:**
+* Non mi incoraggia a provare nuove cose (Doesn't encourage me to try new things)
+* Non sento di avere il suo sostegno nelle cose che faccio (I don't feel I have their support in the things I do)
+* Sento di potergli parlare di qualsiasi cosa (I feel I can talk to them about anything) (This item is reverse-coded, indicating a *lack* of this feeling)
+
+**Rationale:** This dimension focuses on the absence of positive relational elements, such as encouragement, emotional support, and open communication, which are fundamental to a healthy partnership. The reverse-coded item highlights the breakdown of trust and intimacy.

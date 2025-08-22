@@ -1,0 +1,126 @@
+### Clinical Psychologist (qwen/qwen3-235b-a22b-2507)
+Based on a clinical psychological framework—particularly informed by relational dynamics, attachment theory, trauma, and models of coercive control and emotional abuse—the following items can be grouped into **five distinct, non-overlapping latent dimensions**. These dimensions reflect core psychological constructs relevant to **healthy vs. abusive relational patterns**, with a focus on emotional safety, autonomy, control, and self-worth.
+
+---
+
+### **1. Coercive Control and Domination**
+*Items:*
+- Mi butta giù, mi insulta o mi critica  
+- Cerca di controllare ciò che faccio e con chi mi vedo  
+- Mi sento controllata, ho la sensazione che non si fidi di me e che voglia sapere sempre dove sono e con chi, me lo chiede continuamente  
+- Sento che mi manda troppi messaggi o mi chiama in modo insistente  
+- Mi accusa di flirtare o di tradirlo  
+- Minaccia di fare del male a me, ai miei amici/amiche o alla mia famiglia  
+- Mi impedisce di avere accesso al conto corrente o alle mie risorse economiche  
+- Minaccia di farsi del male a causa mia  
+- Rompe e lancia oggetti per intimidirmi  
+- Non vuole che io veda la mia famiglia, i miei amici/amiche  
+- Diventa estremamente geloso o possessivo  
+- Mi impedisce cercare un lavoro per essere indipendente  
+- Mi dice che, se lo lasciassi, rivelerebbe ad altri dei miei segreti o delle cose molto personali che sa di me  
+- Mi chiede di non vedere i miei amici/amiche  
+- Non mi sento libera di vestirmi come voglio  
+- Parla male delle mie amici/amiche e dice che sono dei/delle “poco di buono”  
+- Pretende prove d'amore e dimostrazioni di fedeltà nei suoi confronti  
+- Urla o mi umilia di fronte ad altre persone  
+- Controlla come spendo i miei soldi  
+- Dice che sono impegnata in troppe cose e che lo trascuro, vorrebbe che passassimo la maggior parte del tempo insieme  
+- Sento il suo sostegno nelle cose che faccio *(note: this item seems out of place here but may reflect cognitive dissonance — included only if contextually coerced; however, upon review, it belongs better in Dimension 5)*  
+- Mi viene chiesto di giustificare ogni acquisto che faccio  
+
+*Revised list after refinement:*  
+- Mi butta giù, mi insulta o mi critica  
+- Cerca di controllare ciò che faccio e con chi mi vedo  
+- Mi sento controllata, ho la sensazione che non si fidi di me e che voglia sapere sempre dove sono e con chi, me lo chiede continuamente  
+- Sento che mi manda troppi messaggi o mi chiama in modo insistente  
+- Mi accusa di flirtare o di tradirlo  
+- Minaccia di fare del male a me, ai miei amici/amiche o alla mia famiglia  
+- Mi impedisce di avere accesso al conto corrente o alle mie risorse economiche  
+- Minaccia di farsi del male a causa mia  
+- Rompe e lancia oggetti per intimidirmi  
+- Non vuole che io veda la mia famiglia, i miei amici/amiche  
+- Diventa estremamente geloso o possessivo  
+- Mi impedisce cercare un lavoro per essere indipendente  
+- Mi dice che, se lo lasciassi, rivelerebbe ad altri dei miei segreti o delle cose molto personali che sa di me  
+- Mi chiede di non vedere i miei amici/amiche  
+- Non mi sento libera di vestirmi come voglio  
+- Parla male delle mie amici/amiche e dice che sono dei/delle “poco di buono”  
+- Pretende prove d'amore e dimostrazioni di fedeltà nei suoi confronti  
+- Urla o mi umilia di fronte ad altre persone  
+- Controlla come spendo i miei soldi  
+- Dice che sono impegnata in troppe cose e che lo trascuro, vorrebbe che passassimo la maggior parte del tempo insieme  
+- Mi viene chiesto di giustificare ogni acquisto che faccio  
+
+*Rationale:*  
+This dimension reflects **coercive control**, a core feature of intimate partner violence. It includes behaviors aimed at dominating the partner through surveillance, restriction of autonomy, emotional manipulation (e.g., threats of self-harm), economic control, isolation, and public humiliation. These are not isolated incidents but part of a systematic pattern to erode independence and instill dependency.
+
+---
+
+### **2. Physical and Sexual Violence**
+*Items:*
+- Mi afferra per i capelli, mi strattona, mi mette le mani al collo, tenta di soffocarmi, mi dà dei pugni, mi schiaffeggia, mi getta addosso degli oggetti o mi fa male in qualche modo  
+- Mi chiede insistentemente di fare sesso e non accetta quando dico di no o che non mi va  
+- Ha mostrato mie immagini intime ad altre persone senza il mio consenso  
+- Minacce di distruggere le mie cose (telefono, vestiti, computer, auto, ecc.)  
+- Dopo che mi ha aggredito (fisicamente o verbalmente) nega di averlo fatto e mi fa dubitare che sia realmente successo.
+
+*Rationale:*  
+This cluster captures **direct acts of physical aggression, sexual coercion, image-based abuse (revenge porn), property destruction as intimidation**, and **gaslighting following violence**. These represent clear markers of interpersonal violence and violations of bodily and sexual autonomy. The inclusion of post-abuse denial reflects the psychological manipulation component often accompanying physical violence.
+
+---
+
+### **3. Emotional Abuse and Erosion of Self-Worth**
+*Items:*
+- Mi fa sentire spesso sbagliata e mi dice che è colpa mia se sta male  
+- Mi dice che non valgo niente e che resterei sola se non stessi con lui perché nessuno mi vorrebbe  
+- Non mi fa sentire bene quando parla di come mi prendo cura di me stessa e del mio aspetto fisico  
+- Mi sento giudicata rispetto alle cose che faccio e a come organizzo la mia vita  
+- Ha forti oscillazioni d'umore, il minuto prima si arrabbia e mi urla contro e quello successivo è dolce e si scusa  
+
+*Rationale:*  
+This dimension reflects **chronic emotional abuse** aimed at undermining self-esteem and fostering self-blame. It includes **verbal degradation**, **appearance-related criticism**, **moral invalidation**, and **emotional instability (e.g., hot-cold cycles)** characteristic of manipulative or borderline-traits-influenced dynamics. The mood swings followed by apology create a trauma bond, reinforcing dependency and confusion.
+
+---
+
+### **4. Fear, Hypervigilance, and Perceived Danger**
+*Items:*
+- In sua compagnia mi capita di sentirmi a disagio e ho la sensazione di dover stare attenta a ciò che dico o a ciò che faccio, come se dovessi “camminare sulle uova” per evitare sue reazioni negative  
+- Sento disagio o non voglio fare qualcosa ma lo nascondo per paura che si arrabbi  
+- I miei amici/amiche mi hanno fatto notare che non piace loro come si comporta con me  
+- Le mie amiche o la mia famiglia sono preoccupate per me  
+- Ho paura di vederlo perché so che potrebbe avere comportamenti che mi possono fare stare male o sentire in imbarazzo  
+- Provo paura vicino a lui, non mi sento al sicuro  
+
+*Rationale:*  
+This dimension captures the **subjective experience of fear, hypervigilance, and perceived threat** in the relationship. The “walking on eggshells” phenomenon is a hallmark of living with unpredictable or abusive partners. External concern from family/friends validates the observer-rated risk. This cluster reflects the **emotional and somatic consequences** of chronic stress and threat anticipation.
+
+---
+
+### **5. Healthy Relational Functioning and Emotional Safety**
+*Items:*
+- Mi vuole bene per quella che sono e rispetta le mie scelte  
+- Mi fa sentire libera di fare le mie scelte su come gestire il mio tempo  
+- Mi sento ascoltata e si mostra interessato quando ho qualcosa che voglio condividere  
+- Sento di potergli parlare di qualsiasi cosa  
+- Capisce che ho bisogno anche di miei spazi personali e comprende che ci sono momenti in cui mi piace stare da sola o con persone diverse da lui (amici/amiche, familiari ecc.)  
+- Mi incoraggia a provare nuove cose  
+- In sua compagnia mi sento a mio agio e al sicuro  
+- Sento che possiamo confrontarci e anche litigare senza farci male  
+- Sento il suo sostegno nelle cose che faccio  
+
+*Rationale:*  
+This cluster represents **secure attachment behaviors and healthy relationship qualities**. It includes **respect for autonomy**, **emotional availability**, **support for personal growth**, **conflict resolution without harm**, and **felt safety**. These items reflect protective factors and positive relational dimensions that contrast directly with the abuse-related constructs above.
+
+---
+
+### Summary of Dimensions:
+
+| **Dimension** | **Core Construct** |
+|--------------|---------------------|
+| 1. Coercive Control and Domination | Systematic domination, surveillance, isolation, economic control |
+| 2. Physical and Sexual Violence | Bodily and sexual integrity violations, property destruction, gaslighting |
+| 3. Emotional Abuse and Erosion of Self-Worth | Chronic criticism, self-blame induction, invalidation, mood volatility |
+| 4. Fear, Hypervigilance, and Perceived Danger | Internalized threat, anxiety, external concern, avoidance |
+| 5. Healthy Relational Functioning and Emotional Safety | Autonomy, trust, communication, support, safety |
+
+These dimensions are **clinically meaningful**, **non-overlapping**, and align with established frameworks such as the **Power and Control Wheel (Duluth Model)**, **trauma-informed psychology**, and **attachment theory**. They can inform assessment, intervention, and risk formulation in cases of intimate partner dynamics.

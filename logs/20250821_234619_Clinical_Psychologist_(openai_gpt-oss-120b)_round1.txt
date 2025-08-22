@@ -1,0 +1,112 @@
+### Clinical Psychologist (openai/gpt-oss-120b)
+**1. Emotional / Psychological Abuse (devaluation, humiliation, manipulation, anxiety‑inducing control)**  
+*Rationale:* These statements describe the partner’s belittling, insulting, or fear‑creating language that attacks the victim’s self‑esteem, autonomy, or sense of safety.  
+
+- “Mi fa sentire spesso sbagliata e mi dice che è colpa mia se sta male”  
+- “Mi accusa di flirtare o di tradirlo”  
+- “Parla male delle mie amici/amiche e dice che sono dei/delle ‘poco di buono’”  
+- “Mi dice che non valgo niente e che resterei sola se non stessi con lui perché nessuno mi vorrebbe”  
+- “Mi sento giudicata rispetto alle cose che faccio e a come organizzo la vita”  
+- “Mi butta giù, mi insulta o mi critica”  
+- “Le mie amiche o la mia famiglia sono preoccupate per me”  
+- “Mi afferra per i capelli… (minaccia fisica ma è percepita soprattutto come intimidazione emotiva)”  
+- “Non mi fa sentire bene quando parla di‑cerca di come mi prendo cura di me stessa e del mio aspetto fisico”  
+- “Sento disagio o non voglio fare qualcosa ma lo nascondo per paura che si arrabbi”  
+- “Urla o mi umilia di fronte ad altre persone”  
+- “In sua compagnia mi capita di sentirmi a disagio e ho la sensazione di dover stare attenta a ciò che dico o a ciò che faccio, come se dovessi ‘camminare sulle uova’”  
+- “I miei amici/amiche mi hanno fatto notare che non piace loro come si comporta con me”  
+
+---
+
+**2. Controlling & Isolation Behaviours (monitoring, restriction of contacts, demand for constant availability)**  
+*Rationale:* These items reflect attempts to regulate the victim’s movements, relationships, and daily schedule, a core component of coercive control.  
+
+- “Non mi sento libera di vestirmi come voglio”  
+- “Cerca di controllare ciò che faccio e con chi mi vedo”  
+- “Mi chiede di non vedere i miei amici/amiche”  
+- “Dice che sono impegnata in troppe cose e che lo trascuro, vorrebbe che passassimo la maggior parte del tempo insieme”  
+- “Mi impedisce cercare un lavoro per essere indipendente”  
+- “Non vuole che io veda la mia famiglia, i miei amici/amiche”  
+- “Diventa estremamente geloso o possessivo”  
+- “Mi sento controllata, ho la sensazione che non si fidi di me e che voglia sapere sempre dove sono e con chi, me lo chiede continuamente”  
+- “Pretende prove d’amore e dimostrazioni di fedeltà nei suoi confronti”  
+- “Sento che mi manda troppi messaggi o mi chiama in modo insistente”  
+
+---
+
+**3. Physical Violence & Direct Intimidation**  
+*Rationale:* Explicit or implied threats of bodily harm and actual physical aggression.  
+
+- “Rompe e lancia oggetti per intimidirmi”  
+- “Mi afferra per i capelli, mi strattona, mi mette le mani al collo, tenta di soffocarmi, mi dà dei pugni, mi schiaffeggia, mi getta addosso degli oggetti o mi fa male in qualche modo”  
+- “Prove di paura vicine a lui, non mi sento al sicuro”  
+- “Ho paura di vederlo perché so che potrebbe avere comportamenti che mi possono fare stare male o sentire in imbarazzo”  
+
+---
+
+**4. Sexual Coercion & Exploitation**  
+*Rationale:* Pressure or force to have sex and non‑consensual distribution of intimate material.  
+
+- “Mi chiede insistentemente di fare sesso e non accetta quando dico di no o che non mi va”  
+- “Ha mostrato mie immagini intime ad altre persone senza il mio consenso”  
+- “Minaccia di mostrare ai miei amici o ai miei familiari mie immagini intime”  
+
+---
+
+**5. Financial / Economic Abuse**  
+*Rationale:* Manipulation or restriction of the victim’s financial resources, spending, and economic independence.  
+
+- “Mi viene chiesto di giustificare ogni acquisto che faccio”  
+- “Controlla come spendo i miei soldi”  
+- “Mi impedisce di avere accesso al conto corrente o alle mie risorse economiche”  
+- “Mi impedisce cercare un lavoro per essere indipendente” (also appears in controlling, but the primary impact is economic)  
+
+---
+
+**6. Threats, Blackmail & Self‑Harm Manipulation**  
+*Rationale:* Use of threats—of self‑harm, exposure, or violence toward third parties—to control or silence the victim.  
+
+- “Minaccia di farsi del male a causa mia”  
+- “Mi dice che, se lo lasciassi, rivelerebbe ad altri dei miei segreti o delle cose molto personali che sa di me”  
+- “Minacce di distruggere le mie cose (telefono, vestiti, computer, auto, ecc.)”  
+- “Minaccia di fare del male a me, ai miei amici/amiche o alla mia famiglia”  
+
+---
+
+**7. Gaslighting / Reality Manipulation**  
+*Rationale:* The partner denies or distorts events, making the victim doubt her own perception.  
+
+- “Dopo che mi ha aggredito (fisicamente o verbalmente) nega di averlo fatto e mi fa dubitare che sia realmente successo.”  
+
+---
+
+**8. Intermittent Reinforcement / Cycle of Abuse (mood swings, silent treatment)**  
+*Rationale:* The pattern of sudden anger followed by affection, and periods of “stone‑walling,” which maintain the victim’s hope and confusion.  
+
+- “Ha forti oscillazioni d’umore, il minuto prima si arrabbia e mi urla contro e quello successivo è dolce e si scusa”  
+- “Quando faccio qualcosa che a lui non va bene poi non mi parla per giorni”  
+
+---
+
+**9. Positive / Supportive Relationship Aspects**  
+*Rationale:* Statements that reflect genuine respect, empathy, safety, and healthy communication—useful for contrast and for identifying moments when the relationship is not abusive.  
+
+- “Capisce che ho bisogno anche di miei spazi personali e comprende che ci sono momenti in cui mi piace stare da sola o con persone diverse da lui (amici/amiche, familiari ecc.)”  
+- “Mi fa sentire libera di fare le mie scelte su come gestire il mio tempo”  
+- “Sento di potergli parlare di qualsiasi cosa”  
+- “Sento il suo sostegno nelle cose che faccio”  
+- “Mi sento ascoltata e si mostra interessato quando ho qualcosa che voglio condividere”  
+- “Mi vuole bene per quella che sono e rispetta le mie scelte”  
+- “Sento che possiamo confrontarci e anche litigare senza farci male”  
+- “Mi incoraggia a provare nuove cose”  
+- “In sua compagnia mi sento a mio agio e al sicuro”  
+
+---
+
+**How the dimensions relate to clinical practice**
+
+- **Emotional abuse, controlling/isolation, physical violence, sexual coercion, financial abuse, threats/blackmail, and gaslighting** map directly onto DSM‑5/ICD‑11 criteria for **Intimate‑Partner Violence (IPV)** and **Coercive Control**.  
+- **Intermittent reinforcement** captures the “cycle of abuse” (tension‑building → incident → honeymoon) that sustains the relationship and predicts higher risk of escalation.  
+- **Positive/supportive aspects** are included to illustrate that abusive partners can also display caring behaviours, which often confound victims and clinicians. Recognising the coexistence of “good” and “bad” behaviours is essential for accurate assessment and safety planning.  
+
+Each item has been placed in the single latent construct that best captures its core psychological meaning, avoiding overlap while preserving the richness of the original statements.

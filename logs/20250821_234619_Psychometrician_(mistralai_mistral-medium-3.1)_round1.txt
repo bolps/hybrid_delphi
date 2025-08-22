@@ -1,0 +1,113 @@
+### Psychometrician (mistralai/mistral-medium-3.1)
+Below is a **psychometrically coherent factor structure** for the given items, organized into **latent dimensions** reflecting distinct but non-overlapping constructs. The grouping is based on **thematic consistency**, **behavioral/emotional patterns**, and **alignment with established psychological frameworks** (e.g., coercive control, emotional abuse, intimacy, autonomy support). Each dimension is labeled to capture its core essence, with a rationale for grouping.
+
+---
+
+### **1. Emotional Abuse & Manipulation**
+*(Items reflecting verbal/psychological degradation, guilt-tripping, gaslighting, and emotional blackmail to undermine self-worth and agency.)*
+- **Mi fa sentire spesso sbagliata e mi dice che è colpa mia se sta male**
+- **Mi dice che non valgo niente e che resterei sola se non stessi con lui perché nessuno mi vorrebbe**
+- **Mi butta giù, mi insulta o mi critica**
+- **Dopo che mi ha aggredito (fisicamente o verbalmente) nega di averlo fatto e mi fa dubitare che sia realmente successo** *(gaslighting)*
+- **Minaccia di farsi del male a causa mia** *(emotional blackmail)*
+- **Dice che sono impegnata in troppe cose e che lo trascuro, vorrebbe che passassimo la maggior parte del tempo insieme** *(guilt-tripping for autonomy)*
+- **Mi accusa di flirtare o di tradirlo** *(unfounded accusations to induce guilt/shame)*
+
+**Rationale**:
+These items share a **core mechanism of psychological coercion**, where the partner systematically erodes self-esteem, induces self-doubt, or leverages guilt/shame to control the victim’s emotions and behaviors. The inclusion of gaslighting and emotional blackmail aligns with **Dutton’s (1998) "intimate terrorism"** and **Stark’s (2007) "coercive control"** frameworks.
+
+---
+
+### **2. Coercive Control & Isolation**
+*(Items reflecting systematic restriction of autonomy, social isolation, and monitoring to establish dominance.)*
+- **Non vuole che io veda la mia famiglia, i miei amici/amiche**
+- **Mi chiede di non vedere i miei amici/amiche**
+- **Parla male delle mie amici/amiche e dice che sono dei/delle “poco di buono”**
+- **Cerca di controllare ciò che faccio e con chi mi vedo**
+- **Mi impedisce di avere accesso al conto corrente o alle mie risorse economiche**
+- **Mi impedisce cercare un lavoro per essere indipendente**
+- **Controlla come spendo i miei soldi**
+- **Mi viene chiesto di giustificare ogni acquisto che faccio**
+- **Sento di dover nascondere il mio disagio per paura che si arrabbi** *(self-censorship due to control)*
+- **Non mi sento libera di vestirmi come voglio** *(control over bodily autonomy)*
+
+**Rationale**:
+This dimension captures **Stark’s (2007) "coercive control"**, where abuse extends beyond discrete incidents to a **pattern of domination** through isolation, economic abuse, and micromanagement of daily life. The items reflect **behavioral restriction**, **social sabotage**, and **financial abuse**, which are empirically linked to long-term trauma (e.g., *Johnson & Leone, 2005*).
+
+---
+
+### **3. Intimidation & Physical Aggression**
+*(Items involving explicit threats, physical violence, or destructive behaviors to instill fear.)*
+- **Mi afferra per i capelli, mi strattona, mi mette le mani al collo, tenta di soffocarmi, mi dà dei pugni, mi schiaffeggia, mi getta addosso degli oggetti o mi fa male in qualche modo**
+- **Rompe e lancia oggetti per intimidirmi**
+- **Minaccia di fare del male a me, ai miei amici/amiche o alla mia famiglia**
+- **Minacce di distruggere le mie cose (telefono, vestiti, computer, auto, ecc.)**
+- **Ho paura di vederlo perché so che potrebbe avere comportamenti che mi possono fare stare male o sentire in imbarazzo**
+- **Provo paura vicino a lui, non mi sento al sicuro**
+
+**Rationale**:
+These items align with **physical intimidation and terrorization**, a core component of **the Power and Control Wheel (Pence & Paymar, 1993)**. The focus is on **explicit violence or threats thereof**, distinct from psychological manipulation. Fear is the primary emotional outcome.
+
+---
+
+### **4. Sexual Coercion & Violation of Boundaries**
+*(Items reflecting disregard for bodily autonomy, sexual consent, and privacy.)*
+- **Mi chiede insistentemente di fare sesso e non accetta quando dico di no o che non mi va**
+- **Ha mostrato mie immagini intime ad altre persone senza il mio consenso**
+- **Minaccia di mostrare ai miei amici o ai miei familiari mie immagini intime**
+- **Mi dice che, se lo lasciassi, rivelerebbe ad altri dei miei segreti o delle cose molto personali che sa di me**
+
+**Rationale**:
+This dimension captures **sexual coercion** (e.g., *Basile et al., 2007*) and **image-based abuse** (e.g., *revenge porn*), which violate **bodily integrity** and **privacy**. The items are distinct from general control in their **explicit sexual/physical violation** component.
+
+---
+
+### **5. Volatile Emotional Climate**
+*(Items reflecting unpredictable emotional shifts, creating an atmosphere of instability.)*
+- **Ha forti oscillazioni d'umore, il minuto prima si arrabbia e mi urla contro e quello successivo è dolce e si scusa**
+- **Quando faccio qualcosa che a lui non va bene poi non mi parla per giorni** *(silent treatment)*
+- **Sento che mi manda troppi messaggi o mi chiama in modo insistente** *(intrusive volatility)*
+- **Diventa estremamente geloso o possessivo** *(emotional reactivity)*
+
+**Rationale**:
+These items describe **emotional lability** and **intermittent reinforcement** (e.g., *Walker’s (1979) cycle of abuse*), where unpredictability fosters anxiety and hypervigilance. This is distinct from *emotional abuse* (Dimension 1) in that the focus is on **instability** rather than degradation.
+
+---
+
+### **6. Autonomy Support & Emotional Safety**
+*(Items reflecting respect, trust, and encouragement of independence—**the inverse of abuse**.)*
+- **Mi vuole bene per quella che sono e rispetta le mie scelte**
+- **Mi sento ascoltata e si mostra interessato quando ho qualcosa che voglio condividere**
+- **In sua compagnia mi sento a mio agio e al sicuro**
+- **Mi incoraggia a provare nuove cose**
+- **Sento di potergli parlare di qualsiasi cosa**
+- **Capisce che ho bisogno anche di miei spazi personali e comprende che ci sono momenti in cui mi piace stare da sola o con persone diverse da lui**
+- **Mi fa sentire libera di fare le mie scelte su come gestire il mio tempo**
+- **Sento il suo sostegno nelle cose che faccio**
+- **Sento che possiamo confrontarci e anche litigare senza farci male**
+
+**Rationale**:
+This dimension represents **healthy relationship dynamics**, adapted from **Self-Determination Theory (Deci & Ryan, 2000)** and **attachment security (Bowlby, 1988)**. Items reflect **autonomy support**, **emotional safety**, and **secure base provision**, serving as a **contrasting pole** to abusive behaviors.
+
+---
+### **7. External Validation of Concern**
+*(Items indicating that others (friends/family) perceive the relationship as problematic.)*
+- **Le mie amiche o la mia famiglia sono preoccupate per me**
+- **I miei amici/amiche mi hanno fatto notare che non piace loro come si comporta con me**
+
+**Rationale**:
+This is a **meta-dimension** capturing **third-party validation of abuse**, which is critical in **breaking denial** (e.g., *Dutton & Painter, 1993*). It stands alone because it reflects **external observation** rather than direct experience.
+
+---
+### **Psychometric Notes**:
+1. **Orthogonality**: Dimensions are theoretically distinct (e.g., *emotional abuse* vs. *coercive control* vs. *intimidation*), though some items may load on multiple factors in EFA/CFA (e.g., "gelosia possessiva" could bridge *volatility* and *control*).
+2. **Scaling**: For a **clinical/assessment tool**, Dimensions 1–5 could form a **"Toxic Relationship Behaviors"** scale, while Dimension 6 could form a **"Healthy Relationship"** scale. Dimension 7 could be a **validator item**.
+3. **Cultural Sensitivity**: Items use Italian colloquialisms (e.g., *"camminare sulle uova"*), which should be retained for ecological validity in Italian samples.
+4. **Trauma-Informed**: Dimensions 1–5 align with **DSM-5-TR’s "Intimate Partner Violence"** criteria and **ICD-11’s "Complex PTSD"** (for chronic exposure).
+
+---
+### **Suggested Next Steps**:
+- **Exploratory Factor Analysis (EFA)**: Test the proposed structure with a large sample.
+- **Item Response Theory (IRT)**: Assess item discrimination (e.g., does *"mi strattona"* discriminate better than *"mi urla contro"* for *physical aggression*?).
+- **Differential Functioning**: Check for gender/sexual orientation biases (e.g., do LGBTQ+ individuals interpret *"gelosia"* differently?).
+- **Convergent Validity**: Correlate dimensions with established measures (e.g., **Conflict Tactics Scale-2**, **Psychological Maltreatment Inventory**).

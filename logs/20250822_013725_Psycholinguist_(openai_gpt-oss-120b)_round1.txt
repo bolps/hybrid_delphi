@@ -1,0 +1,133 @@
+### Psycholinguist (openai/gpt-oss-120b)
+**Latent dimension 1 – Coercive control & social isolation**  
+*Label*: “Controllo comportamentale e isolamento”  
+*Items* (in the original wording):  
+
+- *Mi sento controllata, ho la sensazione che non si fidi di me e che voglia sapere sempre dove sono e con chi, me lo chiede continuamente*  
+- *Mi chiede di non vedere i miei amici/amiche*  
+- *Sento che mi manda troppi messaggi o mi chiama in modo insistente*  
+- *Non mi sento libera di vestirmi come voglio*  
+- *Cerca di controllare ciò che faccio e con chi mi vedo*  
+- *Dice che sono impegnata in troppe cose e che lo trascuro, vorrebbe che passassimo la maggior parte del tempo insieme*  
+- *Non vuole che io veda la mia famiglia, i miei amici/amiche*  
+
+*Rationale*: All statements describe a partner who limits the victim’s movements, contacts, personal expression and time‑use, a core feature of coercive control that creates social isolation.
+
+---
+
+**Latent dimension 2 – Economic abuse**  
+*Label*: “Abuso economico”  
+*Items*:  
+
+- *Mi impedisce di avere accesso al conto corrente o alle mie risorse economiche*  
+- *Controlla come spendo i miei soldi*  
+- *Mi impedisce cercare un lavoro per essere indipendente*  
+- *Mi viene chiesto di giustificare ogni acquisto che faccio*  
+
+*Rationale*: Each statement reflects a partner’s manipulation of the victim’s financial resources and autonomy, the hallmark of economic abuse.
+
+---
+
+**Latent dimension 3 – Jealousy & possessiveness**  
+*Label*: “Gelosia e possessività”  
+*Items*:  
+
+- *Pretende prove d'amore e dimostrazioni di fedeltà nei suoi confronti*  
+- *Mi accusa di flirtare o di tradirlo*  
+- *Diventa estremamente geloso o possessivo*  
+
+*Rationale*: These items capture an obsessive need for exclusive attention and constant suspicion, typical of pathological jealousy.
+
+---
+
+**Latent dimension 4 – Emotional / verbal abuse**  
+*Label*: “Abuso emotivo‑verbale”  
+*Items*:  
+
+- *Sento disagio o non voglio fare qualcosa ma lo nascondo per paura che si arrabbi*  
+- *Mi dice che non valgo niente e che resterei sola se non stessi con lui perché nessuno mi vorrebbe*  
+- *Ha forti oscillazioni d'umore, il minuto prima si arrabbia e mi urla contro e quello successivo è dolce e si scusa* (instabilità emotiva usata per intimidire)  
+- *Mi sento giudicata rispetto alle cose che faccio e a come organizzo la mia vita*  
+- *Ho paura di vederlo perché so che potrebbe avere comportamenti che mi possono fare stare male o imbarazzo*  
+- *Mi butta giù, mi insulta o mi critica*  
+- *Urla o mi umilia di fronte ad altre persone*  
+- *In sua compagnia mi capita di sentirmi a disagio e ho la sensazione di dover stare attenta a ciò che dico o a ciò che faccio, come se dovessi “camminare sulle uova” per evitare sue reazioni negative*  
+- *Non mi fa sentire bene quando parla di come mi prendo cura di me stessa e del mio aspetto fisico*  
+- *Provo paura vicino a lui, non mi sento al sicuro*  
+- *Mi fa sentire spesso sbagliata e mi dice che è colpa mia se sta male*  
+
+*Rationale*: The statements involve demeaning language, humiliation, intimidation, blame, and the creation of a climate of fear—core components of emotional/verbale abuse.
+
+---
+
+**Latent dimension 5 – Psychological manipulation / gaslighting**  
+*Label*: “Manipolazione psicologica e gaslighting”  
+*Items*:  
+
+- *Dopo che mi ha aggredito (fisicamente o verbalmente) nega di averlo fatto e mi fa dubitare che sia realmente successo*  
+- *Mi dice che, se lo lasciassi, rivelerebbe ad altri dei miei segreti o delle cose molto personali che sa di me*  
+- *Minaccia di farsi del male a causa mia*  
+- *Quando faccio qualcosa che a lui non va bene poi non mi parla per giorni*  
+
+*Rationale*: These items reflect tactics that distort reality, threaten self‑harm to control, and use silent‑treatment as a punitive tool—classic gaslighting strategies.
+
+---
+
+**Latent dimension 6 – Physical & sexual violence**  
+*Label*: “Violenza fisica e sessuale”  
+*Items*:  
+
+- *Rompe e lancia oggetti per intimidirmi*  
+- *Mi afferra per i capelli, mi strattona, mi mette le mani al collo, tenta di soffocarmi, mi dà dei pugni, mi schiaffeggia, mi getta addosso degli oggetti o mi fa male in qualche modo*  
+- *Ha mostrato mie immagini intime ad altre persone senza il mio consenso*  
+- *Mi chiede insistentemente di fare sesso e non accetta quando dico di no o che non mi va*  
+
+*Rationale*: Direct physical aggression, coercive sexual demands, and non‑consensual distribution of intimate images constitute overt physical/sexual abuse.
+
+---
+
+**Latent dimension 7 – Threats & intimidation (non‑physical)**  
+*Label*: “Minacce e intimidazioni”  
+*Items*:  
+
+- *Minaccia di mostrare ai miei amici o ai miei familiari mie immagini intime*  
+- *Minaccia di fare del male a me, ai miei amici/amiche o alla mia famiglia*  
+- *Minacce di distruggere le mie cose (telefono, vestiti, computer, auto, ecc.)*  
+
+*Rationale*: The partner employs explicit threats—of exposure, harm to loved ones, or property destruction—to maintain power without necessarily delivering physical violence.
+
+---
+
+**Latent dimension 8 – Positive relational features**  
+*Label*: “Aspetti positivi / supporto relazionale”  
+*Items*:  
+
+- *Sento che possiamo confrontarci e anche litigare senza farci male*  
+- *Sento il suo sostegno nelle cose che faccio*  
+- *Sento di potergli parlare di qualsiasi cosa*  
+- *Mi vuole bene per quella che sono e rispetta le mie scelte*  
+- *Capisce che ho bisogno anche di miei spazi personali e comprende che ci sono momenti in cui mi piace stare da sola o con persone diverse da lui (amici/amiche, familiari ecc.)*  
+- *Mi incoraggia a provare nuove cose*  
+- *Mi sento ascoltata e si mostra interessato quando ho qualcosa che voglio condividere*  
+- *In sua compagnia mi sento a mio agio e al sicuro*  
+- *Mi fa sentire libera di fare le mie scelte su come gestire il mio tempo*  
+
+*Rationale*: These statements describe genuine affection, respect, emotional safety, and encouragement—indicators of a healthy relational environment.
+
+---
+
+**Latent dimension 9 – Social feedback & external concern**  
+*Label*: “Percezione sociale e preoccupazione esterna”  
+*Items*:  
+
+- *Le mie amiche o la mia famiglia sono preoccupate per me*  
+- *I miei amici/amiche mi hanno fatto notare che non piace loro come si comporta con me*  
+- *Parla male delle mie amici/amiche e dice che sono dei/delle “poco di buono”*  
+
+*Rationale*: These items capture the reactions of third‑party observers (family, friends) who recognize the abusive dynamics, highlighting the social dimension of the victim’s experience.
+
+---
+
+**Summary**
+
+The 48 statements cluster into nine non‑overlapping latent dimensions that map onto the major domains used in contemporary intimate‑partner‑violence research: (1) coercive control & isolation, (2) economic abuse, (3) jealousy/possessiveness, (4) emotional/verbale abuse, (5) psychological manipulation/gaslighting, (6) physical/sexual violence, (7) threats & intimidation, (8) positive relational support, and (9) external social concern. Each dimension groups items that share a common semantic core, providing a concise map of the underlying constructs.

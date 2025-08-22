@@ -1,0 +1,123 @@
+### Clinical Psychologist (google/gemini-2.5-flash)
+As a clinical psychologist specializing in relational and affective disorders, I approach these items as manifestations of underlying relational dynamics and individual psychological states. The goal is to identify patterns of behavior and experience that reflect distinct forms of relational distress and control.
+
+Here are the latent dimensions, their constituent items, and the rationale for their grouping:
+
+---
+
+### **Dimension 1: Psychological and Emotional Coercion**
+
+**Label:** *Erosive Control & Devaluation*
+
+**Items:**
+*   Mi butta giù di morale, mi insulta o mi critica
+*   Mi sento giudicata rispetto alle cose che faccio e a come organizzo la mia vita
+*   Mi accusa di flirtare o di tradirlo
+*   Urla o mi umilia di fronte ad altre persone
+*   Mi dice che non valgo niente e che resterei sola se non stessi con lui perché nessuno mi vorrebbe
+*   Mi fa sentire spesso sbagliata e mi dice che è colpa mia se sta male
+*   Dopo che mi ha aggredito (fisicamente o verbalmente) nega di averlo fatto e mi fa dubitare che sia realmente successo.
+*   Non mi sento ascoltata
+*   Sento disagio o non voglio fare qualcosa ma lo nascondo per paura che si arrabbi
+*   Non mi incoraggia a provare nuove cose
+*   Non si mostra interessato quando ho qualcosa che voglio condividere
+*   Pretende prove d'amore e dimostrazioni di fedeltà nei suoi confronti
+*   Non mi vuole bene per quella che sono e non rispetta le mie scelte
+*   Non mi fa sentire bene quando parla di come mi prendo cura di me stessa e del mio aspetto fisico
+*   Non sento di avere il suo sostegno nelle cose che faccio
+
+**Rationale:** This dimension captures behaviors and experiences that systematically undermine a person's self-worth, autonomy, and perception of reality. It involves a pervasive pattern of criticism, invalidation, gaslighting, and emotional manipulation designed to erode self-esteem and foster dependence. The focus is on the psychological and emotional impact of these behaviors, leading to feelings of inadequacy, guilt, and a stifling of personal expression and growth.
+
+---
+
+### **Dimension 2: Behavioral and Social Restriction**
+
+**Label:** *Autonomy & Social Isolation Control*
+
+**Items:**
+*   Non mi fa sentire libera di fare le mie scelte su come gestire il mio tempo
+*   Non mi sento libera di vestirmi come voglio
+*   Diventa estremamente geloso o possessivo
+*   Controlla come spendo i miei soldi
+*   Non capisce che ho bisogno anche di miei spazi personali e non comprende che ci sono momenti in cui mi piace stare da sola o con persone diverse da lui (amici/amiche, familiari ecc.)
+*   Cerca di controllare ciò che faccio e con chi mi vedo
+*   Non vuole che io veda la mia famiglia, i miei amici/amiche
+*   Sento che mi manda troppi messaggi o mi chiama in modo insistente
+*   Mi impedisce cercare un lavoro per essere indipendente
+*   Parla male delle mie amici/amiche e dice che sono dei/delle “poco di buono”
+*   Mi sento controllata, ho la sensazione che non si fidi di me e che voglia sapere sempre dove sono e con chi, me lo chiede continuamente
+*   Dice che sono impegnata in troppe cose e che lo trascuro, vorrebbe che passassimo la maggior parte del tempo insieme
+*   Mi chiede di non vedere i miei amici/amiche
+*   Mi viene chiesto di giustificare ogni acquisto che faccio
+*   Mi impedisce di avere accesso al conto corrente o alle mie risorse economiche
+
+**Rationale:** This dimension encompasses behaviors aimed at restricting a person's freedom of movement, choices, and social connections. It reflects a systematic effort to isolate the individual from external support systems and independent activities, thereby increasing reliance on the perpetrator. The items here focus on tangible controls over daily life, finances, and relationships, leading to a sense of being trapped and disempowered.
+
+---
+
+### **Dimension 3: Threat and Intimidation**
+
+**Label:** *Fear-Based Coercion & Safety Compromise*
+
+**Items:**
+*   In sua compagnia mi capita di sentirmi a disagio e ho la sensazione di dover stare attenta a ciò che dico o a ciò che faccio, come se dovessi “camminare sulle uova” per evitare sue reazioni negative
+*   Minaccia di distruggere le mie cose (telefono, vestiti, computer, auto, ecc.)
+*   Provo paura vicino a lui, non mi sento al sicuro
+*   Quando faccio qualcosa che a lui non va bene poi non mi parla per giorni
+*   In sua compagnia non mi sento a mio agio e al sicuro
+*   Mi dice che, se lo lasciasse, rivelerebbe ad altri dei miei segreti o delle cose molto personali che sa di me
+*   Minaccia di fare del male a me, ai miei amici/amiche o alla mia famiglia
+*   Non sento che possiamo confrontarci e anche litigare senza farci male
+*   Minaccia di farsi del male a causa mia
+*   Ho paura di vederlo perché so che potrebbe avere comportamenti che mi possono fare stare male o sentire in imbarazzo
+*   Minaccia di mostrare ai miei amici o ai miei familiari mie immagini intime
+*   Rompe e lancia oggetti per intimidirmi
+*   Ha mostrato mie immagini intime ad altre persone senza il mio consenso
+
+**Rationale:** This dimension captures the creation of an environment of fear and unpredictability. It includes direct and indirect threats, intimidation tactics, and behaviors that instill a constant sense of insecurity and danger. The focus is on the psychological and emotional impact of living under the shadow of potential harm or humiliation, leading to hypervigilance and a profound sense of unsafety within the relationship.
+
+---
+
+### **Dimension 4: Physical and Sexual Violation**
+
+**Label:** *Bodily Autonomy & Integrity Violation*
+
+**Items:**
+*   Mi afferra per i capelli, mi strattona, mi mette le mani al collo, tenta di soffocarmi, mi dà dei pugni, mi schiaffeggia, mi getta addosso degli oggetti o mi fa male in qualche modo
+*   Mi chiede insistentemente di fare sesso e non accetta quando dico di no o che non mi va
+
+**Rationale:** This dimension specifically addresses direct physical harm and sexual coercion. These items represent the most severe and overt forms of abuse, directly violating a person's bodily autonomy and physical integrity. While other dimensions can contribute to physical harm indirectly through stress, these items directly describe acts of physical and sexual violence.
+
+---
+
+### **Dimension 5: Relational Instability and Dysregulation**
+
+**Label:** *Affective Volatility & Relational Unpredictability*
+
+**Items:**
+*   Ha forti oscillazioni d'umore, il minuto prima si arrabbia e mi urla contro e quello successivo è dolce e si scusa
+
+**Rationale:** This dimension highlights the unpredictable and dysregulated nature of the perpetrator's emotional states, which creates a highly unstable and confusing relational dynamic for the victim. While this item is singular, its profound impact on the victim's sense of safety, trust, and ability to navigate the relationship warrants its own dimension. It speaks to the "walking on eggshells" experience and the difficulty in establishing any consistent sense of relational security.
+
+---
+
+### **Dimension 6: External Awareness and Concern**
+
+**Label:** *External Validation of Distress*
+
+**Items:**
+*   I miei amici/amiche mi hanno fatto notare che non piace loro come si comporta con me
+*   Le mie amiche o la mia famiglia sono preoccupate per me
+
+**Rationale:** This dimension captures the external recognition and concern from others regarding the nature of the relationship. These items are unique in that they reflect the perspective of third parties, indicating that the problematic dynamics are observable and alarming to those outside the immediate dyad. This external validation can be crucial for a victim's realization of the abuse and potential seeking of help.
+
+---
+
+### **Dimension 7: Absence of Healthy Relational Functioning**
+
+**Label:** *Lack of Relational Health Markers*
+
+**Items:**
+*   Sento di potergli parlare di qualsiasi cosa (This is framed as a negative, i.e., "I don't feel I can talk to him about anything")
+
+**Rationale:** This dimension identifies the *absence* of key components of a healthy, supportive relationship. While most items describe problematic behaviors, this item highlights a fundamental deficit in open communication and trust. It underscores what is *missing* from the relationship, which is as critical to understanding the relational pathology as what is present. (Note: I interpret "Sento di potergli parlare di qualsiasi cosa" in the context of the overall list as an item that would be marked *false* by someone in an unhealthy relationship, thus indicating a lack of open communication).

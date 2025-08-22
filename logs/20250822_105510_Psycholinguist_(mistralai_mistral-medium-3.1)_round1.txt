@@ -1,0 +1,134 @@
+### Psycholinguist (mistralai/mistral-medium-3.1)
+Below is a **latent dimensional analysis** of the provided items, grouped into **coherent, non-overlapping semantic and psychological dimensions** reflecting **abusive, controlling, and manipulative behaviors** in an intimate relationship. Each dimension captures a distinct **pattern of harm** (emotional, psychological, physical, financial, or social).
+
+---
+
+### **1. Emotional Manipulation & Gaslighting**
+*(Distorting reality, inducing self-doubt, and shifting blame)*
+- **Mi accusa di flirtare o di tradirlo**
+- **Dopo che mi ha aggredito (fisicamente o verbalmente) nega di averlo fatto e mi fa dubitare che sia realmente successo**
+- **Mi fa sentire spesso sbagliata e mi dice che è colpa mia se sta male**
+- **Mi dice che non valgo niente e che resterei sola se non stessi con lui perché nessuno mi vorrebbe**
+- **Ha forti oscillazioni d’umore, il minuto prima si arrabbia e mi urla contro e quello successivo è dolce e si scusa**
+
+**Rationale**:
+These items reflect **cognitive distortion tactics**—gaslighting (denying reality), **blame-shifting**, and **emotional destabilization** (e.g., Jekyll-and-Hyde behavior). The abuser undermines the victim’s perception of truth, fostering dependency and self-blame.
+
+---
+
+### **2. Isolation & Social Control**
+*(Restricting autonomy, cutting off support networks)*
+- **Non vuole che io veda la mia famiglia, i miei amici/amiche**
+- **Mi chiede di non vedere i miei amici/amiche**
+- **Parla male delle mie amici/amiche e dice che sono dei/delle “poco di buono”**
+- **Le mie amiche o la mia famiglia sono preoccupate per me**
+- **I miei amici/amiche mi hanno fatto notare che non piace loro come si comporta con me**
+- **Non capisce che ho bisogno anche di miei spazi personali e non comprende che ci sono momenti in cui mi piace stare da sola o con persone diverse da lui**
+
+**Rationale**:
+This dimension captures **systematic social isolation**, a classic **coercive control** tactic. The abuser **delegitimizes the victim’s relationships**, fosters dependency, and ensures the victim lacks external validation or escape routes.
+
+---
+
+### **3. Coercive Control & Surveillance**
+*(Monitoring, restricting freedom, and enforcing compliance)*
+- **Mi sento controllata, ho la sensazione che non si fidi di me e che voglia sapere sempre dove sono e con chi, me lo chiede continuamente**
+- **Cerca di controllare ciò che faccio e con chi mi vedo**
+- **Non mi sento libera di fare le mie scelte su come gestire il mio tempo**
+- **Dice che sono impegnata in troppe cose e che lo trascuro, vorrebbe che passassimo la maggior parte del tempo insieme**
+- **Sento che mi manda troppi messaggi o mi chiama in modo insistente**
+- **Pretende prove d'amore e dimostrazioni di fedeltà nei suoi confronti**
+
+**Rationale**:
+These items reflect **hypervigilant monitoring** and **behavioral restriction**, core to **coercive control**. The abuser **demands accountability** for the victim’s actions, eroding autonomy and reinforcing dominance.
+
+---
+
+### **4. Financial Abuse**
+*(Economic dependency and exploitation)*
+- **Mi impedisce di avere accesso al conto corrente o alle mie risorse economiche**
+- **Mi viene chiesto di giustificare ogni acquisto che faccio**
+- **Controlla come spendo i miei soldi**
+- **Mi impedisce cercare un lavoro per essere indipendente**
+
+**Rationale**:
+Financial abuse **traps victims economically**, making escape difficult. The abuser **restricts access to resources**, enforces dependency, and **undermines financial autonomy**.
+
+---
+
+### **5. Physical Intimidation & Violence**
+*(Explicit or threatened bodily harm)*
+- **Mi afferra per i capelli, mi strattona, mi mette le mani al collo, tenta di soffocarmi, mi dà dei pugni, mi schiaffeggia, mi getta addosso degli oggetti o mi fa male in qualche modo**
+- **Rompe e lancia oggetti per intimidirmi**
+- **Minaccia di fare del male a me, ai miei amici/amiche o alla mia famiglia**
+- **Minaccia di distruggere le mie cose (telefono, vestiti, computer, auto, ecc.)**
+
+**Rationale**:
+This dimension captures **overt physical aggression** and **property destruction**, used to **instill fear** and **enforce compliance**. Threats extend beyond the victim to their loved ones, amplifying control.
+
+---
+
+### **6. Sexual Coercion & Violation**
+*(Pressuring, ignoring consent, and exploiting intimacy)*
+- **Mi chiede insistentemente di fare sesso e non accetta quando dico di no o che non mi va**
+- **Ha mostrato mie immagini intime ad altre persone senza il mio consenso**
+- **Minaccia di mostrare ai miei amici o ai miei familiari mie immagini intime**
+
+**Rationale**:
+These items reflect **sexual entitlement** and **violation of bodily autonomy**, including **revenge porn threats**. The abuser **disregards consent**, using intimacy as a tool for humiliation and control.
+
+---
+### **7. Psychological & Verbal Abuse**
+*(Degradation, humiliation, and erosion of self-worth)*
+- **Mi butta giù di morale, mi insulta o mi critica**
+- **Mi dice che sono sbagliata/colpevole dei suoi problemi**
+- **Non mi fa sentire bene quando parla di come mi prendo cura di me stessa e del mio aspetto fisico**
+- **Urla o mi umilia di fronte ad altre persone**
+- **Non mi sento ascoltata**
+- **Non mi incoraggia a provare nuove cose**
+- **Mi sento giudicata rispetto alle cose che faccio e a come organizzo la mia vita**
+
+**Rationale**:
+This dimension encompasses **verbal degradation**, **shaming**, and **systematic undermining of self-esteem**. The abuser **erodes the victim’s confidence**, making them more susceptible to control.
+
+---
+### **8. Threats & Blackmail**
+*(Exploiting secrets, fear, or vulnerability for compliance)*
+- **Mi dice che, se lo lasciassi, rivelerebbe ad altri dei miei segreti o delle cose molto personali che sa di me**
+- **Minaccia di farsi del male a causa mia**
+
+**Rationale**:
+These items involve **explicit threats**—either **emotional blackmail** (self-harm threats) or **exposure of private information**—to **prevent the victim from leaving** or asserting independence.
+
+---
+### **9. Emotional Neglect & Withholding**
+*(Denying support, affection, or validation)*
+- **Non sento di avere il suo sostegno nelle cose che faccio**
+- **Non si mostra interessato quando ho qualcosa che voglio condividere**
+- **Non sento che possiamo confrontarci e anche litigare senza farci male**
+- **Non sento di potergli parlare di qualsiasi cosa**
+- **Quando faccio qualcosa che a lui non va bene poi non mi parla per giorni** *(silent treatment)*
+
+**Rationale**:
+This dimension reflects **passive-aggressive abandonment** and **emotional unavailability**. The abuser **withholds affection, communication, or validation** as punishment, creating instability.
+
+---
+### **10. Fear & Hypervigilance**
+*(Chronic anxiety, walking on eggshells, and perceived danger)*
+- **Provo paura vicino a lui, non mi sento al sicuro**
+- **In sua compagnia mi capita di sentirmi a disagio e ho la sensazione di dover stare attenta a ciò che dico o a ciò che faccio, come se dovessi “camminare sulle uova”**
+- **In sua compagnia non mi sento a mio agio e al sicuro**
+- **Ho paura di vederlo perché so che potrebbe avere comportamenti che mi possono fare stare male o sentire in imbarazzo**
+- **Sento disagio o non voglio fare qualcosa ma lo nascondo per paura che si arrabbi**
+
+**Rationale**:
+These items capture the **subjective experience of terror**—the victim **anticipates harm**, **self-censors**, and lives in a state of **chronic stress**, a hallmark of abusive dynamics.
+
+---
+### **Key Observations**:
+1. **No Overlap**: Each dimension is **semantically distinct** (e.g., *financial abuse* ≠ *emotional manipulation*).
+2. **Coercive Control Framework**: Many dimensions align with **Evan Stark’s theory of coercive control** (e.g., isolation, surveillance, micro-regulation).
+3. **Trauma-Informed**: The **fear and hypervigilance** dimension reflects **complex PTSD symptoms** common in abuse survivors.
+4. **Power Dynamics**: All dimensions reinforce the abuser’s **dominance** and the victim’s **subordination**.
+
+Would you like further refinement (e.g., merging dimensions, adding subcategories)?

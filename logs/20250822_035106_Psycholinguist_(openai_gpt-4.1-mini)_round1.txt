@@ -1,0 +1,111 @@
+### Psycholinguist (openai/gpt-4.1-mini)
+**Latent Dimension 1: Emotional Support and Open Communication**  
+- Sento di potergli parlare di qualsiasi cosa  
+- Non mi sento ascoltata  
+- Non si mostra interessato quando ho qualcosa che voglio condividere  
+- Non sento che possiamo confrontarci e anche litigare senza farci male  
+- Non sento di avere il suo sostegno nelle cose che faccio  
+
+*Rationale:* These items relate to the presence or absence of emotional availability, openness, and supportive communication within a relationship. They reflect whether the individual feels heard, supported, and comfortable sharing thoughts and feelings.
+
+---
+
+**Latent Dimension 2: Psychological and Verbal Abuse**  
+- Urla o mi umilia di fronte ad altre persone  
+- Mi butta giù di morale, mi insulta o mi critica  
+- Mi fa sentire spesso sbagliata e mi dice che è colpa mia se sta male  
+- Mi dice che non valgo niente e che resterei sola se non stessi con lui perché nessuno mi vorrebbe  
+- Dopo che mi ha aggredito (fisicamente o verbalmente) nega di averlo fatto e mi fa dubitare che sia realmente successo.  
+
+*Rationale:* These items indicate verbal attacks, humiliation, blame-shifting, and gaslighting behaviors that degrade the victim’s self-esteem and sense of reality.
+
+---
+
+**Latent Dimension 3: Physical Abuse and Aggression**  
+- Mi afferra per i capelli, mi strattona, mi mette le mani al collo, tenta di soffocarmi, mi dà dei pugni, mi schiaffeggia, mi getta addosso degli oggetti o mi fa male in qualche modo  
+- Rompe e lancia oggetti per intimidirmi  
+- Minaccia di fare del male a me, ai miei amici/amiche o alla mia famiglia  
+- Minaccia di farsi del male a causa mia  
+- Ha forti oscillazioni d'umore, il minuto prima si arrabbia e mi urla contro e quello successivo è dolce e si scusa  
+
+*Rationale:* These items explicitly describe physical violence, threats of violence, and aggressive behaviors, including intimidation through destruction of property and mood swings that create an unpredictable environment.
+
+---
+
+**Latent Dimension 4: Control and Monitoring of Personal Autonomy**  
+- Mi viene chiesto di giustificare ogni acquisto che faccio  
+- Non mi fa sentire libera di fare le mie scelte su come gestire il mio tempo  
+- Mi sento controllata, ho la sensazione che non si fidi di me e che voglia sapere sempre dove sono e con chi, me lo chiede continuamente  
+- Controlla come spendo i miei soldi  
+- Mi impedisce di avere accesso al conto corrente o alle mie risorse economiche  
+- Cerca di controllare ciò che faccio e con chi mi vedo  
+- Mi chiede di non vedere i miei amici/amiche  
+- Non vuole che io veda la mia famiglia, i miei amici/amiche  
+- Non mi sento libera di vestirmi come voglio  
+- Non capisce che ho bisogno anche di miei spazi personali e non comprende che ci sono momenti in cui mi piace stare da sola o con persone diverse da lui (amici/amiche, familiari ecc.)  
+- Dice che sono impegnata in troppe cose e che lo trascuro, vorrebbe che passassimo la maggior parte del tempo insieme  
+
+*Rationale:* This group reflects behaviors that restrict personal freedom, monitor and limit social contacts, financial independence, and control over daily choices and appearance.
+
+---
+
+**Latent Dimension 5: Jealousy, Possessiveness, and Accusations**  
+- Diventa estremamente geloso o possessivo  
+- Pretende prove d'amore e dimostrazioni di fedeltà nei suoi confronti  
+- Mi accusa di flirtare o di tradirlo  
+- Parla male delle mie amici/amiche e dice che sono dei/delle “poco di buono”  
+- I miei amici/amiche mi hanno fatto notare che non piace loro come si comporta con me  
+- Sento che mi manda troppi messaggi o mi chiama in modo insistente  
+
+*Rationale:* These items cluster around mistrust, jealousy, demands for loyalty, and disparagement of the victim’s social circle, highlighting possessive and suspicious attitudes.
+
+---
+
+**Latent Dimension 6: Sexual Coercion and Violation of Consent**  
+- Mi chiede insistentemente di fare sesso e non accetta quando dico di no o che non mi va  
+- Minaccia di mostrare ai miei amici o ai miei familiari mie immagini intime  
+- Ha mostrato mie immagini intime ad altre persone senza il mio consenso  
+
+*Rationale:* This dimension captures coercive sexual behaviors and violations of privacy and consent related to intimate images.
+
+---
+
+**Latent Dimension 7: Fear, Discomfort, and Lack of Safety**  
+- Ho paura di vederlo perché so che potrebbe avere comportamenti che mi possono fare stare male o sentire in imbarazzo  
+- In sua compagnia non mi sento a mio agio e al sicuro  
+- Provo paura vicino a lui, non mi sento al sicuro  
+- In sua compagnia mi capita di sentirmi a disagio e ho la sensazione di dover stare attenta a ciò che dico o a ciò che faccio, come se dovessi “camminare sulle uova” per evitare sue reazioni negative  
+- Sento disagio o non voglio fare qualcosa ma lo nascondo per paura che si arrabbi  
+
+*Rationale:* These items reflect the victim’s emotional and physical sense of fear, discomfort, and insecurity in the presence of the partner.
+
+---
+
+**Latent Dimension 8: Social Isolation and Dependency Enforcement**  
+- Mi impedisce cercare un lavoro per essere indipendente  
+- Non mi vuole bene per quella che sono e non rispetta le mie scelte  
+- Non mi incoraggia a provare nuove cose  
+
+*Rationale:* This dimension highlights behaviors that limit the victim’s independence, personal growth, and self-acceptance, fostering dependency on the abuser.
+
+---
+
+**Latent Dimension 9: Manipulation and Emotional Punishment**  
+- Mi dice che, se lo lasciassi, rivelerebbe ad altri dei miei segreti o delle cose molto personali che sa di me  
+- Quando faccio qualcosa che a lui non va bene poi non mi parla per giorni  
+- Mi sento giudicata rispetto alle cose che faccio e a come organizzo la mia vita  
+
+*Rationale:* These items describe emotional manipulation tactics including threats, silent treatment, and judgment aimed at controlling and punishing the victim.
+
+---
+
+**Summary:**  
+- Emotional Support and Open Communication  
+- Psychological and Verbal Abuse  
+- Physical Abuse and Aggression  
+- Control and Monitoring of Personal Autonomy  
+- Jealousy, Possessiveness, and Accusations  
+- Sexual Coercion and Violation of Consent  
+- Fear, Discomfort, and Lack of Safety  
+- Social Isolation and Dependency Enforcement  
+- Manipulation and Emotional Punishment

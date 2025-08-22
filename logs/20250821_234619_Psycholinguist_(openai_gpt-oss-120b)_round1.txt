@@ -1,0 +1,102 @@
+### Psycholinguist (openai/gpt-oss-120b)
+**Latent dimension 1 – Controllo e monitoraggio**  
+*Label:* **“Controllo comportamentale”**  
+*Items:*  
+1. *Mi sento controllata, ho la sensazione che non si fidi di me e che voglia sapere sempre dove sono e con chi…*  
+4. *Sento che mi manda troppi messaggi o mi chiama in modo insistente*  
+9. *Non mi sento libera di vestirmi come voglio*  
+25. *Cerca di controllare ciò che faccio e con chi mi vedo*  
+31. *Dice che sono impegnata in troppe cose e che lo trascuro, vorrebbe che passassimo la maggior parte del tempo insieme*  
+45. *Diventa estremamente geloso o possessivo*  
+
+*Rationale:* All these statements describe a partner who constantly monitors whereabouts, communication, appearance, and time‑use, demanding loyalty and limiting personal autonomy. They capture the “surveillance” facet of coercive control without involving overt aggression or financial issues.
+
+---
+
+**Latent dimension 2 – Abuso emotivo e manipolazione**  
+*Label:* **“Violenza psicologica”**  
+*Items:*  
+6. *Pretende prove d’amore e dimostrazioni di fedeltà nei suoi confronti*  
+8. *Mi dice che non valgo niente e che resterei sola se non stessi con lui…*  
+11. *Ha forti oscillazioni d’umore, il minuto prima si arrabbia e mi urla contro e quello successivo è dolce e si scusa*  
+12. *Mi accusa di flirtare o di tradirlo*  
+15. *Dopo che mi ha aggredito (fisicamente o verbalmente) nega di averlo fatto e mi fa dubitare che sia realmente successo*  
+17. *Mi sento giudicata rispetto alle cose che faccio e a come organizzo la mia vita*  
+22. *Mi butta giù, mi insulta o mi critica*  
+32. *Urla o mi umilia di fronte ad altre persone*  
+33. *In sua compagnia mi capita di sentirmi a disagio… “camminare sulle uova”*  
+36. *Non mi fa sentire bene quando parla di come mi prendo cura di me stessa e del mio aspetto fisico*  
+40. *Mi fa sentire spesso sbagliata e mi dice che è colpa mia se sta male*  
+47. *Quando faccio qualcosa che a lui non va bene poi non mi parla per giorni*  
+
+*Rationale:* These utterances involve devaluation, gas‑lighting, blame, public humiliation, mood‑swings, and the threat of emotional withdrawal. They reflect the classic patterns of psychological abuse and manipulation rather than physical or economic harm.
+
+---
+
+**Latent dimension 3 – Abuso finanziario / controllo economico**  
+*Label:* **“Controllo economico”**  
+*Items:*  
+13. *Mi impedisce di avere accesso al conto corrente o alle mie risorse economiche*  
+21. *Controlla come spendo i miei soldi*  
+29. *Mi impedisce cercare un lavoro per essere indipendente*  
+44. *Mi viene chiesto di giustificare ogni acquisto che faccio*  
+
+*Rationale:* Each statement targets the victim’s financial autonomy—blocking access to money, dictating spending, preventing employment, and demanding justification for purchases.
+
+---
+
+**Latent dimension 4 – Violenza fisica e sessuale**  
+*Label:* **“Violenza corporea e sessuale”**  
+*Items:*  
+34. *Mi afferra per i capelli, mi strattona… mi dà dei pugni, mi schiaffeggia…*  
+43. *Mi chiede insistentemente di fare sesso e non accetta quando dico di no*  
+42. *Ha mostrato mie immagini intime ad altre persone senza il mio consenso*  
+
+*Rationale:* These items describe direct physical aggression, sexual coercion, and non‑consensual diffusion of intimate images—forms of overt bodily and sexual abuse.
+
+---
+
+**Latent dimension 5 – Isolamento e restrizione sociale**  
+*Label:* **“Isolamento relazionale”**  
+*Items:*  
+3. *Mi chiede di non vedere i miei amici/amiche*  
+41. *Non vuole che io veda la mia famiglia, i miei amici/amiche*  
+39. *Parla male delle mie amici/amiche e dice che sono dei/delle “poco di buono”*  
+25. *(already in Controllo, ma qui evidenzia il divieto di interagire con altri)*  
+
+*Rationale:* The focus is on prohibiting contact with family, friends, or broader social circles and on denigrating those contacts, a hallmark of relational isolation.
+
+---
+
+**Latent dimension 6 – Minacce, intimidazione e coercizione**  
+*Label:* **“Minaccia e intimidazione”**  
+*Items:*  
+14. *Rompe e lancia oggetti per intimidirmi*  
+18. *Ho paura di vederlo perché so che potrebbe avere comportamenti che mi possono fare stare male*  
+27. *Minaccia di farsi del male a causa mia*  
+28. *Mi dice che, se lo lasciassi, rivelerebbe ad altri dei miei segreti…*  
+35. *Minaccia di fare del male a me, ai miei amici/amiche o alla mia famiglia*  
+46. *Minacce di distruggere le mie cose (telefono, vestiti, computer, auto, ecc.)*  
+
+*Rationale:* These statements involve explicit or implicit threats—of self‑harm, of exposing secrets, of property destruction, or of physical injury—used to coerce and frighten the victim.
+
+---
+
+**Latent dimension 7 – Aspetti positivi / supporto relazionale**  
+*Label:* **“Sostegno e rispetto”**  
+*Items:*  
+7. *Sento che possiamo confrontarci e anche litigare senza farci male*  
+10. *Sento il suo sostegno nelle cose che faccio*  
+19. *Sento di potergli parlare di qualsiasi cosa*  
+20. *Mi vuole bene per quella che sono e rispetta le mie scelte*  
+23. *Capisce che ho bisogno anche di miei spazi personali…*  
+24. *Mi incoraggia a provare nuove cose*  
+26. *Mi sento ascoltata e si mostra interessato quando ho qualcosa che voglio condividere*  
+30. *In sua compagnia mi sento a mio agio e al sicuro*  
+48. *Mi fa sentire libera di fare le mie scelte su come gestire il mio tempo*  
+
+*Rationale:* These items reflect healthy relational dynamics—mutual respect, emotional safety, encouragement, and autonomy—providing a contrastive “positive” dimension to the abusive patterns identified above.  
+
+---  
+
+**Summary** – The list separates the statements into seven non‑overlapping latent dimensions: (1) behavioral control, (2) psychological abuse, (3) financial control, (4) physical/sexual violence, (5) social isolation, (6) intimidation/threats, and (7) supportive/positive relationship features. Each dimension groups items that share a coherent semantic core, allowing a clearer understanding of the underlying structure of the questionnaire.

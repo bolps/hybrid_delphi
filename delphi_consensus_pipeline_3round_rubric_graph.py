@@ -84,14 +84,15 @@ client = OpenAI(base_url="https://openrouter.ai/api/v1", api_key=api_key)
 # Canonical items (with IDs)
 # =====================
 items = [
-    "Sento il suo sostegno nelle cose che faccio",
-    "Mi incoraggia a provare nuove cose",
-    "Mi sento ascoltata e si mostra interessato quando ho qualcosa che voglio condividere",
-    "Capisce che ho bisogno anche di miei spazi personali e comprende che ci sono momenti in cui mi piace stare da sola o con persone diverse da lui (amici/amiche, familiari ecc.)",
-    "Mi fa sentire libera di fare le mie scelte su come gestire il mio tempo",
-    "Mi vuole bene per quella che sono e rispetta le mie scelte",
-    "Sento che possiamo confrontarci e anche litigare senza farci male",
-    "In sua compagnia mi sento a mio agio e al sicuro",
+    "Non sento di avere il suo sostegno nelle cose che faccio",
+    "Non mi incoraggia a provare nuove cose",
+    "Non mi sento ascoltata",
+    "Non si mostra interessato quando ho qualcosa che voglio condividere",
+    "Non capisce che ho bisogno anche di miei spazi personali e non comprende che ci sono momenti in cui mi piace stare da sola o con persone diverse da lui (amici/amiche, familiari ecc.)",
+    "Non mi fa sentire libera di fare le mie scelte su come gestire il mio tempo",
+    "Non mi vuole bene per quella che sono e non rispetta le mie scelte",
+    "Non sento che possiamo confrontarci e anche litigare senza farci male",
+    "In sua compagnia non mi sento a mio agio e al sicuro",
     "I miei amici/amiche mi hanno fatto notare che non piace loro come si comporta con me",
     "Parla male delle mie amici/amiche e dice che sono dei/delle “poco di buono”",
     "Mi chiede di non vedere i miei amici/amiche",
@@ -112,7 +113,7 @@ items = [
     "Non vuole che io veda la mia famiglia, i miei amici/amiche",
     "Ha forti oscillazioni d'umore, il minuto prima si arrabbia e mi urla contro e quello successivo è dolce e si scusa",
     "In sua compagnia mi capita di sentirmi a disagio e ho la sensazione di dover stare attenta a ciò che dico o a ciò che faccio, come se dovessi “camminare sulle uova” per evitare sue reazioni negative",
-    "Mi butta giù, mi insulta o mi critica",
+    "Mi butta giù di morale, mi insulta o mi critica",
     "Mi fa sentire spesso sbagliata e mi dice che è colpa mia se sta male",
     "Mi dice che non valgo niente e che resterei sola se non stessi con lui perché nessuno mi vorrebbe",
     "Ha mostrato mie immagini intime ad altre persone senza il mio consenso",
@@ -120,14 +121,14 @@ items = [
     "Mi dice che, se lo lasciassi, rivelerebbe ad altri dei miei segreti o delle cose molto personali che sa di me",
     "Minaccia di fare del male a me, ai miei amici/amiche o alla mia famiglia",
     "Minaccia di farsi del male a causa mia",
-    "Minacce di distruggere le mie cose (telefono, vestiti, computer, auto, ecc.)",
+    "Minaccia di distruggere le mie cose (telefono, vestiti, computer, auto, ecc.)",
     "Mi afferra per i capelli, mi strattona, mi mette le mani al collo, tenta di soffocarmi, mi dà dei pugni, mi schiaffeggia, mi getta addosso degli oggetti o mi fa male in qualche modo",
     "Dopo che mi ha aggredito (fisicamente o verbalmente) nega di averlo fatto e mi fa dubitare che sia realmente successo.",
     "Rompe e lancia oggetti per intimidirmi",
     "Urla o mi umilia di fronte ad altre persone",
     "Mi chiede insistentemente di fare sesso e non accetta quando dico di no o che non mi va",
     "Ho paura di vederlo perché so che potrebbe avere comportamenti che mi possono fare stare male o sentire in imbarazzo",
-    "Sento di potergli parlare di qualsiasi cosa",
+    "Non sento di potergli parlare di qualsiasi cosa",
     "Controlla come spendo i miei soldi",
     "Mi impedisce di avere accesso al conto corrente o alle mie risorse economiche",
     "Mi viene chiesto di giustificare ogni acquisto che faccio",
@@ -148,30 +149,30 @@ id_by_text = {v: k for k, v in item_id_map.items()}
 #    "openai/gpt-5-chat"
 #]
 models = [
-    "google/gemini-2.5-flash",
-    "x-ai/grok-3-mini",
-    "openai/gpt-5-mini",
-    "anthropic/claude-3.5-haiku"
+    "mistralai/mistral-medium-3.1",
+    "meta-llama/llama-4-maverick",
+    "qwen/qwen3-235b-a22b-2507",
+    "openai/gpt-oss-120b"
 ]
 
 #moderator_model = "google/gemini-2.5-pro"
-moderator_model = "google/gemini-2.5-flash"
+moderator_model = "openai/gpt-oss-120b"
 
 roles = [
     {
         "role": "Clinical Psychologist",
         "system_prompt": "You are a clinical psychologist specializing in relational and affective disorders.",
-        "instructions": "Group the following items according to clinical psychological constructs."
+        "instructions": "Identify and label latent dimensions according to clinical psychological constructs."
     },
     {
         "role": "Psychometrician",
         "system_prompt": "You are a psychometrician skilled in factor analysis and scale design.",
-        "instructions": "Identify and label latent dimensions using psychometric logic."
+        "instructions": "Identify and label latent dimensions according to psychometric logic."
     },
     {
         "role": "Psycholinguist",
         "system_prompt": "You are a psycholinguist analyzing lexical semantics and meaning in statements.",
-        "instructions": "Group items based on semantic similarity and latent linguistic meaning."
+        "instructions": "Identify and label latent dimensions according to semantic similarity and latent linguistic meaning."
     }
 ]
 
@@ -184,7 +185,7 @@ For each latent dimension:
 - List the items that belong to that dimension.
 - Give a brief rationale for the grouping based on your perspective.
 
-Be thoughtful, coherent, and concise. Avoid overlaps between dimensions.
+Be thoughtful, coherent, and concise. Avoid overlaps between dimensions. Avoid heterogeneous factors. Do not introduce new items or split existing ones.
 """
 
 # =====================
@@ -274,7 +275,8 @@ delphi_moderator_prompt = (
     "Please:\n"
     "- Propose a synthesized set of latent dimensions based on the expert analyses.\n"
     "- For each dimension, list all the related items and a brief description of the dimension.\n"
-    "- Keep the response structured and clear."
+    "- Keep the response structured and clear.\n"
+    "- Avoid introducing new items or splitting existing ones."
 )
 delphi_moderator.build_prompt([delphi_input], "")
 delphi_moderator.full_prompt = delphi_moderator_prompt
@@ -299,10 +301,12 @@ for model in models:
             f"{previous_response}\n\n"
             f"Additionally, a Delphi Moderator has provided an aggregated synthesis of all expert analyses. "
             f"Please read it carefully and then revise your response accordingly, aiming to:\n"
-            f"- Align with the collective synthesis where appropriate\n"
+            f"- Align with the collective synthesis where you think it's appropriate\n"
             f"- Suggest improvements or corrections if you believe the synthesis missed something important\n"
             f"- Provide a final set of latent dimensions, each with grouped items and a rationale\n"
-            f"- Summarize the changes you made in your revised response and the rationale behind your revisions\n\n"
+            f"- Summarize the changes you made in your revised response and the rationale behind your revisions\n"
+            f"- Do not introduce new items or split existing ones.\n"
+            f"- Avoid heterogeneous factors.\n\n"
             f"### Delphi Moderator's synthesis:\n{delphi_result}"
         )
 
@@ -395,8 +399,7 @@ save_json_result("Round2_Structured_Dimensions", structured_json)
 
 # =====================
 # ROUND 3 — Updated with rubric and evidence fields
-# =====================
-round3_system = "You are a psychometrician skilled in factor analysis and scale design."
+# ====================
 round3_user_intro = """
 Evaluate items within their assigned dimensions for item reduction.
 
@@ -448,8 +451,11 @@ for model in models:
             name=f'{role["role"]} ({model}) - Round 3',
             model=model,
             temperature=random.uniform(0.5, 0.6),
-            system_prompt=round3_system,
-            instructions="Apply rubric; provide evidence_for/against; return STRICT JSON as specified."
+            system_prompt=role["system_prompt"],
+           instructions=( role["instructions"] + "\n\nApply the Round-3 rubric; provide evidence_for/against; "
+                  "return STRICT JSON as specified."
+            )
+
         )
         ex.full_prompt = (
             round3_user_intro

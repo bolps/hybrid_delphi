@@ -1,0 +1,51 @@
+### Psychometrician (meta-llama/llama-4-maverick)
+After analyzing the provided list of psychological items, I have identified four latent dimensions. Here are the results:
+
+**Dimension 1: Emotional Abuse and Control**
+- Mi butta giù, mi insulta o mi critica
+- Mi dice che non valgo niente e che resterei sola se non stessi con lui perché nessuno mi vorrebbe
+- Non mi fa sentire bene quando parla di come mi prendo cura di me stessa e del mio aspetto fisico
+- Mi fa sentire spesso sbagliata e mi dice che è colpa mia se sta male
+- Mi sento giudicata rispetto alle cose che faccio e a come organizzo la mia vita
+- Mi accusa di flirtare o di tradirlo
+- Diventa estremamente geloso o possessivo
+- Pretende prove d'amore e dimostrazioni di fedeltà nei suoi confronti
+
+Rationale: These items all relate to behaviors that are emotionally abusive or controlling, making the person feel bad about themselves, or exerting control over their actions, feelings, or choices.
+
+**Dimension 2: Physical and Sexual Violence**
+- Mi afferra per i capelli, mi strattona, mi mette le mani al collo, tenta di soffocarmi, mi dà dei pugni, mi schiaffeggia, mi getta addosso degli oggetti o mi fa male in qualche modo
+- Ha mostrato mie immagini intime ad altre persone senza il mio consenso
+- Mi chiede insistentemente di fare sesso e non accetta quando dico di no o che non mi va
+- Minaccia di distruggere le mie cose (telefono, vestiti, computer, auto, ecc.)
+- Minaccia di mostrare ai miei amici o ai miei familiari mie immagini intime
+- Rompe e lancia oggetti per intimidirmi
+
+Rationale: These items are related to physical or sexual violence, or threats thereof, indicating a pattern of behavior that is intended to intimidate, harm, or coerce.
+
+**Dimension 3: Isolation and Control**
+- Mi chiede di non vedere i miei amici/amiche
+- Mi impedisce di avere accesso al conto corrente o alle mie risorse economiche
+- Mi impedisce cercare un lavoro per essere indipendente
+- Cerca di controllare ciò che faccio e con chi mi vedo
+- Controlla come spendo i miei soldi
+- Non vuole che io veda la mia famiglia, i miei amici/amiche
+- Mi vuole controllare e mi chiede continuamente dove sono e con chi sono
+- Non mi sento libera di vestirmi come voglio
+
+Rationale: These items reflect behaviors aimed at isolating the individual from others, controlling their financial resources, or otherwise limiting their autonomy and freedom.
+
+**Dimension 4: Positive Relationship Characteristics**
+- Mi sento ascoltata e si mostra interessato quando ho qualcosa che voglio condividere
+- Mi incoraggia a provare nuove cose
+- Sento il suo sostegno nelle cose che faccio
+- Mi vuole bene per quella che sono e rispetta le mie scelte
+- Capisce che ho bisogno anche di miei spazi personali e comprende che ci sono momenti in cui mi piace stare da sola o con persone diverse da lui (amici/amiche, familiari ecc.)
+- Sento che possiamo confrontarci e anche litigare senza farci male
+- Sento di potergli parlare di qualsiasi cosa
+- In sua compagnia mi sento a mio agio e al sicuro
+- Mi fa sentire libera di fare le mie scelte su come gestire il mio tempo
+
+Rationale: These items describe positive aspects of a relationship, such as feeling heard, supported, and respected, and having the freedom to make personal choices.
+
+The remaining items that were not included in these dimensions either represent outcomes or consequences of the behaviors described in the dimensions (e.g., "Le mie amiche o la mia famiglia sono preoccupate per me", "Ho paura di vederlo perché so che potrebbe avere comportamenti che mi possono fare stare male o sentire in imbarazzo") or could be seen as related to more than one dimension. They provide context or indicate the impact of the behaviors associated with the identified dimensions.

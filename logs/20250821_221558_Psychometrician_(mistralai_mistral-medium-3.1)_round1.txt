@@ -1,0 +1,119 @@
+### Psychometrician (mistralai/mistral-medium-3.1)
+Below is a psychometrically coherent factor structure for the given items, organized into **latent dimensions** reflecting distinct but theoretically meaningful domains of **interpersonal dysfunction, abuse, and relational health**. The grouping is based on **content similarity, behavioral/emotional themes, and alignment with established psychological constructs** (e.g., coercive control, emotional abuse, intimacy, autonomy support).
+
+---
+
+### **1. Emotional Abuse & Psychological Manipulation**
+*Items reflecting verbal degradation, gaslighting, guilt-induction, and undermining self-worth.*
+- Mi fa sentire spesso sbagliata e mi dice che è colpa mia se sta male
+- Mi dice che non valgo niente e che resterei sola se non stessi con lui perché nessuno mi vorrebbe
+- Mi butta giù, mi insulta o mi critica
+- Urla o mi umilia di fronte ad altre persone
+- Dopo che mi ha aggredito (fisicamente o verbalmente) nega di averlo fatto e mi fa dubitare che sia realmente successo
+- Minaccia di farsi del male a causa mia
+- Mi sento giudicata rispetto alle cose che faccio e a come organizzo la mia vita
+- Parla male delle mie amici/amiche e dice che sono dei/delle “poco di buono”
+
+**Rationale**:
+These items converge on **psychological aggression**, including **verbal abuse, gaslighting, and devaluation**—core features of emotional abuse (e.g., *Dutton & Browne, 1994*). Themes of **shame induction, self-doubt, and triangulation** (e.g., disparaging the victim’s support network) are central to coercive control.
+
+---
+
+### **2. Coercive Control & Isolation**
+*Items indicating restrictive, monitoring, or isolating behaviors that limit autonomy.*
+- Non vuole che io veda la mia famiglia, i miei amici/amiche
+- Mi chiede di non vedere i miei amici/amiche
+- Cerca di controllare ciò che faccio e con chi mi vedo
+- Sento di essere controllata, ho la sensazione che non si fidi di me e che voglia sapere sempre dove sono e con chi, me lo chiede continuamente
+- Mi impedisce di avere accesso al conto corrente o alle mie risorse economiche
+- Controlla come spendo i miei soldi
+- Mi chiede insistentemente di fare sesso e non accetta quando dico di no o che non mi va
+- Non mi sento libera di vestirmi come voglio
+- Mi impedisce cercare un lavoro per essere indipendente
+- Pretende prove d'amore e dimostrazioni di fedeltà nei suoi confronti
+
+**Rationale**:
+This dimension captures **behavioral control tactics** (e.g., *Stark, 2007*), including **social isolation, financial abuse, sexual coercion, and surveillance**. These items align with the **Duluth Power & Control Wheel** and reflect systemic domination rather than episodic conflict.
+
+---
+
+### **3. Volatility & Unpredictability**
+*Items describing erratic emotional/behavioral shifts and fear of unpredictable reactions.*
+- Ha forti oscillazioni d'umore, il minuto prima si arrabbia e mi urla contro e quello successivo è dolce e si scusa
+- In sua compagnia mi capita di sentirmi a disagio e ho la sensazione di dover stare attenta a ciò che dico o a ciò che faccio, come se dovessi “camminare sulle uova”
+- Quando faccio qualcosa che a lui non va bene poi non mi parla per giorni
+- Ho paura di vederlo perché so che potrebbe avere comportamenti che mi possono fare stare male o sentire in imbarazzo
+- Sento disagio o non voglio fare qualcosa ma lo nascondo per paura che si arrabbi
+
+**Rationale**:
+This dimension taps into **emotional instability and fear of provocation**, a hallmark of **intermittent reinforcement** (e.g., *Walker, 1979*) in abusive dynamics. The **hot-cold behavior pattern** creates anxiety and hypervigilance.
+
+---
+
+### **4. Physical & Sexual Violence**
+*Items involving overt physical aggression, sexual coercion, or threats of harm.*
+- Mi afferra per i capelli, mi strattona, mi mette le mani al collo, tenta di soffocarmi, mi dà dei pugni, mi schiaffeggia, mi getta addosso degli oggetti o mi fa male in qualche modo
+- Rompe e lancia oggetti per intimidirmi
+- Mi chiede insistentemente di fare sesso e non accetta quando dico di no o che non mi va
+- Provo paura vicino a lui, non mi sento al sicuro
+- Minaccia di fare del male a me, ai miei amici/amiche o alla mia famiglia
+
+**Rationale**:
+These items reflect **direct physical/sexual violence** and **intimidation through property destruction**. The inclusion of **sexual coercion** and **threats of harm** aligns with the *WHO’s typology of intimate partner violence*.
+
+---
+### **5. Digital & Image-Based Abuse**
+*Items involving non-consensual sharing of intimate content or digital harassment.*
+- Ha mostrato mie immagini intime ad altre persone senza il mio consenso
+- Minaccia di mostrare ai miei amici o ai miei familiari mie immagini intime
+- Mi dice che, se lo lasciassi, rivelerebbe ad altri dei miei segreti o delle cose molto personali che sa di me
+- Sento che mi manda troppi messaggi o mi chiama in modo insistente
+
+**Rationale**:
+This dimension captures **technology-facilitated abuse**, including **revenge porn, sextortion, and digital stalking**—emerging forms of control in the *digital age* (e.g., *Henry & Powell, 2018*).
+
+---
+### **6. Relational Health & Autonomy Support**
+*Items indicating mutual respect, emotional safety, and support for independence.*
+- Mi vuole bene per quella che sono e rispetta le mie scelte
+- Mi sento ascoltata e si mostra interessato quando ho qualcosa che voglio condividere
+- In sua compagnia mi sento a mio agio e al sicuro
+- Mi incoraggia a provare nuove cose
+- Sento di potergli parlare di qualsiasi cosa
+- Capisce che ho bisogno anche di miei spazi personali e comprende che ci sono momenti in cui mi piace stare da sola o con persone diverse da lui
+- Mi fa sentire libera di fare le mie scelte su come gestire il mio tempo
+- Sento il suo sostegno nelle cose che faccio
+- Sento che possiamo confrontarci e anche litigare senza farci male
+
+**Rationale**:
+These items reflect **secure attachment, emotional validation, and autonomy support**—antitheses of abuse. They align with **self-determination theory** (e.g., *Deci & Ryan, 2000*) and **healthy relationship scales** (e.g., *Hendrick, 1988*).
+
+---
+### **7. External Validation of Concern**
+*Items indicating third-party observations or warnings about the relationship.*
+- Le mie amiche o la mia famiglia sono preoccupate per me
+- I miei amici/amiche mi hanno fatto notare che non piace loro come si comporta con me
+
+**Rationale**:
+This dimension captures **social validation of abuse**, an important **external criterion** for assessing relational harm (e.g., *Follingstad et al., 1990*). It serves as a **convergent validity check** for the victim’s perceptions.
+
+---
+### **Psychometric Notes**:
+1. **Non-Overlap**: Dimensions are mutually exclusive; items were assigned based on **primary thematic loading** (e.g., financial control → Coercive Control, not Emotional Abuse).
+2. **Abuse Typologies**: Aligns with *Johnson’s (2008)* distinction between **intimate terrorism** (Coercive Control) and **situational couple violence** (Volatility).
+3. **Scalability**: For measurement, these dimensions could be scored as **subscales** in a **multidimensional abuse assessment tool** (e.g., composite scores for Physical Abuse, Coercive Control, etc.).
+4. **Cultural Sensitivity**: Items like *"mi mette le mani al collo"* (strangulation) are **high-risk markers** linked to femicide (*Glass et al., 2008*) and should be flagged in clinical/screening tools.
+
+---
+### **Suggested Scale Name**:
+**"Multidimensional Assessment of Relational Abuse and Health" (MARAH)**
+- **Subscales**:
+  1. Emotional Abuse & Manipulation
+  2. Coercive Control & Isolation
+  3. Volatility & Unpredictability
+  4. Physical/Sexual Violence
+  5. Digital/Image-Based Abuse
+  6. Relational Health (reverse-scored)
+  7. External Validation of Concern
+
+Would you like additional refinement (e.g., item wording adjustments, response scale recommendations)?

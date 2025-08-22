@@ -1,0 +1,112 @@
+### Psycholinguist (openai/gpt-oss-120b)
+**Latent Dimension 1 – Physical Violence & Direct Threats**  
+*What ties the items together:* overt bodily aggression, threats of bodily harm and intimidation through destruction of property.  
+| Item (original wording) |
+|---|
+| 13 – “Minaccia di distruggere le mie cose (telefono, vestiti, computer, auto, ecc.)” |
+| 14 – “Rompe e lancia oggetti per intimidirmi” |
+| 34 – “Mi afferra per i capelli, mi strattona, mi mette le mani al collo, tenta di soffocarmi, mi dà dei pugni, mi schiaffeggia, mi getta addosso degli oggetti o mi fa male in qualche modo” |
+| 36 – “Minaccia di fare del male a me, ai miei amici/amiche o alla mia famiglia” |
+| 49 – “Minaccia di farsi del male a causa mia” |
+
+*Rationale:* All of these describe concrete, physical acts (or the imminent possibility of them) that can cause bodily injury or severe fear of injury. They are distinct from purely verbal or relational tactics.
+
+---
+
+**Latent Dimension 2 – Psychological / Emotional Abuse**  
+*What ties the items together:* verbal devaluation, manipulation of self‑esteem, gas‑lighting, humiliation and chronic criticism that undermine the victim’s sense of self and emotional well‑being.  
+| Item |
+|---|
+| 1 – “Mi accusa di flirtare o di tradirlo” |
+| 2 – “Sento disagio o non voglio fare qualcosa ma lo nascondo per paura che si arrabbi” |
+| 3 – “Parla male delle mie amici/amiche e dice che sono dei/delle ‘poco di buono’” |
+| 4 – “Quando faccio qualcosa che a lui non va bene poi non mi parla per giorni” |
+| 7 – “Non mi vuole bene per quella che sono e non rispetta le mie scelte” |
+| 8 – “Mi fa sentire spesso sbagliata e mi dice che è colpa mia se sta male” |
+| 15 – “Dopo che mi ha aggredito (fisicamente o verbalmente) nega di averlo fatto e mi fa dubitare che sia realmente successo.” |
+| 33 – “Ha forti oscillazioni d'umore, il minuto prima si arrabbia e mi urla contro e quello successivo è dolce e si scusa” |
+| 41 – “Mi butta giù di morale, mi insulta o mi critica” |
+| 44 – “Mi dice che non valgo niente e che resterei sola se non starei con lui perché nessuno mi vorrebbe” |
+| 45 – “Urla o mi umilia di fronte ad altre persone” |
+| 46 – “Mi sento giudicata rispetto alle cose che faccio e a come organizzo la mia vita” |
+| 40 – “I miei amici/amiche mi hanno fatto notare che non piace loro come si comporta con me” |
+| 42 – “Sento di potergli parlare di qualsiasi cosa” (apparente apertura usata per manipolare) |
+| 30 – “Non sento che possiamo confrontarci e anche litigare senza farci male” |
+
+*Rationale:* These statements involve attacks on the victim’s thoughts, feelings, reputation, or self‑concept, often through denial, blame, or public humiliation, without necessarily involving physical force.
+
+---
+
+**Latent Dimension 3 – Coercive Control & Isolation**  
+*What ties the items together:* systematic monitoring, restriction of autonomy, jealousy, excessive demands on time and contact, and the creation of an environment in which the victim feels she must constantly seek permission.  
+| Item |
+|---|
+| 9 – “Mi sento controllata, ho la sensazione che non si fidi di me e che voglia sapere sempre dove sono e con chi, me lo chiede continuamente” |
+| 11 – “Non vuole che io veda la mia famiglia, i miei amici/amiche” |
+| 12 – “Diventa estremamente geloso o possessivo” |
+| 17 – “Dice che sono impegnata in troppe cose e che lo trascuro, vorrebbe che passassimo la maggior parte del tempo insieme” |
+| 19 – “Mi viene chiesto di giustificare ogni acquisto che faccio” |
+| 20 – “Non mi fa sentire libera di fare le mie scelte su come gestire il mio tempo” |
+| 22 – “In sua compagnia mi capita di sentirmi a disagio e ho la sensazione di dover stare attenta a ciò che dico o a ciò che faccio, come se dovessi ‘camminare sulle uova’ per evitare sue reazioni negative” |
+| 29 – “Non capisce che ho bisogno anche di miei spazi personali…” |
+| 31 – “Mi chiede di non vedere i miei amici/amiche” |
+| 37 – “Sento che mi manda troppi messaggi o mi chiama in modo insistente” |
+| 43 – “Cerca di controllare ciò che faccio e con chi mi vedo” |
+| 47 – “Pretende prove d’amore e dimostrazioni di fedeltà nei suoi confronti” |
+| 48 – “Controlla come spendo i miei soldi” (parte di controllo, ma anche economico – collocato qui perché è una forma di sorveglianza) |
+| 38 – “In sua compagnia non mi sento a mio agio e al sicuro” (sentimento derivante dal controllo) |
+| 6 – “Le mie amiche o la mia famiglia sono preoccupate per me” (riferimento esterno al isolamento) |
+
+*Rationale:* These items describe a pattern of domination that limits the victim’s social contacts, personal freedom, and decision‑making, creating a climate of constant surveillance and dependence.
+
+---
+
+**Latent Dimension 4 – Sexual Abuse & Exploitation**  
+*What ties the items together:* non‑consensual sexual demands, coercion, and the non‑consensual distribution or threat of distribution of intimate images.  
+| Item |
+|---|
+| 16 – “Ha mostrato mie immagini intime ad altre persone senza il mio consenso” |
+| 28 – “Minaccia di mostrare ai miei amici o ai miei familiari mie immagini intime” |
+| 32 – “Mi chiede insistentemente di fare sesso e non accetta quando dico di no o che non mi va” |
+
+*Rationale:* All involve a violation of sexual autonomy, either through forced sexual activity or the misuse/threat of intimate material.
+
+---
+
+**Latent Dimension 5 – Economic Abuse**  
+*What ties the items together:* actions that deprive the victim of financial resources, block economic independence, or force financial dependence.  
+| Item |
+|---|
+| 21 – “Mi impedisce di avere accesso al conto corrente o alle mie risorse economiche” |
+| 27 – “Mi impedisce di cercare un lavoro per essere indipendente” |
+| 48 – “Controlla come spendo i miei soldi” (qui enfatizzato come restrizione economica) |
+| 19 – “Mi viene chiesto di giustificare ogni acquisto che faccio” (controllo spesa) |
+
+*Rationale:* These statements specifically target the victim’s ability to earn, keep, or control money, a core component of economic abuse.
+
+---
+
+**Latent Dimension 6 – Fear & Perceived Lack of Safety**  
+*What ties the items together:* the victim’s subjective feeling of being unsafe, anxious, or terrified in the partner’s presence, regardless of the specific abusive tactic.  
+| Item |
+|---|
+| 5 – “Provo paura vicino a lui, non mi sento al sicuro” |
+| 18 – “Ho paura di vederlo perché so che potrebbe avere comportamenti che mi possono fare stare male o sentire in imbarazzo” |
+| 38 – “In sua compagnia non mi sento a mio agio e al sicuro” (also appears in control but here highlighted for the affect) |
+| 6 – “Le mie amiche o la mia famiglia sono preoccupate per me” (riflette la percezione esterna di pericolo) |
+
+*Rationale:* These items capture the emotional climate of terror and insecurity that often accompanies other forms of abuse, and they are best understood as a distinct affective dimension.
+
+---
+
+### Summary of the latent structure
+| Dimension | Core content |
+|-----------|--------------|
+| **1. Physical Violence & Direct Threats** | Physical aggression, threats of bodily harm, intimidation through property destruction |
+| **2. Psychological / Emotional Abuse** | Verbal devaluation, gas‑lighting, humiliation, chronic criticism, manipulation of self‑esteem |
+| **3. Coercive Control & Isolation** | Monitoring, jealousy, restriction of contacts, demands on time, excessive messaging, need for permission |
+| **4. Sexual Abuse & Exploitation** | Non‑consensual sex, coercion, distribution or threat of intimate images |
+| **5. Economic Abuse** | Blocking access to money, controlling spending, preventing employment |
+| **6. Fear & Perceived Lack of Safety** | Subjective feelings of terror, anxiety, and unsafety in the partner’s presence |
+
+Each item from the original list is placed in the single dimension that best captures its primary abusive mechanism, avoiding overlap while preserving the nuance of the statements.

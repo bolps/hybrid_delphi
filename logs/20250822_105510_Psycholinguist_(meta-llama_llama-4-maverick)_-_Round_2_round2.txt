@@ -1,0 +1,95 @@
+### Psycholinguist (meta-llama/llama-4-maverick) - Round 2
+### Revised Analysis
+
+After carefully reviewing the Delphi Moderator's synthesis, I have revised my original analysis to align with the collective synthesis. Below, I present the revised dimensions, along with the corresponding items and rationales.
+
+### Dimension 1: Emotional & Verbal Abuse
+
+* Mi fa sentire spesso sbagliata e mi dice che è colpa mia se sta male
+* Mi dice che non valgo niente e che resterei sola se non stessi con lui perché nessuno mi vorrebbe
+* Mi butta giù di morale, mi insulta o mi critica
+* Urla o mi umilia di fronte ad altre persone
+* Dopo che mi ha aggredito (fisicamente o verbalmente) nega di averlo fatto e mi fa dubitare che sia realmente successo
+* Ha forti oscillazioni d’umore, il minuto prima si arrabbia e mi urla contro e quello successivo è dolce e si scusa
+* Non mi vuole bene per quella che sono e non rispetta le mie scelte
+* Non mi fa sentire bene quando parla di come mi prendo cura di me stessa e del mio aspetto fisico
+
+Rationale: These items involve behaviors that are emotionally or verbally abusive, causing harm or distress to the victim.
+
+### Dimension 2: Coercive Control & Isolation
+
+* Non vuole che io veda la mia famiglia, i miei amici/amiche
+* Mi chiede di non vedere i miei amici/amiche
+* Parla male delle mie amici/amiche e dice che sono dei/delle “poco di buono”
+* Non capisce che ho bisogno anche di miei spazi personali e non comprende che ci sono momenti in cui mi piace stare da sola o con persone diverse da lui
+* Mi sento controllata, ho la sensazione che non si fidi di me e che voglia sapere sempre dove sono e con chi, me lo chiede continuamente
+* Cerca di controllare ciò che faccio e con chi mi vedo
+* Non mi sento libera di fare le mie scelte su come gestire il mio tempo
+* Dice che sono impegnata in troppe cose e che lo trascuro, vorrebbe che passassimo la maggior parte del tempo insieme
+* Sento che mi manda troppi messaggi o mi chiama in modo insistente
+* Pretende prove d’amore e dimostrazioni di fedeltà nei suoi confronti
+* Non mi sento libera di vestirmi come voglio
+
+Rationale: These items involve behaviors that restrict the victim's autonomy, isolate them from others, or exert control over their actions.
+
+### Dimension 3: Financial Abuse
+
+* Mi impedisce di avere accesso al conto corrente o alle mie risorse economiche
+* Mi viene chiesto di giustificare ogni acquisto che faccio
+* Controlla come spendo i miei soldi
+* Mi impedisce cercare un lavoro per essere indipendente
+
+Rationale: These items involve behaviors that control or restrict the victim's financial autonomy.
+
+### Dimension 4: Physical Violence
+
+* Mi afferra per i capelli, mi strattona, mi mette le mani al collo, tenta di soffocarmi, mi dà dei pugni, mi schiaffeggia, mi getta addosso degli oggetti o mi fa male in qualche modo
+* Rompe e lancia oggetti per intimidirmi
+
+Rationale: These items involve physically violent or aggressive behaviors.
+
+### Dimension 5: Sexual Coercion & Image Abuse
+
+* Mi chiede insistentemente di fare sesso e non accetta quando dico di no o che non mi va
+* Ha mostrato mie immagini intime ad altre persone senza il mio consenso
+* Minaccia di mostrare ai miei amici o ai miei familiari mie immagini intime
+
+Rationale: These items involve non-consensual or coercive sexual behaviors, or the misuse of intimate images.
+
+### Dimension 6: Threats & Intimidation
+
+* Minaccia di fare del male a me, ai miei amici/amiche o alla mia famiglia
+* Minaccia di distruggere le mie cose (telefono, vestiti, computer, auto, ecc.)
+* Minaccia di farsi del male a causa mia
+* Mi dice che, se lo lasciassi, rivelerebbe ad altri dei miei segreti o delle cose molto personali che sa di me
+
+Rationale: These items involve explicit threats or intimidation used to control or frighten the victim.
+
+### Dimension 7: Fear & Hyper-vigilance
+
+* Provo paura vicino a lui, non mi sento al sicuro
+* In sua compagnia mi capita di sentirmi a disagio e ho la sensazione di dover stare attenta a ciò che dico o a ciò che faccio
+* In sua compagnia non mi sento a mio agio e al sicuro
+* Ho paura di vederlo perché so che potrebbe avere comportamenti che mi possono fare stare male o sentire in imbarazzo
+* Sento disagio o non voglio fare qualcosa ma lo nascondo per paura che si arrabbi
+* Le mie amiche o la mia famiglia sono preoccupate per me
+* I miei amici/amiche mi hanno fatto notare che non piace loro come si comporta con me
+
+Rationale: These items describe the victim's internal state of fear, anxiety, or hypervigilance.
+
+### Dimension 8: Emotional Neglect & Lack of Support
+
+* Non mi sento ascoltata
+* Non mi incoraggia a provare nuove cose
+
+Rationale: These items involve a lack of emotional support or validation from the partner.
+
+### Changes and Rationale
+
+I have aligned my analysis with the Delphi Moderator's synthesis, adopting the eight-factor structure. I grouped the items according to the synthesis, ensuring that each dimension is coherent and distinct. The main changes include:
+
+* Merging some of the original dimensions to align with the synthesis (e.g., Emotional Manipulation and Control with Coercive Control & Isolation).
+* Reassigning items to different dimensions based on the synthesis (e.g., threats related to intimate images are now under Sexual Coercion & Image Abuse).
+* Adopting more specific and descriptive dimension labels.
+
+These changes improve the clarity and coherence of the analysis, ensuring that it reflects the collective expertise and consensus.

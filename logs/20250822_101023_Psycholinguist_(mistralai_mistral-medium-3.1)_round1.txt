@@ -1,0 +1,145 @@
+### Psycholinguist (mistralai/mistral-medium-3.1)
+Below is a **latent dimensional analysis** of the provided items, grouped into **coherent, non-overlapping semantic categories** reflecting underlying psychological and behavioral patterns. Each dimension captures a distinct form of **abuse, control, or relational dysfunction**, grounded in psycholinguistic and clinical perspectives (e.g., coercive control, emotional abuse, financial abuse, gaslighting).
+
+---
+
+### **1. Coercive Control & Isolation**
+*(Systematic restriction of autonomy, social support, and resources to foster dependence)*
+**Items:**
+- Non mi vuole bene per quella che sono e non rispetta le mie scelte
+- Non vuole che io veda la mia famiglia, i miei amici/amiche
+- Mi chiede di non vedere i miei amici/amiche
+- Mi impedisce di avere accesso al conto corrente o alle mie risorse economiche
+- Mi impedisce cercare un lavoro per essere indipendente
+- Non mi sento libera di fare le mie scelte su come gestire il mio tempo
+- Non mi sento libera di vestirmi come voglio
+- Controlla come spendo i miei soldi
+- Mi viene chiesto di giustificare ogni acquisto che faccio
+
+**Rationale:**
+These items reflect **structural domination**—behaviors designed to **erode agency** by limiting access to **social networks, financial independence, and personal expression**. The language emphasizes **prohibition ("non vuole," "mi impedisce")** and **surveillance ("controlla")**, aligning with theories of **coercive control** (Stark, 2007).
+
+---
+
+### **2. Emotional Abuse & Degradation**
+*(Systematic undermining of self-worth, identity, and emotional safety)*
+**Items:**
+- Mi fa sentire spesso sbagliata e mi dice che è colpa mia se sta male
+- Mi dice che non valgo niente e che resterei sola se non stessi con lui perché nessuno mi vorrebbe
+- Mi butta giù di morale, mi insulta o mi critica
+- Non mi fa sentire bene quando parla di come mi prendo cura di me stessa e del mio aspetto fisico
+- Urla o mi umilia di fronte ad altre persone
+- Mi sento giudicata rispetto alle cose che faccio e a come organizzo la mia vita
+- Non mi sento ascoltata
+- Non si mostra interessato quando ho qualcosa che voglio condividere
+- Non mi incoraggia a provare nuove cose
+
+**Rationale:**
+The items here center on **verbal degradation** ("non valgo niente," "mi insulta") and **invalidating emotional experiences** ("non mi sento ascoltata"). The language conveys **shame-induction** and **diminishment of self-efficacy**, key markers of **emotional abuse** (Murphy & Hoover, 1999).
+
+---
+
+### **3. Gaslighting & Reality Distortion**
+*(Manipulation of perception to induce self-doubt and dependency on the abuser’s narrative)*
+**Items:**
+- Dopo che mi ha aggredito (fisicamente o verbalmente) nega di averlo fatto e mi fa dubitare che sia realmente successo
+- Mi accusa di flirtare o di tradirlo
+- Dice che sono impegnata in troppe cose e che lo trascuro, vorrebbe che passassimo la maggior parte del tempo insieme
+- Non capisce che ho bisogno anche di miei spazi personali e non comprende che ci sono momenti in cui mi piace stare da sola
+
+**Rationale:**
+These items involve **distorting reality** ("nega di averlo fatto," "mi fa dubitare") and **projection of blame** ("mi accusa"). The abuser **rewrites events** to create **cognitive dissonance**, a hallmark of **gaslighting** (Stern, 2007). The language often includes **accusatory framing** ("dice che...") and **denial of the victim’s needs** ("non capisce").
+
+---
+
+### **4. Intimidation & Threats**
+*(Explicit or implicit threats to induce fear and compliance)*
+**Items:**
+- Minaccia di distruggere le mie cose (telefono, vestiti, computer, auto, ecc.)
+- Minaccia di mostrare ai miei amici o ai miei familiari mie immagini intime
+- Minaccia di fare del male a me, ai miei amici/amiche o alla mia famiglia
+- Minaccia di farsi del male a causa mia
+- Ha mostrato mie immagini intime ad altre persone senza il mio consenso
+- Rompe e lancia oggetti per intimidirmi
+- Diventa estremamente geloso o possessivo
+- Pretende prove d'amore e dimostrazioni di fedeltà nei suoi confronti
+
+**Rationale:**
+The **lexical field of threats** ("minaccia," "rompe," "pretende") dominates here, with **explicit warnings of harm** (to self, victim, or others) and **violations of privacy** ("immagini intime"). These items align with **terrorizing behaviors** in abuse typologies (Johnson & Leone, 2005).
+
+---
+
+### **5. Physical & Sexual Violence**
+*(Direct bodily harm or coercion into unwanted sexual activity)*
+**Items:**
+- Mi afferra per i capelli, mi strattona, mi mette le mani al collo, tenta di soffocarmi, mi dà dei pugni, mi schiaffeggia, mi getta addosso degli oggetti o mi fa male in qualche modo
+- Mi chiede insistentemente di fare sesso e non accetta quando dico di no o che non mi va
+
+**Rationale:**
+These items describe **unambiguous physical aggression** ("pugni," "soffocarmi") and **sexual coercion** ("non accetta quando dico di no"). The **direct, concrete language** ("mi strattona") leaves little room for interpretive ambiguity, reflecting **overt violence** (Walker, 1979).
+
+---
+
+### **6. Surveillance & Possessiveness**
+*(Obsessive monitoring of behavior, time, and relationships to enforce dominance)*
+**Items:**
+- Mi sento controllata, ho la sensazione che non si fidi di me e che voglia sapere sempre dove sono e con chi, me lo chiede continuamente
+- Cerca di controllare ciò che faccio e con chi mi vedo
+- Sento che mi manda troppi messaggi o mi chiama in modo insistente
+- Parla male delle mie amici/amiche e dice che sono dei/delle “poco di buono”
+
+**Rationale:**
+The **semantic field of intrusion** ("controllare," "chiede continuamente," "messaggi insistenti") defines this dimension. The abuser **polices the victim’s interactions** and **delegitimizes their support systems** ("poco di buono"), reinforcing **isolation** (Dutton & Goodman, 2005).
+
+---
+### **7. Fear & Hypervigilance**
+*(Chronic anxiety and adaptive behaviors to avoid triggering the abuser)*
+**Items:**
+- Provo paura vicino a lui, non mi sento al sicuro
+- Ho paura di vederlo perché so che potrebbe avere comportamenti che mi possono fare stare male o sentire in imbarazzo
+- In sua compagnia mi capita di sentirmi a disagio e ho la sensazione di dover stare attenta a ciò che dico o a ciò che faccio, come se dovessi “camminare sulle uova”
+- In sua compagnia non mi sento a mio agio e al sicuro
+- Sento disagio o non voglio fare qualcosa ma lo nascondo per paura che si arrabbi
+
+**Rationale:**
+These items capture the **subjective experience of fear** ("paura," "disagio") and **behavioral adaptation** ("camminare sulle uova"). The **metaphorical language** ("uova") conveys **fragility and constant vigilance**, a core feature of **traumatic bonding** (Dutton & Painter, 1981).
+
+---
+### **8. Social Alarm & External Validation**
+*(Concerns expressed by outsiders, signaling the visibility of abuse)*
+**Items:**
+- Le mie amiche o la mia famiglia sono preoccupate per me
+- I miei amici/amiche mi hanno fatto notare che non piace loro come si comporta con me
+- Non sento che possiamo confrontarci e anche litigare senza farci male
+
+**Rationale:**
+These items introduce **third-party perspectives** ("amiche/famiglia preoccupate"), which serve as **external validation of the abuse**. The contrast between the victim’s **internalized doubt** and others’ **observed concern** highlights the **social embeddedness of abuse recognition** (Follingstad et al., 1990).
+
+---
+### **9. Volatile Affect & Unpredictability**
+*(Rapid, extreme shifts in mood or behavior that destabilize the victim)*
+**Items:**
+- Ha forti oscillazioni d'umore, il minuto prima si arrabbia e mi urla contro e quello successivo è dolce e si scusa
+- Quando faccio qualcosa che a lui non va bene poi non mi parla per giorni
+
+**Rationale:**
+The **temporal markers** ("minuto prima," "per giorni") and **contrasting affective states** ("urla" vs. "dolce") illustrate **emotional whiplash**, a tactic to **disorient the victim** and **reinforce dependency** (Jacobson & Gottman, 1998).
+
+---
+### **10. Positive Outlier (Healthy Relational Dynamic)**
+*(The sole item reflecting trust and safety—likely included as a foil or contrast)*
+**Item:**
+- Sento di potergli parlare di qualsiasi cosa
+
+**Rationale:**
+This item **stands in stark contrast** to the others, using **affirmative language** ("posso parlare") to denote **security and openness**. Its inclusion may serve to **highlight the absence of healthy dynamics** in the rest of the list.
+
+---
+### **Key Observations:**
+1. **Overlap with Abuse Typologies**: The dimensions align with established frameworks (e.g., **Power & Control Wheel** by Domestic Abuse Intervention Programs).
+2. **Linguistic Patterns**:
+   - **Abuser agency**: Heavy use of **transitive verbs** ("mi impedisce," "controlla") emphasizing the abuser’s **active role**.
+   - **Victim passivity**: Frequent **passive constructions** ("mi sento controllata") reflecting **disempowerment**.
+3. **Cultural Nuance**: Some items (e.g., "prove d'amore") may reflect **culturally specific expectations** around romance and possession.
+
+This analysis could inform **clinical assessments**, **abuse screening tools**, or **psycholinguistic studies** on how language encodes power dynamics. Would you like to explore any dimension in greater depth?

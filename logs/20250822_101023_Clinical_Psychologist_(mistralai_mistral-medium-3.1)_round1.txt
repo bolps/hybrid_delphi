@@ -1,0 +1,125 @@
+### Clinical Psychologist (mistralai/mistral-medium-3.1)
+Below is a clinically informed grouping of the items into latent dimensions, reflecting **coercive control, psychological abuse, physical/sexual abuse, financial abuse, emotional manipulation, isolation, and relational insecurity**. These dimensions align with established constructs in relational trauma, intimate partner violence (IPV), and affective disorders (e.g., DSM-5-TR, ICD-11, and the **Power and Control Wheel** from domestic violence research).
+
+---
+
+### **1. Coercive Control & Dominance**
+*(Systematic patterns of domination to restrict autonomy, freedom, and agency)*
+- Cerca di controllare ciò che faccio e con chi mi vedo
+- Mi sento controllata, ho la sensazione che non si fidi di me e che voglia sapere sempre dove sono e con chi, me lo chiede continuamente
+- Non capisce che ho bisogno anche di miei spazi personali e non comprende che ci sono momenti in cui mi piace stare da sola o con persone diverse da lui
+- Diventa estremamente geloso o possessivo
+- Pretende prove d'amore e dimostrazioni di fedeltà nei suoi confronti
+- Mi fa sentire spesso sbagliata e mi dice che è colpa mia se sta male
+- Non mi fa sentire libera di fare le mie scelte su come gestire il mio tempo
+- Non mi fa sentire libera di vestirmi come voglio
+- Mi chiede insistentemente di fare sesso e non accetta quando dico di no o che non mi va
+- Sento che mi manda troppi messaggi o mi chiama in modo insistente
+
+**Rationale**:
+These items reflect **behavioral control, monitoring, and entitlement**—core features of coercive control (Stark, 2007). The partner enforces rules, restricts independence, and demands compliance, creating a power imbalance. The inclusion of sexual coercion and digital monitoring aligns with modern IPV research (e.g., **technology-facilitated abuse**).
+
+---
+
+### **2. Psychological Abuse & Degradation**
+*(Verbal/nonverbal behaviors that undermine self-worth, induce shame, or distort reality)*
+- Mi butta giù di morale, mi insulta o mi critica
+- Non mi fa sentire bene quando parla di come mi prendo cura di me stessa e del mio aspetto fisico
+- Mi dice che non valgo niente e che resterei sola se non stessi con lui perché nessuno mi vorrebbe
+- Urla o mi umilia di fronte ad altre persone
+- Mi accusa di flirtare o di tradirlo
+- Mi fa sentire spesso sbagliata e mi dice che è colpa mia se sta male
+- Mi sento giudicata rispetto alle cose che faccio e a come organizzo la mia vita
+- Non mi vuole bene per quella che sono e non rispetta le mie scelte
+- Dopo che mi ha aggredito (fisicamente o verbalmente) nega di averlo fatto e mi fa dubitare che sia realmente successo (*gaslighting*)
+
+**Rationale**:
+These items map onto **psychological aggression** (CDC’s IPV definitions) and **narcissistic abuse**, including **devaluation, gaslighting, and triangulation** (e.g., humiliating in front of others). The goal is to erode self-esteem and create dependency.
+
+---
+
+### **3. Physical & Sexual Abuse**
+*(Direct or threatened harm to body, sexuality, or physical safety)*
+- Mi afferra per i capelli, mi strattona, mi mette le mani al collo, tenta di soffocarmi, mi dà dei pugni, mi schiaffeggia, mi getta addosso degli oggetti o mi fa male in qualche modo
+- Ha mostrato mie immagini intime ad altre persone senza il mio consenso
+- Minaccia di fare del male a me, ai miei amici/amiche o alla mia famiglia
+- Minaccia di mostrare ai miei amici o ai miei familiari mie immagini intime (*revenge porn threats*)
+- Rompe e lancia oggetti per intimidirmi
+- Minaccia di distruggere le mie cose (telefono, vestiti, computer, auto, ecc.)
+- Provo paura vicino a lui, non mi sento al sicuro
+
+**Rationale**:
+These items reflect **physical violence, sexual coercion, and intimidation**—explicit criteria for IPV in DSM-5 (e.g., **Z91.410, Personal history of physical abuse**). The inclusion of **image-based abuse** aligns with digital-era IPV tactics.
+
+---
+
+### **4. Financial Abuse**
+*(Control over economic resources to limit autonomy and trap the victim)*
+- Mi impedisce cercare un lavoro per essere indipendente
+- Controlla come spendo i miei soldi
+- Mi viene chiesto di giustificare ogni acquisto che faccio
+- Mi impedisce di avere accesso al conto corrente o alle mie risorse economiche
+
+**Rationale**:
+Financial abuse is a **tactical form of coercive control** (Adams et al., 2008) that creates dependency. It’s strongly associated with inability to leave abusive relationships.
+
+---
+
+### **5. Social Isolation**
+*(Systematic erosion of support networks to increase dependence on the abuser)*
+- Mi chiede di non vedere i miei amici/amiche
+- Non vuole che io veda la mia famiglia, i miei amici/amiche
+- Parla male delle mie amici/amiche e dice che sono dei/delle “poco di buono”
+- Dice che sono impegnata in troppe cose e che lo trascuro, vorrebbe che passassimo la maggior parte del tempo insieme
+
+**Rationale**:
+Isolation is a **predictor of severe IPV** (Johnson & Leone, 2005). The abuser undermines external relationships to monopolize the victim’s social world, increasing vulnerability.
+
+---
+
+### **6. Emotional Manipulation & Unpredictability**
+*(Erratic behaviors that create confusion, fear, or self-doubt)*
+- Ha forti oscillazioni d'umore, il minuto prima si arrabbia e mi urla contro e quello successivo è dolce e si scusa (*intermittent reinforcement*)
+- Minaccia di farsi del male a causa mia (*emotional blackmail*)
+- Quando faccio qualcosa che a lui non va bene poi non mi parla per giorni (*silent treatment*)
+- Mi dice che, se lo lasciassi, rivelerebbe ad altri dei miei segreti o delle cose molto personali che sa di me (*extortion*)
+
+**Rationale**:
+These tactics **exploit attachment bonds** (e.g., **trauma bonding**) and create a **fear-of-abandonment cycle**. The unpredictability mirrors **Borderline IPV dynamics** (Dutton, 2007).
+
+---
+### **7. Relational Insecurity & Lack of Safety**
+*(Perceived absence of trust, safety, or mutual respect in the relationship)*
+- In sua compagnia mi capita di sentirmi a disagio e ho la sensazione di dover stare attenta a ciò che dico o a ciò che faccio, come se dovessi “camminare sulle uova”
+- In sua compagnia non mi sento a mio agio e al sicuro
+- Ho paura di vederlo perché so che potrebbe avere comportamenti che mi possono fare stare male o sentire in imbarazzo
+- Non sento di avere il suo sostegno nelle cose che faccio
+- Non mi sento ascoltata
+- Non mi incoraggia a provare nuove cose
+- Non sento che possiamo confrontarci e anche litigare senza farci male
+
+**Rationale**:
+These items reflect **attachment insecurity** (e.g., **anxious-preoccupied or fearful-avoidant attachment**) and **relational trauma**. The absence of **emotional safety** (Bowlby, 1988) is a hallmark of abusive dynamics.
+
+---
+### **8. External Validation of Abuse**
+*(Observations from third parties that confirm the unhealthy nature of the relationship)*
+- Le mie amiche o la mia famiglia sono preoccupate per me
+- I miei amici/amiche mi hanno fatto notare che non piace loro come si comporta con me
+
+**Rationale**:
+External validation is critical in **breaking denial** (e.g., **Stockholm Syndrome**) and recognizing abuse. These items serve as **reality checks** against the abuser’s distortion.
+
+---
+### **Key Clinical Observations**:
+1. **Overlap with PTSD/C-PTSD**: Many items (e.g., hypervigilance, gaslighting, emotional flashbacks) align with **complex trauma** symptoms (Herman, 1992).
+2. **Cycle of Abuse**: The dimensions reflect the **tension-building, acute incident, and honeymoon phases** (Walker, 1979).
+3. **Cultural Considerations**: Some items (e.g., family involvement, financial control) may be more pronounced in **collectivist cultures** where familial and economic ties are central.
+4. **Differential Diagnosis**: Rule out **Borderline Personality Disorder (BPD) in the abuser** (if oscillations are extreme) or **victim’s depressive/anxiety disorders** (e.g., **Learned Helplessness**).
+
+---
+### **Suggested Assessment Tools**:
+- **Conflict Tactics Scale (CTS-2)** for physical/psychological abuse.
+- **Power and Control Wheel** (Duluth Model) for coercive control.
+- **Trauma Symptom Inventory (TSI-2)** for complex PTSD.
+- **Walker’s “Cycle of Abuse” interview** for temporal patterns.

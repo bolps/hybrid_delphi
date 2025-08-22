@@ -1,0 +1,133 @@
+### Psychometrician (mistralai/mistral-medium-3.1)
+These items describe a range of **abusive, controlling, and manipulative behaviors** in an intimate relationship, reflecting multiple dimensions of psychological, emotional, physical, and financial abuse, as well as coercive control. Below is a psychometrically coherent factor structure, grouping items into **non-overlapping latent dimensions** based on their thematic and functional similarity.
+
+---
+
+### **1. Emotional Abuse & Degradation**
+*(Systematic undermining of self-worth, humiliation, and verbal aggression)*
+- Mi dice che non valgo niente e che resterei sola se non stessi con lui perché nessuno mi vorrebbe
+- Mi butta giù di morale, mi insulta o mi critica
+- Mi fa sentire spesso sbagliata e mi dice che è colpa mia se sta male
+- Mi sento giudicata rispetto alle cose che faccio e a come organizzo la mia vita
+- Non mi vuole bene per quella che sono e non rispetta le mie scelte
+- Urla o mi umilia di fronte ad altre persone
+- Non mi fa sentire bene quando parla di come mi prendo cura di me stessa e del mio aspetto fisico
+
+**Rationale**:
+These items reflect **verbal/emotional degradation**, including **insults, criticism, shaming, and invalidation**—core tactics to erode self-esteem and foster dependence.
+
+---
+
+### **2. Coercive Control & Isolation**
+*(Restricting autonomy, monitoring behavior, and cutting off support networks)*
+- Mi impedisce di avere accesso al conto corrente o alle mie risorse economiche
+- Controlla come spendo i miei soldi
+- Mi chiede di giustificare ogni acquisto che faccio
+- Non mi fa sentire libera di fare le mie scelte su come gestire il mio tempo
+- Non mi sento libera di vestirmi come voglio
+- Mi impedisce cercare un lavoro per essere indipendente
+- Non vuole che io veda la mia famiglia, i miei amici/amiche
+- Mi chiede di non vedere i miei amici/amiche
+- Dice che sono impegnata in troppe cose e che lo trascuro, vorrebbe che passassimo la maggior parte del tempo insieme
+- Cerca di controllare ciò che faccio e con chi mi vedo
+- Mi sento controllata, ho la sensazione che non si fidi di me e che voglia sapere sempre dove sono e con chi, me lo chiede continuamente
+
+**Rationale**:
+This dimension captures **behavioral control**—**financial abuse, social isolation, and micromanagement of daily life**—key to coercive control dynamics.
+
+---
+
+### **3. Intimidation & Threats**
+*(Explicit or implied threats to safety, reputation, or stability)*
+- Minaccia di fare del male a me, ai miei amici/amiche o alla mia famiglia
+- Minaccia di distruggere le mie cose (telefono, vestiti, computer, auto, ecc.)
+- Minaccia di mostrare ai miei amici o ai miei familiari mie immagini intime
+- Mi dice che, se lo lasciassi, rivelerebbe ad altri dei miei segreti o delle cose molto personali che sa di me
+- Minaccia di farsi del male a causa mia
+- Rompe e lancia oggetti per intimidirmi
+
+**Rationale**:
+These items involve **direct threats** (physical, reputational, or self-harm) used to **instill fear and compliance**.
+
+---
+
+### **4. Physical & Sexual Violence**
+*(Explicit physical aggression and sexual coercion)*
+- Mi afferra per i capelli, mi strattona, mi mette le mani al collo, tenta di soffocarmi, mi dà dei pugni, mi schiaffeggia, mi getta addosso degli oggetti o mi fa male in qualche modo
+- Mi chiede insistentemente di fare sesso e non accetta quando dico di no o che non mi va
+- Ha mostrato mie immagini intime ad altre persone senza il mio consenso
+
+**Rationale**:
+This dimension includes **overt physical violence** and **sexual coercion**, distinct from psychological tactics due to their **explicit bodily harm**.
+
+---
+
+### **5. Gaslighting & Reality Distortion**
+*(Manipulating perception to create doubt about one’s memory or sanity)*
+- Dopo che mi ha aggredito (fisicamente o verbalmente) nega di averlo fatto e mi fa dubitare che sia realmente successo
+- Ha forti oscillazioni d'umore, il minuto prima si arrabbia e mi urla contro e quello successivo è dolce e si scusa
+
+**Rationale**:
+These items reflect **gaslighting**—**denying abuse, shifting blame, and creating cognitive dissonance** to destabilize the victim’s reality.
+
+---
+### **6. Psychological Manipulation & Guilt-Induction**
+*(Using guilt, possessiveness, or emotional blackmail to control behavior)*
+- Diventa estremamente geloso o possessivo
+- Pretende prove d'amore e dimostrazioni di fedeltà nei suoi confronti
+- Mi accusa di flirtare o di tradirlo
+- Quando faccio qualcosa che a lui non va bene poi non mi parla per giorni
+- Parla male delle mie amici/amiche e dice che sono dei/delle “poco di buono”
+
+**Rationale**:
+This dimension involves **emotional blackmail, jealousy, and silent treatment**—**indirect control tactics** that exploit guilt or fear of abandonment.
+
+---
+### **7. Emotional Neglect & Lack of Support**
+*(Withholding emotional validation, support, or communication)*
+- Non sento di potergli parlare di qualsiasi cosa
+- Non sento che possiamo confrontarci e anche litigare senza farci male
+- Non sento di avere il suo sostegno nelle cose che faccio
+- Non si mostra interessato quando ho qualcosa che voglio condividere
+- Non mi sento ascoltata
+- Non capisce che ho bisogno anche di miei spazi personali e non comprende che ci sono momenti in cui mi piace stare da sola o con persone diverse da lui
+- Non mi incoraggia a provare nuove cose
+
+**Rationale**:
+These items reflect **passive-aggressive neglect**—**withholding emotional labor, support, or respect for boundaries**, creating emotional deprivation.
+
+---
+### **8. Fear & Hypervigilance**
+*(Chronic anxiety, walk-on-eggshells dynamic, and perceived danger)*
+- Provo paura vicino a lui, non mi sento al sicuro
+- In sua compagnia mi capita di sentirmi a disagio e ho la sensazione di dover stare attenta a ciò che dico o a ciò che faccio, come se dovessi “camminare sulle uova” per evitare sue reazioni negative
+- In sua compagnia non mi sento a mio agio e al sicuro
+- Ho paura di vederlo perché so che potrebbe avere comportamenti che mi possono fare stare male o sentire in imbarazzo
+- Sento disagio o non voglio fare qualcosa ma lo nascondo per paura che si arrabbi
+
+**Rationale**:
+This dimension captures the **subjective experience of fear and hypervigilance**—the **emotional consequence** of abuse, distinct from the abusive behaviors themselves.
+
+---
+### **9. Social Alienation & External Validation**
+*(Others’ reactions to the relationship, signaling concern or disapproval)*
+- I miei amici/amiche mi hanno fatto notare che non piace loro come si comporta con me
+- Le mie amiche o la mia famiglia sono preoccupate per me
+- Sento che mi manda troppi messaggi o mi chiama in modo insistente *(Note: Could also fit in Coercive Control, but here it reflects **others noticing** the behavior)*
+
+**Rationale**:
+These items reflect **third-party observations of abuse**, serving as **external validation** of the victim’s experience.
+
+---
+### **Key Psychometric Considerations:**
+1. **No Overlap**: Each item loads onto **one primary dimension** (e.g., threats are separate from emotional abuse).
+2. **Homogeneous Factors**: Dimensions are **thematically tight** (e.g., "Fear & Hypervigilance" doesn’t mix with "Gaslighting").
+3. **Hierarchical Structure**: Some dimensions may be **subfacets of broader constructs** (e.g., Coercive Control could nest under "Power & Dominance").
+4. **Victim vs. Perpetrator Perspective**: Items like *"Le mie amiche sono preoccupate"* (social validation) differ from *"Mi controlla"* (perpetrator behavior).
+
+---
+### **Suggested Scale Name:**
+**"Multidimensional Abuse and Coercive Control Inventory (MACCI)"**
+*(Captures psychological, physical, sexual, financial, and social dimensions of intimate partner abuse.)*
+
+Would you like any refinements (e.g., collapsing factors, adding cross-loadings)?

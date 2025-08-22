@@ -1,0 +1,106 @@
+### Psychometrician (qwen/qwen3-235b-a22b-2507)
+The list of items describes experiences in an intimate relationship characterized by control, emotional manipulation, intimidation, and abuse. Using psychometric logic—focusing on content similarity, underlying constructs, and minimizing overlap—I identify **six distinct latent dimensions** that capture the core psychological themes. These dimensions reflect patterns commonly observed in research on intimate partner violence and coercive control.
+
+---
+
+### **1. Emotional Abuse and Degradation**  
+**Items:**  
+- Mi butta giù di morale, mi insulta o mi critica  
+- Non mi fa sentire bene quando parla di come mi prendo cura di me stessa e del mio aspetto fisico  
+- Mi dice che non valgo niente e che resterei sola se non stessi con lui perché nessuno mi vorrebbe  
+- Mi fa sentire spesso sbagliata e mi dice che è colpa mia se sta male  
+- Urla o mi umilia di fronte ad altre persone  
+- Parla male delle mie amiche/amiche e dice che sono dei/delle “poco di buono”  
+
+**Rationale:**  
+This dimension captures direct attacks on self-worth and identity. These behaviors are designed to erode self-esteem, induce shame, and create emotional dependence. The focus is on verbal degradation, public humiliation, and personal devaluation—hallmarks of emotional abuse.
+
+---
+
+### **2. Coercive Control and Monitoring**  
+**Items:**  
+- Mi chiede di non vedere i miei amici/amiche  
+- Cerca di controllare ciò che faccio e con chi mi vedo  
+- Non vuole che io veda la mia famiglia, i miei amici/amiche  
+- Non mi sento libera di vestirmi come voglio  
+- Non mi fa sentire libera di fare le mie scelte su come gestire il mio tempo  
+- Sento che mi manda troppi messaggi o mi chiama in modo insistente  
+- Mi sento controllata, ho la sensazione che non si fidi di me e che voglia sapere sempre dove sono e con chi, me lo chiede continuamente  
+- In sua compagnia mi capita di sentirmi a disagio e ho la sensazione di dover stare attenta a ciò che dico o a ciò che faccio, come se dovessi “camminare sulle uova” per evitare sue reazioni negative  
+
+**Rationale:**  
+This dimension reflects pervasive surveillance and restriction of autonomy. It includes behavioral monitoring, isolation attempts, and the creation of hypervigilance ("walking on eggshells"). These are central features of coercive control, where freedom of movement and personal agency are systematically undermined.
+
+---
+
+### **3. Economic Abuse**  
+**Items:**  
+- Mi impedisce di avere accesso al conto corrente o alle mie risorse economiche  
+- Mi viene chiesto di giustificare ogni acquisto che faccio  
+- Controlla come spendo i miei soldi  
+- Mi impedisce cercare un lavoro per essere indipendente  
+
+**Rationale:**  
+This dimension centers on financial domination and restriction. Economic abuse is a strategic tool to create dependence by limiting access to money, employment, and financial decision-making. These items are distinct in content and mechanism from emotional or physical abuse but serve the same goal: control.
+
+---
+
+### **4. Isolation and Social Restriction**  
+**Items:**  
+- Non capisce che ho bisogno anche di miei spazi personali e non comprende che ci sono momenti in cui mi piace stare da sola o con persone diverse da lui (amici/amiche, familiari ecc.)  
+- Dice che sono impegnata in troppe cose e che lo trascuro, vorrebbe che passassimo la maggior parte del tempo insieme  
+- I miei amici/amiche mi hanno fatto notare che non piace loro come si comporta con me  
+- Le mie amiche o la mia famiglia sono preoccupate per me  
+
+**Rationale:**  
+While related to control, this dimension specifically captures the severing of social ties and the pressure to prioritize the partner over all other relationships. It includes both behavioral isolation and the social feedback from others who observe the relationship dynamics. It emphasizes the *relational* consequences of the partner’s behavior.
+
+---
+
+### **5. Intimidation, Threats, and Fear Induction**  
+**Items:**  
+- Provo paura vicino a lui, non mi sento al sicuro  
+- Rompe e lancia oggetti per intimidirmi  
+- Minaccia di distruggere le mie cose (telefono, vestiti, computer, auto, ecc.)  
+- Minaccia di farsi del male a causa mia  
+- Minaccia di fare del male a me, ai miei amici/amiche o alla mia famiglia  
+- Minaccia di mostrare ai miei amici o ai miei familiari mie immagini intime  
+- Mi dice che, se lo lasciassi, rivelerebbe ad altri dei miei segreti o delle cose molto personali che sa di me  
+- Ho paura di vederlo perché so che potrebbe avere comportamenti che mi possono fare stare male o sentire in imbarazzo  
+
+**Rationale:**  
+This dimension involves explicit or implicit threats used to instill fear and maintain compliance. It includes threats of self-harm, harm to others, property destruction, and reputational damage (e.g., revenge porn). These items reflect a climate of fear and psychological intimidation, distinct from direct physical violence.
+
+---
+
+### **6. Physical and Sexual Violence**  
+**Items:**  
+- Mi afferra per i capelli, mi strattona, mi mette le mani al collo, tenta di soffocarmi, mi dà dei pugni, mi schiaffeggia, mi getta addosso degli oggetti o mi fa male in qualche modo  
+- Mi chiede insistentemente di fare sesso e non accetta quando dico di no o che non mi va  
+- Ha mostrato mie immagini intime ad altre persone senza il mio consenso  
+- Dopo che mi ha aggredito (fisicamente o verbalmente) nega di averlo fatto e mi fa dubitare che sia realmente successo  
+
+**Rationale:**  
+This dimension includes overt physical assault, sexual coercion, non-consensual image sharing (a form of sexual violence), and *gaslighting* after abuse. These are the most severe manifestations of abuse, involving bodily harm, violation of sexual autonomy, and denial of reality. The inclusion of gaslighting here is justified as it follows violent acts and serves to undermine the victim’s perception of physical/sexual abuse.
+
+---
+
+### **Notes on Structure and Overlaps**  
+- **Minimal overlap**: Each item fits clearly within one dimension based on behavioral domain (e.g., financial, sexual, emotional).  
+- **Gaslighting** is placed in Dimension 6 because it follows physical/verbal aggression and serves to deny concrete events, rather than general emotional manipulation.  
+- **Jealousy and mood swings** (e.g., "Diventa estremamente geloso", "Ha forti oscillazioni d'umore") were not assigned to a separate factor because they *underlie* multiple dimensions (e.g., control, intimidation) but are not behaviors themselves—rather, they are affective correlates.  
+- **Lack of support or interest** (e.g., "Non si mostra interessato", "Non mi incoraggia") are not grouped separately because they are better understood as *absence of positive behaviors* rather than active abuse. They are implied in broader control/degradation dynamics but not sufficient for a standalone latent factor.
+
+---
+
+### **Final Latent Dimensions Summary**  
+| Label | Core Construct |
+|------|----------------|
+| 1. Emotional Abuse and Degradation | Attacks on self-worth and identity |
+| 2. Coercive Control and Monitoring | Surveillance and restriction of autonomy |
+| 3. Economic Abuse | Financial domination and restriction |
+| 4. Isolation and Social Restriction | Severing of social ties and relationships |
+| 5. Intimidation, Threats, and Fear Induction | Use of threats to induce compliance |
+| 6. Physical and Sexual Violence | Bodily harm, sexual coercion, and image-based abuse |
+
+These dimensions align with established models of intimate partner violence (e.g., the Power and Control Wheel) and are psychometrically sound—distinct, internally coherent, and behaviorally grounded.

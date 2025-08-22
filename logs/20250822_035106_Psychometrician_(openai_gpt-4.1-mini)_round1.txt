@@ -1,0 +1,115 @@
+### Psychometrician (openai/gpt-4.1-mini)
+Here is a coherent factor structure with clearly labeled latent dimensions based on psychometric logic, grouping items by thematic content and underlying psychological constructs related to abusive or controlling relationship dynamics:
+
+---
+
+### 1. **Emotional Abuse and Psychological Manipulation**  
+**Items:**  
+- Mi fa sentire spesso sbagliata e mi dice che è colpa mia se sta male  
+- Mi butta giù di morale, mi insulta o mi critica  
+- Mi dice che non valgo niente e che resterei sola se non stessi con lui perché nessuno mi vorrebbe  
+- Urla o mi umilia di fronte ad altre persone  
+- Mi sento giudicata rispetto alle cose che faccio e a come organizzo la mia vita  
+- Non mi vuole bene per quella che sono e non rispetta le mie scelte  
+- Dopo che mi ha aggredito (fisicamente o verbalmente) nega di averlo fatto e mi fa dubitare che sia realmente successo.  
+- Non mi sento ascoltata  
+- Non si mostra interessato quando ho qualcosa che voglio condividere  
+- Non mi incoraggia a provare nuove cose  
+- Non sento che possiamo confrontarci e anche litigare senza farci male  
+
+**Rationale:**  
+This dimension captures verbal insults, blame, humiliation, gaslighting, and emotional invalidation that undermine the victim’s self-esteem and sense of reality.
+
+---
+
+### 2. **Control and Isolation**  
+**Items:**  
+- Mi sento controllata, ho la sensazione che non si fidi di me e che voglia sapere sempre dove sono e con chi, me lo chiede continuamente  
+- Mi fa sentire spesso sbagliata e mi dice che è colpa mia se sta male  
+- Mi viene chiesto di giustificare ogni acquisto che faccio  
+- Controlla come spendo i miei soldi  
+- Mi impedisce di avere accesso al conto corrente o alle mie risorse economiche  
+- Mi chiede di non vedere i miei amici/amiche  
+- Non vuole che io veda la mia famiglia, i miei amici/amiche  
+- Parla male delle mie amici/amiche e dice che sono dei/delle “poco di buono”  
+- I miei amici/amiche mi hanno fatto notare che non piace loro come si comporta con me  
+- Mi dice che, se lo lasciassi, rivelerebbe ad altri dei miei segreti o delle cose molto personali che sa di me  
+- Cerca di controllare ciò che faccio e con chi mi vedo  
+- Pretende prove d'amore e dimostrazioni di fedeltà nei suoi confronti  
+- Dice che sono impegnata in troppe cose e che lo trascuro, vorrebbe che passassimo la maggior parte del tempo insieme  
+- Non mi fa sentire libera di fare le mie scelte su come gestire il mio tempo  
+- Non capisce che ho bisogno anche di miei spazi personali e non comprende che ci sono momenti in cui mi piace stare da sola o con persone diverse da lui (amici/amiche, familiari ecc.)  
+- Non mi sento libera di vestirmi come voglio  
+- Mi impedisce cercare un lavoro per essere indipendente  
+
+**Rationale:**  
+This dimension groups items reflecting controlling behaviors aimed at isolating the victim socially, restricting autonomy and independence, and monitoring or limiting personal freedom.
+
+---
+
+### 3. **Physical and Threatening Violence**  
+**Items:**  
+- Mi afferra per i capelli, mi strattona, mi mette le mani al collo, tenta di soffocarmi, mi dà dei pugni, mi schiaffeggia, mi getta addosso degli oggetti o mi fa male in qualche modo  
+- Rompe e lancia oggetti per intimidirmi  
+- Minaccia di farsi del male a causa mia  
+- Minaccia di distruggere le mie cose (telefono, vestiti, computer, auto, ecc.)  
+- Minaccia di mostrare ai miei amici o ai miei familiari mie immagini intime  
+- Minaccia di fare del male a me, ai miei amici/amiche o alla mia famiglia  
+- Ha forti oscillazioni d'umore, il minuto prima si arrabbia e mi urla contro e quello successivo è dolce e si scusa  
+- Sento disagio o non voglio fare qualcosa ma lo nascondo per paura che si arrabbi  
+- Ho paura di vederlo perché so che potrebbe avere comportamenti che mi possono fare stare male o sentire in imbarazzo  
+- In sua compagnia non mi sento a mio agio e al sicuro  
+- Provo paura vicino a lui, non mi sento al sicuro  
+
+**Rationale:**  
+This dimension includes direct physical aggression, intimidation via threats or destruction of property, and fear-inducing behaviors signaling danger and physical harm.
+
+---
+
+### 4. **Sexual Coercion and Exploitation**  
+**Items:**  
+- Mi chiede insistentemente di fare sesso e non accetta quando dico di no o che non mi va  
+- Ha mostrato mie immagini intime ad altre persone senza il mio consenso  
+- Minaccia di mostrare ai miei amici o ai miei familiari mie immagini intime  
+
+**Rationale:**  
+This dimension captures sexual pressure, coercion, and violation of privacy through non-consensual sharing of intimate images, reflecting sexual abuse and exploitation.
+
+---
+
+### 5. **Jealousy and Possessiveness**  
+**Items:**  
+- Diventa estremamente geloso o possessivo  
+- Mi accusa di flirtare o di tradirlo  
+- Quando faccio qualcosa che a lui non va bene poi non mi parla per giorni  
+
+**Rationale:**  
+This dimension reflects problematic jealousy, possessiveness, and punitive withdrawal of affection as forms of emotional control.
+
+---
+
+### 6. **Lack of Support and Emotional Neglect**  
+**Items:**  
+- Non sento di avere il suo sostegno nelle cose che faccio  
+- Sento di potergli parlare di qualsiasi cosa (reverse-coded, indicating lack of openness)  
+- Non mi fa sentire bene quando parla di come mi prendo cura di me stessa e del mio aspetto fisico  
+
+**Rationale:**  
+This dimension reflects emotional neglect, absence of supportive communication, and critical attitudes toward the victim’s self-care and expression.
+
+---
+
+### Summary:
+
+| Dimension                         | Key Themes                              | Representative Items Count |
+|----------------------------------|---------------------------------------|----------------------------|
+| 1. Emotional Abuse and Manipulation | Verbal insults, blame, humiliation, gaslighting | 10                         |
+| 2. Control and Isolation          | Monitoring, restricting freedom, social isolation | 17                         |
+| 3. Physical and Threatening Violence | Physical aggression, threats, intimidation | 11                         |
+| 4. Sexual Coercion and Exploitation | Sexual pressure, non-consensual image sharing | 3                          |
+| 5. Jealousy and Possessiveness    | Extreme jealousy, accusations, silent treatment | 3                          |
+| 6. Lack of Support and Emotional Neglect | Emotional neglect, lack of support, criticism | 3                          |
+
+---
+
+This structure respects psychometric principles: items cluster by coherent thematic content without overlap, dimensions reflect distinct underlying latent constructs relevant to abusive relational dynamics.

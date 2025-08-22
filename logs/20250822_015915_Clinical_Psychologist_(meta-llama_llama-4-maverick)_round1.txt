@@ -1,0 +1,49 @@
+### Clinical Psychologist (meta-llama/llama-4-maverick)
+After analyzing the given list of psychological items, I identified four latent dimensions underlying the list. Here are the dimensions, along with the corresponding items, labels, and a brief rationale for each:
+
+**Dimension 1: Emotional Abuse and Manipulation**
+
+* Mi fa sentire spesso sbagliata e mi dice che è colpa mia se sta male
+* Mi butta giù di morale, mi insulta o mi critica
+* Mi dice che non valgo niente e che resterei sola se non stessi con lui perché nessuno mi vorrebbe
+* Non mi fa sentire bene quando parla di come mi prendo cura di me stessa e del mio aspetto fisico
+* Non sento che possiamo confrontarci e anche litigare senza farci male
+
+Rationale: These items reflect a pattern of emotional abuse and manipulation, where the individual is subjected to negative self-image, self-doubt, and criticism. The perpetrator uses guilt, blame, and put-downs to control the victim's emotions and behavior.
+
+**Dimension 2: Controlling and Possessive Behavior**
+
+* Sento che mi manda troppi messaggi o mi chiama in modo insistente
+* Mi viene chiesto di giustificare ogni acquisto che faccio
+* Pretende prove d'amore e dimostrazioni di fedeltà nei suoi confronti
+* Mi sento controllata, ho la sensazione che non si fidi di me e che voglia sapere sempre dove sono e con chi, me lo chiede continuamente
+* Cerca di controllare ciò che faccio e con chi mi vedo
+* Non mi fa sentire libera di fare le mie scelte su come gestire il mio tempo
+* Controlla come spendo i miei soldi
+* Mi impedisce di avere accesso al conto corrente o alle mie risorse economiche
+
+Rationale: These items indicate a pattern of controlling and possessive behavior, where the perpetrator seeks to dominate and restrict the victim's autonomy, freedom, and decision-making.
+
+**Dimension 3: Physical and Verbal Aggression**
+
+* Ha forti oscillazioni d'umore, il minuto prima si arrabbia e mi urla contro e quello successivo è dolce e si scusa
+* Minaccia di distruggere le mie cose (telefono, vestiti, computer, auto, ecc.)
+* Rompe e lancia oggetti per intimidirmi
+* Mi afferra per i capelli, mi strattona, mi mette le mani al collo, tenta di soffocarmi, mi dà dei pugni, mi schiaffeggia, mi getta addosso degli oggetti o mi fa male in qualche modo
+* Urla o mi umilia di fronte ad altre persone
+
+Rationale: These items reflect a pattern of physical and verbal aggression, where the perpetrator uses violence, intimidation, and humiliation to exert power and control over the victim.
+
+**Dimension 4: Isolation and Coercion**
+
+* Non vuole che io veda la mia famiglia, i miei amici/amiche
+* Mi chiede di non vedere i miei amici/amiche
+* Parla male delle mie amici/amiche e dice che sono dei/delle “poco di buono”
+* Minaccia di mostrare ai miei amici o ai miei familiari mie immagini intime
+* Ha mostrato mie immagini intime ad altre persone senza il mio consenso
+* Mi dice che, se lo lasciassi, rivelerebbe ad altri dei miei segreti o delle cose molto personali che sa di me
+* Mi impedisce cercare un lavoro per essere indipendente
+
+Rationale: These items indicate a pattern of isolation and coercion, where the perpetrator seeks to isolate the victim from social support networks, restrict their autonomy, and use coercive tactics to maintain control.
+
+These dimensions are not mutually exclusive, and there may be some overlap between them. However, they provide a clear and coherent framework for understanding the underlying patterns of behavior and experiences reflected in the given list of psychological items.

@@ -1,0 +1,148 @@
+### Psycholinguist (openai/gpt-oss-120b) - Round 2
+**Revisione delle dimensioni latenti a partire dal “sintesi Delphi”**
+
+Di seguito trovi la versione aggiornata delle 9 dimensioni latenti che raggruppano i 48 item originari. Ho mantenuto intatti gli item (nessuno è stato diviso o aggiunto) ma ho riorganizzato le etichette e le descrizioni in modo da:
+
+* Allineare le nostre categorie a quelle riconosciute nella sintesi Delphi, dove possibile;  
+* Mantenere i costrutti che la sintesi non copre (es. abuso economico, minacce, feedback sociale);  
+* Unire le dimensioni che nella sintesi sono trattate con un unico label (es. “Controlling Behavior” + “Jealousy”).  
+
+---
+
+## Dimensione 1 – **Supporto emotivo e intimità (Emotional Support & Intimacy)**  
+**Etichetta:** *Aspetti positivi / supporto relazionale*  
+**Item**  
+
+1. *Sento che possiamo confrontarci e anche litigare senza farci male*  
+2. *Sento il suo sostegno nelle cose che faccio*  
+3. *Sento di potergli parlare di qualsiasi cosa*  
+4. *Mi vuole bene per quella che sono e rispetta le mie scelte*  
+5. *Capisce che ho bisogno anche di miei spazi personali e comprende che ci sono momenti in cui mi piace stare da sola o con persone diverse da lui (amici/amiche, familiari ecc.)*  
+6. *Mi incoraggia a provare nuove cose*  
+7. *Mi sento ascoltata e si mostra interessato quando ho qualcosa che voglio condividere*  
+8. *In sua compagnia mi sento a mio agio e al sicuro*  
+9. *Mi fa sentire libera di fare le mie scelte su come gestire il mio tempo*  
+
+**Razionale** – Questi item descrivono un clima di affetto, rispetto, ascolto e libertà personale, corrispondente al “Emotional Intimacy” della sintesi Delphi.
+
+---
+
+## Dimensione 2 – **Controllo, possessività e isolamento (Control, Possessiveness & Social Isolation)**  
+**Etichetta:** *Coercive control & jealousy*  
+**Item**  
+
+1. *Mi sento controllata, ho la sensazione che non si fidi di me e che voglia sapere sempre dove sono e con chi, me lo chiede continuamente*  
+2. *Mi chiede di non vedere i miei amici/amiche*  
+3. *Sento che mi manda troppi messaggi o mi chiama in modo insistente*  
+4. *Non mi sento libera di vestirmi come voglio*  
+5. *Cerca di controllare ciò che faccio e con chi mi vedo*  
+6. *Dice che sono impegnata in troppe cose e che lo trascuro, vorrebbe che passassimo la maggior parte del tempo insieme*  
+7. *Non vuole che io veda la mia famiglia, i miei amici/amiche*  
+8. *Diventa estremamente geloso o possessivo*  
+9. *Pretende prove d'amore e dimostrazioni di fedeltà nei suoi confronti*  
+10. *Mi accusa di flirtare o di tradirlo*  
+
+**Razionale** – La sintesi Delphi raggruppa “Controlling Behavior” e “Jealousy & Possessiveness”. Qui uniamo tutti gli item che indicano monitoraggio, restrizione di contatti e gelosia patologica, evidenziando il nucleo di coercive control.
+
+---
+
+## Dimensione 3 – **Abuso economico (Economic Abuse)**  
+**Etichetta:** *Economic abuse*  
+**Item**  
+
+1. *Mi impedisce di avere accesso al conto corrente o alle mie risorse economiche*  
+2. *Controlla come spendo i miei soldi*  
+3. *Mi impedisce cercare un lavoro per essere indipendente*  
+4. *Mi viene chiesto di giustificare ogni acquisto che faccio*  
+
+**Razionale** – Nessuna delle categorie della sintesi Delphi coglie questo costrutto; rimane una dimensione autonoma, fondamentale nella letteratura sulla violenza di coppia.
+
+---
+
+## Dimensione 4 – **Abuso emotivo‑verbale (Emotional / Verbal Abuse)**  
+**Etichetta:** *Emotional Abuse*  
+**Item**  
+
+1. *Sento disagio o non voglio fare qualcosa ma lo nascondo per paura che si arrabbi*  
+2. *Mi dice che non valgo niente e che resterei sola se non stessi con lui perché nessuno mi vorrebbe*  
+3. *Ha forti oscillazioni d'umore, il minuto prima si arrabbia e mi urla contro e quello successivo è dolce e si scusa (instabilità emotiva usata per intimidire)*  
+4. *Mi sento giudicata rispetto alle cose che faccio e a come organizzo la mia vita*  
+5. *Ho paura di vederlo perché so che potrebbe avere comportamenti che mi possono fare stare male o imbarazzo*  
+6. *Mi butta giù, mi insulta o mi critica*  
+7. *Urla o mi umilia di fronte ad altre persone*  
+8. *In sua compagnia mi capita di sentirmi a disagio e ho la sensazione di dover stare attenta a ciò che dico o a ciò che faccio, come se dovessi “camminare sulle uova” per evitare sue reazioni negative*  
+9. *Non mi fa sentire bene quando parla di come mi prendo cura di me stessa e del mio aspetto fisico*  
+10. *Provo paura vicino a lui, non mi sento al sicuro*  
+11. *Mi fa sentire spesso sbagliata e mi dice che è colpa mia se sta male*  
+
+**Razionale** – Corrisponde al “Emotional Abuse” della sintesi Delphi (urla, insulti, colpevolizzazione). Gli item aggiuntivi (paura, giudizio, “camminare sulle uova”) arricchiscono il costrutto senza contraddire la definizione.
+
+---
+
+## Dimensione 5 – **Manipolazione psicologica e gaslighting (Psychological Manipulation / Gaslighting)**  
+**Etichetta:** *Psychological manipulation & gaslighting*  
+**Item**  
+
+1. *Dopo che mi ha aggredito (fisicamente o verbalmente) nega di averlo fatto e mi fa dubitare che sia realmente successo*  
+2. *Mi dice che, se lo lasciassi, rivelerebbe ad altri dei miei segreti o delle cose molto personali che sa di me*  
+3. *Minaccia di farsi del male a causa mia*  
+4. *Quando faccio qualcosa che a lui non va bene poi non mi parla per giorni*  
+
+**Razionale** – Riconosciuta esplicitamente nella sintesi ( “Emotional Manipulation” ); gli item descrivono negazione, minacce di auto‑lesionismo e silenzio punitivo, tipici del gaslighting.
+
+---
+
+## Dimensione 6 – **Violenza fisica e sessuale (Physical & Sexual Violence)**  
+**Etichetta:** *Physical & Sexual Violence*  
+**Item**  
+
+1. *Rompe e lancia oggetti per intimidirmi*  
+2. *Mi afferra per i capelli, mi strattona, mi mette le mani al collo, tenta di soffocarmi, mi dà dei pugni, mi schiaffeggia, mi getta addosso degli oggetti o mi fa male in qualche modo*  
+3. *Ha mostrato mie immagini intime ad altre persone senza il mio consenso*  
+4. *Mi chiede insistentemente di fare sesso e non accetta quando dico di no o che non mi va*  
+
+**Razionale** – Si allinea al “Physical Violence” della sintesi Delphi, includendo sia aggressioni fisiche che coercizione sessuale e diffusione non consensuale di immagini intime.
+
+---
+
+## Dimensione 7 – **Minacce e intimidazioni non‑fisiche (Threats & Non‑Physical Intimidation)**  
+**Etichetta:** *Threats & Intimidation*  
+**Item**  
+
+1. *Minaccia di mostrare ai miei amici o ai miei familiari mie immagini intime*  
+2. *Minaccia di fare del male a me, ai miei amici/amiche o alla mia famiglia*  
+3. *Minacce di distruggere le mie cose (telefono, vestiti, computer, auto, ecc.)*  
+
+**Razionale** – La sintesi Delphi non prevede una categoria dedicata; tuttavia le minacce costituiscono un meccanismo di controllo distinto dalla violenza fisica e meritano una dimensione autonoma.
+
+---
+
+## Dimensione 8 – **Feedback sociale ed esterno (Social Feedback & External Concern)**  
+**Etichetta:** *External social concern*  
+**Item**  
+
+1. *Le mie amiche o la mia famiglia sono preoccupate per me*  
+2. *I miei amici/amiche mi hanno fatto notare che non piace loro come si comporta con me*  
+3. *Parla male delle mie amici/amiche e dice che sono dei/delle “poco di buono”*  
+
+**Razionale** – Rappresenta la percezione della vittima circa l’intervento o la preoccupazione di terzi (famiglia, amici). Non è contemplata nella sintesi Delphi, ma è rilevante per capire il contesto di validazione o negazione dell’abuso.
+
+---
+
+## **Riepilogo delle modifiche apportate**
+
+| Cosa è stato modificato | Perché |
+|--------------------------|--------|
+| **Unione di “Coercive control” e “Jealousy & possessiveness”** in una sola dimensione (Dim. 2) | La sintesi Delphi combina questi aspetti sotto “Controlling Behavior”. |
+| **Rinominata la Dimensione 8** (positiva) in “Supporto emotivo e intimità” | Allineamento diretto con il label “Emotional Intimacy” della sintesi. |
+| **Mantenuta la Dimensione 3** (abuso economico) | La sintesi non la menziona, ma è un costrutto ben documentato e non sovrapponibile ad altre categorie. |
+| **Mantenute le dimensioni4, 5, 6, 7, 9** con etichette più vicine ai termini usati nella sintesi (Emotional Abuse, Psychological Manipulation, Physical & Sexual Violence, Threats & Intimidation, External Social Concern). | Garantisce coerenza terminologica senza perdere informazioni. |
+| **Non sono stati aggiunti né rimossi item** | Richiesta esplicita di non introdurre nuovi item né di spezzare quelli esistenti. |
+| **Segnalata l’assenza di alcune categorie della sintesi (Distress, Resentment, etc.)** | Queste categorie non trovano corrispondenza nei 48 item originali; pertanto non sono state create dimensioni ad hoc. |
+| **Indicata la presenza di categorie della sintesi non rappresentate nei dati** | Per chiarezza metodologica e per evidenziare i limiti della sintesi rispetto al nostro set di item. |
+
+---
+
+### Conclusioni
+
+Il nuovo schema a **8 dimensioni** conserva l’interezza dei 48 item, li organizza in modo più compatibile con la terminologia della sintesi Delphi e, al contempo, mantiene le specificità che la sintesi non copre (abuso economico, minacce, feedback sociale). Questo modello fornisce una mappa concettuale più coerente per analisi successive (es. analisi fattoriale, scoring) e per confronti con studi internazionali che usano le stesse etichette.

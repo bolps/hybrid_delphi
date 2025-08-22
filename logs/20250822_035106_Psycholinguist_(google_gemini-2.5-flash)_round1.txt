@@ -1,0 +1,115 @@
+### Psycholinguist (google/gemini-2.5-flash)
+Here are the latent dimensions identified from the provided list of psychological items, along with their labels, constituent items, and rationales:
+
+---
+
+**Dimension 1: Emotional and Psychological Manipulation**
+
+*   **Label:** Emotional and Psychological Manipulation
+*   **Items:**
+    *   Dopo che mi ha aggredito (fisicamente o verbalmente) nega di averlo fatto e mi fa dubitare che sia realmente successo.
+    *   Pretende prove d'amore e dimostrazioni di fedeltà nei suoi confronti
+    *   Mi accusa di flirtare o di tradirlo
+    *   Minaccia di farsi del male a causa mia
+    *   Quando faccio qualcosa che a lui non va bene poi non mi parla per giorni
+    *   Sento disagio o non voglio fare qualcosa ma lo nascondo per paura che si arrabbi
+    *   Mi fa sentire spesso sbagliata e mi dice che è colpa mia se sta male
+    *   Mi dice che non valgo niente e che resterei sola se non stessi con lui perché nessuno mi vorrebbe
+    *   Ha forti oscillazioni d'umore, il minuto prima si arrabbia e mi urla contro e quello successivo è dolce e si scusa
+    *   In sua compagnia mi capita di sentirmi a disagio e ho la sensazione di dover stare attenta a ciò che dico o a ciò che faccio, come se dovessi “camminare sulle uova” per evitare sue reazioni negative
+    *   Mi dice che, se lo lasciassi, rivelerebbe ad altri dei miei segreti o delle cose molto personali che sa di me
+    *   Dice che sono impegnata in troppe cose e che lo trascuro, vorrebbe che passassimo la maggior parte del tempo insieme
+    *   Non mi vuole bene per quella che sono e non rispetta le mie scelte
+*   **Rationale:** This dimension captures behaviors designed to undermine the victim's self-worth, create guilt, instill fear of abandonment or negative consequences, and control their emotional state through unpredictable behavior or gaslighting. The focus is on psychological tactics rather than direct physical or social control.
+
+---
+
+**Dimension 2: Restrictive Control and Isolation**
+
+*   **Label:** Restrictive Control and Isolation
+*   **Items:**
+    *   Mi sento controllata, ho la sensazione che non si fidi di me e che voglia sapere sempre dove sono e con chi, me lo chiede continuamente
+    *   Cerca di controllare ciò che faccio e con chi mi vedo
+    *   Non vuole che io veda la mia famiglia, i miei amici/amiche
+    *   Controlla come spendo i miei soldi
+    *   Non mi fa sentire libera di vestirmi come voglio
+    *   Non mi fa sentire libera di fare le mie scelte su come gestire il mio tempo
+    *   Mi impedisce cercare un lavoro per essere indipendente
+    *   Non capisce che ho bisogno anche di miei spazi personali e non comprende che ci sono momenti in cui mi piace stare da sola o con persone diverse da lui (amici/amiche, familiari ecc.)
+    *   Mi viene chiesto di giustificare ogni acquisto che faccio
+    *   Mi chiede di non vedere i miei amici/amiche
+    *   Mi impedisce di avere accesso al conto corrente o alle mie risorse economiche
+    *   Sento che mi manda troppi messaggi o mi chiama in modo insistente
+*   **Rationale:** This dimension encompasses behaviors aimed at limiting the victim's autonomy, restricting their freedom of movement, association, and financial independence. The core theme is the perpetrator's attempt to exert absolute control over the victim's life and isolate them from external support systems.
+
+---
+
+**Dimension 3: Verbal Abuse and Demeaning Behavior**
+
+*   **Label:** Verbal Abuse and Demeaning Behavior
+*   **Items:**
+    *   Parla male delle mie amici/amiche e dice che sono dei/delle “poco di buono”
+    *   Non mi fa sentire bene quando parla di come mi prendo cura di me stessa e del mio aspetto fisico
+    *   Urla o mi umilia di fronte ad altre persone
+    *   Mi sento giudicata rispetto alle cose che faccio e a come organizzo la mia vita
+    *   Mi butta giù di morale, mi insulta o mi critica
+*   **Rationale:** This dimension groups items related to direct verbal attacks, insults, criticism, and public humiliation designed to degrade the victim, undermine their confidence, and damage their social standing or self-perception.
+
+---
+
+**Dimension 4: Threats and Intimidation**
+
+*   **Label:** Threats and Intimidation
+*   **Items:**
+    *   Minaccia di mostrare ai miei amici o ai miei familiari mie immagini intime
+    *   Minaccia di fare del male a me, ai miei amici/amiche o alla mia famiglia
+    *   Rompe e lancia oggetti per intimidirmi
+    *   Minaccia di distruggere le mie cose (telefono, vestiti, computer, auto, ecc.)
+    *   Ho paura di vederlo perché so che potrebbe avere comportamenti che mi possono fare stare male o sentire in imbarazzo
+*   **Rationale:** This dimension focuses on explicit or implicit threats of harm, exposure, or destruction of property, used as a means of control and to instill fear. The common thread is the use of fear to manipulate behavior.
+
+---
+
+**Dimension 5: Physical and Sexual Coercion**
+
+*   **Label:** Physical and Sexual Coercion
+*   **Items:**
+    *   Mi chiede insistentemente di fare sesso e non accetta quando dico di no o che non mi va
+    *   Ha mostrato mie immagini intime ad altre persone senza il mio consenso
+    *   Mi afferra per i capelli, mi strattona, mi mette le mani al collo, tenta di soffocarmi, mi dà dei pugni, mi schiaffeggia, mi getta addosso degli oggetti o mi fa male in qualche modo
+*   **Rationale:** This dimension specifically addresses direct physical violence, sexual pressure, and non-consensual sharing of intimate content. These are distinct forms of aggression that involve bodily harm or violation of sexual privacy.
+
+---
+
+**Dimension 6: Impact on Well-being and Relationship Quality**
+
+*   **Label:** Impact on Well-being and Relationship Quality
+*   **Items:**
+    *   Non mi sento ascoltata
+    *   Non mi incoraggia a provare nuove cose
+    *   Diventa estremamente geloso o possessivo
+    *   Non sento che possiamo confrontarci e anche litigare senza farci male
+    *   Non sento di avere il suo sostegno nelle cose che faccio
+    *   Non si mostra interessato quando ho qualcosa che voglio condividere
+    *   Provo paura vicino a lui, non mi sento al sicuro
+    *   In sua compagnia non mi sento a mio agio e al sicuro
+*   **Rationale:** This dimension captures the negative emotional and relational consequences of the partner's behavior, reflecting a general deterioration of trust, safety, support, and intimacy within the relationship, and the victim's internal state of discomfort or fear.
+
+---
+
+**Dimension 7: External Awareness and Concern**
+
+*   **Label:** External Awareness and Concern
+*   **Items:**
+    *   Le mie amiche o la mia famiglia sono preoccupate per me
+    *   I miei amici/amiche mi hanno fatto notare che non piace loro come si comporta con me
+*   **Rationale:** This dimension stands apart as it describes the perception and concern of external individuals (friends, family) regarding the relationship, rather than the perpetrator's direct actions or the victim's internal experience. It signifies that the abusive dynamics are noticeable to others.
+
+---
+
+**Dimension 8: Positive Relationship Attributes (Lack Thereof)**
+
+*   **Label:** Positive Relationship Attributes (Lack Thereof)
+*   **Items:**
+    *   Sento di potergli parlare di qualsiasi cosa
+*   **Rationale:** This dimension represents the *absence* of a key positive attribute in a healthy relationship: open communication and trust. While only one item, its presence highlights the fundamental lack of a supportive and communicative foundation.

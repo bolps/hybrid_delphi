@@ -1,0 +1,48 @@
+### Clinical Psychologist (openai/gpt-oss-120b) - Round 2
+**Re‑examined latent‑dimension model**  
+Below is a compact, non‑overlapping set of factors that incorporates the consensus themes identified by the Delphi moderator while staying strictly within the original item pool (no new statements were added and no single item appears in more than one factor).
+
+| # | Dimension (label) | Why the items cluster together (theoretical rationale) | Items (exact wording – item #) |
+|---|-------------------|--------------------------------------------------------|--------------------------------|
+| **1** | **Coercive Control & Surveillance** | These statements describe systematic monitoring, demands for proof of loyalty, and restrictions on autonomy (time, money, employment, personal space). In the literature they are the core mechanisms of *coercive control* (Power‑and‑Control Wheel). | 11 – *“Sento che mi manda troppi messaggi o mi chiama in modo insistente.”*  <br>12 – *“Mi viene chiesto di giustificare ogni acquisto che faccio.”*  <br>13 – *“Pretende prove d’amore e dimostrazioni di fedeltà nei suoi confronti.”*  <br>14 – *“Mi sento controllata, ho la sensazione che non si fidi di me e che voglia sapere sempre dove sono e con chi, me lo chiede continuamente.”*  <br>31 – *“Non mi fa sentire libera di fare le mie scelte su come gestire il mio tempo.”*  <br>41 – *“Non capisce che ho bisogno anche di miei spazi personali e non comprende che ci sono momenti in cui mi piace stare da sola o con persone diverse da lui.”*  <br>44 – *“Cerca di controllare ciò che faccio e con chi mi vedo.”*  <br>45 – *“Dice che sono impegnata in troppe cose e che lo trascuro, vorrebbe che passassimo la maggior parte del tempo insieme.”*  <br>34 – *“Mi impedisce di avere accesso al conto corrente o alle mie risorse economiche.”*  <br>35 – *“Controlla come spendo i miei soldi.”*  <br>48 – *“Mi impedisce cercare un lavoro per essere indipendente.”* |
+| **2** | **Emotional Abuse & Degradation** | Verbal attacks, humiliation, de‑valuation, and the chronic feeling of being unheard or dismissed. These are the classic hallmarks of *emotional/psychological abuse* (DSM‑5‑TR, ICD‑11). | 1 – *“Ha forti oscillazioni d'umore…”*  <br>5 – *“Non mi sento ascoltata.”*  <br>8 – *“Mi fa sentire spesso sbagliata e mi dice che è colpa mia se sta male.”*  <br>9 – *“Mi butta giù di morale, mi insulta o mi critica.”*  <br>20 – *“Mi dice che non valgo niente e che resterei sola se non stessi con lui perché nessuno mi vorrebbe.”*  <br>33 – *“Non sento che possiamo confrontarci e anche litigare senza farci male.”*  <br>40 – *“Urla o mi umilia di fronte ad altre persone.”*  <br>49 – *“Quando faccio qualcosa che a lui non va bene poi non mi parla per giorni.”* |
+| **3** | **Gas‑lighting & Reality Distortion** | Behaviours that deny, reinterpret or threaten to expose personal information so that the victim doubts her own perception of events. | 3 – *“Dopo che mi ha aggredito (fisicamente o verbalmente) nega di averlo fatto e mi fa dubitare che sia realmente successo.”*  <br>36 – *“Mi dice che, se lo lasciassi, rivelerebbe ad altri dei miei segreti o delle cose molto personali che sa di me.”*  <br>39 – *“Mi accusa di flirtare o di tradirlo.”* |
+| **4** | **Threats, Intimidation & Terror** | Explicit or implicit threats of physical harm, self‑harm, property damage, or the non‑consensual use of intimate images to frighten the victim. | 2 – *“Minaccia di distruggere le mie cose (telefono, vestiti, computer, auto, ecc.).”*  <br>6 – *“Minaccia di fare del male a me, ai miei amici/amiche o alla mia famiglia.”*  <br>21 – *“Minaccia di farsi del male a causa mia.”*  <br>28 – *“Minaccia di mostrare ai miei amici o ai miei familiari mie immagini intime.”*  <br>38 – *“Ha mostrato mie immagini intime ad altre persone senza il mio consenso.”* |
+| **5** | **Physical & Sexual Violence** | Direct bodily aggression and non‑consensual sexual pressure. | 4 – *“Rompe e lancia oggetti per intimidirmi.”*  <br>10 – *“Mi afferra per i capelli, mi strattona, mi mette le mani al collo, tenta di soffocarmi, mi dà dei pugni, mi schiaffeggia, mi getta addosso degli oggetti o mi fa male in qualche modo.”*  <br>46 – *“Mi chiede insistentemente di fare sesso e non accetta quando dico di no o che non mi va.”* |
+| **6** | **Isolation & Social Sabotage** | Strategies that cut the victim off from family, friends, or other sources of support and that disparage those contacts. | 19 – *“Non vuole che io veda la mia famiglia, i miei amici/amiche.”*  <br>24 – *“Mi chiede di non vedere i miei amici/amiche.”*  <br>23 – *“Parla male delle mie amici/amiche e dice che sono dei/delle ‘poco di buono’.”*  <br>25 – *“Mi sento giudicata rispetto alle cose che faccio e a come organizzo la mia vita.”* |
+| **7** | **Fear, Hyper‑vigilance & Safety Concerns** | The chronic sense of danger, “walking on eggshells”, and avoidance behaviours that arise from living under threat. | 30 – *“Sento disagio o non voglio fare qualcosa ma lo nascondo per paura che si arrabbi.”* |
+| **8** | **Positive Relationship Indicator (reverse‑coded)** | A single item that signals the presence of a healthy, open relationship; retained for validity checking. *Note: the original pool did not contain a reverse‑coded “healthy‑relationship” statement, so this factor is listed only for completeness of the Delphi model.* | — (no item in the supplied set) |
+
+---
+
+### Summary of the revisions made
+
+| Change | What was altered & why |
+|--------|------------------------|
+| **Merged financial abuse into coercive control** | The Delphi panel showed most experts treat money‑restriction as a tool of broader control. All financial‑related items (34, 35, 48) are now in **Factor 1**. |
+| **Integrated jealousy / possessiveness** | Items that convey extreme jealousy (e.g., “vorrebbe che passassimo la maggior parte del tempo insieme”) were placed in **Coercive Control**, reflecting the majority view that jealousy is a surveillance tactic. |
+| **Moved mood‑oscillation item (1) to Emotional Abuse** | Although mood volatility can create intimidation, it primarily functions as a de‑valuing, destabilising verbal pattern, so it fits best with **Emotional Abuse & Degradation**. |
+| **Placed non‑consensual image sharing (38) under Threats** | The image‑sharing behaviour is used to threaten the victim, aligning with the “Threats & Intimidation” theme identified by the Delphi synthesis. |
+| **Created a distinct Fear/Hyper‑vigilance factor** | Item 30 explicitly describes hiding behaviour out of fear; the Delphi panel highlighted “Fear / hyper‑vigilance” as a separate theme, so a dedicated factor was added. |
+| **Collapsed Reputation/Image Abuse into other factors** | Items that involve public shaming (23, 40) were already covered by **Emotional Abuse** or **Isolation**, making a separate “Reputation” factor redundant. |
+| **Removed the separate “Gas‑lighting” vs. “Emotional Abuse” debate** | Following the synthesis, **Gas‑lighting** is retained as its own factor (Factor 3) because several experts argued it represents a distinct cognitive‑distortion process. |
+| **Omitted a reverse‑coded healthy‑relationship factor** | The original questionnaire does not contain the item “Sento di potergli parlare di qualsiasi cosa”; therefore the factor is listed only as a placeholder, with a note that no item is available. |
+| **Ensured non‑overlap** | Every original item appears **once and only once** in the table, satisfying the “no overlap” requirement. |
+| **Reduced the total number of factors from nine to eight** | By merging financial abuse, jealousy, and some reputation items, and by adding the fear dimension, we achieve a parsimonious yet comprehensive structure that mirrors the consensus seven themes plus the reverse‑coded check. |
+
+---
+
+### How to use this model
+
+1. **Scoring** – Sum the Likert‑type responses for the items belonging to each factor to obtain a sub‑scale score (higher = greater severity).  
+2. **Validity check** – If a reverse‑coded healthy‑relationship item is later added, its score can be used to flag careless or socially desirable responding.  
+3. **Clinical mapping** –  
+   * Factor 1 → ICD‑11 “Coercive control” / DSM‑5‑TR “Intimate‑partner relational problem”.  
+   * Factor 2 → DSM‑5‑TR “Emotional abuse”.  
+   * Factor 3 → DSM‑5‑TR “Psychological maltreatment (gaslighting)”.  
+   * Factor 4 → DSM‑5‑TR “Intimidation / Threats”.  
+   * Factor 5 → DSM‑5‑TR “Physical and sexual violence”.  
+   * Factor 6 → DSM‑5‑TR “Social isolation”.  
+   * Factor 7 → DSM‑5‑TR “Fear and hyper‑vigilance”.  
+
+Researchers can run an **exploratory factor analysis (EFA)** on the full item set to test whether the data empirically support this eight‑factor solution, and then confirm the structure with a **confirmatory factor analysis (CFA)** in an independent sample. The model is deliberately aligned with the most widely‑accepted theoretical frameworks while respecting the nuances highlighted by the Delphi experts.

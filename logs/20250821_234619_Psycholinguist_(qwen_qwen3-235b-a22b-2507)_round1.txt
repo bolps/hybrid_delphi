@@ -1,0 +1,131 @@
+### Psycholinguist (qwen/qwen3-235b-a22b-2507)
+Based on a psycholinguistic and semantic analysis of the items—focusing on **latent meaning**, **emotional tone**, **interpersonal dynamics**, and **underlying psychological functions**—the 43 items can be grouped into **six distinct, non-overlapping dimensions**. These reflect core aspects of **abusive control**, **emotional manipulation**, **isolation**, **fear and intimidation**, **respect and safety**, and **economic control**. Each dimension captures a coherent psychological construct.
+
+---
+
+### **1. Emotional Abuse and Verbal Aggression**  
+**Label:** *Degradation, Blame, and Emotional Coercion*  
+
+**Items:**  
+- Mi dice che non valgo niente e che resterei sola se non stessi con lui perché nessuno mi vorrebbe  
+- Parla male delle mie amiche/amiche e dice che sono dei/delle “poco di buono”  
+- Urla o mi umilia di fronte ad altre persone  
+- Mi butta giù, mi insulta o mi critica  
+- Mi fa sentire spesso sbagliata e mi dice che è colpa mia se sta male  
+- Non mi fa sentire bene quando parla di come mi prendo cura di me stessa e del mio aspetto fisico  
+- Dopo che mi ha aggredito (fisicamente o verbalmente) nega di averlo fatto e mi fa dubitare che sia realmente successo  
+- Sento disagio o non voglio fare qualcosa ma lo nascondo per paura che si arrabbi  
+
+**Rationale:**  
+These items reflect **emotional invalidation**, **blame-shifting**, and **psychological gaslighting**. The language centers on **devaluation**, **shame induction**, and **distorting reality** to maintain control. Phrases like *“non valgo niente”*, *“colpa mia se sta male”*, and *“mi fa dubitare”* reveal a pattern where the partner systematically undermines self-worth and creates internalized doubt—hallmarks of coercive emotional abuse.
+
+---
+
+### **2. Control and Surveillance**  
+**Label:** *Monitoring, Possession, and Restricted Autonomy*  
+
+**Items:**  
+- Mi sento controllata, ho la sensazione che non si fidi di me e che voglia sapere sempre dove sono e con chi, me lo chiede continuamente  
+- Sento che mi manda troppi messaggi o mi chiama in modo insistente  
+- Cerca di controllare ciò che faccio e con chi mi vedo  
+- Pretende prove d'amore e dimostrazioni di fedeltà nei suoi confronti  
+- Diventa estremamente geloso o possessivo  
+- Dice che sono impegnata in troppe cose e che lo trascuro, vorrebbe che passassimo la maggior parte del tempo insieme  
+- In sua compagnia mi capita di sentirmi a disagio e ho la sensazione di dover stare attenta a ciò che dico o a ciò che faccio, come se dovessi “camminare sulle uova”  
+
+**Rationale:**  
+This cluster centers on **hyper-vigilant monitoring** and **emotional possession**. The semantic field includes *“sempre dove sono”*, *“mi chiama in modo insistente”*, *“camminare sulle uova”*—all indicating a climate of **constant surveillance** and **fear of transgression**. The underlying meaning is a demand for exclusive emotional access and the suppression of autonomy through anxiety and guilt.
+
+---
+
+### **3. Isolation from Social Support**  
+**Label:** *Relational and Social Isolation*  
+
+**Items:**  
+- Mi chiede di non vedere i miei amici/amiche  
+- Non vuole che io veda la mia famiglia, i miei amici/amiche  
+- Le mie amiche o la mia famiglia sono preoccupate per me  
+- I miei amici/amiche mi hanno fatto notare che non piace loro come si comporta con me  
+
+**Rationale:**  
+Though brief, this group is semantically unified by **disruption of external support systems**. The partner actively discourages contact (*“non vedere”*), while the victim notes concern from others—indicating **external recognition of dysfunction**. The latent function is **isolation as a mechanism of control**, cutting off alternative perspectives and sources of validation.
+
+---
+
+### **4. Fear, Intimidation, and Physical Violence**  
+**Label:** *Coercive Threats and Physical Aggression*  
+
+**Items:**  
+- Provo paura vicino a lui, non mi sento al sicuro  
+- Rompe e lancia oggetti per intimidirmi  
+- Mi afferra per i capelli, mi strattona, mi mette le mani al collo, tenta di soffocarmi, mi dà dei pugni, mi schiaffeggia, mi getta addosso degli oggetti o mi fa male in qualche modo  
+- Minaccia di fare del male a me, ai miei amici/amiche o alla mia famiglia  
+- Minaccia di farsi del male a causa mia  
+- Minaccia di distruggere le mie cose (telefono, vestiti, computer, auto, ecc.)  
+- Minaccia di mostrare ai miei amici o ai miei familiari mie immagini intime  
+- Ha mostrato mie immagini intime ad altre persone senza il mio consenso  
+- Ho paura di vederlo perché so che potrebbe avere comportamenti che mi possono fare stare male o sentire in imbarazzo  
+- Quando faccio qualcosa che a lui non va bene poi non mi parla per giorni  
+
+**Rationale:**  
+This dimension captures **direct and indirect threats** used to instill fear. The semantic core includes *“paura”*, *“minaccia”*, *“rompe”*, *“fa male”*—indicating **coercion through violence (real or threatened)**. The inclusion of **revenge porn** (*“mostra immagini intime”*) and **silent treatment** reflects both physical and psychological intimidation tactics. The latent meaning is **control through terror**.
+
+---
+
+### **5. Economic Control**  
+**Label:** *Financial Domination and Economic Dependence*  
+
+**Items:**  
+- Controlla come spendo i miei soldi  
+- Mi viene chiesto di giustificare ogni acquisto che faccio  
+- Mi impedisce di avere accesso al conto corrente o alle mie risorse economiche  
+- Mi impedisce cercare un lavoro per essere indipendente  
+
+**Rationale:**  
+These items form a cohesive unit around **economic disempowerment**. The language (*“controlla”*, *“giustificare”*, *“impedisce”*) reveals **systematic restriction of financial autonomy**, a known strategy to maintain dependency. This is distinct from emotional or physical abuse but serves the same goal: **limiting escape options**.
+
+---
+
+### **6. Healthy Relationship Indicators**  
+**Label:** *Respect, Safety, and Emotional Support*  
+
+**Items:**  
+- Sento di potergli parlare di qualsiasi cosa  
+- Mi incoraggia a provare nuove cose  
+- Mi vuole bene per quella che sono e rispetta le mie scelte  
+- In sua compagnia mi sento a mio agio e al sicuro  
+- Mi sento ascoltata e si mostra interessato quando ho qualcosa che voglio condividere  
+- Sento il suo sostegno nelle cose che faccio  
+- Capisce che ho bisogno anche di miei spazi personali e comprende che ci sono momenti in cui mi piace stare da sola o con persone diverse da lui  
+- Mi fa sentire libera di fare le mie scelte su come gestire il mio tempo  
+- Sento che possiamo confrontarci e anche litigare senza farci male  
+- Non mi sento libera di vestirmi come voglio *(Note: This is phrased negatively but stands in contrast to the positive items. However, it belongs here only as a counterpoint. But based on polarity, it actually belongs in a lack-of-autonomy cluster.)*  
+
+**Wait—re-evaluation:**  
+The last item (*“Non mi sento libera di vestirmi come voglio”*) is **negative** and semantically aligns with **control over self-expression**, not healthy dynamics. It was mistakenly included.
+
+**Corrected Group:**
+
+### **6. Healthy Relationship Indicators**  
+**Label:** *Respect, Safety, and Emotional Support*  
+
+**Items:**  
+- Sento di potergli parlare di qualsiasi cosa  
+- Mi incoraggia a provare nuove cose  
+- Mi vuole bene per quella che sono e rispetta le mie scelte  
+- In sua compagnia mi sento a mio agio e al sicuro  
+- Mi sento ascoltata e si mostra interessato quando ho qualcosa che voglio condividere  
+- Sento il suo sostegno nelle cose che faccio  
+- Capisce che ho bisogno anche di miei spazi personali e comprende che ci sono momenti in cui mi piace stare da sola o con persone diverse da lui  
+- Mi fa sentire libera di fare le mie scelte su come gestire il mio tempo  
+- Sento che possiamo confrontarci e anche litigare senza farci male  
+
+**Rationale:**  
+These items form a **positive semantic field** centered on **trust**, **autonomy**, **emotional accessibility**, and **mutual respect**. Verbs like *“incoraggia”*, *“rispetta”*, *“sostegno”*, and phrases like *“mi sento a mio agio”* and *“senza farci male”* reflect **secure attachment** and **non-coercive communication**. This dimension serves as a **contrast** to the abusive patterns, highlighting what is missing in the other clusters.
+
+---
+
+### Final Note on Non-Overlapping Structure:
+Each item appears in **only one dimension**. Negative items are grouped by **type of abuse or control**, while positive items are grouped into a single **construct of relational safety**. The structure reflects a **dual-axis model**: one side mapping **forms of abuse** (emotional, physical, social, economic), and the other representing **healthy relational functioning**.
+
+This organization supports both **clinical assessment** and **preventive education**, by clarifying what behaviors indicate danger versus safety in intimate relationships.

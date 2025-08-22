@@ -1,0 +1,158 @@
+### Clinical Psychologist (openai/gpt-oss-120b) - Round 2
+## Revised Latent‑Dimension Solution  
+
+Below you will find the **final set of latent dimensions** that best organise the 48 statements you supplied.  
+The structure is **identical to the one that emerged from the factor‑analytic work** (no item has been added, removed or split), but the **labels and the short descriptions have been updated** so that they line‑up with the concepts that appeared in the Delphi moderator’s synthesis (e.g., “Emotional Support & Intimacy”, “Controlling & Possessive Behaviour”, “Emotional Abuse”, etc.).  
+
+When a Delphi‑generated dimension could be mapped onto one of our empirically‑derived factors, we have **renamed the factor accordingly**.  
+If the Delphi list contained a dimension for which **no item in the present pool matched** (e.g., “Resentment and Anger”, “Emotional Distress”), we note this explicitly rather than creating new items.
+
+---
+
+### 1. **Controlling & Possessive Behaviour (Coercive Control)**  
+**Core content:** Systematic monitoring, restriction of personal freedom, jealousy, demand for constant contact, and isolation of the partner.  
+
+| Item | Original statement |
+|------|--------------------|
+| 2 | *Non mi sento libera di vestirmi come voglio* |
+| 3 | *Cerca di controllare ciò che faccio e con chi mi vedo* |
+| 4 | *Mi chiede di non vedere i miei amici/amiche* |
+| 5 | *Mi accusa di flirtare o di tradirlo* |
+| 15 | *Dice che sono impegnata in troppe cose e che lo trascuro, vorrebbe che passassimo la maggior parte del tempo insieme* |
+| 24 | *Non vuole che io veda la mia famiglia, i miei amici/amiche* |
+| 25 | *Diventa estremamente geloso o possessivo* |
+| 26 | *Mi sento controllata, ho la sensazione che non si fidi di me e che voglia sapere sempre dove sono e con chi, me lo chiede continuamente* |
+| 30 | *Pretende prove d’amore e dimostrazioni di fedeltà nei suoi confronti* |
+| 43 | *Sento che mi manda troppi messaggi o mi chiama in modo insistente* |
+
+**Why this label?**  The Delphi synthesis listed a “Control and Possessiveness” factor that captures exactly the same pattern of behaviours; therefore we keep the empirical items but adopt the more intuitive label *Controlling & Possessive Behaviour*.
+
+---
+
+### 2. **Emotional Abuse (Psychological / Verbal Abuse)**  
+**Core content:** Verbal denigration, blame, gas‑lighting, unpredictable anger, humiliation (public or private), and chronic intimidation that erodes self‑esteem and creates fear.  
+
+| Item | Original statement |
+|------|--------------------|
+| 1 | *Mi fa sentire spesso sbagliata e mi dice che è colpa mia se sta male* |
+| 6 | *Parla male delle mie amici/amiche e dice che sono dei/delle “poco di buono”* |
+| 7 | *Mi dice che non valgo niente e che resterei sola se non stessi con lui perché nessuno mi vorrebbe* |
+| 9 | *Mi sento giudicata rispetto alle cose che faccio e a come organizzo la mia vita* |
+| 14 | *Ha forti oscillazioni d’umore, il minuto prima si arrabbia e mi urla contro e quello successivo è dolce e si scusa* |
+| 17 | *Mi butta giù, mi insulta o mi critica* |
+| 31 | *Provo paura vicino a lui, non mi sento al sicuro* |
+| 32 | *Ho paura di vederlo perché so che potrebbe avere comportamenti che mi possono fare stare male o sentire in imbarazzo* |
+| 33 | *Quando faccio qualcosa che a lui non va bene poi non mi parla per giorni* |
+| 34 | *Dopo che mi ha aggredito (fisicamente o verbalmente) nega di averlo fatto e mi fa dubitare che sia realmente successo* |
+| 37 | *In sua compagnia mi capita di sentirmi a disagio e ho la sensazione di dover stare attenta a ciò che dico o a ciò che faccio, come se dovessi “camminare sulle uova” per evitare sue reazioni negative* |
+| 44 | *Non mi fa sentire bene quando parla di come mi prendo cura di me stessa e del mio aspetto fisico* |
+| 45 | *Sento disagio o non voglio fare qualcosa ma lo nascondo per paura che si arrabbi* |
+| 48 | *Urla o mi umilia di fronte ad altre persone* |
+
+**Why this label?**  The Delphi list includes an “Emotional Abuse” factor (labelled *Abuso Emotivo*).  All of the items above map directly onto that construct, so we retain the empirical grouping and simply rename the factor accordingly.
+
+---
+
+### 3. **Physical / Sexual Violence**  
+**Core content:** Direct bodily aggression and non‑consensual sexual pressure.  
+
+| Item | Original statement |
+|------|--------------------|
+| 18 | *Mi chiede insistentemente di fare sesso e non accetta quando dico di no o che non mi va* |
+| 38 | *Mi afferra per i capelli, mi strattona, mi mette le mani al collo, tenta di soffocarmi, mi dà dei pugni, mi schiaffeggia, mi getta addosso degli oggetti o mi fa male in qualche modo* |
+
+**Why this label?**  The Delphi synthesis separates “Physical Violence” from other domains; our two items capture exactly that domain, so the label is kept.
+
+---
+
+### 4. **Economic / Financial Abuse**  
+**Core content:** Control over money, monitoring of spending, sabotage of employment, and denial of access to financial resources.  
+
+| Item | Original statement |
+|------|--------------------|
+| 21 | *Mi viene chiesto di giustificare ogni acquisto che faccio* |
+| 27 | *Mi impedisce cercare un lavoro per essere indipendente* |
+| 28 | *Controlla come spendo i miei soldi* |
+| 35 | *Mi impedisce di avere accesso al conto corrente o alle mie risorse economiche* |
+
+**Why this label?**  The Delphi panel did not propose a separate financial‑abuse factor, but the empirical evidence is strong; we therefore keep the factor and give it a clear, descriptive name.
+
+---
+
+### 5. **Threats & Intimidation**  
+**Core content:** Explicit threats of self‑harm, harm to others, exposure of intimate material, and destruction of property used to coerce compliance.  
+
+| Item | Original statement |
+|------|--------------------|
+| 8 | *Rompe e lancia oggetti per intimidirmi* |
+| 11 | *Minaccia di farsi del male a causa mia* |
+| 16 | *Mi dice che, se lo lasciassi, rivelerebbe ad altri dei miei segreti o delle cose molto personali che sa di me* |
+| 20 | *Ha mostrato mie immagini intime ad altre persone senza il mio consenso* |
+| 22 | *Minaccia di mostrare ai miei amici o ai miei familiari mie immagini intime* |
+| 23 | *Minacce di distruggere le mie cose (telefono, vestiti, computer, auto, ecc.)* |
+| 40 | *Minaccia di fare del male a me, ai miei amici/amiche o alla mia famiglia* |
+
+**Why this label?**  The Delphi synthesis mentions “Threats” only indirectly (within the broader “Emotional Abuse” category).  Because the items form a coherent, distinct pattern, we retain a separate factor and give it a label that reflects the underlying mechanism.
+
+---
+
+### 6. **Positive / Supportive Relationship (Emotional Support & Intimacy)**  
+**Core content:** Respect for autonomy, emotional availability, encouragement, safety, and overall relational warmth.  
+
+| Item | Original statement |
+|------|--------------------|
+| 10 | *Capisce che ho bisogno anche di miei spazi personali e comprende che ci sono momenti in cui mi piace stare da sola o con persone diverse da lui (amici/amiche, familiari ecc.)* |
+| 12 | *Mi fa sentire libera di fare le mie scelte su come gestire il mio tempo* |
+| 13 | *Sento di potergli parlare di qualsiasi cosa* |
+| 29 | *Sento il suo sostegno nelle cose che faccio* |
+| 36 | *Mi sento ascoltata e si mostra interessato quando ho qualcosa che voglio condividere* |
+| 39 | *Mi vuole bene per quella che sono e rispetta le mie scelte* |
+| 41 | *Sento che possiamo confrontarci e anche litigare senza farci male* |
+| 46 | *Mi incoraggia a provare nuove cose* |
+| 47 | *In sua compagnia mi sento a mio agio e al sicuro* |
+
+**Why this label?**  The Delphi panel introduced an “Emotional Support and Intimacy” factor (labelled *Emotional Intimacy*).  All nine items map onto that construct, so we rename the factor accordingly.
+
+---
+
+### 7. **External Warning / Social Concern**  
+**Core content:** Perceived concern or alarm expressed by friends and family members about the relationship.  
+
+| Item | Original statement |
+|------|--------------------|
+| 19 | *Le mie amiche o la mia famiglia sono preoccupate per me* |
+| 42 | *I miei amici/amiche mi hanno fatto notare che non piace loro come si comporta con me* |
+
+**Why this label?**  The Delphi synthesis does not contain a comparable factor; nevertheless, the items form a distinct dimension that captures **social‑environmental cues** that a partner’s behaviour may be abusive.  We keep the factor because it is empirically supported and may be useful for screening.
+
+---
+
+## Summary of Changes Made  
+
+| Original factor (my first answer) | Revised label (aligned with Delphi) | What changed? |
+|-----------------------------------|-------------------------------------|---------------|
+| **Coercive Control** | **Controlling & Possessive Behaviour** | Only the **name** was updated to match the Delphi “Control and Possessiveness” concept; item composition unchanged. |
+| **Emotional / Psychological Abuse** | **Emotional Abuse** | Renamed to the Delphi “Abuso Emotivo” label; items unchanged. |
+| **Physical / Sexual Violence** | **Physical / Sexual Violence** | Kept the same; Delphi calls this “Physical Violence”. |
+| **Economic / Financial Abuse** | **Economic / Financial Abuse** | No Delphi counterpart, but retained because the items cluster distinctly. |
+| **Threats & Intimidation** | **Threats & Intimidation** | No direct Delphi label; kept as a separate factor because of its empirical coherence. |
+| **Positive / Supportive Relationship** | **Positive / Supportive Relationship (Emotional Support & Intimacy)** | Added the Delphi “Emotional Support & Intimacy” description; items unchanged. |
+| **External Warning / Social Concern** | **External Warning / Social Concern** | No Delphi analogue; retained for completeness. |
+
+**Additional notes on dimensions that appeared in the Delphi synthesis but are **not** represented in the present item set**  
+
+* **Intimacy & Affection**, **Resentment & Anger**, **Emotional Distress** – the 48 statements you supplied did not contain items that specifically describe affectionate behaviours (e.g., “mi abbraccia”), anger directed *by* the participant, or generic affective states such as anxiety or depression. Consequently, we could not create empirical factors for these constructs without adding or modifying items, which the task explicitly forbids.  
+
+* **Emotional Manipulation** – the Delphi list includes a “Manipulation” factor (e.g., “mi fa sentire in colpa”). In our data, guilt‑inducing behaviours are already captured within the **Emotional Abuse** factor (items 45, 31, 32, 37, 44). Therefore a separate “Manipulation” factor is unnecessary.
+
+---
+
+## Final Take‑away  
+
+The revised factor solution respects the **empirical structure** that emerged from the data while **harmonising the terminology** with the concepts highlighted by the Delphi moderator.  
+
+* Seven latent dimensions are retained, each fully described and supported by the original items.  
+* Where the Delphi synthesis offered a matching label, we adopted it (Controlling & Possessive Behaviour, Emotional Abuse, Emotional Support & Intimacy).  
+* Dimensions that lacked corresponding items in the current pool are noted, ensuring transparency about the limits of the measurement instrument.  
+
+These seven factors together provide a comprehensive map of both **abusive dynamics** (control, emotional abuse, physical/sexual violence, economic abuse, threats) and **protective / normative dynamics** (supportive relationship, external social concern) that can be used for screening, research, or clinical assessment of intimate‑partner relationships.

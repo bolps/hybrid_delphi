@@ -1,0 +1,56 @@
+### Clinical Psychologist (meta-llama/llama-4-maverick)
+After analyzing the given list of psychological items, I identified four latent dimensions underlying the list. Here are the dimensions, along with the corresponding items, labels, and a brief rationale for the grouping:
+
+**Dimension 1: Emotional Abuse and Manipulation**
+
+* Items:
+	+ Mi dice che non valgo niente e che resterei sola se non stessi con lui perché nessuno mi vorrebbe
+	+ Mi fa sentire spesso sbagliata e mi dice che è colpa mia se sta male
+	+ Mi sento giudicata rispetto alle cose che faccio e a come organizzo la mia vita
+	+ Dopo che mi ha aggredito (fisicamente o verbalmente) nega di averlo fatto e mi fa dubitare che sia realmente successo
+	+ Minaccia di farsi del male a causa mia
+	+ Mi accusa di flirtare o di tradirlo
+	+ Pretende prove d'amore e dimostrazioni di fedeltà nei suoi confronti
+* Label: Emotional Abuse and Manipulation
+* Rationale: These items reflect a pattern of behavior where one partner manipulates and emotionally abuses the other, making them feel worthless, guilty, or responsible for the partner's emotions. The items suggest a power imbalance and a lack of respect for the individual's autonomy and feelings.
+
+**Dimension 2: Control and Possessiveness**
+
+* Items:
+	+ Cerca di controllare ciò che faccio e con chi mi vedo
+	+ Mi impedisce cercare un lavoro per essere indipendente
+	+ Mi chiede di non vedere i miei amici/amiche
+	+ Non vuole che io veda la mia famiglia, i miei amici/amiche
+	+ Controlla come spendo i miei soldi
+	+ Mi impedisce di avere accesso al conto corrente o alle mie risorse economiche
+	+ Mi sento controllata, ho la sensazione che non si fidi di me e che voglia sapere sempre dove sono e con chi, me lo chiede continuamente
+	+ Sento che mi manda troppi messaggi o mi chiama in modo insistente
+* Label: Control and Possessiveness
+* Rationale: These items reflect a pattern of behavior where one partner seeks to control and dominate the other, restricting their autonomy, freedom, and access to resources. The items suggest a lack of trust and a need for constant monitoring.
+
+**Dimension 3: Physical and Sexual Violence**
+
+* Items:
+	+ Mi afferra per i capelli, mi strattona, mi mette le mani al collo, tenta di soffocarmi, mi dà dei pugni, mi schiaffeggia, mi getta addosso degli oggetti o mi fa male in qualche modo
+	+ Rompe e lancia oggetti per intimidirmi
+	+ Urla o mi umilia di fronte ad altre persone
+	+ Mi chiede insistentemente di fare sesso e non accetta quando dico di no o che non mi va
+	+ Ha mostrato mie immagini intime ad altre persone senza il mio consenso
+	+ Minaccia di mostrare ai miei amici o ai miei familiari mie immagini intime
+* Label: Physical and Sexual Violence
+* Rationale: These items reflect a pattern of behavior where one partner uses physical or sexual violence to intimidate, dominate, or harm the other. The items suggest a severe lack of respect for the individual's bodily autonomy and boundaries.
+
+**Dimension 4: Positive Relationship Characteristics**
+
+* Items:
+	+ In sua compagnia mi sento a mio agio e al sicuro
+	+ Sento di potergli parlare di qualsiasi cosa
+	+ Sento che possiamo confrontarci e anche litigare senza farci male
+	+ Mi vuole bene per quella che sono e rispetta le mie scelte
+	+ Capisce che ho bisogno anche di miei spazi personali e comprende che ci sono momenti in cui mi piace stare da sola o con persone diverse da lui (amici/amiche, familiari ecc.)
+	+ Sento il suo sostegno nelle cose che faccio
+	+ Mi fa sentire libera di fare le mie scelte su come gestire il mio tempo
+	+ Mi incoraggia a provare nuove cose
+	+ Sento che mi ascolta e si mostra interessato quando ho qualcosa che voglio condividere
+* Label: Positive Relationship Characteristics
+* Rationale: These items reflect a pattern of behavior where one partner feels comfortable, supported, and respected in the relationship. The items suggest a positive and healthy dynamic, characterized by mutual respect, trust, and open communication.

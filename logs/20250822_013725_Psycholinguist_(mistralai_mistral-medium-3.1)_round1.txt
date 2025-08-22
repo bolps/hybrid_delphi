@@ -1,0 +1,136 @@
+### Psycholinguist (mistralai/mistral-medium-3.1)
+Below is a **latent dimensional analysis** of the provided items, grouped into **coherent semantic and psychological categories** reflecting underlying themes of **abuse, control, autonomy, trust, and relational health**. Each dimension is mutually exclusive and captures distinct aspects of relational dynamics.
+
+---
+
+### **1. Fisica e Psicologica Violenza / Aggressione (Physical & Psychological Violence/Aggression)**
+**Items:**
+- Provo paura vicino a lui, non mi sento al sicuro
+- Mi afferra per i capelli, mi strattona, mi mette le mani al collo, tenta di soffocarmi, mi dà dei pugni, mi schiaffeggia, mi getta addosso degli oggetti o mi fa male in qualche modo
+- Rompe e lancia oggetti per intimidirmi
+- Urla o mi umilia di fronte ad altre persone
+- Dopo che mi ha aggredito (fisicamente o verbalmente) nega di averlo fatto e mi fa dubitare che sia realmente successo (*gaslighting*)
+- Ho paura di vederlo perché so che potrebbe avere comportamenti che mi possono fare stare male o sentire in imbarazzo
+
+**Rationale:**
+These items reflect **explicit physical violence, intimidation, and psychological terror**, including **gaslighting** (denial of abuse to induce self-doubt). The focus is on **direct harm, fear induction, and coercive control through aggression**.
+
+---
+
+### **2. Controllo e Isolamento Sociale (Social Control & Isolation)**
+**Items:**
+- Diventa estremamente geloso o possessivo
+- Mi chiede di non vedere i miei amici/amiche
+- Cerca di controllare ciò che faccio e con chi mi vedo
+- Non vuole che io veda la mia famiglia, i miei amici/amiche
+- Parla male delle mie amici/amiche e dice che sono dei/delle “poco di buono”
+- Dice che sono impegnata in troppe cose e che lo trascuro, vorrebbe che passassimo la maggior parte del tempo insieme
+- Pretende prove d'amore e dimostrazioni di fedeltà nei suoi confronti
+- Mi accusa di flirtare o di tradirlo
+
+**Rationale:**
+This dimension captures **systematic efforts to restrict social autonomy**, including **jealousy, monitoring, and sabotage of external relationships**. The abuser seeks to **erode support networks** and enforce dependency.
+
+---
+
+### **3. Controllo Economico e Dipendenza (Economic Control & Dependence)**
+**Items:**
+- Mi impedisce di avere accesso al conto corrente o alle mie risorse economiche
+- Controlla come spendo i miei soldi
+- Mi viene chiesto di giustificare ogni acquisto che faccio
+- Mi impedisce cercare un lavoro per essere indipendente
+
+**Rationale:**
+These items reflect **financial abuse**, a tactic to **create economic dependency** and limit the victim’s ability to leave or act autonomously. Control over resources is a **structural form of coercion**.
+
+---
+
+### **4. Coercizione Sessuale e Violazione dei Confini (Sexual Coercion & Boundary Violation)**
+**Items:**
+- Mi chiede insistentemente di fare sesso e non accetta quando dico di no o che non mi va
+- Minaccia di mostrare ai miei amici o ai miei familiari mie immagini intime
+- Ha mostrato mie immagini intime ad altre persone senza il mio consenso
+
+**Rationale:**
+This dimension centers on **sexual pressure, non-consensual demands, and revenge porn**, violating **bodily autonomy and privacy**. The focus is on **exploiting intimacy as a tool of control**.
+
+---
+
+### **5. Manipolazione Emotiva e Colpevolizzazione (Emotional Manipulation & Blame-Shifting)**
+**Items:**
+- Ha forti oscillazioni d'umore, il minuto prima si arrabbia e mi urla contro e quello successivo è dolce e si scusa
+- Mi dice che non valgo niente e che resterei sola se non stessi con lui perché nessuno mi vorrebbe
+- Mi fa sentire spesso sbagliata e mi dice che è colpa mia se sta male
+- Mi butta giù, mi insulta o mi critica
+- Quando faccio qualcosa che a lui non va bene poi non mi parla per giorni (*silent treatment*)
+- Minaccia di farsi del male a causa mia
+
+**Rationale:**
+These items reflect **emotional volatility, devaluation, and guilt-tripping**, including **intermittent reinforcement** (cycles of abuse and apology) and **self-harm threats** to manipulate compliance.
+
+---
+
+### **6. Minacce e Ricatto (Threats & Blackmail)**
+**Items:**
+- Minacce di distruggere le mie cose (telefono, vestiti, computer, auto, ecc.)
+- Mi dice che, se lo lasciassi, rivelerebbe ad altri dei miei segreti o delle cose molto personali che sa di me
+- Minaccia di fare del male a me, ai miei amici/amiche o alla mia famiglia
+
+**Rationale:**
+This dimension captures **explicit threats**—to **property, reputation, or safety**—as tools to **enforce compliance through fear**. Blackmail leverages **secrets or personal vulnerabilities**.
+
+---
+
+### **7. Sorveglianza e Invasione della Privacy (Surveillance & Privacy Violation)**
+**Items:**
+- Sento che mi manda troppi messaggi o mi chiama in modo insistente
+- Mi sento controllata, ho la sensazione che non si fidi di me e che voglia sapere sempre dove sono e con chi, me lo chiede continuamente
+- Non mi sento libera di vestirmi come voglio
+
+**Rationale:**
+These items reflect **hyper-vigilance, digital stalking, and micromanagement of appearance/behavior**, violating **personal boundaries and autonomy**.
+
+---
+
+### **8. Dinamiche Relazionali Sane (Healthy Relational Dynamics)**
+**Items:**
+- Mi vuole bene per quella che sono e rispetta le mie scelte
+- Sento di potergli parlare di qualsiasi cosa
+- Capisce che ho bisogno anche di miei spazi personali e comprende che ci sono momenti in cui mi piace stare da sola o con persone diverse da lui
+- Sento che possiamo confrontarci e anche litigare senza farci male
+- Mi incoraggia a provare nuove cose
+- Mi sento ascoltata e si mostra interessato quando ho qualcosa che voglio condividere
+- Mi fa sentire libera di fare le mie scelte su come gestire il mio tempo
+- In sua compagnia mi sento a mio agio e al sicuro
+- Sento il suo sostegno nelle cose che faccio
+
+**Rationale:**
+This dimension contrasts the others, representing **mutual respect, trust, and emotional safety**. It includes **autonomy support, active listening, and non-judgmental validation**.
+
+---
+
+### **9. Segnali Esterni di Preoccupazione (External Warning Signs)**
+**Items:**
+- Le mie amiche o la mia famiglia sono preoccupate per me
+- I miei amici/amiche mi hanno fatto notare che non piace loro come si comporta con me
+
+**Rationale:**
+These items reflect **third-party observations of unhealthy dynamics**, serving as **external validation** of the victim’s experiences.
+
+---
+### **10. Autocensura e Paura delle Conseguenze (Self-Silencing & Fear of Retaliation)**
+**Items:**
+- Sento disagio o non voglio fare qualcosa ma lo nascondo per paura che si arrabbi
+- In sua compagnia mi capita di sentirmi a disagio e ho la sensazione di dover stare attenta a ciò che dico o a ciò che faccio, come se dovessi “camminare sulle uova”
+
+**Rationale:**
+This dimension captures **internalized fear**, where the victim **modifies behavior to avoid conflict**, reflecting a **climate of psychological unsafety**.
+
+---
+### **Key Observations:**
+1. **Power Imbalance:** Dimensions 1–7 reflect **coercive control tactics** (physical, emotional, economic, social).
+2. **Healthy vs. Unhealthy:** Dimension 8 serves as a **foil**, highlighting **equitable relationship traits**.
+3. **External Validation:** Dimension 9 underscores the role of **social networks in recognizing abuse**.
+4. **Victim Adaptation:** Dimension 10 shows how **abuse shapes the victim’s behavior** (e.g., self-silencing).
+
+This framework aligns with **psychological models of intimate partner violence (IPV)**, particularly **Johnson’s typology of coercive control** and **Dutton’s "nested ecological theory"** of abuse. Would you like further refinement or theoretical linkages?

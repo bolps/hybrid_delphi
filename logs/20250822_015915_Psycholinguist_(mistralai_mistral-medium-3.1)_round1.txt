@@ -1,0 +1,133 @@
+### Psycholinguist (mistralai/mistral-medium-3.1)
+Here are the latent dimensions based on **semantic similarity** and **underlying psychological/linguistic meaning**, grouped into coherent themes of **abusive, controlling, or manipulative behaviors** in intimate relationships. Each dimension reflects a distinct form of psychological, emotional, physical, or financial abuse, with minimal overlap.
+
+---
+
+### **1. Psicologica: Umiliazione e Svalutazione (Psychological: Humiliation and Devaluation)**
+**Items:**
+- *Urla o mi umilia di fronte ad altre persone*
+- *Mi dice che non valgo niente e che resterei sola se non stessi con lui perché nessuno mi vorrebbe*
+- *Mi butta giù di morale, mi insulta o mi critica*
+- *Mi fa sentire spesso sbagliata e mi dice che è colpa mia se sta male*
+- *Non mi fa sentire bene quando parla di come mi prendo cura di me stessa e del mio aspetto fisico*
+- *Mi sento giudicata rispetto alle cose che faccio e a come organizzo la mia vita*
+
+**Rationale:**
+These items share a **linguistic focus on verbal degradation, undermining self-worth, and imposing shame**. The abuser uses language to **erode self-esteem**, frame the victim as flawed, and create dependency. The semantics revolve around **negative evaluations** ("non valgo niente"), **comparisons** ("nessuno mi vorrebbe"), and **moral judgments** ("sbagliata").
+
+---
+
+### **2. Gaslighting e Negazione della Realtà (Gaslighting and Reality Distortion)**
+**Items:**
+- *Dopo che mi ha aggredito (fisicamente o verbalmente) nega di averlo fatto e mi fa dubitare che sia realmente successo*
+- *Ha forti oscillazioni d'umore, il minuto prima si arrabbia e mi urla contro e quello dopo è dolce e si scusa*
+- *Mi dice che, se lo lasciassi, rivelerebbe ad altri dei miei segreti o delle cose molto personali che sa di me* (partial overlap with coercion)
+
+**Rationale:**
+These items involve **manipulating the victim’s perception of reality** through **denial, contradiction, and emotional whiplash**. The language here is **self-contradictory** ("nega di averlo fatto" vs. aggression) or **threatening with exposure** ("rivelerebbe segreti"), creating **cognitive dissonance** and self-doubt.
+
+---
+
+### **3. Controllo Sociale e Isolamento (Social Control and Isolation)**
+**Items:**
+- *Non vuole che io veda la mia famiglia, i miei amici/amiche*
+- *Mi chiede di non vedere i miei amici/amiche*
+- *Parla male delle mie amiche/amiche e dice che sono dei/delle “poco di buono”*
+- *Dice che sono impegnata in troppe cose e che lo trascuro, vorrebbe che passassimo la maggior parte del tempo insieme*
+- *Non capisce che ho bisogno anche di miei spazi personali*
+- *Non mi sento libera di fare le mie scelte su come gestire il mio tempo*
+- *Le mie amiche o la mia famiglia sono preoccupate per me*
+- *I miei amici/amiche mi hanno fatto notare che non piace loro come si comporta con me*
+
+**Rationale:**
+This dimension centers on **restricting autonomy and social connections**. The language includes **direct prohibitions** ("non vuole che io veda"), **devaluation of others** ("poco di buono"), and **demands for exclusive attention** ("passassimo la maggior parte del tempo insieme"). The victim’s **social support network is targeted** to increase dependence.
+
+---
+
+### **4. Controllo Economico e Dipendenza (Economic Control and Dependence)**
+**Items:**
+- *Mi impedisce di avere accesso al conto corrente o alle mie risorse economiche*
+- *Controlla come spendo i miei soldi*
+- *Mi impedisce cercare un lavoro per essere indipendente*
+- *Mi viene chiesto di giustificare ogni acquisto che faccio*
+
+**Rationale:**
+This dimension is **lexically distinct in its focus on financial language** ("conto corrente," "risorse economiche," "lavoro," "giustificare ogni acquisto"). The abuser **limits economic agency**, reinforcing **material dependence** and reducing avenues for escape.
+
+---
+
+### **5. Coercizione Sessuale e Violazione dei Confini (Sexual Coercion and Boundary Violation)**
+**Items:**
+- *Mi chiede insistentemente di fare sesso e non accetta quando dico di no o che non mi va*
+- *Ha mostrato mie immagini intime ad altre persone senza il mio consenso*
+- *Minaccia di mostrare ai miei amici o ai miei familiari mie immagini intime*
+
+**Rationale:**
+These items share **semantic fields of sexual pressure and violation of bodily autonomy**. The language includes **persistent demands** ("non accetta quando dico di no") and **threats of exposure** ("mostrare immagini intime"), both of which **disregard consent** and weaponize intimacy.
+
+---
+
+### **6. Minacce e Intimidazione (Threats and Intimidation)**
+**Items:**
+- *Minaccia di farsi del male a causa mia*
+- *Minaccia di fare del male a me, ai miei amici/amiche o alla mia famiglia*
+- *Minaccia di distruggere le mie cose (telefono, vestiti, computer, auto, ecc.)*
+- *Rompe e lancia oggetti per intimidirmi*
+- *Mi afferra per i capelli, mi strattona, mi mette le mani al collo, tenta di soffocarmi, mi dà dei pugni, mi schiaffeggia, mi getta addosso degli oggetti o mi fa male in qualche modo*
+
+**Rationale:**
+This dimension is **defined by explicit or implicit threats of harm**, with language ranging from **self-harm threats** ("farsi del male") to **physical violence** ("mettere le mani al collo"). The **illocutionary force** is to **induce fear** and compliance.
+
+---
+### **7. Sorveglianza e Invasione della Privacy (Surveillance and Privacy Invasion)**
+**Items:**
+- *Cerca di controllare ciò che faccio e con chi mi vedo*
+- *Mi sento controllata, ho la sensazione che non si fidi di me e che voglia sapere sempre dove sono e con chi, me lo chiede continuamente*
+- *Sento che mi manda troppi messaggi o mi chiama in modo insistente*
+- *Pretende prove d'amore e dimostrazioni di fedeltà nei suoi confronti*
+- *Mi accusa di flirtare o di tradirlo*
+
+**Rationale:**
+The language here revolves around **monitoring, distrust, and demands for accountability** ("controllare," "sapere sempre dove sono," "prove d'amore"). The abuser **frames the victim’s independence as suspicious**, justifying **intrusive behavior**.
+
+---
+### **8. Paura e Mancanza di Sicurezza (Fear and Unsafety)**
+**Items:**
+- *Provo paura vicino a lui, non mi sento al sicuro*
+- *Ho paura di vederlo perché so che potrebbe avere comportamenti che mi possono fare stare male o sentire in imbarazzo*
+- *In sua compagnia non mi sento a mio agio e al sicuro*
+- *Non sento che possiamo confrontarci e anche litigare senza farci male*
+
+**Rationale:**
+These items are **unified by affective language of fear and physical/emotional unsafety** ("paura," "non mi sento al sicuro," "comportamenti che mi possono fare stare male"). The focus is on the **visceral response to the abuser’s presence**.
+
+---
+### **9. Manipolazione Emotiva e Ricatto (Emotional Manipulation and Blackmail)**
+**Items:**
+- *Quando faccio qualcosa che a lui non va bene poi non mi parla per giorni* (silent treatment)
+- *Sento disagio o non voglio fare qualcosa ma lo nascondo per paura che si arrabbi*
+- *Non mi incoraggia a provare nuove cose*
+- *Non sento di avere il suo sostegno nelle cose che faccio*
+- *Non mi fa sentire libera di vestirmi come voglio*
+- *Non mi vuole bene per quella che sono e non rispetta le mie scelte*
+
+**Rationale:**
+This dimension captures **indirect control through emotional withdrawal, lack of support, and conditional approval**. The language includes **passive aggression** ("non mi parla per giorni") and **withholding validation** ("non mi vuole bene per quella che sono").
+
+---
+### **10. Comportamenti Fisici Violenti (Physical Violence)**
+*(Note: This overlaps partially with "Minacce e Intimidazione" but is distinct in its focus on enacted violence.)*
+**Items:**
+- *Mi afferra per i capelli, mi strattona, mi mette le mani al collo, tenta di soffocarmi, mi dà dei pugni, mi schiaffeggia, mi getta addosso degli oggetti o mi fa male in qualche modo*
+
+**Rationale:**
+This is a **standalone category for explicit physical abuse**, where the language is **unambiguously violent** ("strattona," "soffocarmi," "pugni"). It is distinct from threats in that the harm is **already realized**.
+
+---
+### Key Observations:
+1. **No Overlaps**: Each dimension captures a **unique form of abuse** (e.g., economic control ≠ social isolation).
+2. **Linguistic Cohesion**: Items within each group share **semantic fields** (e.g., financial terms for economic control, spatial metaphors for isolation).
+3. **Power Dynamics**: All dimensions reflect **asymmetrical power**, but the **methods vary** (e.g., humiliation vs. surveillance).
+4. **Trauma-Informed**: The grouping aligns with **psychological trauma literature** (e.g., gaslighting as a form of cognitive abuse).
+
+Would you like any refinements or additional theoretical framing (e.g., ties to coercive control theory)?

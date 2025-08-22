@@ -1,0 +1,112 @@
+### Psycholinguist (openai/gpt-5-mini) - Round 2
+Di seguito la versione rivista e allineata alla sintesi Delphi, con le dimensioni latenti finali, gli item assegnati (testo originale) e una breve motivazione per ciascuna. Ho mantenuto tutti gli item originali e non ne ho aggiunti né divisi.
+
+Dimensioni latenti finali
+
+1) Violenza fisica
+- Item:
+  - "Mi afferra per i capelli, mi strattona, mi mette le mani al collo, tenta di soffocarmi, mi dà dei pugni, mi schiaffeggia, mi getta addosso degli oggetti o mi fa male in qualche modo"
+- Motivazione: atti corporei diretti volti a causare danno o dolore fisico; contenuto omogeneo e immediatamente riconoscibile come aggressione fisica.
+
+2) Minacce e intimidazione
+- Item:
+  - "Rompe e lancia oggetti per intimidirmi"
+  - "Minaccia di distruggere le mie cose (telefono, vestiti, computer, auto, ecc.)"
+  - "Minaccia di fare del male a me, ai miei amici/amiche o alla mia famiglia"
+  - "Minaccia di farsi del male a causa mia"
+- Motivazione: comportamenti e dichiarazioni finalizzate a instillare paura (minacce a persona, a cose o autolesionistiche come leva di controllo).
+
+3) Coercizione sessuale e violazione della privacy
+- Item:
+  - "Mi chiede insistentemente di fare sesso e non accetta quando dico di no o che non mi va"
+  - "Ha mostrato mie immagini intime ad altre persone senza il mio consenso"
+  - "Minaccia di mostrare ai miei amici o ai miei familiari mie immagini intime"
+  - "Mi dice che, se lo lasciassi, rivelerebbe ad altri dei miei segreti o delle cose molto personali che sa di me"
+- Motivazione: pressione sessuale non consensuale e uso/minaccia di uso di materiale o informazioni private (ricatto/uso di immagini), tutte forme di abuso legate alla sfera sessuale e della privacy.
+
+4) Controllo coercitivo e isolamento (sociale, economico, di comportamento)
+- Item:
+  - "Mi sento controllata, ho la sensazione che non si fidi di me e che voglia sapere sempre dove sono e con chi, me lo chiede continuamente"
+  - "Cerca di controllare ciò che faccio e con chi mi vedo"
+  - "Non mi sento libera di fare le mie scelte su come gestire il mio tempo"
+  - "Non mi fa sentire libera di vestirmi come voglio"
+  - "Mi chiede di non vedere i miei amici/amiche"
+  - "Non vuole che io veda la mia famiglia, i miei amici/amiche"
+  - "Parla male delle mie amici/amiche e dice che sono dei/delle “poco di buono”"
+  - "Mi impedisce cercare un lavoro per essere indipendente"
+  - "Mi impedisce di avere accesso al conto corrente o alle mie risorse economiche"
+  - "Controlla come spendo i miei soldi"
+  - "Mi viene chiesto di giustificare ogni acquisto che faccio"
+  - "Pretende prove d'amore e dimostrazioni di fedeltà nei suoi confronti"
+  - "Diventa estremamente geloso o possessivo"
+  - "Mi accusa di flirtare o di tradirlo"
+  - "Sento che mi manda troppi messaggi o mi chiama in modo insistente"
+  - "Dice che sono impegnata in troppe cose e che lo trascuro, vorrebbe che passassimo la maggior parte del tempo insieme"
+  - "Non capisce che ho bisogno anche di miei spazi personali e non comprende che ci sono momenti in cui mi piace stare da sola o con persone diverse da lui (amici/amiche, familiari ecc.)"
+- Motivazione: pattern sistematico volto a limitare autonomia, relazioni sociali, lavoro e risorse economiche; include sorveglianza, gelosia, restrizioni pratiche e isolamento.
+
+5) Abuso verbale ed emotivo (svalutazione, umiliazione, critica)
+- Item:
+  - "Mi butta giù di morale, mi insulta o mi critica"
+  - "Mi dice che non valgo niente e che resterei sola se non stessi con lui perché nessuno mi vorrebbe"
+  - "Mi fa sentire spesso sbagliata e mi dice che è colpa mia se sta male"
+  - "Urla o mi umilia di fronte ad altre persone"
+  - "Mi sento giudicata rispetto alle cose che faccio e a come organizzo la mia vita"
+  - "Non mi vuole bene per quella che sono e non rispetta le mie scelte"
+  - "Non mi fa sentire bene quando parla di come mi prendo cura di me stessa e del mio aspetto fisico"
+- Motivazione: linguaggio e atteggiamenti che erodono autostima, mortificano e colpevolizzano.
+
+6) Gaslighting e manipolazione della realtà relazionale
+- Item:
+  - "Dopo che mi ha aggredito (fisicamente o verbalmente) nega di averlo fatto e mi fa dubitare che sia realmente successo."
+  - "Ha forti oscillazioni d'umore, il minuto prima si arrabbia e mi urla contro e quello successivo è dolce e si scusa"
+  - "Quando faccio qualcosa che a lui non va bene poi non mi parla per giorni"
+- Motivazione: tattiche che negano il vissuto della vittima, producono confusione, instabilità emotiva e dubbio sulla propria percezione (gaslighting, love-bombing/ritiro punitivo, scuse manipolative).
+
+7) Trascuratezza emotiva e assenza di supporto
+- Item:
+  - "Non si mostra interessato quando ho qualcosa che voglio condividere"
+  - "Non mi sento ascoltata"
+  - "Non mi incoraggia a provare nuove cose"
+  - "Non sento di avere il suo sostegno nelle cose che faccio"
+  - "Non sento che possiamo confrontarci e anche litigare senza farci male"
+- Motivazione: mancanza di attenzione, validazione emotiva e sostegno funzionale; indica carenza di relazione di cura.
+
+8) Paura, insicurezza personale e ipervigilanza
+- Item:
+  - "In sua compagnia mi capita di sentirmi a disagio e ho la sensazione di dover stare attenta a ciò che dico o a ciò che faccio, come se dovessi “camminare sulle uova” per evitare sue reazioni negative"
+  - "Provo paura vicino a lui, non mi sento al sicuro"
+  - "Ho paura di vederlo perché so che potrebbe avere comportamenti che mi possono fare stare male o sentire in imbarazzo"
+  - "In sua compagnia non mi sento a mio agio e al sicuro"
+  - "Sento disagio o non voglio fare qualcosa ma lo nascondo per paura che si arrabbi"
+- Motivazione: esperienza soggettiva di pericolo, ansia anticipatoria e ipervigilanza nello stare con il partner; misura l'impatto emotivo e la percezione di non sicurezza.
+
+9) Segnali esterni e assenza di indicatori di relazione sana
+- Item:
+  - "Le mie amiche o la mia famiglia sono preoccupate per me"
+  - "I miei amici/amiche mi hanno fatto notare che non piace loro come si comporta con me"
+  - "Sento di potergli parlare di qualsiasi cosa" (item positivo: in questo contesto funziona come indicatore inverso/assenza di apertura)
+- Motivazione: osservazioni esterne che segnalano rischio o preoccupazione; include anche un marcatore di relazione sana (apertura/confidenza) considerato qui come indicatore inverso (la sua presenza segnala relazione non abusiva; la sua assenza è coerente con abuso).
+
+Sintesi delle modifiche e ragione delle revisioni
+
+- Allineamento con la sintesi Delphi: ho adottato la struttura sintetizzata a 9 dimensioni proposta dalla moderazione Delphi, che riflette il consenso generale tra gli esperti (conservando ciascun item e assegnandolo una sola volta).
+- Riduzione della granularità rispetto alla mia mappa originale a 14 dimensioni: ho fuso categorie strettamente correlate (es. controllo economico, monitoraggio/gelosia e isolamento sociale) in un'unica dimensione «Controllo coercitivo e isolamento» per coerenza concettuale e parsimonia fattoriale—coerente con la sintesi aggregata.
+- Separazione del gaslighting: ho mantenuto «Gaslighting e manipolazione della realtà relazionale» come dimensione distinta (come indicato nella sintesi), dato che ha caratteristiche fenomenologiche e psicologiche specifiche (negazione della realtà, oscillazioni affettive, ritiro punitivo) che possono caricare in modo distinto rispetto all'abuso verbale generale.
+- Spostamento dell'item positivo: l'item "Sento di potergli parlare di qualsiasi cosa" è stato collocato nell'ultima dimensione come indicatore di assenza di qualità relazionale sana (reverse-coded). Questo segue la sintesi Delphi che lo considera un marcatore protettivo/di relazione sana piuttosto che parte dell'abuso.
+- Trattamento della minaccia/ricatto di rivelare segreti: è stata inclusa con gli item relativi alle immagini intime e al ricatto (dimensione 3) come forma di violazione della privacy e coercizione; tuttavia, segnalo (vedi sotto) una possibile valutazione di cross-loading in analisi fattoriale.
+
+Suggerimenti/annotazioni metodologiche e proposte alternative
+- Item potenzialmente cross-loadante: "Mi dice che, se lo lasciassi, rivelerebbe ad altri dei miei segreti..." può rappresentare sia minaccia/intimidazione sia violazione della privacy/ricatto; in analisi fattoriale esplorativa si consiglia di controllarne il cross-loading tra la dimensione 2 (Minacce & intimidazione) e la 3 (Coercizione sessuale & violazione della privacy) e, se necessario, prevedere un caricamento su entrambi o decidere una codifica a priori coerente con il focus teorico.
+- Se si volessero modelli più parsimoniosi (poche dimensioni), è ragionevole:
+  - aggregare «Gaslighting» dentro «Abuso emotivo» (6+5), oppure
+  - considerare un fattore sovraordinato «Coercive control/Abuse» che raggruppi le dimensioni 3–6, con fattori specifici secondari.
+- Codifica dell'item positivo: trattarlo come item invertito (reverse-coded) nei punteggi; valutare separatezza psicometrica (bassa varianza se quasi sempre negativa in campioni di vittime).
+- Raccomandazione pratica: usare analisi fattoriali esplorative/consacrative su campione ampio per verificare struttura (es. confermare la distinzione tra paura soggettiva e minacce oggettive, e la specificità del fattore gaslighting).
+
+Se vuoi, posso:
+- Produrre una proposta di matrice item → fattore pronta per analisi fattoriale (CSV/Excel),
+- Sugg erire strategie di scoring (es. fattori separati, fattore generale, come trattare item invertiti),
+- O eseguire simulazioni psedodat per verificare identificabilità dei fattori (se fornisci dati o parametri desiderati).
+
+Vuoi che generi la matrice item-fattore in formato tabellare pronta per l'esportazione?

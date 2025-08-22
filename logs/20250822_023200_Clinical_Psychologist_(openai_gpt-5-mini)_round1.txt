@@ -1,0 +1,94 @@
+### Clinical Psychologist (openai/gpt-5-mini)
+Below propongo una soluzione di fattorizzazione clinica delle voci in dimensioni latenti. Per ciascuna dimensione: etichetta, elenco delle voci (testo originale) e breve razionale clinico. Ho evitato sovrapposizioni tra dimensioni assegnando ogni item a una sola categoria.
+
+1) Violenza fisica
+- Mi afferra per i capelli, mi strattona, mi mette le mani al collo, tenta di soffocarmi, mi dà dei pugni, mi schiaffeggia, mi getta addosso degli oggetti o mi fa male in qualche modo
+Razionale: azioni che provocano danno corporeo diretto; nucleo di rischio per incolumità fisica.
+
+2) Minacce e intimidazione (inclusa distruzione di cose)
+- Minaccia di distruggere le mie cose (telefono, vestiti, computer, auto, ecc.)
+- Rompe e lancia oggetti per intimidirmi
+- Minaccia di fare del male a me, ai miei amici/amiche o alla mia famiglia
+- Minaccia di farsi del male a causa mia
+Razionale: comunicazioni o gesti volti a intimidire, costringere o costituire coercizione tramite minacce verso persona/beni o autolesionismo strumentale.
+
+3) Negazione / gaslighting
+- Dopo che mi ha aggredito (fisicamente o verbalmente) nega di averlo fatto e mi fa dubitare che sia realmente successo.
+Razionale: strategia che mina la percezione della vittima della realtà, riducendo fiducia nelle proprie memorie e reazioni.
+
+4) Umiliazione verbale, svalutazione e colpevolizzazione
+- Mi fa sentire spesso sbagliata e mi dice che è colpa mia se sta male
+- Mi butta giù di morale, mi insulta o mi critica
+- Non mi vuole bene per quella che sono e non rispetta le mie scelte
+- Mi dice che non valgo niente e che resterei sola se non stessi con lui perché nessuno mi vorrebbe
+- Mi sento giudicata rispetto alle cose che faccio e a come organizzo la mia vita
+- Non mi fa sentire bene quando parla di come mi prendo cura di me stessa e del mio aspetto fisico
+- Urla o mi umilia di fronte ad altre persone
+Razionale: comportamenti verbali che minano autostima, colpevolizzano e umiliano, sia in privato che in pubblico.
+
+5) Paura, insicurezza e ipervigilanza (esperienza soggettiva di minaccia)
+- In sua compagnia mi capita di sentirmi a disagio e ho la sensazione di dover stare attenta a ciò che dico o a ciò che faccio, come se dovessi “camminare sulle uova” per evitare sue reazioni negative
+- In sua compagnia non mi sento a mio agio e al sicuro
+- Sento disagio o non voglio fare qualcosa ma lo nascondo per paura che si arrabbi
+- Ho paura di vederlo perché so che potrebbe avere comportamenti che mi possono fare stare male o sentire in imbarazzo
+- Provo paura vicino a lui, non mi sento al sicuro
+Razionale: esperienza emotiva di minaccia che orienta comportamenti di evitamento e ipervigilanza.
+
+6) Controllo, gelosia, sorveglianza e limitazione delle relazioni/tempo/abbigliamento
+- Sento che mi manda troppi messaggi o mi chiama in modo insistente
+- Pretende prove d'amore e dimostrazioni di fedeltà nei suoi confronti
+- Mi sento controllata, ho la sensazione che non si fidi di me e che voglia sapere sempre dove sono e con chi, me lo chiede continuamente
+- Mi accusa di flirtare o di tradirlo
+- Diventa estremamente geloso o possessivo
+- Cerca di controllare ciò che faccio e con chi mi vedo
+- Dice che sono impegnata in troppe cose e che lo trascuro, vorrebbe che passassimo la maggior parte del tempo insieme
+- Non mi sento libera di vestirmi come voglio
+- Non mi fa sentire libera di fare le mie scelte su come gestire il mio tempo
+- Non capisce che ho bisogno anche di miei spazi personali e non comprende che ci sono momenti in cui mi piace stare da sola o con persone diverse da lui (amici/amiche, familiari ecc.)
+Razionale: insieme di pratiche di monitoraggio e limitazione dell’autonomia personale (spazi, tempo, abbigliamento, relazioni) motivate da gelosia/controllo.
+
+7) Isolamento sociale e delegittimazione della rete di supporto (feedback esterno)
+- Non vuole che io veda la mia famiglia, i miei amici/amiche
+- Parla male delle mie amici/amiche e dice che sono dei/delle “poco di buono”
+- Mi chiede di non vedere i miei amici/amiche
+- I miei amici/amiche mi hanno fatto notare che non piace loro come si comporta con me
+- Le mie amiche o la mia famiglia sono preoccupate per me
+Razionale: strategie per allontanare la vittima dalla rete di sostegno; compaiono anche segnali esterni di preoccupazione.
+
+8) Controllo economico e abuso finanziario
+- Mi viene chiesto di giustificare ogni acquisto che faccio
+- Mi impedisce di avere accesso al conto corrente o alle mie risorse economiche
+- Controlla come spendo i miei soldi
+- Mi impedisce cercare un lavoro per essere indipendente
+Razionale: restrizione dell’autonomia economica per rendere la vittima dipendente.
+
+9) Violazione della privacy, ricatto e diffusione di immagini intime
+- Minaccia di mostrare ai miei amici o ai miei familiari mie immagini intime
+- Mi dice che, se lo lasciassi, rivelerebbe ad altri dei miei segreti o delle cose molto personali che sa di me
+- Ha mostrato mie immagini intime ad altre persone senza il mio consenso
+Razionale: coercizione tramite minacce alla privacy e uso/dispersione non consensuale di materiale intimo (revenge/ image-based abuse).
+
+10) Costrizione sessuale e pressione per rapporti non consenzienti
+- Mi chiede insistentemente di fare sesso e non accetta quando dico di no o che non mi va
+Razionale: pressione sessuale e invalidazione del consenso che configurano abuso sessuale.
+
+11) Trascuratezza emotiva e mancanza di supporto
+- Non mi sento ascoltata
+- Non sento di avere il suo sostegno nelle cose che faccio
+- Non si mostra interessato quando ho qualcosa che voglio condividere
+- Non mi incoraggia a provare nuove cose
+Razionale: deficit di sintonizzazione emotiva e supporto che impoveriscono qualità affettiva della relazione.
+
+12) Sicurezza emotiva e comunicazione aperta (fiducia)
+- Sento di potergli parlare di qualsiasi cosa
+- Non sento che possiamo confrontarci e anche litigare senza farci male
+Razionale: dimensione della fiducia e della possibilità di confronto sicuro; include indicatori positivi/negativi della capacità di comunicare senza danno.
+
+13) Oscillazioni emotive punitive e ritiro punitivo
+- Ha forti oscillazioni d'umore, il minuto prima si arrabbia e mi urla contro e quello successivo è dolce e si scusa
+- Quando faccio qualcosa che a lui non va bene poi non mi parla per giorni
+Razionale: oscillazioni e ritiro emotivo usati come strumento punitivo/ricompensa, generano instabilità emotiva e controllo.
+
+Se vuoi, posso:
+- fornire una mappa alternativa con meno (o più) dimensioni raggruppando alcuni cluster (es. unire paura + umiliazione in “abuso emotivo”); oppure
+- produrre indicatori sintetici (scale) per ciascuna dimensione utili per valutazione clinica o screening.

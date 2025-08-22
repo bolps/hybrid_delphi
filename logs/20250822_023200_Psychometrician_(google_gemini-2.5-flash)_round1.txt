@@ -1,0 +1,97 @@
+### Psychometrician (google/gemini-2.5-flash)
+As a psychometrician, I've analyzed the provided items to identify latent dimensions related to relationship dynamics, particularly those indicative of unhealthy or abusive patterns. I've grouped them based on their thematic coherence and underlying psychological constructs.
+
+Here are the identified latent dimensions:
+
+---
+
+**Dimension 1: Psychological & Emotional Abuse**
+*   **Label:** Psychological & Emotional Abuse
+*   **Items:**
+    *   Mi fa sentire spesso sbagliata e mi dice che è colpa mia se sta male
+    *   Dopo che mi ha aggredito (fisicamente o verbalmente) nega di averlo fatto e mi fa dubitare che sia realmente successo.
+    *   Mi sento giudicata rispetto alle cose che faccio e a come organizzo la mia vita
+    *   Mi butta giù di morale, mi insulta o mi critica
+    *   Mi dice che non valgo niente e che resterei sola se non stessi con lui perché nessuno mi vorrebbe
+    *   Non mi vuole bene per quella che sono e non rispetta le mie scelte
+    *   Non mi fa sentire bene quando parla di come mi prendo cura di me stessa e del mio aspetto fisico
+    *   Non mi sento ascoltata
+    *   Parla male delle mie amici/amiche e dice che sono dei/delle “poco di buono”
+    *   Urla o mi umilia di fronte ad altre persone
+    *   Mi dice che, se lo lasciassi, rivelerebbe ad altri dei miei segreti o delle cose molto personali che sa di me
+    *   Minaccia di farsi del male a causa mia
+    *   Non si mostra interessato quando ho qualcosa che voglio condividere
+    *   Non sento di avere il suo sostegno nelle cose che faccio
+    *   Non mi incoraggia a provare nuove cose
+    *   Quando faccio qualcosa che a lui non va bene poi non mi parla per giorni
+    *   Non sento che possiamo confrontarci e anche litigare senza farci male
+    *   In sua compagnia mi capita di sentirsi a disagio e ho la sensazione di dover stare attenta a ciò che dico o a ciò che faccio, come se dovessi “camminare sulle uova” per evitare sue reazioni negative
+*   **Rationale:** These items collectively describe behaviors that undermine a person's self-esteem, emotional well-being, and sense of reality. They involve manipulation, belittling, gaslighting, threats of self-harm (to induce guilt), and creating an environment of fear and emotional invalidation. The core theme is the systematic erosion of the victim's psychological integrity.
+
+---
+
+**Dimension 2: Controlling & Restrictive Behavior**
+*   **Label:** Controlling & Restrictive Behavior
+*   **Items:**
+    *   Non vuole che io veda la mia famiglia, i miei amici/amiche
+    *   Mi sento controllata, ho la sensazione che non si fidi di me e che voglia sapere sempre dove sono e con chi, me lo chiede continuamente
+    *   Cerca di controllare ciò che faccio e con chi mi vedo
+    *   Non mi fa sentire libera di fare le mie scelte su come gestire il mio tempo
+    *   Mi chiede di non vedere i miei amici/amiche
+    *   Mi impedisce cercare un lavoro per essere indipendente
+    *   Pretende prove d'amore e dimostrazioni di fedeltà nei suoi confronti
+    *   Dice che sono impegnata in troppe cose e che lo trascuro, vorrebbe che passassimo la maggior parte del tempo insieme
+    *   Non mi sento libera di vestirmi come voglio
+    *   Mi accusa di flirtare o di tradirlo
+    *   Controlla come spendo i miei soldi
+    *   Mi impedisce di avere accesso al conto corrente o alle mie risorse economiche
+    *   Mi viene chiesto di giustificare ogni acquisto che faccio
+    *   Diventa estremamente geloso o possessivo
+    *   Non capisce che ho bisogno anche di miei spazi personali e non comprende che ci sono momenti in cui mi piace stare da sola o con persone diverse da lui (amici/amiche, familiari ecc.)
+    *   Sento che mi manda troppi messaggi o mi chiama in modo insistente
+*   **Rationale:** This dimension captures behaviors aimed at limiting a person's autonomy, freedom, and access to external support systems. It includes surveillance, isolation tactics, financial control, restrictions on personal choices, and excessive jealousy. The underlying construct is a desire for absolute control over the partner's life.
+
+---
+
+**Dimension 3: Intimidation & Threats**
+*   **Label:** Intimidation & Threats
+*   **Items:**
+    *   Sento disagio o non voglio fare qualcosa ma lo nascondo per paura che si arrabbi
+    *   Provo paura vicino a lui, non mi sento al sicuro
+    *   Ha forti oscillazioni d'umore, il minuto prima si arrabbia e mi urla contro e quello successivo è dolce e si scusa
+    *   Ho paura di vederlo perché so che potrebbe avere comportamenti che mi possono fare stare male o sentire in imbarazzo
+    *   Minaccia di fare del male a me, ai miei amici/amiche o alla mia famiglia
+    *   Minaccia di distruggere le mie cose (telefono, vestiti, computer, auto, ecc.)
+    *   Rompe e lancia oggetti per intimidirmi
+    *   Minaccia di mostrare ai miei amici o ai miei familiari mie immagini intime
+*   **Rationale:** This dimension encompasses behaviors that instill fear and create an atmosphere of threat, without necessarily involving direct physical violence. It includes explicit threats of harm (to person, loved ones, or property), unpredictable mood swings that keep the victim on edge, and actions designed to intimidate and coerce through fear of negative consequences.
+
+---
+
+**Dimension 4: Sexual Coercion & Exploitation**
+*   **Label:** Sexual Coercion & Exploitation
+*   **Items:**
+    *   Ha mostrato mie immagini intime ad altre persone senza il mio consenso
+    *   Mi chiede insistentemente di fare sesso e non accetta quando dico di no o che non mi va
+*   **Rationale:** These items specifically address non-consensual sexual acts or the exploitation of intimate images. They represent a distinct category of abuse focused on sexual autonomy and privacy.
+
+---
+
+**Dimension 5: Physical Violence**
+*   **Label:** Physical Violence
+*   **Items:**
+    *   Mi afferra per i capelli, mi strattona, mi mette le mani al collo, tenta di soffocarmi, mi dà dei pugni, mi schiaffeggia, mi getta addosso degli oggetti o mi fa male in qualche modo
+*   **Rationale:** This item explicitly describes acts of physical aggression and violence. It's a clear and distinct category of abuse focused on bodily harm.
+
+---
+
+**Dimension 6: External Awareness & Concern**
+*   **Label:** External Awareness & Concern
+*   **Items:**
+    *   I miei amici/amiche mi hanno fatto notare che non piace loro come si comporta con me
+    *   Le mie amiche o la mia famiglia sono preoccupate per me
+    *   In sua compagnia non mi sento a mio agio e al sicuro
+    *   Sento di potergli parlare di qualsiasi cosa (This item is reverse-coded, indicating a *lack* of this feeling, which aligns with external concern about safety/comfort).
+*   **Rationale:** These items reflect the perception of concern from external sources (friends, family) about the relationship, or the individual's own internal feeling of discomfort and lack of safety within the relationship, often observed by others. The "Sento di potergli parlare..." item, if interpreted as a *lack* of this feeling, reinforces the idea of a relationship where open communication and safety are compromised, leading to external concern.
+
+---

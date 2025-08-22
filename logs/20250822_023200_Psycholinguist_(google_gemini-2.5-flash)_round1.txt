@@ -1,0 +1,77 @@
+### Psycholinguist (google/gemini-2.5-flash)
+Here's an analysis of the provided psychological items, grouping them into latent dimensions based on semantic similarity and underlying meaning.
+
+## Latent Dimensions
+
+### Dimension 1: Controllo e Coercizione (Control and Coercion)
+
+*   **Items:**
+    *   Minaccia di mostrare ai miei amici o ai miei familiari mie immagini intime
+    *   Pretende prove d'amore e dimostrazioni di fedeltà nei suoi confronti
+    *   Mi sento controllata, ho la sensazione che non si fidi di me e che voglia sapere sempre dove sono e con chi, me lo chiede continuamente
+    *   Mi accusa di flirtare o di tradirlo
+    *   Cerca di controllare ciò che faccio e con chi mi vedo
+    *   Non vuole che io veda la mia famiglia, i miei amici/amiche
+    *   Controlla come spendo i miei soldi
+    *   Non mi fa sentire libera di vestirmi come voglio
+    *   Non mi fa sentire libera di fare le mie scelte su come gestire il mio tempo
+    *   Mi impedisce cercare un lavoro per essere indipendente
+    *   Non capisce che ho bisogno anche di miei spazi personali e non comprende che ci sono momenti in cui mi piace stare da sola o con persone diverse da lui (amici/amiche, familiari ecc.)
+    *   Mi viene chiesto di giustificare ogni acquisto che faccio
+    *   Mi chiede di non vedere i miei amici/amiche
+    *   Mi impedisce di avere accesso al conto corrente o alle mie risorse economiche
+    *   Dice che sono impegnata in troppe cose e che lo trascuro, vorrebbe che passassimo la maggior parte del tempo insieme
+    *   Sento che mi manda troppi messaggi o mi chiama in modo insistente
+
+*   **Rationale:** This dimension captures behaviors where one partner actively seeks to limit the other's autonomy, freedom, and access to resources or social connections. The underlying theme is the exertion of power and dominance through various forms of control, ranging from monitoring activities and finances to isolating the individual from their support network.
+
+### Dimension 2: Aggressione e Intimidazione (Aggression and Intimidation)
+
+*   **Items:**
+    *   Rompe e lancia oggetti per intimidirmi
+    *   Minaccia di farsi del male a causa mia
+    *   Minaccia di fare del male a me, ai miei amici/amiche o alla mia famiglia
+    *   Mi chiede insistentemente di fare sesso e non accetta quando dico di no o che non mi va
+    *   Ha mostrato mie immagini intime ad altre persone senza il mio consenso
+    *   Minaccia di distruggere le mie cose (telefono, vestiti, computer, auto, ecc.)
+    *   Urla o mi umilia di fronte ad altre persone
+    *   Mi afferra per i capelli, mi strattona, mi mette le mani al collo, tenta di soffocarmi, mi dà dei pugni, mi schiaffeggia, mi getta addosso degli oggetti o mi fa male in qualche modo
+    *   Mi dice che, se lo lasciassi, rivelerebbe ad altri dei miei segreti o delle cose molto personali che sa di me
+
+*   **Rationale:** This dimension encompasses direct, overt acts of aggression, whether physical, sexual, or through threats and public humiliation. The core element is the use of force, or the threat of force/harm (physical, reputational, or emotional), to instill fear and coerce the other person.
+
+### Dimension 3: Svalutazione e Manipolazione Psicologica (Invalidation and Psychological Manipulation)
+
+*   **Items:**
+    *   Parla male delle mie amici/amiche e dice che sono dei/delle “poco di buono”
+    *   Dopo che mi ha aggredito (fisicamente o verbalmente) nega di averlo fatto e mi fa dubitare che sia realmente successo.
+    *   Non mi sento ascoltata
+    *   Non mi fa sentire bene quando parla di come mi prendo cura di me stessa e del mio aspetto fisico
+    *   Quando faccio qualcosa che a lui non va bene poi non mi parla per giorni
+    *   Sento disagio o non voglio fare qualcosa ma lo nascondo per paura che si arrabbi
+    *   Diventa estremamente geloso o possessivo
+    *   Non mi incoraggia a provare nuove cose
+    *   Mi fa sentire spesso sbagliata e mi dice che è colpa mia se sta male
+    *   Mi sento giudicata rispetto alle cose che faccio e a come organizzo la mia vita
+    *   Mi dice che non valgo niente e che resterei sola se non stessi con lui perché nessuno mi vorrebbe
+    *   Non sento di avere il suo sostegno nelle cose che faccio
+    *   Non si mostra interessato quando ho qualcosa che voglio condividere
+    *   Mi butta giù di morale, mi insulta o mi critica
+    *   Ha forti oscillazioni d'umore, il minuto prima si arrabbia e mi urla contro e quello successivo è dolce e si scusa
+    *   Non mi vuole bene per quella che sono e non rispetta le mie scelte
+
+*   **Rationale:** This dimension focuses on behaviors that undermine the victim's self-worth, reality, and emotional well-being. It includes gaslighting, emotional neglect, constant criticism, belittling, and the use of guilt or emotional withdrawal to manipulate the other person's feelings and behavior. It erodes self-esteem and creates self-doubt.
+
+### Dimension 4: Impatto e Conseguenze Relazionali (Impact and Relational Consequences)
+
+*   **Items:**
+    *   Le mie amiche o la mia famiglia sono preoccupate per me
+    *   I miei amici/amiche mi hanno fatto notare che non piace loro come si comporta con me
+    *   Sento di potergli parlare di qualsiasi cosa (This item is an *absence* of negative impact, indicating a healthy relationship, but its inclusion here highlights the contrast with the other items in this category which describe the *lack* of this positive state)
+    *   Non sento che possiamo confrontarci e anche litigare senza farci male
+    *   Ho paura di vederlo perché so che potrebbe avere comportamenti che mi possono fare stare male o sentire in imbarazzo
+    *   Provo paura vicino a lui, non mi sento al sicuro
+    *   In sua compagnia non mi sento a mio agio e al sicuro
+    *   In sua compagnia mi capita di sentirsi a disagio e ho la sensazione di dover stare attenta a ciò che dico o a ciò che faccio, come se dovessi “camminare sulle uova” per evitare sue reazioni negative
+
+*   **Rationale:** This dimension captures the subjective experience of the relationship's negative impact on the individual's emotional state, sense of safety, and the perception of the relationship by external parties. It reflects the outcome of the other negative behaviors, manifesting as fear, discomfort, and a breakdown of trust and open communication. The positive item ("Sento di potergli parlare di qualsiasi cosa") serves as a counterpoint, highlighting the absence of this healthy relational quality when the negative impacts are present.

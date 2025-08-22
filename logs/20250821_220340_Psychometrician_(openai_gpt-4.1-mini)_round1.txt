@@ -1,0 +1,83 @@
+### Psychometrician (openai/gpt-4.1-mini)
+**Latent Dimension 1: Emotional and Verbal Abuse**  
+- Mi fa sentire spesso sbagliata e mi dice che è colpa mia se sta male  
+- Mi sento giudicata rispetto alle cose che faccio e a come organizzo la mia vita  
+- Mi dice che non valgo niente e che resterei sola se non stessi con lui perché nessuno mi vorrebbe  
+- Urla o mi umilia di fronte ad altre persone  
+- Mi butta giù, mi insulta o mi critica  
+- Dopo che mi ha aggredito (fisicamente o verbalmente) nega di averlo fatto e mi fa dubitare che sia realmente successo.  
+- Parla male delle mie amici/amiche e dice che sono dei/delle “poco di buono”  
+- Mi fa sentire libera di fare le mie scelte su come gestire il mio tempo (reverse-coded: implies absence of abuse) — *excluded* here to avoid overlap  
+
+**Rationale:** These items reflect direct verbal attacks, belittling, humiliation, and emotional manipulation intended to undermine self-esteem and sense of worth.
+
+---
+
+**Latent Dimension 2: Control and Jealousy**  
+- Dice che sono impegnata in troppe cose e che lo trascuro, vorrebbe che passassimo la maggior parte del tempo insieme  
+- Mi sento controllata, ho la sensazione che non si fidi di me e che voglia sapere sempre dove sono e con chi, me lo chiede continuamente  
+- Controlla come spendo i miei soldi  
+- Mi viene chiesto di giustificare ogni acquisto che faccio  
+- Cerca di controllare ciò che faccio e con chi mi vedo  
+- Mi impedisce di avere accesso al conto corrente o alle mie risorse economiche  
+- Mi impedisce cercare un lavoro per essere indipendente  
+- Sento che mi manda troppi messaggi o mi chiama in modo insistente  
+- Diventa estremamente geloso o possessivo  
+- Mi accusa di flirtare o di tradirlo  
+- Pretende prove d'amore e dimostrazioni di fedeltà nei suoi confronti  
+- Mi chiede di non vedere i miei amici/amiche  
+- Non vuole che io veda la mia famiglia, i miei amici/amiche  
+- Non mi sento libera di vestirmi come voglio  
+- I miei amici/amiche mi hanno fatto notare che non piace loro come si comporta con me  
+
+**Rationale:** These items reflect controlling behaviors, jealousy, and attempts to limit autonomy and social contacts, typical of coercive control dynamics.
+
+---
+
+**Latent Dimension 3: Physical Abuse and Threats**  
+- Mi afferra per i capelli, mi strattona, mi mette le mani al collo, tenta di soffocarmi, mi dà dei pugni, mi schiaffeggia, mi getta addosso degli oggetti o mi fa male in qualche modo  
+- Minacce di distruggere le mie cose (telefono, vestiti, computer, auto, ecc.)  
+- Rompe e lancia oggetti per intimidirmi  
+- Minaccia di mostrare ai miei amici o ai miei familiari mie immagini intime  
+- Minaccia di fare del male a me, ai miei amici/amiche o alla mia famiglia  
+- Mi chiede insistentemente di fare sesso e non accetta quando dico di no o che non mi va  
+- Ha mostrato mie immagini intime ad altre persone senza il mio consenso  
+- Mi butta giù, mi insulta o mi critica — *excluded, part of emotional abuse*  
+- Minaccia di farsi del male a causa mia  
+
+**Rationale:** These items capture direct physical violence, sexual coercion, intimidation, and threats to safety and privacy.
+
+---
+
+**Latent Dimension 4: Fear, Discomfort, and Safety Concerns**  
+- Ho paura di vederlo perché so che potrebbe avere comportamenti che mi possono fare stare male o sentire in imbarazzo  
+- Provo paura vicino a lui, non mi sento al sicuro  
+- Sento disagio o non voglio fare qualcosa ma lo nascondo per paura che si arrabbi  
+- Le mie amiche o la mia famiglia sono preoccupate per me  
+
+**Rationale:** These items reflect the emotional experience of fear, discomfort, and perceived threat to personal safety in the relationship context.
+
+---
+
+**Latent Dimension 5: Positive Support and Respect**  
+- Mi vuole bene per quella che sono e rispetta le mie scelte  
+- Mi sento ascoltata e si mostra interessato quando ho qualcosa che voglio condividere  
+- In sua compagnia mi sento a mio agio e al sicuro  
+- Sento di potergli parlare di qualsiasi cosa  
+- Sento che possiamo confrontarci e anche litigare senza farci male  
+- Capisce che ho bisogno anche di miei spazi personali e comprende che ci sono momenti in cui mi piace stare da sola o con persone diverse da lui (amici/amiche, familiari ecc.)  
+- Mi incoraggia a provare nuove cose  
+- Sento il suo sostegno nelle cose che faccio  
+
+**Rationale:** These items represent positive relational qualities such as emotional support, respect for autonomy, comfort, and healthy communication.
+
+---
+
+**Summary:**  
+1. Emotional and Verbal Abuse  
+2. Control and Jealousy  
+3. Physical Abuse and Threats  
+4. Fear, Discomfort, and Safety Concerns  
+5. Positive Support and Respect  
+
+Each dimension groups items that share a coherent psychological theme without overlap, capturing distinct facets of relational dynamics ranging from abuse and control to support and safety.

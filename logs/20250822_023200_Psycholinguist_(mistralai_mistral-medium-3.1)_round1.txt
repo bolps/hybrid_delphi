@@ -1,0 +1,142 @@
+### Psycholinguist (mistralai/mistral-medium-3.1)
+Below is a **latent dimensional analysis** of the provided items, grouped into **coherent psychological and semantic categories** reflecting underlying themes of **abusive, controlling, and manipulative behaviors** in intimate relationships. Each dimension is labeled, justified, and populated with relevant items to avoid overlap.
+
+---
+
+### **1. Emotional Abuse & Psychological Manipulation**
+*(Undermining self-worth, gaslighting, blame-shifting, and emotional invalidation)*
+- **Items:**
+  - Mi fa sentire spesso sbagliata e mi dice che è colpa mia se sta male
+  - Mi butta giù di morale, mi insulta o mi critica
+  - Dice che non valgo niente e che resterei sola se non stessi con lui perché nessuno mi vorrebbe
+  - Dopo che mi ha aggredito (fisicamente o verbalmente) nega di averlo fatto e mi fa dubitare che sia realmente successo
+  - Urla o mi umilia di fronte ad altre persone
+  - Mi dice che sono impegnata in troppe cose e che lo trascuro, vorrebbe che passassimo la maggior parte del tempo insieme
+  - Non sento che possiamo confrontarci e anche litigare senza farci male
+- **Rationale:**
+  These items reflect **systematic emotional degradation**, including **gaslighting** (denying reality), **verbal abuse**, and **guilt-tripping** to erode self-esteem and create dependency. The focus is on **psychological harm** rather than overt control or physical violence.
+
+---
+
+### **2. Isolation & Social Control**
+*(Restricting autonomy, sabotaging support networks, and enforcing dependency)*
+- **Items:**
+  - Non vuole che io veda la mia famiglia, i miei amici/amiche
+  - Mi chiede di non vedere i miei amici/amiche
+  - Parla male delle mie amici/amiche e dice che sono dei/delle “poco di buono”
+  - Le mie amiche o la mia famiglia sono preoccupate per me
+  - I miei amici/amiche mi hanno fatto notare che non piace loro come si comporta con me
+  - Non mi incoraggia a provare nuove cose
+  - Non capisce che ho bisogno anche di miei spazi personali e non comprende che ci sono momenti in cui mi piace stare da sola o con persone diverse da lui
+- **Rationale:**
+  This dimension captures **social isolation tactics**, including **discrediting loved ones**, **restricting interactions**, and **fostering dependence** by cutting off external support. The items highlight **third-party concern** as a red flag.
+
+---
+
+### **3. Coercive Control & Surveillance**
+*(Monitoring, restricting freedom, and enforcing obedience through intrusion or threats)*
+- **Items:**
+  - Mi sento controllata, ho la sensazione che non si fidi di me e che voglia sapere sempre dove sono e con chi, me lo chiede continuamente
+  - Cerca di controllare ciò che faccio e con chi mi vedo
+  - Non mi sento libera di fare le mie scelte su come gestire il mio tempo
+  - Mi viene chiesto di giustificare ogni acquisto che faccio
+  - Controlla come spendo i miei soldi
+  - Non mi fa sentire libera di vestirmi come voglio
+  - Pretende prove d'amore e dimostrazioni di fedeltà nei suoi confronti
+  - Sento che mi manda troppi messaggi o mi chiama in modo insistente
+- **Rationale:**
+  These items describe **micromanagement of behavior**, **financial control**, and **hypervigilance** over daily activities. The focus is on **enforcing compliance** through **intrusion** rather than direct violence.
+
+---
+
+### **4. Physical Violence & Intimidation**
+*(Explicit aggression, threats, and destructive behavior to instill fear)*
+- **Items:**
+  - Mi afferra per i capelli, mi strattona, mi mette le mani al collo, tenta di soffocarmi, mi dà dei pugni, mi schiaffeggia, mi getta addosso degli oggetti o mi fa male in qualche modo
+  - Rompe e lancia oggetti per intimidirmi
+  - Minaccia di distruggere le mie cose (telefono, vestiti, computer, auto, ecc.)
+  - Minaccia di fare del male a me, ai miei amici/amiche o alla mia famiglia
+  - Ho paura di vederlo perché so che potrebbe avere comportamenti che mi possono fare stare male o sentire in imbarazzo
+  - Provo paura vicino a lui, non mi sento al sicuro
+  - In sua compagnia non mi sento a mio agio e al sicuro
+- **Rationale:**
+  This dimension includes **overt physical abuse**, **property destruction**, and **explicit threats** to create a climate of **terror and submission**. The items emphasize **fear as a primary emotional response**.
+
+---
+
+### **5. Sexual Coercion & Reproductive Control**
+*(Violating bodily autonomy, pressuring for sex, and weaponizing intimacy)*
+- **Items:**
+  - Mi chiede insistentemente di fare sesso e non accetta quando dico di no o che non mi va
+  - Ha mostrato mie immagini intime ad altre persone senza il mio consenso
+  - Minaccia di mostrare ai miei amici o ai miei familiari mie immagini intime
+- **Rationale:**
+  These items reflect **sexual violation**, including **coercion**, **revenge porn**, and **blackmail**. The focus is on **controlling the partner’s body and sexuality** as a tool of power.
+
+---
+### **6. Economic Abuse & Resource Deprivation**
+*(Restricting financial independence to trap the partner in the relationship)*
+- **Items:**
+  - Mi impedisce di avere accesso al conto corrente o alle mie risorse economiche
+  - Mi impedisce cercare un lavoro per essere indipendente
+  - Controlla come spendo i miei soldi
+- **Rationale:**
+  This dimension highlights **financial domination**, including **withholding money**, **sabotaging employment**, and **monitoring spending** to **limit escape options**.
+
+---
+### **7. Love-Bombing & Unpredictable Mood Swings**
+*(Cycling between affection and aggression to create confusion and dependency)*
+- **Items:**
+  - Ha forti oscillazioni d'umore, il minuto prima si arrabbia e mi urla contro e quello successivo è dolce e si scusa
+  - Quando faccio qualcosa che a lui non va bene poi non mi parla per giorni
+- **Rationale:**
+  These items describe **intermittent reinforcement**—alternating **abuse with affection**—to **disorient the partner** and **foster traumatic bonding**.
+
+---
+### **8. Gaslighting & Reality Distortion**
+*(Manipulating perception to induce self-doubt and dependency on the abuser’s narrative)*
+- **Items:**
+  - Dopo che mi ha aggredito (fisicamente o verbalmente) nega di averlo fatto e mi fa dubitare che sia realmente successo
+  - Mi accusa di flirtare o di tradirlo (if paired with denial of the partner’s own behavior)
+- **Rationale:**
+  While overlapping with **Emotional Abuse**, these items specifically target **distorting the victim’s sense of reality**, a hallmark of **gaslighting**.
+
+---
+### **9. Lack of Emotional Support & Invalidating Needs**
+*(Dismissing the partner’s emotions, goals, and autonomy)*
+- **Items:**
+  - Non sento di avere il suo sostegno nelle cose che faccio
+  - Non si mostra interessato quando ho qualcosa che voglio condividere
+  - Non mi sento ascoltata
+  - Non mi fa sentire bene quando parla di come mi prendo cura di me stessa e del mio aspetto fisico
+  - Non mi sento libera di vestirmi come voglio
+  - Sento disagio o non voglio fare qualcosa ma lo nascondo per paura che si arrabbi
+- **Rationale:**
+  These items reflect **emotional neglect**, **criticism of personal choices**, and **suppression of individuality**, creating a **hostile or indifferent environment**.
+
+---
+### **10. Threats of Exposure & Blackmail**
+*(Using secrets or intimate material as leverage for control)*
+- **Items:**
+  - Mi dice che, se lo lasciassi, rivelerebbe ad altri dei miei segreti o delle cose molto personali che sa di me
+  - Minaccia di mostrare ai miei amici o ai miei familiari mie immagini intime
+  - Ha mostrato mie immagini intime ad altre persone senza il mio consenso
+- **Rationale:**
+  This dimension focuses on **exploiting vulnerability** through **blackmail**, **doxxing**, or **non-consensual sharing of private content** to **enforce compliance**.
+
+---
+### **11. Positive Outlier (Healthy Relationship Indicator)**
+*(The sole item reflecting trust and safety—likely included as a contrast)*
+- **Item:**
+  - Sento di potergli parlare di qualsiasi cosa
+- **Rationale:**
+  This stands alone as the **only non-abusive item**, indicating **emotional safety** and **trust**. It serves as a **control item** to highlight the absence of healthy dynamics in the others.
+
+---
+### **Key Observations:**
+1. **Overlap Mitigation:** Dimensions like **Emotional Abuse** and **Gaslighting** share items but are distinguished by **mechanism** (e.g., blame-shifting vs. reality distortion).
+2. **Power Dynamics:** All dimensions reflect **asymmetrical power**, with the abuser **dictating terms** of the relationship.
+3. **Cumulative Harm:** Items often **co-occur** in real-life abuse (e.g., **isolation + economic abuse** traps victims).
+4. **Trauma Bonds:** **Love-bombing** and **intermittent reinforcement** explain why victims may stay despite abuse.
+
+This framework aligns with **psychological models of intimate partner violence** (e.g., **Duluth Power & Control Wheel**) and can inform **clinical assessments** or **awareness campaigns**. Would you like further refinement (e.g., merging dimensions or adding subcategories)?

@@ -1,0 +1,44 @@
+item_id	item_text	dimension	fit_mean	clarity_mean	fit_iqr	decision	reason
+IT01	Non sento di avere il suo sostegno nelle cose che faccio	Emotional & Verbal Abuse	2.583	4.667	1.0	Drop	fit_mean=2.58 < 3.5
+IT02	Non mi incoraggia a provare nuove cose	Emotional Neglect & Lack of Support	4.727	4.909	0.5	Retain	fit_mean≥4 (4.73), IQR≤1 (0.50), clarity≥4 (4.91)
+IT03	Non mi sento ascoltata	Emotional Neglect & Lack of Support	4.909	5.0	0.0	Retain	fit_mean≥4 (4.91), IQR≤1 (0.00), clarity≥4 (5.00)
+IT05	Non capisce che ho bisogno anche di miei spazi personali e non comprende che ci sono momenti in cui mi piace stare da sola o con persone diverse da lui (amici/amiche, familiari ecc.)	Coercive Control & Isolation	4.091	4.364	0.0	Retain	fit_mean≥4 (4.09), IQR≤1 (0.00), clarity≥4 (4.36)
+IT06	Non mi fa sentire libera di fare le mie scelte su come gestire il mio tempo	Coercive Control & Isolation	4.455	4.545	1.0	Retain	fit_mean≥4 (4.45), IQR≤1 (1.00), clarity≥4 (4.55)
+IT09	In sua compagnia non mi sento a mio agio e al sicuro	Fear & Hyper‑vigilance	4.636	4.636	1.0	Drop	fit_mean≥4 (4.64), IQR≤1 (1.00), clarity≥4 (4.64); pairwise redundancy ≥0.50 vs IT18
+IT10	I miei amici/amiche mi hanno fatto notare che non piace loro come si comporta con me	Fear & Hyper‑vigilance	3.273	4.727	1.5	Drop	fit_mean=3.27 < 3.5
+IT11	Parla male delle mie amici/amiche e dice che sono dei/delle “poco di buono”	Coercive Control & Isolation	4.364	4.909	1.0	Retain	fit_mean≥4 (4.36), IQR≤1 (1.00), clarity≥4 (4.91)
+IT12	Mi chiede di non vedere i miei amici/amiche	Coercive Control & Isolation	4.545	4.909	1.0	Drop	fit_mean≥4 (4.55), IQR≤1 (1.00), clarity≥4 (4.91); pairwise redundancy ≥0.50 vs IT27
+IT13	Dice che sono impegnata in troppe cose e che lo trascuro, vorrebbe che passassimo la maggior parte del tempo insieme	Coercive Control & Isolation	4.273	4.818	0.5	Retain	fit_mean≥4 (4.27), IQR≤1 (0.50), clarity≥4 (4.82)
+IT14	Mi sento giudicata rispetto alle cose che faccio e a come organizzo la mia vita	Emotional & Verbal Abuse	3.5	4.333	1.0	Retain	fallback to majority recommendation
+IT16	Sento che mi manda troppi messaggi o mi chiama in modo insistente	Coercive Control & Isolation	4.364	5.0	1.0	Drop	fit_mean≥4 (4.36), IQR≤1 (1.00), clarity≥4 (5.00); pairwise redundancy ≥0.50 vs IT24
+IT17	Non mi fa sentire bene quando parla di come mi prendo cura di me stessa e del mio aspetto fisico	Emotional & Verbal Abuse	3.917	4.667	0.25	Retain	fallback to majority recommendation
+IT18	Provo paura vicino a lui, non mi sento al sicuro	Fear & Hyper‑vigilance	5.0	5.0	0.0	Retain	fit_mean≥4 (5.00), IQR≤1 (0.00), clarity≥4 (5.00)
+IT19	Sento disagio o non voglio fare qualcosa ma lo nascondo per paura che si arrabbi	Fear & Hyper‑vigilance	4.636	4.727	1.0	Retain	fit_mean≥4 (4.64), IQR≤1 (1.00), clarity≥4 (4.73)
+IT20	Le mie amiche o la mia famiglia sono preoccupate per me	Fear & Hyper‑vigilance	3.545	4.909	1.0	Drop	fallback to majority recommendation
+IT21	Pretende prove d'amore e dimostrazioni di fedeltà nei suoi confronti	Coercive Control & Isolation	4.636	4.909	1.0	Retain	fit_mean≥4 (4.64), IQR≤1 (1.00), clarity≥4 (4.91)
+IT23	Mi accusa di flirtare o di tradirlo	Coercive Control & Isolation	4.727	5.0	0.5	Retain	fit_mean≥4 (4.73), IQR≤1 (0.50), clarity≥4 (5.00)
+IT24	Mi sento controllata, ho la sensazione che non si fidi di me e che voglia sapere sempre dove sono e con chi, me lo chiede continuamente	Coercive Control & Isolation	5.0	5.0	0.0	Retain	fit_mean≥4 (5.00), IQR≤1 (0.00), clarity≥4 (5.00)
+IT25	Non mi sento libera di vestirmi come voglio	Coercive Control & Isolation	4.727	5.0	0.5	Retain	fit_mean≥4 (4.73), IQR≤1 (0.50), clarity≥4 (5.00)
+IT26	Cerca di controllare ciò che faccio e con chi mi vedo	Coercive Control & Isolation	4.818	4.909	0.0	Drop	fit_mean≥4 (4.82), IQR≤1 (0.00), clarity≥4 (4.91); pairwise redundancy ≥0.50 vs IT24
+IT27	Non vuole che io veda la mia famiglia, i miei amici/amiche	Coercive Control & Isolation	5.0	5.0	0.0	Retain	fit_mean≥4 (5.00), IQR≤1 (0.00), clarity≥4 (5.00)
+IT28	Ha forti oscillazioni d'umore, il minuto prima si arrabbia e mi urla contro e quello successivo è dolce e si scusa	Emotional & Verbal Abuse	4.0	4.636	0.0	Retain	fit_mean≥4 (4.00), IQR≤1 (0.00), clarity≥4 (4.64)
+IT29	In sua compagnia mi capita di sentirmi a disagio e ho la sensazione di dover stare attenta a ciò che dico o a ciò che faccio, come se dovessi “camminare sulle uova” per evitare sue reazioni negative	Fear & Hyper‑vigilance	5.0	4.909	0.0	Retain	fit_mean≥4 (5.00), IQR≤1 (0.00), clarity≥4 (4.91)
+IT30	Mi butta giù di morale, mi insulta o mi critica	Emotional & Verbal Abuse	4.909	4.727	0.0	Drop	fit_mean≥4 (4.91), IQR≤1 (0.00), clarity≥4 (4.73); pairwise redundancy ≥0.50 vs IT31
+IT31	Mi fa sentire spesso sbagliata e mi dice che è colpa mia se sta male	Emotional & Verbal Abuse	5.0	5.0	0.0	Retain	fit_mean≥4 (5.00), IQR≤1 (0.00), clarity≥4 (5.00)
+IT32	Mi dice che non valgo niente e che resterei sola se non stessi con lui perché nessuno mi vorrebbe	Emotional & Verbal Abuse	5.0	5.0	0.0	Retain	fit_mean≥4 (5.00), IQR≤1 (0.00), clarity≥4 (5.00)
+IT33	Ha mostrato mie immagini intime ad altre persone senza il mio consenso	Sexual Coercion & Image Abuse	5.0	5.0	0.0	Retain	fit_mean≥4 (5.00), IQR≤1 (0.00), clarity≥4 (5.00)
+IT34	Minaccia di mostrare ai miei amici o ai miei familiari mie immagini intime	Sexual Coercion & Image Abuse	5.0	5.0	0.0	Drop	fit_mean≥4 (5.00), IQR≤1 (0.00), clarity≥4 (5.00); pairwise redundancy ≥0.50 vs IT33
+IT35	Mi dice che, se lo lasciassi, rivelerebbe ad altri dei miei segreti o delle cose molto personali che sa di me	Threats & Intimidation	4.909	5.0	0.0	Retain	fit_mean≥4 (4.91), IQR≤1 (0.00), clarity≥4 (5.00)
+IT36	Minaccia di fare del male a me, ai miei amici/amiche o alla mia famiglia	Threats & Intimidation	5.0	5.0	0.0	Retain	fit_mean≥4 (5.00), IQR≤1 (0.00), clarity≥4 (5.00)
+IT37	Minaccia di farsi del male a causa mia	Threats & Intimidation	4.909	5.0	0.0	Retain	fit_mean≥4 (4.91), IQR≤1 (0.00), clarity≥4 (5.00)
+IT38	Minaccia di distruggere le mie cose (telefono, vestiti, computer, auto, ecc.)	Threats & Intimidation	4.727	5.0	0.5	Retain	fit_mean≥4 (4.73), IQR≤1 (0.50), clarity≥4 (5.00)
+IT39	Mi afferra per i capelli, mi strattona, mi mette le mani al collo, tenta di soffocarmi, mi dà dei pugni, mi schiaffeggia, mi getta addosso degli oggetti o mi fa male in qualche modo	Physical Violence	5.0	4.818	0.0	Retain	fit_mean≥4 (5.00), IQR≤1 (0.00), clarity≥4 (4.82)
+IT40	Dopo che mi ha aggredito (fisicamente o verbalmente) nega di averlo fatto e mi fa dubitare che sia realmente successo.	Emotional & Verbal Abuse	4.727	5.0	0.5	Retain	fit_mean≥4 (4.73), IQR≤1 (0.50), clarity≥4 (5.00)
+IT41	Rompe e lancia oggetti per intimidirmi	Physical Violence	4.091	5.0	0.0	Retain	fit_mean≥4 (4.09), IQR≤1 (0.00), clarity≥4 (5.00)
+IT42	Urla o mi umilia di fronte ad altre persone	Emotional & Verbal Abuse	5.0	5.0	0.0	Retain	fit_mean≥4 (5.00), IQR≤1 (0.00), clarity≥4 (5.00)
+IT43	Mi chiede insistentemente di fare sesso e non accetta quando dico di no o che non mi va	Sexual Coercion & Image Abuse	5.0	5.0	0.0	Retain	fit_mean≥4 (5.00), IQR≤1 (0.00), clarity≥4 (5.00)
+IT44	Ho paura di vederlo perché so che potrebbe avere comportamenti che mi possono fare stare male o sentire in imbarazzo	Fear & Hyper‑vigilance	4.455	5.0	1.0	Drop	fit_mean≥4 (4.45), IQR≤1 (1.00), clarity≥4 (5.00); pairwise redundancy ≥0.50 vs IT18
+IT46	Controlla come spendo i miei soldi	Financial Abuse	4.909	5.0	0.0	Retain	fit_mean≥4 (4.91), IQR≤1 (0.00), clarity≥4 (5.00)
+IT47	Mi impedisce di avere accesso al conto corrente o alle mie risorse economiche	Financial Abuse	5.0	5.0	0.0	Retain	fit_mean≥4 (5.00), IQR≤1 (0.00), clarity≥4 (5.00)
+IT48	Mi viene chiesto di giustificare ogni acquisto che faccio	Financial Abuse	4.727	5.0	0.5	Drop	fit_mean≥4 (4.73), IQR≤1 (0.50), clarity≥4 (5.00); pairwise redundancy ≥0.50 vs IT46
+IT49	Mi impedisce cercare un lavoro per essere indipendente	Financial Abuse	5.0	5.0	0.0	Retain	fit_mean≥4 (5.00), IQR≤1 (0.00), clarity≥4 (5.00)

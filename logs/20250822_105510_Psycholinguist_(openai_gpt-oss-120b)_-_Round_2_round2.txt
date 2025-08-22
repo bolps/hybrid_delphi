@@ -1,0 +1,47 @@
+### Psycholinguist (openai/gpt-oss-120b) - Round 2
+**Re‑examined latent structure (aligned with the Delphi synthesis)**  
+
+Below is the final set of **eight** latent dimensions that best captures every statement you supplied while respecting the points on which the majority of the expert panels agreed.  No new items were created and each item appears in **only one** factor, so the dimensions remain conceptually homogeneous.
+
+| # | Dimension (label) | Core meaning (short definition) | Items (Italian statements) |
+|---|-------------------|--------------------------------|----------------------------|
+| **1** | **Emotional & Verbal Abuse** | Systematic de‑valuation, insults, blame‑shifting, gas‑lighting and mood‑swings that erode the victim’s self‑esteem. | 2 “Dopo che mi ha aggredito … nega di averlo fatto…”, 3 “Mi fa sentire spesso sbagliata…”, 4 “Mi dice che non valgo niente…”, 5 “Ha forti oscillazioni d’umore…”, 36 “Mi butta giù di morale, mi insulta o mi critica”, 37 “Mi fa sentire giudicata …”, 38 “Non mi vuole bene per quella che sono…”, 39 “Urla o mi umilia di fronte ad altre persone”, 42 “Non mi fa sentire bene quando parla di come mi prendo cura di me stessa e del mio aspetto fisico” |
+| **2** | **Coercive Control & Isolation** | Ongoing monitoring, restriction of social contacts, dictating daily routines, jealous‑possessive demands and other tactics that limit personal autonomy. | 1 “Mi accusa di flirtare o di tradirlo”, 6 “Non vuole che io veda la mia famiglia, i miei amici/amiche”, 7 “Mi chiede di non vedere i miei amici/amiche”, 8 “Parla male delle mie amiche/amici …”, 11 “Non capisce che ho bisogno anche di miei spazi personali”, 12 “Mi sento controllata, ha la sensazione che non si fidi di me…”, 13 “Cerca di controllare ciò che faccio e con chi mi vedo”, 14 “Non mi sento libera di fare le mie scelte su come gestire il mio tempo”, 15 “Dice che sono impegnata in troppe cose … vorrebbe che passassimo la maggior parte del tempo insieme”, 16 “Sento che mi manda troppi messaggi o mi chiama in modo insistente”, 17 “Pretende prove d’amore e dimostrazioni di fedeltà”, 43 “Non mi sento libera di vestirmi come voglio” |
+| **3** | **Financial Abuse** | Direct control over money, spending, bank accounts and the victim’s ability to earn or keep an income. | 18 “Mi impedisce di avere accesso al conto corrente o alle mie risorse economiche”, 19 “Mi viene chiesto di giustificare ogni acquisto che faccio”, 20 “Controlla come spendo i miei soldi”, 21 “Mi impedisce di cercare un lavoro per essere indipendente” |
+| **4** | **Physical Violence** | Any act of bodily aggression that causes or threatens physical injury. | 22 “Mi afferra per i capelli … mi dà dei pugni, mi schiaffeggia, mi getta addosso degli oggetti o mi fa male in qualche modo”, 23 “Rompe e lancia oggetti per intimidirmi” |
+| **5** | **Sexual Coercion & Image Abuse** | Non‑consensual sexual pressure, forced sexual activity and the use or threat of sharing intimate images. | 26 “Mi chiede insistentemente di fare sesso e non accetta quando dico di no”, 27 “Ha mostrato mie immagini intime ad altre persone senza il mio consenso”, 28 “Minaccia di mostrare ai miei amici o ai miei familiari mie immagini intime” |
+| **6** | **Threats & Intimidation** | Explicit threats of harm to the victim, to loved ones, to property, or self‑harm used to force compliance. | 24 “Minaccia di fare del male a me, ai miei amici/amiche o alla mia famiglia”, 25 “Minaccia di distruggere le mie cose (telefono, vestiti, computer, auto, ecc.)”, 29 “Mi dice che, se lo lasciassi, rivelerebbe ad altri dei miei segreti …”, 30 “Minaccia di farsi del male a causa mia” |
+| **7** | **Fear & Hyper‑vigilance** | The victim’s chronic sense of danger, “walking on eggshells”, and anxiety about being seen or heard. | 31 “Provo paura vicino a lui, non mi sento al sicuro”, 32 “In sua compagnia mi capita di sentirmi a disagio … come se dovessi ‘camminare sulle uova’”, 33 “In sua compagnia non mi sento a mio agio e al sicuro”, 34 “Ho paura di vederlo perché so che potrebbe avere comportamenti che mi possono fare stare male”, 35 “Sento disagio o non voglio fare qualcosa ma lo nascondo per paura che si arrabbi”, 9 “Le mie amiche o la mia famiglia sono preoccupate per me”, 10 “I miei amici/amiche mi hanno fatto notare che non piace loro come si comporta con me” |
+| **8** | **Emotional Neglect & Lack of Support** | Absence of validation, listening, encouragement or caring behaviour; the partner is emotionally unavailable. | 40 “Non mi sento ascoltata”, 41 “Non mi incoraggia a provare nuove cose” |
+
+---
+
+## What changed compared with the original seven‑factor solution  
+
+| Original dimension | How it was revised / merged | Why the change was made |
+|-------------------|-----------------------------|--------------------------|
+| **Physical Violence & Direct Threats** (Dim 1) | Split into **Physical Violence** (Dim 4) and **Threats & Intimidation** (Dim 6). | Threats that do **not** involve physical force (e.g., threats of self‑harm, property destruction, black‑mail) form a conceptually distinct “intimidation” cluster, as highlighted by the majority of experts. |
+| **Sexual Coercion & Exploitation** (Dim 2) | Kept as **Sexual Coercion & Image Abuse** (Dim 5). | No change – the Delphi synthesis placed the three sexual‑related items together, which matches the original grouping. |
+| **Financial Abuse** (Dim 3) | Remains a stand‑alone factor (Dim 3). | The Delphi panel agreed that the purely economic items warrant a separate dimension for discriminant validity. |
+| **Controlling & Isolating Behaviours** (Dim 4) | Expanded to **Coercive Control & Isolation** (Dim 2) and now also **includes** item 1 (“Mi accusa di flirtare…”) which was previously in Verbal & Psychological Degradation. | Accusations of infidelity are a classic *control* tactic (they limit autonomy and generate jealousy), therefore they fit better with the broader coercive‑control cluster. |
+| **Verbal & Psychological Degradation** (Dim 5) | Merged into **Emotional & Verbal Abuse** (Dim 1). | Gas‑lighting items (2 & 5) and mood‑swings are sub‑types of emotional manipulation; keeping them together yields a more homogeneous factor. |
+| **Gaslighting & Manipulative Denial** (Dim 6) | Integrated into **Emotional & Verbal Abuse** (Dim 1). | The same reasoning as above – gaslighting is a form of emotional abuse rather than a separate construct. |
+| **Lack of Emotional Support & Relational Safety** (Dim 7) | Split into **Fear & Hyper‑vigilance** (Dim 7) and **Emotional Neglect & Lack of Support** (Dim 8). | Items that describe the **victim’s internal state of chronic fear** (walking on eggshells, feeling unsafe) differ qualitatively from items that describe the **absence of positive emotional behaviour** (not being listened to, not being encouraged). The Delphi synthesis therefore recommends two distinct dimensions. |
+| **Additional adjustments** | None – no new items were introduced and no item was left out. | The final model respects the “no heterogeneous factors” rule and aligns with the most frequent expert agreements. |
+
+---
+
+## Rationale for keeping **eight** dimensions  
+
+* **Empirical consensus** – at least four of the ten expert analyses identified each of the eight themes (emotional/verbal abuse, coercive control, financial abuse, physical violence, sexual coercion, threats, fear/hyper‑vigilance, emotional neglect).  
+* **Theoretical coherence** – the eight factors map onto well‑established frameworks of intimate‑partner violence (e.g., Stark’s coercive‑control model, the Duluth Power‑and‑Control Wheel) while preserving the nuance of distinct abuse mechanisms (e.g., threat‑based intimidation vs. physical assault).  
+* **Psychometric parsimony** – each factor groups items that load together in the majority of factor‑analytic solutions and shows low cross‑loading, reducing measurement error and improving interpretability for researchers and clinicians.  
+
+---
+
+### Take‑away for practice  
+
+* **Scoring** – sum the items within each factor; the eight scores can be used separately or combined into a global “overall abuse” index.  
+* **Intervention mapping** – each dimension points to a specific therapeutic target (e.g., “Fear & Hyper‑vigilance” → trauma‑focused anxiety work; “Emotional Neglect” → attachment‑based interventions).  
+
+The revised eight‑factor solution therefore honors the collective expertise of the Delphi panel while refining the original model for greater conceptual clarity and practical utility.

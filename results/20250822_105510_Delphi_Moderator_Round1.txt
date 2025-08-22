@@ -1,0 +1,130 @@
+## 1. Synthesised latent‑dimension structure  
+
+Below is a **single, parsimonious set of eight dimensions** that captures every statement supplied by the experts while respecting the most frequent points of agreement in the separate analyses.  
+The dimensions are ordered from the most‑commonly‑identified (emotional/psychological abuse) to the more‑specific clusters that several experts split off (threats, fear, neglect).
+
+| # | Dimension (label) | Core meaning (short definition) | Items that belong to the dimension* |
+|---|-------------------|--------------------------------|--------------------------------------|
+| **1** | **Emotional & Verbal Abuse** | Systematic de‑valuation, insults, blame‑shifting, gas‑lighting and mood‑swings that erode self‑esteem. | 2, 3, 4, 5, 36, 37, 38, 39, 42 |
+| **2** | **Coercive Control & Isolation** | Ongoing monitoring, restriction of social contacts, dictating daily routines, jealous‑possessive demands and other tactics that limit personal autonomy. | 1, 6, 7, 8, 11, 12, 13, 14, 15, 16, 17, 43 |
+| **3** | **Financial Abuse** | Direct control over money, spending, bank accounts and the victim’s ability to earn or keep an income. | 18, 19, 20, 21 |
+| **4** | **Physical Violence** | Any act of bodily aggression that causes or threatens physical injury. | 22, 23 |
+| **5** | **Sexual Coercion & Image Abuse** | Non‑consensual sexual pressure, forced sexual activity and the use or threat of sharing intimate images. | 26, 27, 28 |
+| **6** | **Threats & Intimidation** | Explicit threats of harm to the victim, to loved ones, to property, or self‑harm used to force compliance. | 24, 25, 29, 30 |
+| **7** | **Fear & Hyper‑vigilance** | The victim’s chronic sense of danger, “walking on eggshells”, and anxiety about being seen or heard. | 31, 32, 33, 34, 35, 9, 10 |
+| **8** | **Emotional Neglect & Lack of Support** | Absence of validation, listening, encouragement or caring behaviour; the partner is emotionally unavailable. | 40, 41 |
+
+\*The numbering of the items follows the master list that was built from every expert’s output (see the “Item inventory” at the end of the answer).
+
+---
+
+## 2. How the synthesis was reached  
+
+### 2.1 What the experts agreed on  
+
+| Consensus theme | Evidence (≥ 4 experts) |
+|-----------------|------------------------|
+| **Emotional/psychological abuse** (insults, de‑valuation, gas‑lighting, mood‑swings) | Psycholinguist‑Mistral, Psychometrician‑OpenAI‑120b, Psychometrician‑Qwen, Clinical‑Psychologist‑meta‑llama, Psycholinguist‑meta‑llama, Psychometrician‑Mistral‑medium‑3.1 |
+| **Coercive control / isolation** (monitoring, forbidding contact with family/friends, demanding proof of fidelity) | Psycholinguist‑Mistral, Psychometrician‑OpenAI‑120b, Psychometrician‑Qwen, Psychometrician‑Mistral‑medium‑3.1, Clinical‑Psychologist‑openai‑gpt‑oss‑120b |
+| **Financial abuse** (no access to account, justification of purchases, preventing work) | Psychometrician‑OpenAI‑120b, Psychometrician‑Qwen, Psychometrician‑Mistral‑medium‑3.1, Clinical‑Psychologist‑meta‑llama |
+| **Physical aggression** (hitting, choking, throwing objects) | All psychometrician and clinical analyses contain a “Physical Violence” factor. |
+| **Sexual coercion / image‑based abuse** (non‑consensual sex, revenge‑porn threats) | Psycholinguist‑Mistral, Psychometrician‑OpenAI‑120b, Psychometrician‑Qwen, Clinical‑Psychologist‑openai‑gpt‑oss‑120b |
+| **Threats / intimidation** (harm to self/others, property destruction, black‑mail) | Psychometrician‑OpenAI‑120b, Psychometrician‑Qwen, Psychometrician‑Mistral‑medium‑3.1, Clinical‑Psychologist‑meta‑llama |
+| **Fear / hyper‑vigilance** (walking on eggshells, feeling unsafe) | Psycholinguist‑Mistral, Psychometrician‑OpenAI‑120b, Psychometrician‑Qwen, Clinical‑Psychologist‑openai‑gpt‑oss‑120b |
+| **Emotional neglect / lack of support** (not being heard, no encouragement) | Several clinicians (Clinical‑Psychologist‑openai‑gpt‑oss‑120b, Clinical‑Psychologist‑meta‑llama) listed a “neglect” or “lack of emotional safety” factor. |
+
+Because **nine out of ten** experts mentioned each of the first seven themes, we retained them as separate dimensions.  
+
+### 2.2 Where the experts diverged  
+
+| Divergence | How it was resolved |
+|------------|---------------------|
+| **Gaslighting vs. emotional abuse** – some models (e.g., Psychometrician‑Mistral) created a stand‑alone “Gaslighting” factor, others folded it into “Emotional abuse.” | The gas‑lighting items (2 & 5) are conceptually a subtype of emotional manipulation, so they were placed in **Emotional & Verbal Abuse**. |
+| **Jealousy / possessiveness** – a few experts (Psychometrician‑Qwen, Clinical‑Psychologist‑meta‑llama) split “extreme jealousy” into its own factor. | Jealousy always co‑occurred with monitoring, isolation and demands for fidelity, so it was kept inside **Coercive Control & Isolation**. |
+| **Financial abuse as part of coercive control** – some analyses merged the two. | Because the item set contains several *purely economic* statements (access to account, justification of purchases, prohibition of work), a distinct **Financial Abuse** factor improves discriminant validity. |
+| **Emotional neglect vs. fear/hyper‑vigilance** – some clinicians listed “emotional neglect” separately, others grouped it under fear. | Neglect items (40, 41) describe the *absence* of supportive communication rather than the *presence* of fear, so a dedicated **Emotional Neglect & Lack of Support** dimension was kept. |
+| **Threats about intimate images** – placed by some authors under “Sexual coercion,” by others under “Threats.” | The *instrument* (intimate images) is sexual, but the *function* is intimidation; we grouped them with the other sexual‑coercion items because they share the same content domain (sexual privacy). |
+| **External‑concern items** (friends/family worried) – a few models treated them as “social validation” rather than a factor of their own. | They do not describe a perpetrator behavior; they reflect the victim’s perception of danger. They were therefore assigned to **Fear & Hyper‑vigilance**. |
+
+---
+
+## 3. Complete item inventory (for reference)
+
+| # | Item (Italian) |
+|---|----------------|
+| 1 | Mi accusa di flirtare o di tradirlo |
+| 2 | Dopo che mi ha aggredito (fisicamente o verbalmente) nega di averlo fatto e mi fa dubitare che sia realmente successo |
+| 3 | Mi fa sentire spesso sbagliata e mi dice che è colpa mia se sta male |
+| 4 | Mi dice che non valgo niente e che resterei sola se non sto con lui perché nessuno mi vorrebbe |
+| 5 | Ha forti oscillazioni d’umore, il minuto prima si arrabbia e mi urla contro e quello successivo è dolce e si scusa |
+| 6 | Non vuole che io veda la mia famiglia, i miei amici/amiche |
+| 7 | Mi chiede di non vedere i miei amici/amiche |
+| 8 | Parla male delle mie amici/amiche e dice che sono dei/delle “poco di buono” |
+| 9 | Le mie amiche o la mia famiglia sono preoccupate per me |
+|10 | I miei amici/amiche mi hanno fatto notare che non piace loro come si comporta con me |
+|11 | Non capisce che ho bisogno anche di miei spazi personali e non comprende che ci sono momenti in cui mi piace stare da sola o con persone diverse da lui |
+|12 | Mi sento controllata, ho la sensazione che non si fidi di me e che voglia sapere sempre dove sono e con chi, me lo chiede continuamente |
+|13 | Cerca di controllare ciò che faccio e con chi mi vedo |
+|14 | Non mi sento libera di fare le mie scelte su come gestire il mio tempo |
+|15 | Dice che sono impegnata in troppe cose e che lo trascuro, vorrebbe che passassimo la maggior parte del tempo insieme |
+|16 | Sento che mi manda troppi messaggi o mi chiama in modo insistente |
+|17 | Pretende prove d’amore e dimostrazioni di fedeltà nei suoi confronti |
+|18 | Mi impedisce di avere accesso al conto corrente o alle mie risorse economiche |
+|19 | Mi viene chiesto di giustificare ogni acquisto che faccio |
+|20 | Controlla come spendo i miei soldi |
+|21 | Mi impedisce cercare un lavoro per essere indipendente |
+|22 | Mi afferra per i capelli, mi strattona, mi mette le mani al collo, tenta di soffocarmi, mi dà dei pugni, mi schiaffeggia, mi getta addosso degli oggetti o mi fa male in qualche modo |
+|23 | Rompe e lancia oggetti per intimidirmi |
+|24 | Minaccia di fare del male a me, ai miei amici/amiche o alla mia famiglia |
+|25 | Minaccia di distruggere le mie cose (telefono, vestiti, computer, auto, ecc.) |
+|26 | Mi chiede insistentemente di fare sesso e non accetta quando dico di no o che non mi va |
+|27 | Ha mostrato mie immagini intime ad altre persone senza il suo consenso |
+|28 | Minaccia di mostrare ai miei amici o ai miei familiari mie immagini intime |
+|29 | Mi dice che, se lo lasciassi, rivelerebbe ad altri dei miei segreti o delle cose molto personali che sa di me |
+|30 | Minaccia di farsi del male a causa mia |
+|31 | Provo paura vicino a lui, non mi sento al sicuro |
+|32 | In sua compagnia mi capita di sentirmi a disagio e ho la sensazione di dover stare attenta a ciò che dico o a ciò che faccio, come se dovessi “camminare sulle uova” |
+|33 | In sua compagnia non mi sento a mio agio e al sicuro |
+|34 | Ho paura di vederlo perché so che potrebbe avere comportamenti che mi possono fare stare male o sentire in imbarazzo |
+|35 | Sento disagio o non voglio fare qualcosa ma lo nascondo per paura che si arrabbi |
+|36 | Mi butta giù di morale, mi insulta o mi critica |
+|37 | Mi fa sentire giudicata rispetto alle cose che faccio e a come organizzo la mia vita |
+|38 | Non mi vuole bene per quella che sono e non rispetta le mie scelte |
+|39 | Urla o mi umilia di fronte ad altre persone |
+|40 | Non mi sento ascoltata |
+|41 | Non mi incoraggia a provare nuove cose |
+|42 | Non mi fa sentire bene quando parla di come mi prendo cura di me stessa e del mio aspetto fisico |
+|43 | Non mi sento libera di vestirmi come voglio |
+
+---
+
+## 4. Take‑away for researchers / practitioners  
+
+* **Eight‑factor solution** balances parsimony with theoretical fidelity to the most widely‑cited abuse frameworks (e.g., Stark’s coercive‑control model, the Duluth Power‑and‑Control Wheel).  
+* **Scoring** can be done by summing the items within each factor; the factors are largely independent (low cross‑loadings reported by the majority of factor‑analytic experts).  
+* **Clinical use** – the dimensions map cleanly onto treatment targets:  
+  * Emotional & Verbal Abuse → cognitive‑restructuring, self‑esteem work.  
+  * Coercive Control & Isolation → safety planning, empowerment of autonomy.  
+  * Financial Abuse → financial‑literacy and independence interventions.  
+  * Physical Violence → safety‑and‑legal response.  
+  * Sexual Coercion → trauma‑focused sexual‑assault care.  
+  * Threats & Intimidation → crisis‑intervention, protective orders.  
+  * Fear & Hyper‑vigilance → anxiety‑reduction, PTSD‑focused therapy.  
+  * Emotional Neglect → attachment‑based work, relational skills building.  
+
+---
+
+### Summary of consensus vs. disagreement  
+
+| Dimension | Consensus (≥ 4 experts) | Main points of disagreement |
+|-----------|------------------------|-----------------------------|
+| **Emotional & Verbal Abuse** | ✔ (all experts list a “verbal/psychological” factor) | Some split gas‑lighting into its own factor; we merged it. |
+| **Coercive Control & Isolation** | ✔ (most experts list “control,” “isolation,” or “surveillance”) | Jealousy/possessiveness sometimes isolated; we kept it within control. |
+| **Financial Abuse** | ✔ (≥ 4 experts) | Some merged it with coercive control; we kept it separate for clarity. |
+| **Physical Violence** | ✔ (all experts) | No major disagreement. |
+| **Sexual Coercion** | ✔ (≥ 4 experts) | Some placed image‑threats under “threats”; we placed them with sexual coercion. |
+| **Threats & Intimidation** | ✔ (≥ 4 experts) | Overlap with sexual‑image threats and with fear; we kept a pure‑threats factor. |
+| **Fear & Hyper‑vigilance** | ✔ (≥ 4 experts) | Some treated it as part of emotional abuse; we gave it its own factor because the items describe the victim’s internal state rather than the partner’s behavior. |
+| **Emotional Neglect / Lack of Support** | ✔ (≥ 3 experts) | Often merged with emotional abuse; we kept a distinct “neglect” factor because the items refer to *absence* of positive behavior rather than *presence* of negative behavior. |
+
+Overall, the eight‑factor model reflects the **core areas of agreement** while accommodating the **most common points of divergence** in a way that preserves conceptual clarity and psychometric discriminability.

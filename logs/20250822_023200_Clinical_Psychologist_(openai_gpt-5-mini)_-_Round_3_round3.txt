@@ -1,0 +1,726 @@
+### Clinical Psychologist (openai/gpt-5-mini) - Round 3
+[
+  {
+    "item_id": "IT39",
+    "dimension": "Physical Violence",
+    "evidence_for": "Describes direct physical assault and injury behaviors.",
+    "evidence_against": "Long compound item includes multiple acts, mixing severity levels.",
+    "fit": 5,
+    "clarity": 4,
+    "redundant": false,
+    "overlaps_with": [],
+    "recommendation": "Retain",
+    "justification": "Core physical violence item; essential for severity and forensic relevance."
+  },
+  {
+    "item_id": "IT41",
+    "dimension": "Threats & Intimidation",
+    "evidence_for": "Destruction/throwing objects used to intimidate victim.",
+    "evidence_against": "Could overlap with threats to destroy property (IT38).",
+    "fit": 5,
+    "clarity": 5,
+    "redundant": false,
+    "overlaps_with": [
+      "IT38"
+    ],
+    "recommendation": "Retain",
+    "justification": "Behavioral intimidation example; distinct action, important to retain."
+  },
+  {
+    "item_id": "IT38",
+    "dimension": "Threats & Intimidation",
+    "evidence_for": "Explicit threat to destroy victim's property.",
+    "evidence_against": "May be semantically close to breaking/throwing objects (IT41).",
+    "fit": 5,
+    "clarity": 5,
+    "redundant": false,
+    "overlaps_with": [
+      "IT41"
+    ],
+    "recommendation": "Retain",
+    "justification": "Captures explicit verbal/property threats; clinically and legally relevant."
+  },
+  {
+    "item_id": "IT36",
+    "dimension": "Threats & Intimidation",
+    "evidence_for": "Direct threat to physically harm victim or their network.",
+    "evidence_against": "Broad phrasing may overlap with general intimidation items.",
+    "fit": 5,
+    "clarity": 5,
+    "redundant": false,
+    "overlaps_with": [],
+    "recommendation": "Retain",
+    "justification": "Core threat-to-harm item; central to intimidation dimension."
+  },
+  {
+    "item_id": "IT37",
+    "dimension": "Threats & Intimidation",
+    "evidence_for": "Describes manipulative threat of self-harm tied to victim.",
+    "evidence_against": "Different mechanism than outward threats; could be misclassified.",
+    "fit": 4,
+    "clarity": 5,
+    "redundant": false,
+    "overlaps_with": [],
+    "recommendation": "Retain",
+    "justification": "Important manipulative threat form; retains unique coercive function."
+  },
+  {
+    "item_id": "IT43",
+    "dimension": "Sexual Coercion & Privacy Violation",
+    "evidence_for": "Persistent pressure for sex ignoring refusal indicates sexual coercion.",
+    "evidence_against": "Doesn't specify escalation to assault; limited to pressure context.",
+    "fit": 5,
+    "clarity": 5,
+    "redundant": false,
+    "overlaps_with": [],
+    "recommendation": "Retain",
+    "justification": "Essential indicator of sexual pressure and non-consensual coercion."
+  },
+  {
+    "item_id": "IT33",
+    "dimension": "Sexual Coercion & Privacy Violation",
+    "evidence_for": "Shows intimate images without consent — privacy violation.",
+    "evidence_against": "Specific act; may not capture threats or extortion variants.",
+    "fit": 5,
+    "clarity": 5,
+    "redundant": false,
+    "overlaps_with": [
+      "IT34",
+      "IT35"
+    ],
+    "recommendation": "Retain",
+    "justification": "Clear instance of privacy violation; legally and clinically important."
+  },
+  {
+    "item_id": "IT34",
+    "dimension": "Sexual Coercion & Privacy Violation",
+    "evidence_for": "Threat to reveal intimate images used as leverage.",
+    "evidence_against": "Closely related to actual image-sharing (IT33) and secret exposure (IT35).",
+    "fit": 5,
+    "clarity": 5,
+    "redundant": false,
+    "overlaps_with": [
+      "IT33",
+      "IT35"
+    ],
+    "recommendation": "Retain",
+    "justification": "Threat-specific item; distinguishes intimidation by disclosure from other acts."
+  },
+  {
+    "item_id": "IT35",
+    "dimension": "Sexual Coercion & Privacy Violation",
+    "evidence_for": "Blackmail with personal secrets — privacy-extortion tactic.",
+    "evidence_against": "Breadth (secrets) overlaps conceptually with image-threat item (IT34).",
+    "fit": 5,
+    "clarity": 5,
+    "redundant": false,
+    "overlaps_with": [
+      "IT34",
+      "IT33"
+    ],
+    "recommendation": "Retain",
+    "justification": "Captures non-sexual secret exposure coercion; complements image-specific items."
+  },
+  {
+    "item_id": "IT24",
+    "dimension": "Coercive Control & Isolation",
+    "evidence_for": "Direct monitoring and distrust; asks where and with whom constantly.",
+    "evidence_against": "Overlaps with other monitoring/jealousy items (IT16, IT26, IT22).",
+    "fit": 5,
+    "clarity": 5,
+    "redundant": true,
+    "overlaps_with": [
+      "IT16",
+      "IT26",
+      "IT22"
+    ],
+    "recommendation": "Retain",
+    "justification": "Core monitoring item; keep but consider combining similar items in short form."
+  },
+  {
+    "item_id": "IT26",
+    "dimension": "Coercive Control & Isolation",
+    "evidence_for": "Attempts to control activities and social contacts.",
+    "evidence_against": "Similar to IT24 and IT12/27; overlaps on social restriction theme.",
+    "fit": 5,
+    "clarity": 5,
+    "redundant": true,
+    "overlaps_with": [
+      "IT24",
+      "IT12",
+      "IT27"
+    ],
+    "recommendation": "Revise",
+    "justification": "High overlap with other social-control items; consider merging or rewording."
+  },
+  {
+    "item_id": "IT06",
+    "dimension": "Coercive Control & Isolation",
+    "evidence_for": "Restricts autonomy over time management choices.",
+    "evidence_against": "Could overlap with broader freedom items (IT05, IT13).",
+    "fit": 4,
+    "clarity": 5,
+    "redundant": true,
+    "overlaps_with": [
+      "IT05",
+      "IT13"
+    ],
+    "recommendation": "Revise",
+    "justification": "Useful autonomy item but overlaps; tighten wording or combine with related items."
+  },
+  {
+    "item_id": "IT25",
+    "dimension": "Coercive Control & Isolation",
+    "evidence_for": "Restricts clothing choices — control over appearance.",
+    "evidence_against": "May be culturally specific; overlaps with general control items.",
+    "fit": 4,
+    "clarity": 5,
+    "redundant": false,
+    "overlaps_with": [
+      "IT05",
+      "IT26"
+    ],
+    "recommendation": "Retain",
+    "justification": "Specific, observable control behavior; distinct enough to retain."
+  },
+  {
+    "item_id": "IT12",
+    "dimension": "Coercive Control & Isolation",
+    "evidence_for": "Directly forbids seeing friends, a classic isolation tactic.",
+    "evidence_against": "Redundant with other social restriction items (IT26, IT27).",
+    "fit": 5,
+    "clarity": 5,
+    "redundant": true,
+    "overlaps_with": [
+      "IT26",
+      "IT27",
+      "IT24"
+    ],
+    "recommendation": "Retain",
+    "justification": "Isolation of social ties is central; keep but consider consolidation for brevity."
+  },
+  {
+    "item_id": "IT27",
+    "dimension": "Coercive Control & Isolation",
+    "evidence_for": "Prohibits contact with family or friends — social isolation.",
+    "evidence_against": "Very similar to IT12 and IT26; risk of redundancy.",
+    "fit": 5,
+    "clarity": 5,
+    "redundant": true,
+    "overlaps_with": [
+      "IT12",
+      "IT26"
+    ],
+    "recommendation": "Retain",
+    "justification": "Family exclusion is important; consider merging with friend-exclusion item."
+  },
+  {
+    "item_id": "IT11",
+    "dimension": "Coercive Control & Isolation",
+    "evidence_for": "Disparages friends, undermining external support networks.",
+    "evidence_against": "Could fit Emotional Abuse dimension (insulting others).",
+    "fit": 4,
+    "clarity": 5,
+    "redundant": false,
+    "overlaps_with": [
+      "IT12",
+      "IT27"
+    ],
+    "recommendation": "Retain",
+    "justification": "Attacking social supports functions as isolation; keep as control indicator."
+  },
+  {
+    "item_id": "IT49",
+    "dimension": "Coercive Control & Isolation",
+    "evidence_for": "Prevents employment, blocking independence and resources.",
+    "evidence_against": "Could overlap with financial control items (IT47–IT48).",
+    "fit": 5,
+    "clarity": 5,
+    "redundant": false,
+    "overlaps_with": [
+      "IT47",
+      "IT46"
+    ],
+    "recommendation": "Retain",
+    "justification": "Employment prevention is a strong coercive control marker; keep."
+  },
+  {
+    "item_id": "IT47",
+    "dimension": "Coercive Control & Isolation",
+    "evidence_for": "Denies access to bank account/resources — financial control.",
+    "evidence_against": "Similar theme with controlling spending items (IT46, IT48).",
+    "fit": 5,
+    "clarity": 5,
+    "redundant": false,
+    "overlaps_with": [
+      "IT46",
+      "IT48",
+      "IT49"
+    ],
+    "recommendation": "Retain",
+    "justification": "Direct financial exclusion is central to control; preserve item."
+  },
+  {
+    "item_id": "IT46",
+    "dimension": "Coercive Control & Isolation",
+    "evidence_for": "Monitors and controls how the victim spends money.",
+    "evidence_against": "Close to IT47/IT48; potential redundancy among financial items.",
+    "fit": 5,
+    "clarity": 5,
+    "redundant": true,
+    "overlaps_with": [
+      "IT47",
+      "IT48"
+    ],
+    "recommendation": "Revise",
+    "justification": "Important financial control aspect; consider combining with related spending items."
+  },
+  {
+    "item_id": "IT48",
+    "dimension": "Coercive Control & Isolation",
+    "evidence_for": "Demands justification for purchases — economic monitoring.",
+    "evidence_against": "Very similar to IT46 and IT47 in financial control domain.",
+    "fit": 4,
+    "clarity": 5,
+    "redundant": true,
+    "overlaps_with": [
+      "IT46",
+      "IT47"
+    ],
+    "recommendation": "Revise",
+    "justification": "Redundant with other finance items; merge or rephrase to reduce overlap."
+  },
+  {
+    "item_id": "IT21",
+    "dimension": "Coercive Control & Isolation",
+    "evidence_for": "Demands proof of love and fidelity — controlling emotional behavior.",
+    "evidence_against": "Overlaps with jealousy items (IT22, IT23).",
+    "fit": 4,
+    "clarity": 5,
+    "redundant": true,
+    "overlaps_with": [
+      "IT22",
+      "IT23"
+    ],
+    "recommendation": "Retain",
+    "justification": "Proof-of-love demands indicate control; maintain but possibly shorten scale wording."
+  },
+  {
+    "item_id": "IT22",
+    "dimension": "Coercive Control & Isolation",
+    "evidence_for": "Extreme jealousy/possessiveness restricts autonomy and social contact.",
+    "evidence_against": "Closely related to accusations and demands (IT21, IT23).",
+    "fit": 5,
+    "clarity": 5,
+    "redundant": true,
+    "overlaps_with": [
+      "IT21",
+      "IT23",
+      "IT24"
+    ],
+    "recommendation": "Retain",
+    "justification": "Jealousy is a core control mechanism; keep despite overlap."
+  },
+  {
+    "item_id": "IT23",
+    "dimension": "Coercive Control & Isolation",
+    "evidence_for": "Accusations of flirting/cheating undermine independence and autonomy.",
+    "evidence_against": "Conceptually overlaps with jealousy and proof-demand items.",
+    "fit": 4,
+    "clarity": 5,
+    "redundant": true,
+    "overlaps_with": [
+      "IT21",
+      "IT22"
+    ],
+    "recommendation": "Retain",
+    "justification": "Accusation behaviors contribute to controlling dynamics; retain for nuance."
+  },
+  {
+    "item_id": "IT16",
+    "dimension": "Coercive Control & Isolation",
+    "evidence_for": "Excessive messaging/calling indicates monitoring and intrusion.",
+    "evidence_against": "Overlaps substantially with IT24 (monitoring) and IT13 (time together).",
+    "fit": 5,
+    "clarity": 5,
+    "redundant": true,
+    "overlaps_with": [
+      "IT24",
+      "IT13"
+    ],
+    "recommendation": "Revise",
+    "justification": "Representative monitoring behavior; consider combining with similar checking items."
+  },
+  {
+    "item_id": "IT13",
+    "dimension": "Coercive Control & Isolation",
+    "evidence_for": "Criticizes other's activities, pressures to spend most time together.",
+    "evidence_against": "Some overlap with autonomy/time restriction items (IT06, IT16).",
+    "fit": 4,
+    "clarity": 5,
+    "redundant": true,
+    "overlaps_with": [
+      "IT06",
+      "IT16"
+    ],
+    "recommendation": "Retain",
+    "justification": "Captures time-demanding control; keep but consider merging for brevity."
+  },
+  {
+    "item_id": "IT05",
+    "dimension": "Coercive Control & Isolation",
+    "evidence_for": "Denies need for personal space; pressures against autonomy.",
+    "evidence_against": "Overlap with time, clothing, and social control items.",
+    "fit": 4,
+    "clarity": 5,
+    "redundant": true,
+    "overlaps_with": [
+      "IT06",
+      "IT13",
+      "IT25"
+    ],
+    "recommendation": "Revise",
+    "justification": "Valuable autonomy indicator but overlaps; reword to specify a distinct behavior."
+  },
+  {
+    "item_id": "IT30",
+    "dimension": "Emotional & Verbal Abuse",
+    "evidence_for": "Insults and criticism directly degrade self-esteem.",
+    "evidence_against": "Broad; may overlap with public humiliation (IT42).",
+    "fit": 5,
+    "clarity": 5,
+    "redundant": false,
+    "overlaps_with": [
+      "IT42",
+      "IT31"
+    ],
+    "recommendation": "Retain",
+    "justification": "Core verbal abuse indicator; necessary for emotional abuse assessment."
+  },
+  {
+    "item_id": "IT32",
+    "dimension": "Emotional & Verbal Abuse",
+    "evidence_for": "Degrading statements predicting abandonment erode self-worth.",
+    "evidence_against": "Overlap with insults and undermining items (IT30, IT31).",
+    "fit": 5,
+    "clarity": 5,
+    "redundant": false,
+    "overlaps_with": [
+      "IT30",
+      "IT31"
+    ],
+    "recommendation": "Retain",
+    "justification": "Specific, severe belittling content; clinically meaningful to retain."
+  },
+  {
+    "item_id": "IT31",
+    "dimension": "Emotional & Verbal Abuse",
+    "evidence_for": "Blaming the victim for partner's distress undermines agency.",
+    "evidence_against": "Related to other blaming/criticizing items; some overlap.",
+    "fit": 5,
+    "clarity": 5,
+    "redundant": true,
+    "overlaps_with": [
+      "IT30",
+      "IT32"
+    ],
+    "recommendation": "Retain",
+    "justification": "Blame patterns are central to emotional abuse; keep for diagnostic specificity."
+  },
+  {
+    "item_id": "IT42",
+    "dimension": "Emotional & Verbal Abuse",
+    "evidence_for": "Yelling and humiliation publicly is direct emotional abuse.",
+    "evidence_against": "May overlap with insult item (IT30) but qualifies public context.",
+    "fit": 5,
+    "clarity": 5,
+    "redundant": false,
+    "overlaps_with": [
+      "IT30"
+    ],
+    "recommendation": "Retain",
+    "justification": "Public humiliation has unique social consequences; retain separate item."
+  },
+  {
+    "item_id": "IT14",
+    "dimension": "Emotional & Verbal Abuse",
+    "evidence_for": "Feeling judged about life organization undermines confidence.",
+    "evidence_against": "Could be interpreted as general criticism, overlapping IT30–IT31.",
+    "fit": 4,
+    "clarity": 4,
+    "redundant": true,
+    "overlaps_with": [
+      "IT30",
+      "IT31"
+    ],
+    "recommendation": "Revise",
+    "justification": "Concept overlaps with broader criticism items; tighten wording or merge."
+  },
+  {
+    "item_id": "IT07",
+    "dimension": "Emotional & Verbal Abuse",
+    "evidence_for": "Rejecting or devaluing partner's authentic self undermines identity.",
+    "evidence_against": "Some overlap with other demeaning items (IT32, IT30).",
+    "fit": 4,
+    "clarity": 5,
+    "redundant": false,
+    "overlaps_with": [
+      "IT32",
+      "IT30"
+    ],
+    "recommendation": "Retain",
+    "justification": "Captures lack of acceptance; distinct relational facet of emotional abuse."
+  },
+  {
+    "item_id": "IT17",
+    "dimension": "Emotional & Verbal Abuse",
+    "evidence_for": "Negative comments about self-care/appearance attack self-esteem.",
+    "evidence_against": "Close to general insults; overlaps with IT30/IT32.",
+    "fit": 4,
+    "clarity": 5,
+    "redundant": true,
+    "overlaps_with": [
+      "IT30",
+      "IT32"
+    ],
+    "recommendation": "Retain",
+    "justification": "Appearance-focused abuse is common and clinically relevant; keep for specificity."
+  },
+  {
+    "item_id": "IT40",
+    "dimension": "Gaslighting & Manipulative Reality Distortion",
+    "evidence_for": "Denial of prior aggression induces doubt in victim's memory.",
+    "evidence_against": "Item refers to both physical and verbal aggression; broad scope.",
+    "fit": 5,
+    "clarity": 4,
+    "redundant": false,
+    "overlaps_with": [
+      "IT28",
+      "IT15"
+    ],
+    "recommendation": "Retain",
+    "justification": "Essential gaslighting indicator; captures denial and induced self-doubt."
+  },
+  {
+    "item_id": "IT28",
+    "dimension": "Gaslighting & Manipulative Reality Distortion",
+    "evidence_for": "Mood swings and affective whiplash create confusion and unpredictability.",
+    "evidence_against": "Could be viewed as personality/affective instability not only manipulation.",
+    "fit": 4,
+    "clarity": 5,
+    "redundant": false,
+    "overlaps_with": [
+      "IT15",
+      "IT40"
+    ],
+    "recommendation": "Retain",
+    "justification": "Affective whiplash is a recognized manipulation tactic; keep item."
+  },
+  {
+    "item_id": "IT15",
+    "dimension": "Gaslighting & Manipulative Reality Distortion",
+    "evidence_for": "Silent treatment penalizes and distorts relational expectations.",
+    "evidence_against": "Overlap with punishment/blaming in other dimensions (IT31).",
+    "fit": 4,
+    "clarity": 5,
+    "redundant": false,
+    "overlaps_with": [
+      "IT31",
+      "IT28"
+    ],
+    "recommendation": "Retain",
+    "justification": "Punitive non-communication is distinct manipulative strategy; retain."
+  },
+  {
+    "item_id": "IT04",
+    "dimension": "Emotional Neglect & Lack of Support",
+    "evidence_for": "Lack of interest when partner shares indicates emotional neglect.",
+    "evidence_against": "Could be interpreted as momentary inattention rather than chronic neglect.",
+    "fit": 5,
+    "clarity": 5,
+    "redundant": false,
+    "overlaps_with": [
+      "IT03",
+      "IT01"
+    ],
+    "recommendation": "Retain",
+    "justification": "Core supportive-absence indicator; retains face validity for neglect."
+  },
+  {
+    "item_id": "IT03",
+    "dimension": "Emotional Neglect & Lack of Support",
+    "evidence_for": "Not feeling heard denotes poor emotional responsiveness.",
+    "evidence_against": "Close to IT04 and IT08; potential overlap with communication items.",
+    "fit": 5,
+    "clarity": 5,
+    "redundant": true,
+    "overlaps_with": [
+      "IT04",
+      "IT08"
+    ],
+    "recommendation": "Retain",
+    "justification": "Listening absence is fundamental to neglect; keep despite overlap."
+  },
+  {
+    "item_id": "IT02",
+    "dimension": "Emotional Neglect & Lack of Support",
+    "evidence_for": "Lack of encouragement reveals absence of supportive partnership.",
+    "evidence_against": "May overlap with general lack of support items (IT01, IT04).",
+    "fit": 4,
+    "clarity": 5,
+    "redundant": false,
+    "overlaps_with": [
+      "IT01",
+      "IT04"
+    ],
+    "recommendation": "Retain",
+    "justification": "Encouragement absence is a distinct supportive deficit; keep."
+  },
+  {
+    "item_id": "IT01",
+    "dimension": "Emotional Neglect & Lack of Support",
+    "evidence_for": "Lack of perceived support in activities indicates emotional neglect.",
+    "evidence_against": "Broad; overlaps with IT02 and IT03 conceptually.",
+    "fit": 4,
+    "clarity": 5,
+    "redundant": true,
+    "overlaps_with": [
+      "IT02",
+      "IT03"
+    ],
+    "recommendation": "Revise",
+    "justification": "General support absence is useful but overlaps; specify domains or merge."
+  },
+  {
+    "item_id": "IT08",
+    "dimension": "Emotional Neglect & Lack of Support",
+    "evidence_for": "Cannot argue or resolve conflict safely — poor conflict skills/neglect.",
+    "evidence_against": "Could also reflect high conflict rather than neglect per se.",
+    "fit": 4,
+    "clarity": 4,
+    "redundant": false,
+    "overlaps_with": [
+      "IT03",
+      "IT01"
+    ],
+    "recommendation": "Retain",
+    "justification": "Addresses communication and conflict support deficit; clinically important."
+  },
+  {
+    "item_id": "IT29",
+    "dimension": "Subjective Experience of Fear & Discomfort",
+    "evidence_for": "Describes hypervigilance and walking-on-eggshells experience.",
+    "evidence_against": "Lengthy phrasing may overlap with general discomfort items (IT09, IT19).",
+    "fit": 5,
+    "clarity": 4,
+    "redundant": true,
+    "overlaps_with": [
+      "IT09",
+      "IT19",
+      "IT18"
+    ],
+    "recommendation": "Retain",
+    "justification": "Captures hallmark subjective hypervigilance; central to fear dimension."
+  },
+  {
+    "item_id": "IT18",
+    "dimension": "Subjective Experience of Fear & Discomfort",
+    "evidence_for": "Explicit statement of feeling fear and lack of safety.",
+    "evidence_against": "May overlap with other fear items (IT44, IT29).",
+    "fit": 5,
+    "clarity": 5,
+    "redundant": true,
+    "overlaps_with": [
+      "IT44",
+      "IT29",
+      "IT09"
+    ],
+    "recommendation": "Retain",
+    "justification": "Direct fear measure; necessary core subjective item despite overlap."
+  },
+  {
+    "item_id": "IT44",
+    "dimension": "Subjective Experience of Fear & Discomfort",
+    "evidence_for": "Avoidance of seeing partner due to expected harmful or embarrassing behaviors.",
+    "evidence_against": "Overlap with general fear and discomfort items (IT18, IT29).",
+    "fit": 5,
+    "clarity": 5,
+    "redundant": false,
+    "overlaps_with": [
+      "IT18",
+      "IT29"
+    ],
+    "recommendation": "Retain",
+    "justification": "Behavioral avoidance adds important outcome aspect of fear; keep."
+  },
+  {
+    "item_id": "IT09",
+    "dimension": "Subjective Experience of Fear & Discomfort",
+    "evidence_for": "Not feeling comfortable or safe when with partner — subjective fear.",
+    "evidence_against": "Similar phrasing to IT29 and IT18; potential redundancy.",
+    "fit": 5,
+    "clarity": 5,
+    "redundant": true,
+    "overlaps_with": [
+      "IT29",
+      "IT18"
+    ],
+    "recommendation": "Revise",
+    "justification": "Core subjective item but overlaps; consider merging with IT29 or simplifying."
+  },
+  {
+    "item_id": "IT19",
+    "dimension": "Subjective Experience of Fear & Discomfort",
+    "evidence_for": "Hiding discomfort to avoid partner's anger indicates fear-driven suppression.",
+    "evidence_against": "Closely related to walking-on-egg feelings (IT29) and avoidance (IT44).",
+    "fit": 4,
+    "clarity": 5,
+    "redundant": true,
+    "overlaps_with": [
+      "IT29",
+      "IT44"
+    ],
+    "recommendation": "Retain",
+    "justification": "Suppression of feelings is a distinct fear response; retain for emotional nuance."
+  },
+  {
+    "item_id": "IT10",
+    "dimension": "External Awareness & Absence of Healthy Relational Markers",
+    "evidence_for": "Friends have noticed problematic partner behavior — external concern.",
+    "evidence_against": "Closely overlaps with family concern item (IT20).",
+    "fit": 5,
+    "clarity": 5,
+    "redundant": true,
+    "overlaps_with": [
+      "IT20"
+    ],
+    "recommendation": "Retain",
+    "justification": "External observation is useful corroboration; keep but consider combining with IT20."
+  },
+  {
+    "item_id": "IT20",
+    "dimension": "External Awareness & Absence of Healthy Relational Markers",
+    "evidence_for": "Family or friends express worry — external validation of dysfunction.",
+    "evidence_against": "Similar to IT10; redundancy across external concern items.",
+    "fit": 5,
+    "clarity": 5,
+    "redundant": true,
+    "overlaps_with": [
+      "IT10"
+    ],
+    "recommendation": "Retain",
+    "justification": "Family concern differs slightly from friends; keep both or consider combined item."
+  },
+  {
+    "item_id": "IT45",
+    "dimension": "External Awareness & Absence of Healthy Relational Markers",
+    "evidence_for": "Positive inverse item measuring openness to communicate.",
+    "evidence_against": "Positive phrasing may require reverse-scoring; different valence.",
+    "fit": 4,
+    "clarity": 5,
+    "redundant": false,
+    "overlaps_with": [],
+    "recommendation": "Retain",
+    "justification": "Inverse healthy-relationship marker aids validity; keep but ensure reverse scoring."
+  }
+]

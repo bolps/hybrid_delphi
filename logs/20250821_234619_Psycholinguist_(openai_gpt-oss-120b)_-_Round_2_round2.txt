@@ -1,0 +1,134 @@
+### Psycholinguist (openai/gpt-oss-120b) - Round 2
+**Re‑organized latent structure (48 original items only)**  
+
+Below you will find the final set of latent dimensions that best captures the semantic core of each statement, taking the Delphi moderator’s synthesis into account **and** respecting the constraint that no new items are introduced or existing items split.  
+Each dimension is presented with:
+
+* a short label (in Italian, as the items are in Italian)  
+* the list of item numbers **and the exact wording** that belong to the dimension  
+* a concise rationale that explains why the items cluster together and how the new grouping improves on the earlier version.
+
+---
+
+## 1. Coercive Control & Surveillance  
+**Label:** *Controllo coercitivo e sorveglianza*  
+
+| # | Item (original wording) |
+|---|--------------------------|
+| 1 | *Mi sento controllata, ho la sensazione che non si fidi di me e che voglia sapere sempre dove sono e con chi…* |
+| 4 | *Sento che mi manda troppi messaggi o mi chiama in modo insistente* |
+| 6 | *Pretende prove d’amore e dimostrazioni di fedeltà nei suoi confronti* |
+| 13 | *Mi impedisce di avere accesso conto corrente o alle risorse economiche* |
+| 21 | *Controlla come spendo i miei soldi* |
+| 25 | *Cerca di controllare ciò che faccio e con chi mi vedo* |
+| 29 | *Mi impedisce cercare un lavoro per essere indipendente* |
+| 44 | *Mi viene chiesto di giustificare ogni acquisto che faccio* |
+| 45 | *Diventa estremamente geloso o possessivo* |
+
+**Rationale** – These statements all describe behaviours that restrict the victim’s autonomy by **monitoring** whereabouts, communications and personal choices **and** by **using economic levers** (access to money, spending control, employment sabotage) to create dependency.  The demand for “proof of love” and the extreme jealousy are classic tactics that reinforce surveillance, so they are best placed together with the other monitoring items rather than in a separate “emotional‑abuse” factor.  By merging the financial‑control items with the behavioural‑surveillance items we obtain a single, theoretically coherent “coercive control” dimension that mirrors contemporary IPV taxonomies (e.g., Stark 2007; WHO 2021).
+
+---
+
+## 2. Emotional Abuse & Manipulation  
+**Label:** *Abuso emotivo e manipolazione*  
+
+| # | Item (original wording) |
+|---|--------------------------|
+| 8  | *Mi dice che non valgo niente e che resterei sola se non stessi con lui…* |
+| 11 | *Ha forti oscillazioni d’umore, il minuto prima si arrabbia e mi urla contro e quello successivo è dolce e si scusa* |
+| 15 | *Dopo che mi ha aggredito (fisicamente o verbalmente) nega di averlo fatto e mi fa dubitare che sia realmente successo* |
+| 17 | *Mi sento giudicata rispetto alle cose che faccio e a come organizzo la mia vita* |
+| 22 | *Mi butta giù, mi insulta o mi critica* |
+| 32 | *Urla o mi umilia di fronte ad altre persone* |
+| 33 | *In sua compagnia mi capita di sentirmi a disagio… “camminare sulle uova”* |
+| 36 | *Non mi fa sentire bene quando parla di come mi prendo cura di me stessa e del mio aspetto fisico* |
+| 40 | *Mi fa sentire spesso sbagliata e mi dice che è colpa mia se sta male* |
+| 47 | *Quando faccio qualcosa che a lui non va bene poi non mi parla per giorni* |
+
+**Rationale** – These items share a **verbal‑degrading, gas‑lighting, and blame‑shifting** pattern that attacks the victim’s self‑esteem and sense of reality.  Mood‑swings, public humiliation, silent‑treatment and the “undoing” of any physical aggression (item 15) are classic markers of psychological abuse.  Keeping them together highlights a distinct latent factor that is conceptually separate from overt control of behaviour or finances.
+
+---
+
+## 3. Isolation & Social Interference  
+**Label:** *Isolamento e interferenza sociale*  
+
+| # | Item (original wording) |
+|---|--------------------------|
+| 3  | *Mi chiede di non vedere i miei amici/amiche* |
+| 31 | *Dice che sono impegnata in troppe cose e che lo trascuro, vorrebbe che passassimo la maggior parte del tempo insieme* |
+| 39 | *Parla male delle mie amici/amiche e dice che sono dei/delle “poco di buono”* |
+| 41 | *Non vuole che io veda la mia famiglia, i miei amici/amiche* |
+
+**Rationale** – All four statements describe **active attempts to cut the victim off from external support networks** (friends, family) and to **denigrate those networks**.  Item 31, which in the first version was placed under “behavioural control”, is better understood as a demand for exclusive time that serves the same purpose of limiting alternative social contacts.  Grouping these items yields a clean “isolation” factor that is widely recognised in intimate‑partner‑violence research.
+
+---
+
+## 4. Physical & Sexual Violence  
+**Label:** *Violenza fisica e sessuale*  
+
+| # | Item (original wording) |
+|---|--------------------------|
+| 34 | *Mi afferra per i capelli, mi strattona… mi dà dei pugni, mi schiaffeggia…* |
+| 42 | *Ha mostrato mie immagini intime ad altre persone senza il mio consenso* |
+| 43 | *Mi chiede insistentemente di fare sesso e non accetta quando dico di no* |
+
+**Rationale** – These items refer to **direct bodily aggression** (item 34), **sexual coercion** (item 43) and **non‑consensual dissemination of intimate images** (item 42).  They constitute a distinct, overt‑abuse dimension that does not overlap conceptually with the more covert control or emotional‑abuse factors.
+
+---
+
+## 5. Intimidation & Threats  
+**Label:** *Intimidazione e minacce*  
+
+| # | Item (original wording) |
+|---|--------------------------|
+| 14 | *Rompe e lancia oggetti per intimidirmi* |
+| 18 | *Ho paura di vederlo perché so che potrebbe avere comportamenti che mi possono fare stare male* |
+| 27 | *Minaccia di farsi del male a causa mia* |
+| 28 | *Mi dice che, se lo lasciassi, rivelerebbe ad altri dei miei segreti…* |
+| 35 | *Minaccia di fare del male a me, ai miei amici/amiche o alla mia famiglia* |
+| 46 | *Minacce di distruggere le mie cose (telefono, vestiti, computer, auto, ecc.)* |
+
+**Rationale** – This cluster gathers **explicit threats of physical harm, self‑harm, property damage and exposure of secrets**, together with the *subjective* feeling of being frightened by the partner’s possible actions (item 18).  The inclusion of item 18 is justified because the respondent’s fear is a direct consequence of the partner’s threatening behaviour, and it is therefore part of the same intimidation mechanism.  The dimension captures the “fear‑inducing” side of coercive control that is not captured by the purely behavioural‑surveillance items.
+
+---
+
+## 6. Healthy Relationship Dynamics  
+**Label:** *Dinamiche relazionali positive*  
+
+| # | Item (original wording) |
+|---|--------------------------|
+| 7  | *Sento che possiamo confrontarci e anche litigare senza farci male* |
+| 10 | *Sento il suo sostegno nelle cose che faccio* |
+| 19 | *Sento di potergli parlare di qualsiasi cosa* |
+| 20 | *Mi vuole bene per quella che sono e rispetta le mie scelte* |
+| 23 | *Capisce che ho bisogno anche di miei spazi personali…* |
+| 24 | *Mi incoraggia a provare nuove cose* |
+| 26 | *Mi sento ascoltata e si mostra interessato quando ho qualcosa che voglio condividere* |
+| 30 | *In sua compagnia mi sento a mio agio e al sicuro* |
+| 48 | *Mi fa sentire libera di fare le mie scelte su come gestire il mio tempo* |
+
+**Rationale** – These statements reflect **mutual respect, emotional safety, encouragement and autonomy support** – the opposite pole of the abusive dimensions.  Keeping them together provides a useful “positive” reference factor for scale validation and for distinguishing between healthy and unhealthy relational patterns.
+
+---
+
+## 7. External Validation of Concern *(excluded)*  
+
+The Delphi synthesis proposed a seventh dimension that captures **concern expressed by friends or family**.  No such items are present in the original 48‑item pool, therefore this factor cannot be retained in the final structure.  If future versions of the questionnaire wish to assess third‑party observations, new items would need to be added, but for the present data set we **omit** this dimension.
+
+---
+
+# Summary of revisions made  
+
+| What was changed | Why the change was made |
+|------------------|--------------------------|
+| **Merged financial‑control items (13, 21, 29, 44) with behavioural‑surveillance items** | The Delphi synthesis highlighted that economic domination is a core component of coercive control. Keeping them together produces a more parsimonious and theoretically aligned “Coercive Control & Surveillance” factor. |
+| **Moved “pretende prove d’amore” (item 6) into the coercive‑control factor** | This demand functions as a surveillance tool (proof of fidelity) and therefore fits better with other monitoring behaviours. |
+| **Re‑assigned item 31 (“vorrebbe che passassimo la maggior parte del tempo insieme”) from “Control” to “Isolation”** | The statement’s primary function is to limit time spent with others, a classic isolation tactic. |
+| **Created a distinct “Isolation & Social Interference” factor (items 3, 39, 41, 31)** | This isolates the social‑restriction domain from the broader surveillance factor, clarifying the conceptual distinction between “monitoring” and “social cutting‑off”. |
+| **Integrated item 18 (fear of partner’s possible harmful behaviour) into the “Intimidation & Threats” factor** | Although not an explicit threat, the respondent’s fear is a direct psychological consequence of the partner’s threatening posture and thus belongs to the intimidation domain. |
+| **Removed the “External Validation of Concern” dimension** | No original items correspond to this factor; adding it would violate the “no new items” rule. |
+| **Kept the “Physical & Sexual Violence” factor unchanged, but clarified that it includes non‑consensual image sharing (item 42)** | Aligns with the Delphi description while respecting the original item set. |
+| **Retained the “Healthy Relationship Dynamics” factor unchanged** | It already matched the synthesis and required no modification |
+| **Adjusted the wording of each dimension label and rationale to reflect the integrated, theory‑driven structure** | Provides clearer, more concise explanations and aligns terminology with contemporary IPV literature. |
+
+These revisions produce a **six‑factor solution** (plus the excluded seventh factor) that is both **empirically parsimonious** and **conceptually faithful** to the Delphi moderator’s synthesis, while respecting the constraint to use only the original 48 items.

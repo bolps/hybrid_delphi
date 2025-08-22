@@ -1,0 +1,125 @@
+### Psychometrician (openai/gpt-oss-120b)
+**Latent dimension 1 – Positive relational support & safety**  
+*What it captures:*  Feelings of being heard, respected, encouraged and free to be oneself; the partner is experienced as a source of comfort and security.  
+*Items*  
+
+- “Sento di potergli parlare di qualsiasi cosa”  
+- “Mi incoraggia a provare nuove cose”  
+- “Sento il suo sostegno nelle cose che faccio”  
+- “Sento che possiamo confrontarci e anche litigare senza farci male”  
+- “Capisce che ho bisogno anche di miei spazi personali e comprende che ci sono momenti in cui mi piace stare da sola o con persone diverse da lui (amici/amiche, familiari ecc.)”  
+- “Mi sento ascoltata e si mostra interessato quando ho qualcosa che voglio condividere”  
+- “Mi fa sentire libera di fare le mie scelte su come gestire il mio tempo”  
+- “Mi vuole bene per quella che sono e rispetta le mie scelte”  
+- “In sua compagnia mi sento a mio agio e al sicuro”  
+
+*Rationale:*  These statements describe warmth, validation, autonomy‑support and a sense of safety – the opposite side of the abuse spectrum and therefore form a coherent “positive‑relationship” factor.
+
+---
+
+**Latent dimension 2 – Psychological / emotional abuse**  
+*What it captures:*  Verbal denigration, humiliation, gas‑lighting, mood‑instability and the feeling that one must hide emotions for fear of a negative reaction.  
+*Items*  
+
+- “Parla male delle mie amici/amiche e dice che sono dei/delle ‘poco di buono’”  
+- “Quando faccio qualcosa che a lui non va bene poi non mi parla per giorni”  
+- “Non mi fa sentire bene quando parla di come mi prendo cura di me stessa e del mio aspetto fisico”  
+- “Ha forti oscillazioni d'umore, il minuto prima si arrabbia e mi urla contro e quello successivo è dolce e si scusa”  
+- “Mi butta giù, mi insulta o mi critica”  
+- “Sento disagio o non voglio fare qualcosa ma lo nascondo per paura che si arrabbi”  
+- “Dopo che mi ha aggredito (fisicamente o verbalmente) nega di averlo fatto e mi fa dubitare che sia realmente successo.”  
+- “In sua compagnia mi capita di sentirmi a disagio e ho la sensazione di dover stare attenta a ciò che dico o a ciò che faccio, come se dovessi ‘camminare sulle uova’ per evitare sue reazioni negative”  
+- “Urla o mi umilia di fronte ad altre persone”  
+- “Mi sento giudicata rispetto alle cose che faccio e a come organizzo la mia vita”  
+- “Mi fa sentire spesso sbagliata e mi dice che è colpa mia se sta male”  
+
+*Rationale:*  All statements involve negative, demeaning, or manipulative verbal tactics that undermine self‑esteem and create a climate of fear and confusion – the classic hallmarks of emotional abuse.
+
+---
+
+**Latent dimension 3 – Controlling & isolating behaviours**  
+*What it captures:*  Attempts to limit the victim’s social world, monitor whereabouts, demand exclusive attention, and impose strict rules about who the partner may see or contact.  
+*Items*  
+
+- “Mi chiede di non vedere i miei amici/amiche”  
+- “Mi impedisce di cercare un lavoro per essere indipendente”  
+- “Pretende prove d'amore e dimostrazioni di fedeltà nei suoi confronti”  
+- “Mi accusa di flirtare o di tradirlo”  
+- “Non vuole che io veda la mia famiglia, i miei amici/amiche”  
+- “Mi sento controllata, ho la sensazione che non si fidi di me e che voglia sapere sempre dove sono e con chi, me lo chiede continuamente”  
+- “Dice che sono impegnata in troppe cose e che lo trascuro, vorrebbe che passassimo la maggior parte del tempo insieme”  
+- “Diventa estremamente geloso o possessivo”  
+- “Sento che mi manda troppi messaggi o mi chiama in modo insistente”  
+- “Cerca di controllare ciò che faccio e con chi mi vedo”  
+- “Mi viene chiesto di giustificare ogni acquisto che faccio” (monitoring of spending)  
+- “Non mi sento libera di vestirmi come voglio”  
+
+*Rationale:*  These items refer to restriction of autonomy, surveillance, jealousy and demands for exclusive time—core components of coercive control.
+
+---
+
+**Latent dimension 4 – Economic abuse**  
+*What it captures:*  Direct interference with the victim’s financial resources and autonomy.  
+*Items*  
+
+- “Mi impedisce di avere accesso al conto corrente o alle mie risorse economiche”  
+- “Controlla come spendo i miei soldi”  
+- “Mi viene chiesto di giustificare ogni acquisto che faccio”  
+
+*Rationale:*  All three statements involve the partner’s domination over money, a distinct form of abuse that often co‑occurs with other controlling behaviours but loads on its own factor.
+
+---
+
+**Latent dimension 5 – Sexual coercion & privacy violation**  
+*What it captures:*  Unwanted sexual pressure and the non‑consensual use or threat of intimate images.  
+*Items*  
+
+- “Mi chiede insistentemente di fare sesso e non accetta quando dico di no o che non mi va”  
+- “Minaccia di mostrare ai miei amici o ai miei familiari mie immagini intime”  
+- “Ha mostrato mie immagini intime ad altre persone senza il mio consenso”  
+- “Mi dice che, se lo lasciassi, rivelerebbe ad altri dei miei segreti o delle cose molto personali che sa di me”  
+
+*Rationale:*  These are classic indicators of sexual abuse and of “image‑based” coercion, forming a coherent sexual‑coercion factor.
+
+---
+
+**Latent dimension 6 – Physical violence & overt threats of harm**  
+*What it captures:*  Direct physical aggression and explicit threats to damage the victim or her loved ones.  
+*Items*  
+
+- “Mi afferra per i capelli, mi strattona, mi mette le mani al collo, tenta di soffocarmi, mi dà dei pugni, mi schiaffeggia, mi getta addosso degli oggetti o mi fa male in qualche modo”  
+- “Minacce di distruggere le mie cose (telefono, vestiti, computer, auto, ecc.)”  
+- “Rompe e lancia oggetti per intimidirmi”  
+- “Minaccia di farsi del male a causa mia”  
+- “Minaccia di fare del male a me, ai miei amici/amiche o alla mia famiglia”  
+
+*Rationale:*  These items describe overt physical aggression or intimidation, a separate factor from the more subtle psychological tactics.
+
+---
+
+**Latent dimension 7 – Fear & external concern**  
+*What it captures:*  The victim’s subjective sense of danger and the alarm expressed by people in her social network.  
+*Items*  
+
+- “Provo paura vicino a lui, non mi sento al sicuro”  
+- “Ho paura di vederlo perché so che potrebbe avere comportamenti che mi possono fare stare male o sentire in imbarazzo”  
+- “Le mie amiche o la mia famiglia sono preoccupate per me”  
+- “I miei amici/amiche mi hanno fatto notare che non piace loro come si comporta con me”  
+
+*Rationale:*  These statements reflect the emotional consequence of the abusive environment (fear) and the corroborating worry of third‑party observers, clustering together as a “fear/concern” dimension.
+
+---
+
+**Summary of the factor structure**
+
+| Dimension | Core content | Number of items |
+|-----------|--------------|-----------------|
+| 1 – Positive relational support & safety | Warmth, validation, autonomy support | 9 |
+| 2 – Psychological / emotional abuse | Verbal denigration, gas‑lighting, mood swings | 11 |
+| 3 – Controlling & isolating behaviours | Social restriction, monitoring, jealousy | 12 |
+| 4 – Economic abuse | Financial domination | 3 |
+| 5 – Sexual coercion & privacy violation | Unwanted sex, image‑based threats | 4 |
+| 6 – Physical violence & overt threats | Physical aggression, intimidation | 5 |
+| 7 – Fear & external concern | Subjective fear, alarm of friends/family | 4 |
+
+These seven latent dimensions map closely onto well‑established constructs in the literature on intimate‑partner violence (e.g., emotional abuse, coercive control, economic abuse, sexual coercion, physical violence) while also preserving the positive‑relationship items that represent the opposite pole of the continuum.

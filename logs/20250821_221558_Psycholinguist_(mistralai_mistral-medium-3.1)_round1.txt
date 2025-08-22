@@ -1,0 +1,107 @@
+### Psycholinguist (mistralai/mistral-medium-3.1)
+Here’s a semantic grouping of the items into **latent dimensions of relational dynamics**, grounded in psychological and linguistic patterns (e.g., power/control, emotional safety, coercion, autonomy, and validation). Each dimension reflects a **thematic cluster** of behaviors, emotions, or cognitive appraisals.
+
+---
+
+### **1. Coercive Control & Isolation**
+*(Systematic domination through restriction, surveillance, and social isolation)*
+- **Items**:
+  - Mi chiede di non vedere i miei amici/amiche
+  - Cerca di controllare ciò che faccio e con chi mi vedo
+  - Non vuole che io veda la mia famiglia, i miei amici/amiche
+  - Mi impedisce di avere accesso al conto corrente o alle mie risorse economiche
+  - Controlla come spendo i soldi / Mi viene chiesto di giustificare ogni acquisto che faccio
+  - Parla male delle mie amiche e dice che sono dei/delle “poco di buono”
+  - Mi impedisce cercare un lavoro per essere indipendente
+  - Diventa estremamente geloso o possessivo
+  - Pretende prove d'amore e dimostrazioni di fedeltà
+  - Mi accusa di flirtare o di tradirlo
+
+- **Rationale**:
+  These items reflect **structural control**—behaviors designed to limit autonomy, monitor actions, and erode external support systems. Linguistically, they share **deontic modality** (obligation/permission: *"mi chiede di non..."*, *"pretende..."*) and **agentive deprivation** (*"mi impedisce..."*). The focus is on **restricting agency** through financial, social, or emotional constraints.
+
+---
+
+### **2. Psychological & Physical Intimidation**
+*(Explicit or implicit threats to induce fear, compliance, or self-doubt)*
+- **Items**:
+  - Provo paura vicino a lui, non mi sento al sicuro
+  - Minacce di distruggere le mie cose (telefono, vestiti, ecc.)
+  - Minaccia di mostrare immagini intime ai miei amici/familiari
+  - Minaccia di fare del male a me, ai miei amici, o alla mia famiglia
+  - Minaccia di farsi del male a causa mia
+  - Rompe e lancia oggetti per intimidirmi
+  - Mi afferra per i capelli, strattona, soffoca, picchia, ecc.
+  - Ho paura di vederlo perché so che potrebbe fare cose che mi fanno stare male
+  - Urla o mi umilia di fronte ad altre persone
+  - Dopo che mi ha aggredito nega di averlo fatto e mi fa dubitare che sia successo
+
+- **Rationale**:
+  These items center on **fear induction** through **violence, threats, or gaslighting**. Linguistically, they employ **future-oriented conditionals** (*"minaccia di..."*) and **bodily harm lexicon** (*"soffocarmi", "strattona"*). The dimension captures **trauma-bonding dynamics** (e.g., denial after aggression) and **public humiliation** as tools of dominance.
+
+---
+
+### **3. Emotional Manipulation & Devaluation**
+*(Undermining self-worth, inducing guilt, or exploiting vulnerabilities)*
+- **Items**:
+  - Mi dice che non valgo niente e che resterei sola se non stessi con lui
+  - Mi fa sentire spesso sbagliata e mi dice che è colpa mia se sta male
+  - Mi butta giù, mi insulta o mi critica
+  - Non mi fa sentire bene quando parla di come mi prendo cura di me stessa
+  - Mi sento giudicata rispetto a come organizzo la mia vita
+  - Ha mostrato mie immagini intime ad altre persone senza consenso
+  - Dice che sono impegnata in troppe cose e che lo trascuro
+
+- **Rationale**:
+  These statements reflect **verbal abuse** and **self-esteem erosion**. Linguistically, they use **evaluative language** (*"non valgo niente"*, *"sbagliata"*) and **causal blame-shifting** (*"è colpa mia"*). The items exploit **shame** (body image, life choices) and **betrayal** (violating trust with intimate images).
+
+---
+
+### **4. Conditional Affection & Unpredictability**
+*(Inconsistent reinforcement: love withdrawn as punishment or used as a tool)*
+- **Items**:
+  - Ha forti oscillazioni d’umore: si arrabbia e urla, poi è dolce e si scusa
+  - Quando faccio qualcosa che non gli va bene, non mi parla per giorni
+  - Sento disagio ma lo nascondo per paura che si arrabbi
+  - Mi chiede insistentemente di fare sesso e non accetta un "no"
+
+- **Rationale**:
+  This dimension captures **intermittent reinforcement** (reward/punishment unpredictability). Linguistically, it contrasts **extreme states** (*"arrabbia" ↔ "dolce"*) and **negation of consent** (*"non accetta un no"*). The items highlight **fear of abandonment** and **sexual coercion** as leverage.
+
+---
+
+### **5. Autonomy & Respect**
+*(Validation of independence, trust, and mutual growth)*
+- **Items**:
+  - Mi vuole bene per quella che sono e rispetta le mie scelte
+  - Capisce che ho bisogno di spazi personali e tempo con altri
+  - Mi sento libera di fare le mie scelte su come gestire il mio tempo
+  - Mi incoraggia a provare nuove cose
+  - Sento che possiamo confrontarci e litigare senza farci male
+  - Mi sento ascoltata e si mostra interessato a ciò che condivido
+  - In sua compagnia mi sento a mio agio e al sicuro
+  - Sento il suo sostegno nelle cose che faccio
+  - Mi sento libera di vestirmi come voglio
+
+- **Rationale**:
+  These items contrast the prior dimensions by emphasizing **agency, safety, and collaboration**. Linguistically, they use **positive affect lexicon** (*"a mio agio"*, *"sostegno"*) and **permissive modality** (*"mi sento libera di..."*). The focus is on **secure attachment behaviors**.
+
+---
+### **6. External Validation & Concern**
+*(Third-party observations or warnings about the relationship)*
+- **Items**:
+  - Le mie amiche o la mia famiglia sono preoccupate per me
+  - I miei amici mi hanno fatto notare che non piace loro come si comporta con me
+  - Sento che mi manda troppi messaggi o mi chiama in modo insistente
+
+- **Rationale**:
+  These items introduce **outsider perspectives** as a **reality check**, signaling **objective red flags**. The insistence on communication (*"troppi messaggi"*) may reflect **enmeshment** or **monitoring**.
+
+---
+### **Key Latent Contrasts**:
+1. **Control vs. Autonomy** (Dimensions 1/2/3 vs. 5)
+2. **Fear vs. Safety** (Dimensions 2/3 vs. 5/6)
+3. **Isolation vs. Connection** (Dimension 1 vs. 5/6)
+4. **Devaluation vs. Validation** (Dimension 3 vs. 5)
+
+This framework aligns with **psychological abuse typologies** (e.g., Stark’s *coercive control*) and **attachment theory** (secure vs. insecure dynamics). The groupings avoid overlap by separating **behavioral control** (Dimension 1) from **emotional manipulation** (Dimension 3) and **physical threats** (Dimension 2).

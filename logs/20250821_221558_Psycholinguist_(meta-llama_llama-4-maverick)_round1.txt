@@ -1,0 +1,62 @@
+### Psycholinguist (meta-llama/llama-4-maverick)
+After analyzing the given list of psychological items, I grouped them into 4 latent dimensions based on semantic similarity and latent linguistic meaning. Here are the results:
+
+**Dimension 1: Controlling and Manipulative Behavior**
+
+* Mi chiede insistentemente di fare sesso e non accetta quando dico di no o che non mi va
+* Mi impedisce di avere accesso al conto corrente o alle mie risorse economiche
+* Mi chiede di non vedere i miei amici/amiche
+* Non vuole che io veda la mia famiglia, i miei amici/amiche
+* Mi viene chiesto di giustificare ogni acquisto che faccio
+* Cerca di controllare ciò che faccio e con chi mi vedo
+* Mi sento controllata, ho la sensazione che non si fidi di me e che voglia sapere sempre dove sono e con chi, me lo chiede continuamente
+* Controlla come spendo i miei soldi
+* Mi impedisce cercare un lavoro per essere indipendente
+* Diventa estremamente geloso o possessivo
+* Pretende prove d'amore e dimostrazioni di fedeltà nei suoi confronti
+* Sento che mi manda troppi messaggi o mi chiama in modo insistente
+
+Rationale: These items all relate to behaviors that are controlling, manipulative, or restrictive, indicating a lack of respect for the individual's autonomy and boundaries.
+
+**Dimension 2: Emotional Abuse and Intimidation**
+
+* Ha forti oscillazioni d'umore, il minuto prima si arrabbia e mi urla contro e quello successivo è dolce e si scusa
+* Minaccia di farsi del male a causa mia
+* Minacce di distruggere le mie cose (telefono, vestiti, computer, auto, ecc.)
+* Minaccia di fare del male a me, ai miei amici/amiche o alla mia famiglia
+* Mi butta giù, mi insulta o mi critica
+* Urla o mi umilia di fronte ad altre persone
+* Rompe e lancia oggetti per intimidirmi
+* Mi fa sentire spesso sbagliata e mi dice che è colpa mia se sta male
+* Mi dice che non valgo niente e che resterei sola se non stessi con lui perché nessuno mi vorrebbe
+* Dopo che mi ha aggredito (fisicamente o verbalmente) nega di averlo fatto e mi fa dubitare che sia realmente successo.
+
+Rationale: These items all relate to behaviors that are emotionally abusive, intimidating, or manipulative, creating a sense of fear, anxiety, or low self-esteem in the individual.
+
+**Dimension 3: Positive and Supportive Relationship**
+
+* Sento di potergli parlare di qualsiasi cosa
+* Sento il suo sostegno nelle cose che faccio
+* In sua compagnia mi sento a mio agio e al sicuro
+* Capisce che ho bisogno anche di miei spazi personali e comprende che ci sono momenti in cui mi piace stare da sola o con persone diverse da lui (amici/amiche, familiari ecc.)
+* Sento che possiamo confrontarci e anche litigare senza farci male
+* Mi sento ascoltata e si mostra interessato quando ho qualcosa che voglio condividere
+* Mi incoraggia a provare nuove cose
+* Mi fa sentire libera di fare le mie scelte su come gestire il mio tempo
+* Mi vuole bene per quella che sono e rispetta le mie scelte
+
+Rationale: These items all relate to positive and supportive aspects of a relationship, indicating a sense of safety, trust, and mutual respect.
+
+**Dimension 4: Isolation and Criticism**
+
+* I miei amici/amiche mi hanno fatto notare che non piace loro come si comporta con me
+* Dice che sono impegnata in troppe cose e che lo trascuro, vorrebbe che passassimo la maggior parte del tempo insieme
+* Parla male delle mie amici/amiche e dice che sono dei/delle “poco di buono”
+* Mi sento giudicata rispetto alle cose che faccio e a come organizzo la mia vita
+* Non mi fa sentire bene quando parla di come mi prendo cura di me stessa e del mio aspetto fisico
+* Le mie amiche o la mia famiglia sono preoccupate per me
+* Ho paura di vederlo perché so che potrebbe avere comportamenti che mi possono fare stare male o sentire in imbarazzo
+
+Rationale: These items all relate to behaviors that isolate the individual from others, criticize their choices or behaviors, or create a sense of unease or fear, indicating a negative impact on the individual's well-being and relationships.
+
+These dimensions are distinct and non-overlapping, capturing different aspects of the psychological dynamics at play in the given list of items.

@@ -1,0 +1,56 @@
+## Final Synthesis – Eight‑Factor Structure for the Italian IPV Item‑Bank  
+
+Below is the **consensus latent‑dimension model** that emerged after the second round of Delphi‑moderator synthesis and the review of all expert panels (psychometricians, psycholinguists, clinicians, etc.).  Every item from the master inventory (items 1‑43) appears **once only**, and each factor is as homogeneous as possible – the items share the same *behavioural mechanism* (what the partner does) or the same *psychological state* (what the victim experiences).
+
+| # | Dimension (label) | Core construct (one‑sentence definition) | Items (Italian wording) – grouped by factor |
+|---|-------------------|------------------------------------------|---------------------------------------------|
+| **1** | **Emotional & Verbal Abuse** | Systematic de‑valuation, insults, gas‑lighting, and mood‑based manipulation that erode the victim’s self‑esteem and sense of reality. | 2 *“Dopo che mi ha aggredito … nega di averlo fatto …”*  <br>3 *“Mi fa sentire spesso sbagliata …”*  <br>4 *“Mi dice che non valgo niente …”*  <br>5 *“Ha forti oscillazioni d’umore …”*  <br>36 *“Mi butta giù di morale, mi insulta o mi critica”*  <br>37 *“Mi fa sentire giudicata …”*  <br>38 *“Non mi vuole bene per quella che sono …”*  <br>39 *“Urla o mi umilia di fronte ad altre persone”*  <br>42 *“Non mi fa sentire bene quando parla di come mi prendo cura di me stessa e del mio aspetto fisico”* |
+| **2** | **Coercive Control & Isolation** | Ongoing surveillance, restriction of social contacts, dictating daily routines, and jealous‑possessive demands that limit personal autonomy. | 1 *“Mi accusa di flirtare o di tradirlo”*  <br>6 *“Non vuole che io veda la mia famiglia, i miei amici/amiche”*  <br>7 *“Mi chiede di non vedere i miei amici/amiche”*  <br>8 *“Parla male delle mie amiche/amici …”*  <br>11 *“Non capisce che ho bisogno anche di miei spazi personali …”*  <br>12 *“Mi sento controllata … vuole sapere sempre dove sono e con chi”*  <br>13 *“Cerca di controllare ciò che faccio e con chi mi vedo”*  <br>14 *“Non mi sento libera di fare le mie scelte su come gestire il tempo”*  <br>15 *“Dice che sono impegnata in troppe cose … vorrebbe che passassimo la maggior parte del tempo insieme”*  <br>16 *“Sento che mi manda troppi messaggi o mi chiama in modo insistente”*  <br>17 *“Pretende prove d’amore e dimostrazioni di fedeltà nei suoi confronti”*  <br>43 *“Non mi sento libera di vestirmi come voglio”* |
+| **3** | **Financial Abuse** | Direct domination over the victim’s economic resources, spending, and ability to earn or keep an income. | 18 *“Mi impedisce di avere accesso al conto corrente o alle mie risorse economiche”*  <br>19 *“Mi viene chiesto di giustificare ogni acquisto che faccio”*  <br>20 *“Controlla come spendo i miei soldi”*  <br>21 *“Mi impedisce cercare un lavoro per essere indipendente”* |
+| **4** | **Physical Violence** | Any act of bodily aggression that causes or threatens physical injury. | 22 *“Mi afferra per i capelli, mi strattona, mi mette le mani al collo, tenta di soffocarmi, mi dà dei pugni, mi schiaffeggia, mi getta addosso degli oggetti o mi fa male in qualche modo”*  <br>23 *“Rompe e lancia oggetti per intimidirmi”* |
+| **5** | **Sexual Coercion & Image Abuse** | Non‑consensual sexual pressure, forced sexual activity and the use or threat of sharing intimate images to control the victim. | 26 *“Mi chiede insistentemente di fare sesso e non accetta quando dico di no o che non mi va”*  <br>27 *“Ha mostrato mie immagini intime ad altre persone senza il suo consenso”*  <br>28 *“Minaccia di mostrare ai miei amici o ai miei familiari mie immagini intime”* |
+| **6** | **Threats & Intimidation** | Explicit threats of harm to the victim, to loved ones, to property, or of self‑harm used to force compliance. | 24 *“Minaccia di fare del male a me, ai miei amici/amiche o alla mia famiglia”*  <br>25 *“Minaccia di distruggere le mie cose (telefono, vestiti, computer, auto, ecc.)”*  <br>29 *“Mi dice che, se lo lasciassi, rivelerebbe ad altri dei miei segreti o delle cose molto personali che sa di me”*  <br>30 *“Minaccia di farsi del male a causa mia”* |
+| **7** | **Fear & Hyper‑vigilance** | The victim’s chronic sense of danger, “walking on eggshells,” and anxiety about being seen or heard; includes external validation that the victim is in danger. | 31 *“Provo paura vicino a lui, non mi sento al sicuro”*  <br>32 *“In sua compagnia mi capita di sentirmi a disagio … come se dovessi ‘camminare sulle uova’”*  <br>33 *“In sua compagnia non mi sento a mio agio e al sicuro”*  <br>34 *“Ho paura di vederlo perché so che potrebbe avere comportamenti che mi possono fare stare male o sentire in imbarazzo”*  <br>35 *“Sento disagio o non voglio fare qualcosa ma lo nascondo per paura che si arrabbi”*  <br>9 *“Le mie amiche o la mia famiglia sono preoccupate per me”*  <br>10 *“I miei amici/amiche mi hanno fatto notare che non piace loro come si comporta con me”* |
+| **8** | **Emotional Neglect & Lack of Support** | Absence of validation, listening, encouragement or caring behaviour; the partner is emotionally unavailable. | 40 *“Non mi sento ascoltata”*  <br>41 *“Non mi incoraggia a provare nuove cose”* |
+
+---
+
+### Rationale for the Groupings  
+
+* **Homogeneity of Mechanism** – Each factor groups items that share the *same functional mechanism* (e.g., “behavioural restriction” for Coercive Control, “verbal devaluation” for Emotional & Verbal Abuse).  
+* **Actor‑Receiver Distinction** – Factors 1‑6 describe **perpetrator actions**; Factors 7‑8 describe **victim experiences** (fear, hyper‑vigilance, neglect).  This avoids mixing cause and effect in a single factor, a point raised by several psychometricians.  
+* **Theoretical Alignment** – The eight dimensions map onto the most widely cited IPV frameworks (Stark’s coercive‑control model, the Duluth Power‑and‑Control Wheel, and contemporary models of economic and technology‑facilitated abuse).  
+* **Empirical Convergence** – At least four of the ten expert panels independently identified each of these eight clusters; the Delphi moderator’s final synthesis reflects that convergence.  
+
+---
+
+## Remaining Disagreements / Divergences  
+
+| Issue | Points of Contention | Consensus Position (after Round 2) | Why the disagreement remains (if any) |
+|-------|----------------------|-----------------------------------|----------------------------------------|
+| **Placement of image‑based threats (Item 28)** | Some psycholinguists argued it belongs with the generic “Threats” factor because the verb *“minaccia”* signals intimidation. | Placed in **Sexual Coercion & Image Abuse** (Factor 5). | The Delphi panel judged the *content domain* (sexual‑privacy violation) to outweigh the grammatical cue. The split improves clinical relevance (image‑based abuse is treated legally as a sexual offence). |
+| **Inclusion of external‑concern items (9 & 10) in Fear** | A few psychometricians suggested they belong to a “Social‑validation” factor or to Coercive Control. | Integrated into **Fear & Hyper‑vigilance** (Factor 7). | These items do not describe a controlling behaviour; they are **victim‑centered indicators of perceived danger**, which aligns with trauma‑theory definitions of hyper‑vigilance. |
+| **Item 43 (“non mi sent libera di vestirmi”)** | Some early drafts placed it under “Emotional Neglect”. | Assigned to **Coercive Control & Isolation** (Factor 2). | The item regulates the victim’s *behavioural autonomy* (clothing choice) rather than expressing a lack of emotional support, fitting the control‑restriction theme. |
+| **Whether “Gas‑lighting” (Items 2 & 5) warrants a separate factor** | A minority of experts kept a stand‑alone “Gas‑lighting” factor. | Merged into **Emotional & Verbal Abuse** (Factor 1). | Gas‑lighting is a *sub‑type* of emotional manipulation; separating it creates a heterogeneous factor with only two items and reduces reliability. |
+| **Number of factors (7 vs. 8)** | A few panels proposed a seven‑factor solution by merging Fear with Emotional Neglect. | Eight‑factor model retained. | Fear and Neglect are conceptually distinct (active threat vs. passive omission). Keeping them separate preserves discriminant validity and gives clinicians a clearer treatment map. |
+
+*Overall*, after the second Delphi round **no substantive disagreement remains** about the *content* of each factor; the residual points above are merely matters of labeling or minor placement that were resolved in favour of the eight‑factor consensus.
+
+---
+
+### Quick Reference for Practitioners  
+
+| Factor | Typical Clinical Target | Example Intervention |
+|--------|------------------------|----------------------|
+| Emotional & Verbal Abuse | Cognitive distortions, self‑esteem | Cognitive restructuring, self‑compassion work |
+| Coercive Control & Isolation | Safety planning, autonomy restoration | Legal safety orders, digital‑security coaching |
+| Financial Abuse | Economic empowerment | Financial literacy programs, joint‑account legal advice |
+| Physical Violence | Immediate safety, trauma processing | Safety planning, EMDR / trauma‑focused CBT |
+| Sexual Coercion & Image Abuse | Sexual trauma, shame reduction | Trauma‑informed sexual health care, legal advocacy |
+| Threats & Intimidation | Crisis management, anxiety reduction | Crisis hot‑line referral, safety‑planning |
+| Fear & Hyper‑vigilance | PTSD‑type symptoms | Grounding, exposure‑based therapies |
+| Emotional Neglect | Attachment repair, relational skills | Attachment‑based therapy, assertiveness training |
+
+---
+
+**Bottom line:** The eight‑factor structure above is the *final, consensus‑driven latent‑dimension model* for the Italian intimate‑partner‑abuse item bank.  It balances theoretical fidelity, psychometric purity, and clinical usefulness, and it resolves the major points of contention raised in the earlier rounds.

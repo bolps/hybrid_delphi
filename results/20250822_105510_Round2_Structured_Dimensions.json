@@ -1,0 +1,224 @@
+{
+  "dimensions": [
+    {
+      "name": "Emotional & Verbal Abuse",
+      "definition": "Systematic de‑valuation, insults, gas‑lighting, and mood‑based manipulation that erode the victim’s self‑esteem and sense of reality.",
+      "items": [
+        {
+          "id": "IT40",
+          "text": "Dopo che mi ha aggredito (fisicamente o verbalmente) nega di averlo fatto e mi fa dubitare che sia realmente successo."
+        },
+        {
+          "id": "IT31",
+          "text": "Mi fa sentire spesso sbagliata e mi dice che è colpa mia se sta male"
+        },
+        {
+          "id": "IT32",
+          "text": "Mi dice che non valgo niente e che resterei sola se non stessi con lui perché nessuno mi vorrebbe"
+        },
+        {
+          "id": "IT28",
+          "text": "Ha forti oscillazioni d'umore, il minuto prima si arrabbia e mi urla contro e quello successivo è dolce e si scusa"
+        },
+        {
+          "id": "IT30",
+          "text": "Mi butta giù di morale, mi insulta o mi critica"
+        },
+        {
+          "id": "IT14",
+          "text": "Mi sento giudicata rispetto alle cose che faccio e a come organizzo la vita"
+        },
+        {
+          "id": "IT17",
+          "text": "Non mi fa sentire bene quando parla di come mi prendo cura di me stessa e del mio aspetto fisico"
+        },
+        {
+          "id": "IT42",
+          "text": "Urla o mi umilia di fronte ad altre persone"
+        },
+        {
+          "id": "IT01",
+          "text": "Non sento di avere il suo sostegno nelle cose che faccio"
+        }
+      ]
+    },
+    {
+      "name": "Coercive Control & Isolation",
+      "definition": "Ongoing surveillance, restriction of social contacts, dictating daily routines, and jealous‑possessive demands that limit personal autonomy.",
+      "items": [
+        {
+          "id": "IT23",
+          "text": "Mi accusa di flirtare o di tradirlo"
+        },
+        {
+          "id": "IT27",
+          "text": "Non vuole che io veda la mia famiglia, i miei amici/amiche"
+        },
+        {
+          "id": "IT12",
+          "text": "Mi chiede di non vedere i miei amici/amiche"
+        },
+        {
+          "id": "IT11",
+          "text": "Parla male delle mie amici/amiche e dice che sono dei/delle “poco di buono”"
+        },
+        {
+          "id": "IT05",
+          "text": "Non capisce che ho bisogno anche di miei spazi personali e non comprende che ci sono momenti in cui mi piace stare da sola o con persone diverse da lui (amici/amiche, familiari ecc.)"
+        },
+        {
+          "id": "IT24",
+          "text": "Mi sento controllata, ho la sensazione che non si fidi di me e che voglia sapere sempre dove sono e con chi, me lo chiede continuamente"
+        },
+        {
+          "id": "IT26",
+          "text": "Cerca di controllare ciò che faccio e con chi mi vedo"
+        },
+        {
+          "id": "IT06",
+          "text": "Non mi fa sentire libera di fare le mie scelte su come gestire il mio tempo"
+        },
+        {
+          "id": "IT13",
+          "text": "Dice che sono impegnata in troppe cose e che lo trascuro, vorrebbe che passassimo la maggior parte del tempo insieme"
+        },
+        {
+          "id": "IT16",
+          "text": "Sento che mi manda troppi messaggi o mi chiama in modo insistente"
+        },
+        {
+          "id": "IT21",
+          "text": "Pretende prove d'amore e dimostrazioni di fedeltà nei suoi confronti"
+        },
+        {
+          "id": "IT25",
+          "text": "Non mi sento libera di vestirmi come voglio"
+        }
+      ]
+    },
+    {
+      "name": "Financial Abuse",
+      "definition": "Direct domination over the victim’s economic resources, spending, and ability to earn or keep an income.",
+      "items": [
+        {
+          "id": "IT47",
+          "text": "Mi impedisce di avere accesso al conto corrente o alle mie risorse economiche"
+        },
+        {
+          "id": "IT48",
+          "text": "Mi viene chiesto di giustificare ogni acquisto che faccio"
+        },
+        {
+          "id": "IT46",
+          "text": "Controlla come spendo i miei soldi"
+        },
+        {
+          "id": "IT49",
+          "text": "Mi impedisce cercare un lavoro per essere indipendente"
+        }
+      ]
+    },
+    {
+      "name": "Physical Violence",
+      "definition": "Any act of bodily aggression that causes or threatens physical injury.",
+      "items": [
+        {
+          "id": "IT39",
+          "text": "Mi afferra per i capelli, mi strattona, mi mette le mani al collo, tenta di soffocarmi, mi dà dei pugni, mi schiaffeggia, mi getta addosso degli oggetti o mi fa male in qualche modo"
+        },
+        {
+          "id": "IT41",
+          "text": "Rompe e lancia oggetti per intimidirmi"
+        }
+      ]
+    },
+    {
+      "name": "Sexual Coercion & Image Abuse",
+      "definition": "Non‑consensual sexual pressure, forced sexual activity and the use or threat of sharing intimate images to control the victim.",
+      "items": [
+        {
+          "id": "IT43",
+          "text": "Mi chiede insistentemente di fare sesso e non accetta quando dico di no o che non mi va"
+        },
+        {
+          "id": "IT33",
+          "text": "Ha mostrato mie immagini intime ad altre persone senza il mio consenso"
+        },
+        {
+          "id": "IT34",
+          "text": "Minaccia di mostrare ai miei amici o ai miei familiari mie immagini intime"
+        }
+      ]
+    },
+    {
+      "name": "Threats & Intimidation",
+      "definition": "Explicit threats of harm to the victim, to loved ones, to property, or of self‑harm used to force compliance.",
+      "items": [
+        {
+          "id": "IT36",
+          "text": "Minaccia di fare del male a me, ai miei amici/amiche o alla mia famiglia"
+        },
+        {
+          "id": "IT38",
+          "text": "Minaccia di distruggere le mie cose (telefono, vestiti, computer, auto, ecc.)"
+        },
+        {
+          "id": "IT35",
+          "text": "Mi dice che, se lo lasciassi, rivelerebbe ad altri dei miei segreti o delle cose molto personali che sa di me"
+        },
+        {
+          "id": "IT37",
+          "text": "Minaccia di farsi del male a causa mia"
+        }
+      ]
+    },
+    {
+      "name": "Fear & Hyper‑vigilance",
+      "definition": "The victim’s chronic sense of danger, “walking on eggshells,” and anxiety about being seen or heard; includes external validation that the victim is in danger.",
+      "items": [
+        {
+          "id": "IT18",
+          "text": "Provo paura vicino a lui, non mi sento al sicuro"
+        },
+        {
+          "id": "IT29",
+          "text": "In sua compagnia mi capita di sentirmi a disagio e ho la sensazione di dover stare attenta a ciò che dico o a ciò che faccio, come se dovessi “camminare sulle uova” per evitare sue reazioni negative"
+        },
+        {
+          "id": "IT09",
+          "text": "In sua compagnia non mi sento a mio agio e al sicuro"
+        },
+        {
+          "id": "IT44",
+          "text": "Ho paura di vederlo perché so che potrebbe avere comportamenti che mi possono fare stare male o sentire in imbarazzo"
+        },
+        {
+          "id": "IT19",
+          "text": "Sento disagio o non voglio fare qualcosa ma lo nascondo per paura che si arrabbi"
+        },
+        {
+          "id": "IT20",
+          "text": "Le mie amiche o la mia famiglia sono preoccupate per me"
+        },
+        {
+          "id": "IT10",
+          "text": "I miei amici/amiche mi hanno fatto notare che non piace loro come si comporta con me"
+        }
+      ]
+    },
+    {
+      "name": "Emotional Neglect & Lack of Support",
+      "definition": "Absence of validation, listening, encouragement or caring behaviour; the partner is emotionally unavailable.",
+      "items": [
+        {
+          "id": "IT03",
+          "text": "Non mi sento ascoltata"
+        },
+        {
+          "id": "IT02",
+          "text": "Non mi incoraggia a provare nuove cose"
+        }
+      ]
+    }
+  ]
+}

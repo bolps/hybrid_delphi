@@ -1,0 +1,131 @@
+### Clinical Psychologist (mistralai/mistral-medium-3.1)
+Below is the **latent dimensional analysis** of the provided items, grouped into clinically coherent constructs rooted in **relational, affective, and trauma-informed psychology**. Each dimension reflects a distinct pattern of **abusive, controlling, or dysfunctional relational dynamics**, with minimal overlap.
+
+---
+
+### **1. Psicologica/Emotiva Violenza (Psychological/Emotional Abuse)**
+**Items:**
+- Urla o mi umilia di fronte ad altre persone
+- Mi butta giù di morale, mi insulta o mi critica
+- Non sento di avere il suo sostegno nelle cose che faccio
+- Non mi incoraggia a provare nuove cose
+- Dice che non valgo niente e che resterei sola se non stessi con lui perché nessuno mi vorrebbe
+- Mi fa sentire spesso sbagliata e mi dice che è colpa mia se sta male
+- Non mi fa sentire bene quando parla di come mi prendo cura di me stessa e del mio aspetto fisico
+- Non mi sento ascoltata
+- Non sento che possiamo confrontarci e anche litigare senza farci male
+
+**Rationale:**
+These items reflect **systematic emotional undermining**, including **verbal aggression, humiliation, gaslighting, and invalidation**. The abuser erodes self-worth, creates dependency, and fosters a **hostile or unsupportive relational climate**. This aligns with **coercive control** and **emotional abuse** constructs (Stark, 2007; Dutton & Painter, 1993).
+
+---
+
+### **2. Controllo Coercitivo e Isolamento (Coercive Control & Isolation)**
+**Items:**
+- Non mi sento libera di vestirmi come voglio
+- Controlla come spendo i miei soldi
+- Mi sento controllata, ho la sensazione che non si fidi di me e che voglia sapere sempre dove sono e con chi, me lo chiede continuamente
+- Non vuole che io veda la mia famiglia, i miei amici/amiche
+- Mi chiede di non vedere i miei amici/amiche
+- Parla male delle mie amiche/i e dice che sono dei/delle “poco di buono”
+- Mi impedisce di avere accesso al conto corrente o alle mie risorse economiche
+- Mi impedisce cercare un lavoro per essere indipendente
+- Non mi fa sentire libera di fare le mie scelte su come gestire il mio tempo
+- Non capisce che ho bisogno anche di miei spazi personali
+
+**Rationale:**
+This dimension captures **systematic domination** through **isolation, financial abuse, and micromanagement of autonomy**. The abuser restricts **social support, economic freedom, and personal agency**, creating **dependency and entrapment** (Johnson & Leone, 2005). This is a **hallmark of intimate terrorism** (Johnson, 2008).
+
+---
+
+### **3. Violenza Fisica e Minacce (Physical Violence & Intimidation)**
+**Items:**
+- Rompe e lancia oggetti per intimidirmi
+- Mi afferra per i capelli, mi strattona, mi mette le mani al collo, tenta di soffocarmi, mi dà dei pugni, mi schiaffeggia, mi getta addosso degli oggetti o mi fa male in qualche modo
+- Provo paura vicino a lui, non mi sento al sicuro
+- Minaccia di fare del male a me, ai miei amici/amiche o alla mia famiglia
+- Minaccia di distruggere le mie cose (telefono, vestiti, computer, auto, ecc.)
+
+**Rationale:**
+Explicit **physical aggression, intimidation, and threats of harm** define this dimension. The items reflect **both enacted violence and terrorizing behaviors** that instill **fear and hypervigilance** (Walker, 2009). This aligns with **DOMestic violence typologies** (e.g., physical battering).
+
+---
+
+### **4. Gaslighting e Negazione della Realtà (Gaslighting & Reality Distortion)**
+**Items:**
+- Dopo che mi ha aggredito (fisicamente o verbalmente) nega di averlo fatto e mi fa dubitare che sia realmente successo.
+- Ha forti oscillazioni d'umore, il minuto prima si arrabbia e mi urla contro e quello successivo è dolce e si scusa
+
+**Rationale:**
+These items illustrate **cognitive manipulation** where the abuser **distorts the victim’s perception of reality**, creating **self-doubt and confusion**. The **Jekyll-Hyde shifts** (rapid mood swings) further destabilize the victim’s sense of predictability (Stern, 2007).
+
+---
+
+### **5. Dipendenza Affettiva e Ricatto (Emotional Blackmail & Enmeshment)**
+**Items:**
+- Pretende prove d'amore e dimostrazioni di fedeltà nei suoi confronti
+- Dice che sono impegnata in troppe cose e che lo trascuro, vorrebbe che passassimo la maggior parte del tempo insieme
+- Diventa estremamente geloso o possessivo
+- Mi accusa di flirtare o di tradirlo
+- Minaccia di farsi del male a causa mia
+
+**Rationale:**
+This dimension reflects **emotional extortion**, where the abuser **demands exclusivity, fuels guilt, and threatens self-harm** to maintain control. The **enmeshment** (excessive closeness) and **accusations of infidelity** serve to **monopolize the victim’s emotional resources** (Forward & Frazier, 1997).
+
+---
+### **6. Violenza Sessuale e Coercizione (Sexual Coercion)**
+**Items:**
+- Mi chiede insistentemente di fare sesso e non accetta quando dico di no o che non mi va
+
+**Rationale:**
+This item explicitly describes **sexual coercion**, where **consent is disregarded**, and **pressure or guilt** is used to obtain compliance. This is a **standalone dimension** due to its distinct **trauma impact** (Bass & Davis, 1988).
+
+---
+### **7. Sorveglianza e Invasione della Privacy (Surveillance & Privacy Violation)**
+**Items:**
+- Sento che mi manda troppi messaggi o mi chiama in modo insistente
+- Mi viene chiesto di giustificare ogni acquisto che faccio
+
+**Rationale:**
+These behaviors reflect **hyper-monitoring** and **intrusion into personal boundaries**, creating a **climate of constant scrutiny**. This aligns with **stalking-like behaviors** in abusive relationships (Spitzberg, 2002).
+
+---
+### **8. Minacce di Diffamazione e Violazione della Riservatezza (Threats to Reputation & Privacy)**
+**Items:**
+- Mi dice che, se lo lasciassi, rivelerebbe ad altri dei miei segreti o delle cose molto personali che sa di me
+- Minaccia di mostrare ai miei amici o ai miei familiari mie immagini intime
+- Ha mostrato mie immagini intime ad altre persone senza il mio consenso
+
+**Rationale:**
+These items involve **blackmail and non-consensual disclosure of private information**, including **revenge porn**. The goal is to **instill fear of reputational harm** and **exploit vulnerability** (Citron & Franks, 2014).
+
+---
+### **9. Disconferma e Mancanza di Sicurezza Relazionale (Relational Unsafety & Invalidation)**
+**Items:**
+- In sua compagnia mi capita di sentirmi a disagio e ho la sensazione di dover stare attenta a ciò che dico o a ciò che faccio, come se dovessi “camminare sulle uova” per evitare sue reazioni negative
+- Quando faccio qualcosa che a lui non va bene poi non mi parla per giorni
+- In sua compagnia non mi sento a mio agio e al sicuro
+- Sento disagio o non voglio fare qualcosa ma lo nascondo per paura che si arrabbi
+- Ho paura di vederlo perché so che potrebbe avere comportamenti che mi possono fare stare male o sentire in imbarazzo
+- Non si mostra interessato quando ho qualcosa che voglio condividere
+
+**Rationale:**
+This dimension captures **chronic relational instability**, where the victim experiences **walking on eggshells, stonewalling, and emotional neglect**. The **lack of psychological safety** is a core feature of **trauma-bonded relationships** (Herman, 1992).
+
+---
+### **10. Preoccupazione Esterna e Segnali di Allarme (External Concern & Warning Signs)**
+**Items:**
+- I miei amici/amiche mi hanno fatto notare che non piace loro come si comporta con me
+- Le mie amiche o la mia famiglia sono preoccupate per me
+
+**Rationale:**
+These items are **third-party observations** that serve as **external validation of abuse**. They are critical in **breaking denial** and **encouraging help-seeking** (Dutton, 2006).
+
+---
+### **Clinical Implications:**
+These dimensions map onto **established abuse typologies** (e.g., **Johnson’s coercive controlling violence, situational couple violence**) and **trauma models** (e.g., **complex PTSD from prolonged abuse**). They can guide:
+- **Assessment** (e.g., identifying predominant abuse tactics).
+- **Safety planning** (e.g., addressing isolation, financial abuse).
+- **Therapeutic targets** (e.g., rebuilding autonomy, processing gaslighting).
+
+Would you like a **hierarchical clustering** (e.g., primary vs. secondary dimensions) or **cross-dimensional interactions** (e.g., how coercive control fuels physical violence)?

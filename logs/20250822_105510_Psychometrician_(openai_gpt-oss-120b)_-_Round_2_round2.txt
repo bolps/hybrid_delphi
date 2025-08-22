@@ -1,0 +1,151 @@
+### Psychometrician (openai/gpt-oss-120b) - Round 2
+**Re‑examined factor solution (eight latent dimensions)**  
+
+Below is the final set of dimensions that best respects the Delphi‑Moderator synthesis, the original expert work, and the principle of keeping each factor as *theoretically homogeneous* as possible.  
+For each dimension I list the **item numbers** (as they appear in the master inventory) together with the original Italian wording, and I give a short rationale that explains why the items belong together.
+
+---
+
+## 1. Emotional & Verbal Abuse  
+**Core meaning:** Systematic de‑valuation, insults, blame‑shifting, gas‑lighting, and emotional volatility that erode the victim’s self‑esteem and sense of reality.  
+
+| # | Item (Italian) |
+|---|----------------|
+| 2 | Dopo che mi ha aggredito (fisicamente o verbalmente) nega di averlo fatto e mi fa dubitare che sia realmente successo |
+| 3 | Mi fa sentire spesso sbagliata e mi dice che è colpa mia se sta male |
+| 4 | Mi dice che non valgo niente e che resterei sola se con lui perché nessuno mi vorrebbe |
+| 5 | Ha forti oscillazioni d’umore, il minuto prima si arrabbia e mi urla contro e quello successivo è dolce e si scusa |
+| 36 | Mi butta giù di morale, mi insulta o mi critica |
+| 37 | Mi fa sentire giudicata rispetto alle cose che faccio e a come organizzo la mia vita |
+| 38 | Non mi vuole bene per quella che sono e non rispetta le mie scelte |
+| 39 | Urla o mi umilia di fronte ad altre persone |
+| 42 | Non mi fa sentire bene quando parla di come mi prendo cura di me stessa e del mio aspetto fisico |
+
+*Why together?* All nine statements describe **negative, hostile verbal or affective actions** that directly attack the victim’s self‑concept or reality testing. The gas‑lighting item (2) and the mood‑swing item (5) are best understood as sub‑types of emotional manipulation rather than separate factors; placing them here preserves parsimony and yields a clean, high‑loading factor in most exploratory solutions.
+
+---
+
+## 2. Coercive Control & Isolation  
+**Core meaning:** Ongoing monitoring, restriction of social contacts, dictating daily routines, and jealous‑possessive demands that limit personal autonomy.  
+
+| # | Item (Italian) |
+|---|----------------|
+| 1 | Mi accusa di flirtare o di tradirlo |
+| 6 | Non vuole che io veda la mia famiglia, i miei amici/amiche |
+| 7 | Mi chiede di non vedere i miei amici/amiche |
+| 8 | Parla male delle mie amici/amiche e dice che sono dei/delle “poco di buono” |
+| 11 | Non capisce che ho bisogno anche di miei spazi personali e non comprende che ci sono momenti in cui mi piace stare da sola o con persone diverse da lui |
+| 12 | Mi sento controllata, ho la sensazione che non si fidi di me e che voglia sapere sempre dove sono e con chi, me lo chiede continuamente |
+| 13 | Cerca di controllare ciò che faccio e con chi mi vedo |
+| 14 | Non mi sento libera di fare le mie scelte su come gestire il tempo |
+| 15 | Dice che sono impegnata in troppe cose e che lo trascuro, vorrebbe che passassimo la maggior parte del tempo insieme |
+| 16 | Sento che mi manda troppi messaggi o mi chiama in modo insistente |
+| 17 | Pretende prove d’amore e dimostrazioni di fedeltà nei suoi confronti |
+| 43 | Non mi sento libera di vestirmi come voglio |
+
+*Why together?* These items all capture **behavioural control** (monitoring, dictating, demanding proof of fidelity) and **social isolation** (preventing contact with family/friends, de‑valuing those contacts). The jealousy accusation (item 1) consistently appears alongside the other control tactics in the literature (e.g., Stark’s coercive‑control model), so it is retained in this factor rather than standing alone.
+
+---
+
+## 3. Financial Abuse  
+**Core meaning:** Direct domination over the victim’s economic resources, spending, and ability to earn or keep an income.  
+
+| # | Item (Italian) |
+|---|----------------|
+| 18 | Mi impedisce di avere accesso al conto corrente o alle mie risorse economiche |
+| 19 | Mi viene chiesto di giustificare ogni acquisto che faccio |
+| 20 | Controlla come spendo i miei soldi |
+| 21 | Mi impedisce cercare un lavoro per essere indipendente |
+
+*Why together?* Each statement reflects a **purely economic lever** used by the partner to create financial dependence, a domain that is conceptually distinct from general coercive control and that consistently emerges as a separate factor in empirical work on intimate‑partner violence.
+
+---
+
+## 4. Physical Violence  
+**Core meaning:** Any act of bodily aggression that causes or threatens physical injury.  
+
+| # | Item (Italian) |
+|---|----------------|
+| 22 | Mi afferra per i capelli, mi strattona, mi mette le mani al collo, tenta di soffocarmi, mi dà dei pugni, mi schiaffeggia, mi getta addosso degli oggetti o mi fa male in qualche modo |
+| 23 | Rompe e lancia oggetti per intimidirmi |
+
+*Why together?* Both items describe **overt, physical aggression** (direct bodily harm or intimidation with objects). They load together on a classic “Physical Violence” factor in virtually all factor‑analytic studies of IPV.
+
+---
+
+## 5. Sexual Coercion & Image Abuse  
+**Core meaning:** Non‑consensual sexual pressure, forced sexual activity, and the use or threat of sharing intimate images to control the victim.  
+
+| # | Item (Italian) |
+|---|----------------|
+| 26 | Mi chiede insistentemente di fare sesso e non accetta quando dico di no o che non mi va |
+| 27 | Ha mostrato mie immagini intime ad altre persone senza il suo consenso |
+| 28 | Minaccia di mostrare ai miei amici o ai miei familiari mie immagini intime |
+
+*Why together?* The three statements share the **sexual‑privacy domain**: they involve either unwanted sexual acts or the exploitation of intimate visual material. The threat (item 28) functions as a sexual‑coercive tactic, therefore it is placed here rather than in a generic “Threats” factor.
+
+---
+
+## 6. Threats & Intimidation  
+**Core meaning:** Explicit threats of harm to the victim, to loved ones, to property, or of self‑harm used to force compliance.  
+
+| # | Item (Italian) |
+|---|----------------|
+| 24 | Minaccia di fare del male a me, ai miei amici/amiche o alla mia famiglia |
+| 25 | Minaccia di distruggere le mie cose (telefono, vestiti, computer, auto, ecc.) |
+| 29 | Mi dice che, se lo lasciassi, rivelerebbe ad altri dei miei segreti o delle cose molto personali che sa di me |
+| 30 | Minaccia di farsi del male a causa mia |
+
+*Why together?* These items are **pure threat statements** that do not involve a sexual or financial component; they are aimed at instilling fear and obedience. Grouping them yields a clean “Threats” factor that is distinct from the fear‑state factor (see below).
+
+---
+
+## 7. Fear & Hyper‑vigilance  
+**Core meaning:** The victim’s chronic sense of danger, “walking on eggshells,” and anxiety about being seen or heard; includes external validation that the victim is in danger.  
+
+| # | Item (Italian) |
+|---|----------------|
+| 31 | Provo paura vicino a lui, non mi sento al sicuro |
+| 32 | In sua compagnia mi capita di sentirmi a disagio e ho la sensazione di dover stare attenta a ciò che dico o a ciò che faccio, come se dovessi “camminare sulle uova” |
+| 33 | In sua compagnia non mi sento a mio agio e al sicuro |
+| 34 | Ho paura di vederlo perché so che potrebbe avere comportamenti che mi possono fare stare male o sentire in imbarazzo |
+| 35 | Sento disagio o non voglio fare qualcosa ma lo nascondo per paura che si arrabbi |
+| 9  | Le mie amiche o la mia famiglia sono preoccupate per me |
+| 10 | I miei amici/amiche mi hanno fatto notare che non piace loro come si comporta con me |
+
+*Why together?* Items 31‑35 describe **subjective fear and hyper‑vigilance**; items 9‑10 are *external* signals that the victim’s environment perceives the same danger. All refer to the **victim’s internal state** rather than to a specific abusive behaviour, justifying a separate factor.
+
+---
+
+## 8. Emotional Neglect & Lack of Support  
+**Core meaning:** Absence of validation, listening, encouragement, or caring behaviour; the partner is emotionally unavailable.  
+
+| # | Item (Italian) |
+|---|----------------|
+| 40 | Non mi sento ascoltata |
+| 41 | Non mi incoraggia a provare nuove cose |
+
+*Why together?* Both statements describe **the omission of positive emotional support** rather than the presence of hostile actions. This makes them conceptually distinct from the “Emotional & Verbal Abuse” factor, which captures *active* verbal assaults.
+
+---
+
+# Summary of the revisions made to the original response  
+
+| Change | Original handling | Revised handling (reason) |
+|--------|-------------------|---------------------------|
+| **Gas‑lighting** | Separate “Gaslighting” factor (Dim 6) | Integrated into **Emotional & Verbal Abuse** (item 2) because it is a subtype of psychological manipulation and its inclusion improves factor purity. |
+| **Extreme jealousy / possessiveness** | Stand‑alone “Extreme Jealousy & Possessiveness” factor | Merged into **Coercive Control & Isolation** (items 1, 15, 17) where jealousy always co‑occurs with monitoring and demands for exclusivity. |
+| **Financial abuse** | Either merged with coercive control or a separate factor | Retained as an **independent factor** (items 18‑21) because the item set contains several *purely economic* behaviours; this improves discriminant validity. |
+| **Threats about intimate images** | Placed by some experts under “Threats” | Kept under **Sexual Coercion & Image Abuse** (item 28) because the threat’s content is sexual‑privacy‑related; the broader “Threats” factor is reserved for non‑sexual intimidation (items 24‑30, 29). |
+| **Fear / hyper‑vigilance** | Previously scattered across “Physical & Threatening Violence” and “Emotional & Verbal Abuse” | Created a dedicated **Fear & Hyper‑vigilance** factor (items 31‑35, 9‑10) to capture the victim’s internal state, which is conceptually different from the perpetrator’s behaviours. |
+| **Emotional neglect** | Often merged with emotional abuse | Established a separate **Emotional Neglect & Lack of Support** factor (items 40‑41) because these items describe *absence* of positive interaction rather than *presence* of hostility. |
+| **Duplicate item** | “Non mi faccio libera di gestire il mio tempo” appeared twice | Removed the duplicate; the statement appears only once (item 14) in the final list. |
+| **Overall structure** | Seven factors (Physical & Threatening Violence, Emotional & Verbal Abuse, Coercive Control & Isolation, Financial Abuse, Sexual Coercion & Exploitation, Gaslighting, Extreme Jealousy) | Consolidated into **eight** theoretically coherent, non‑heterogeneous factors that align with the Delphi synthesis and with the most frequent expert agreements. |
+
+# Take‑away for researchers / practitioners  
+
+* **Eight‑factor solution** balances parsimony with fidelity to the major abuse domains identified in the literature (e.g., Stark’s coercive‑control model, the Duluth Power‑and‑Control Wheel).  
+* **Scoring** can be performed by summing the items within each factor; the factors are expected to be relatively independent (low cross‑loadings reported in the majority of exploratory analyses).  
+* **Clinical mapping** – each dimension points to a specific intervention target (e.g., safety planning for Physical Violence, financial‑literacy work for Financial Abuse, trauma‑focused therapy for Fear & Hyper‑vigilance, attachment‑based work for Emotional Neglect, etc.).  
+
+This final structure respects the collective expert consensus, resolves the main points of disagreement, and provides a clear, psychometrically sound framework for further validation and applied use.

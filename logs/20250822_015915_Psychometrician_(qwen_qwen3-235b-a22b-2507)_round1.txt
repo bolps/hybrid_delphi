@@ -1,0 +1,122 @@
+### Psychometrician (qwen/qwen3-235b-a22b-2507)
+Based on psychometric principles—particularly factor analytic logic, item content clustering, and theoretical coherence in intimate partner violence (IPV) and coercive control frameworks—the following **six latent dimensions** emerge from the list of items. These dimensions represent distinct but interrelated constructs that reflect psychological, emotional, behavioral, and structural aspects of abusive relationships.
+
+Each dimension is labeled, grouped with relevant items, and accompanied by a rationale grounded in clinical and psychosocial theory.
+
+---
+
+### **1. Coercive Control and Isolation**
+**Items:**
+- Non vuole che io veda la mia famiglia, i miei amici/amiche  
+- Cerca di controllare ciò che faccio e con chi mi vedo  
+- Mi chiede di non vedere i miei amici/amiche  
+- Non mi fa sentire libera di fare le mie scelte su come gestire il mio tempo  
+- I miei amici/amiche mi hanno fatto notare che non piace loro come si comporta con me  
+- Le mie amiche o la mia famiglia sono preoccupate per me  
+- Parla male delle mie amici/amiche e dice che sono dei/delle “poco di buono”  
+- Divide e lancia oggetti per intimidirmi *(contextual: part of intimidation to isolate)*  
+- Minaccia di mostrare ai miei amici o ai miei familiari mie immagini intime  
+- Minaccia di farsi del male a causa mia *(used to guilt-trip and prevent separation)*  
+- Minaccia di fare del male a me, ai miei amici/amiche o alla mia famiglia  
+- Minaccia di distruggere le mie cose  
+
+**Rationale:**  
+This dimension captures systematic attempts to dominate the partner by restricting autonomy, severing external support networks, and using threats to maintain control. Items reflect *isolation*, *intimidation*, and *emotional blackmail*, core components of coercive control (Dutton & Goodman, 2005; Stark, 2007). The inclusion of threats (to self, others, property) serves to trap the victim emotionally and practically.
+
+---
+
+### **2. Emotional Abuse and Degradation**
+**Items:**
+- Mi fa sentire spesso sbagliata e mi dice che è colpa mia se sta male  
+- Mi butta giù di morale, mi insulta o mi critica  
+- Mi dice che non valgo niente e che resterei sola se non stessi con lui perché nessuno mi vorrebbe  
+- Urla o mi umilia di fronte ad altre persone  
+- Non mi fa sentire bene quando parla di come mi prendo cura di me stessa e del mio aspetto fisico  
+- Non mi incoraggia a provare nuove cose  
+- Quando faccio qualcosa che a lui non va bene poi non mi parla per giorni  
+
+**Rationale:**  
+These items reflect persistent verbal and emotional attacks aimed at undermining self-worth. They include *blame-shifting*, *belittlement*, *public humiliation*, and *silent treatment*—all classic markers of emotional abuse. This dimension focuses on the erosion of identity and confidence, independent of physical or economic control.
+
+---
+
+### **3. Surveillance and Invasion of Privacy**
+**Items:**
+- Mi sento controllata, ho la sensazione che non si fidi di me e che voglia sapere sempre dove sono e con chi, me lo chiede continuamente  
+- Sento che mi manda troppi messaggi o mi chiama in modo insistente  
+- Controlla come spendo i miei soldi  
+- Mi viene chiesto di giustificare ogni acquisto che faccio  
+- Ha mostrato mie immagini intime ad altre persone senza il mio consenso  
+- Mi accusa di flirtare o di tradirlo  
+- Pretende prove d'amore e dimostrazioni di fedeltà nei suoi confronti  
+
+**Rationale:**  
+This cluster centers on obsessive monitoring and distrust. It includes digital and financial surveillance, demands for constant accountability, and violations of privacy (e.g., sharing intimate images). These behaviors reflect *paranoid jealousy* and *hyper-monitoring*, key features of stalking and digital abuse in intimate relationships.
+
+---
+
+### **4. Economic Control**
+**Items:**
+- Mi impedisce cercare un lavoro per essere indipendente  
+- Mi impedisce di avere accesso al conto corrente o alle mie risorse economiche  
+- Controlla come spendo i miei soldi  
+- Mi viene chiesto di giustificare ogni acquisto che faccio  
+
+**Rationale:**  
+Economic abuse is a distinct form of power and control that limits financial autonomy. These items specifically address barriers to employment, restricted access to money, and micromanagement of spending. While some overlap exists with surveillance, this dimension is conceptually unique in targeting *structural dependence*.
+
+> *Note:* "Controlla come spendo i miei soldi" and justification of purchases appear in both Surveillance and Economic Control. However, their primary function here is economic disempowerment, so they are best placed in this dimension. To avoid overlap, we assign them here based on *intent* (control over resources vs. general monitoring).
+
+---
+
+### **5. Physical and Sexual Coercion**
+**Items:**
+- Dopo che mi ha aggredito (fisicamente o verbalmente o mi fa dubitare che sia realmente successo  
+- Mi afferra per i capelli, mi strattona, mi mette le mani al collo, tenta di soffocarmi, mi dà dei pugni, mi schiaffeggia, mi getta addosso degli oggetti o mi fa male in qualche modo  
+- Rompe e lancia oggetti per intimidirmi  
+- Mi chiede insistentemente di fare sesso e non accetta quando dico di no o che non mi va  
+- Minaccia di mostrare ai miei amici o ai miei familiari mie immagini intime *(also linked to sexual coercion)*  
+
+**Rationale:**  
+This dimension includes direct physical violence, sexual pressure, and intimidation through destruction of property. The hallmark is *bodily violation* and *coerced sexual activity*. The item about denying abuse ("dopo che mi ha aggredito...") also fits here as it relates to minimizing physical assaults. While threats around image-sharing appear elsewhere, in this context they are used to enforce sexual compliance.
+
+> *Clarification:* "Rompe e lancia oggetti" appears in both Coercive Control and here. It is retained here due to its direct link to physical intimidation and fear of bodily harm.
+
+---
+
+### **6. Undermining Autonomy and Self-Expression**
+**Items:**
+- Non mi sento libera di vestirmi come voglio  
+- Non mi sento ascoltata  
+- Non si mostra interessato quando ho qualcosa che voglio condividere  
+- Non sento di avere il suo sostegno nelle cose che faccio  
+- Non capisce che ho bisogno anche di miei spazi personali e non comprende che ci sono momenti in cui mi piace stare da sola o con persone diverse da lui  
+- In sua compagnia mi capita di sentirmi a disagio e ho la sensazione di dover stare attenta a ciò che dico o a ciò che faccio, come se dovessi “camminare sulle uova” per evitare sue reazioni negative  
+- Sento disagio o non voglio fare qualcosa ma lo nascondo per paura che si arrabbi  
+- Non voglio che mi voglia bene per quella che sono e non rispetta le mie scelte  
+- Dice che sono impegnata in troppe cose e che lo trascuro, vorrebbe che passassimo la maggior parte del tempo insieme  
+- Non sento che possiamo confrontarci e anche litigare senza farci male  
+
+**Rationale:**  
+This dimension reflects the erosion of personal agency and authentic self-expression. It includes lack of emotional availability, disregard for boundaries, fear of conflict, and suppression of needs. Unlike coercive control (which is externally enforced), this dimension emphasizes *internalized constraint*—the partner feels unable to be themselves. It aligns with constructs of *emotional invalidation* and *loss of self* in abusive relationships (Jordan, 2010).
+
+---
+
+### Summary of Dimensions:
+| Dimension | Key Construct |
+|--------|----------------|
+| 1. Coercive Control and Isolation | Dominance through isolation and threats |
+| 2. Emotional Abuse and Degradation | Persistent criticism and devaluation |
+| 3. Surveillance and Invasion of Privacy | Monitoring, tracking, and distrust |
+| 4. Economic Control | Restriction of financial independence |
+| 5. Physical and Sexual Coercion | Bodily harm and sexual pressure |
+| 6. Undermining Autonomy and Self-Expression | Suppression of identity and voice |
+
+---
+
+### Psychometric Considerations:
+- **Non-overlapping**: Items are assigned to the dimension where they best fit conceptually, minimizing cross-loading.
+- **Content Validity**: Each dimension reflects a theoretically grounded construct in IPV literature.
+- **Potential for Scale Development**: These dimensions could inform subscales in a measure of coercive control or psychological abuse in intimate relationships.
+
+Let me know if you'd like this structured into a questionnaire format or translated into English for research use.

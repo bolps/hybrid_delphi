@@ -1,0 +1,71 @@
+### Psycholinguist (meta-llama/llama-4-maverick)
+After analyzing the given list of psychological items, I have identified several latent dimensions underlying the statements. These dimensions are labeled and grouped based on their semantic similarity and latent linguistic meaning.
+
+**Dimension 1: Emotional Manipulation and Control**
+- Mi chiede insistentemente di fare sesso e non accetta quando dico di no o che non mi va
+- Mi viene chiesto di giustificare ogni acquisto che faccio
+- Non mi fa sentire libera di fare le mie scelte su come gestire il mio tempo
+- Mi sento controllata, ho la sensazione che non si fidi di me e che voglia sapere sempre dove sono e con chi, me lo chiede continuamente
+- Cerca di controllare ciò che faccio e con chi mi vedo
+- Mi impedisce di avere accesso al conto corrente o alle mie risorse economiche
+- Controlla come spendo i miei soldi
+
+Rationale: These items all relate to behaviors where one partner exerts control over the other, either through direct requests, emotional manipulation, or restriction of freedom.
+
+**Dimension 2: Verbal Abuse and Criticism**
+- Urla o mi umilia di fronte ad altre persone
+- Mi sento giudicata rispetto alle cose che faccio e a come organizzo la mia vita
+- Mi butta giù di morale, mi insulta o mi critica
+- Mi dice che non valgo niente e che resterei sola se non stessi con lui perché nessuno mi vorrebbe
+- Non mi fa sentire bene quando parla di come mi prendo cura di me stessa e del mio aspetto fisico
+
+Rationale: These statements all involve verbal behaviors that are abusive or critical, impacting the recipient's self-esteem or emotional well-being.
+
+**Dimension 3: Threats and Intimidation**
+- Minaccia di fare del male a me, ai miei amici/amiche o alla mia famiglia
+- Minaccia di distruggere le mie cose (telefono, vestiti, computer, auto, ecc.)
+- Minaccia di mostrare ai miei amici o ai miei familiari mie immagini intime
+- Rompe e lancia oggetti per intimidirmi
+- Minaccia di farsi del male a causa mia
+
+Rationale: These items involve threats or actions that are meant to intimidate or coerce, creating fear or anxiety.
+
+**Dimension 4: Isolation and Restriction**
+- Mi chiede di non vedere i miei amici/amiche
+- Non vuole che io veda la mia famiglia, i miei amici/amiche
+- Mi impedisce cercare un lavoro per essere indipendente
+
+Rationale: These statements reflect behaviors that isolate or restrict the individual from others, limiting their social interactions or autonomy.
+
+**Dimension 5: Lack of Respect and Empathy**
+- Non mi sento ascoltata
+- Non si mostra interessato quando ho qualcosa che voglio condividere
+- Non sento che possiamo confrontarci e anche litigare senza farci male
+- Non capisce che ho bisogno anche di miei spazi personali e non comprende che ci sono momenti in cui mi piace stare da sola o con persone diverse da lui (amici/amiche, familiari ecc.)
+
+Rationale: These items highlight a lack of respect or empathy in the relationship, where one partner's needs or feelings are not considered.
+
+**Dimension 6: Physical Violence and Aggression**
+- Mi afferra per i capelli, mi strattona, mi mette le mani al collo, tenta di soffocarmi, mi dà dei pugni, mi schiaffeggia, mi getta addosso degli oggetti o mi fa male in qualche modo
+- Dopo che mi ha aggredito (fisicamente o verbalmente) nega di averlo fatto e mi fa dubitare che sia realmente successo.
+
+Rationale: These statements directly relate to physical violence or aggression and the subsequent denial of such actions.
+
+**Dimension 7: Possessiveness and Jealousy**
+- Diventa estremamente geloso o possessivo
+- Mi accusa di flirtare o di tradirlo
+- Pretende prove d'amore e dimostrazioni di fedeltà nei suoi confronti
+- Dice che sono impegnata in troppe cose e che lo trascuro, vorrebbe che passassimo la maggior parte del tempo insieme
+
+Rationale: These items reflect behaviors characterized by excessive jealousy or possessiveness, indicating an imbalance in the relationship dynamics.
+
+**Dimension 8: Emotional Distress and Fear**
+- Sento disagio o non voglio fare qualcosa ma lo nascondo per paura che si arrabbi
+- Ho paura di vederlo perché so che potrebbe avere comportamenti che mi possono fare stare male o sentire in imbarazzo
+- Provo paura vicino a lui, non mi sento al sicuro
+- In sua compagnia non mi sento a mio agio e al sicuro
+- Sento che mi manda troppi messaggi o mi chiama in modo insistente
+
+Rationale: These statements convey the emotional distress or fear experienced by the individual due to the behaviors or actions of their partner.
+
+The item "Sento di potergli parlare di qualsiasi cosa" stands out as not belonging to any of the identified dimensions as it reflects a positive aspect of a relationship (feeling able to talk about anything), contrasting with the negative themes of the other statements.

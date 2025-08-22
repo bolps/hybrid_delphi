@@ -1,0 +1,72 @@
+### Psycholinguist (meta-llama/llama-4-maverick)
+After analyzing the given list of psychological items, I identified several latent dimensions underlying the data. Here are the dimensions, along with their corresponding items, labels, and rationales:
+
+**Dimension 1: Emotional Manipulation and Control**
+- Pretende prove d'amore e dimostrazioni di fedeltà nei suoi confronti
+- Mi accusa di flirtare o di tradirlo
+- Mi fa sentire spesso sbagliata e mi dice che è colpa mia se sta male
+- Mi dice che non valgo niente e che resterei sola se non stessi con lui perché nessuno mi vorrebbe
+- Mi butta giù di morale, mi insulta o mi critica
+
+Rationale: These items all relate to behaviors where one partner attempts to control or manipulate the other's emotions, actions, or self-perception. They involve accusations, blame-shifting, and negative self-image reinforcement.
+
+**Dimension 2: Isolation and Restriction**
+- Non vuole che io veda la mia famiglia, i miei amici/amiche
+- Mi chiede di non vedere i miei amici/amiche
+- Cerca di controllare ciò che faccio e con chi mi vedo
+- Mi sento controllata, ho la sensazione che non si fidi di me e che voglia sapere sempre dove sono e con chi, me lo chiede continuamente
+- Controlla come spendo i miei soldi
+- Mi impedisce cercare un lavoro per essere indipendente
+- Mi impedisce di avere accesso al conto corrente o alle mie risorse economiche
+
+Rationale: These items involve behaviors that isolate the individual from others, restrict their freedom, or control their actions and choices.
+
+**Dimension 3: Threats and Intimidation**
+- Minaccia di mostrare ai miei amici o ai miei familiari mie immagini intime
+- Rompe e lancia oggetti per intimidirmi
+- Minaccia di farsi del male a causa mia
+- Minaccia di fare del male a me, ai miei amici/amiche o alla mia famiglia
+- Minaccia di distruggere le mie cose (telefono, vestiti, computer, auto, ecc.)
+- Ha mostrato mie immagini intime ad altre persone senza il mio consenso
+- Mi dice che, se lo lasciassi, rivelerebbe ad altri dei miei segreti o delle cose molto personali che sa di me
+
+Rationale: These items all involve threats or actions intended to intimidate or coerce the individual, either directly or through the threat of harm to themselves, the individual, or others.
+
+**Dimension 4: Verbal and Physical Abuse**
+- Parla male delle mie amici/amiche e dice che sono dei/delle “poco di buono”
+- Urla o mi umilia di fronte ad altre persone
+- Mi afferra per i capelli, mi strattona, mi mette le mani al collo, tenta di soffocarmi, mi dà dei pugni, mi schiaffeggia, mi getta addosso degli oggetti o mi fa male in qualche modo
+- Dopo che mi ha aggredito (fisicamente o verbalmente) nega di averlo fatto e mi fa dubitare che sia realmente successo.
+
+Rationale: These items involve direct verbal or physical aggression towards the individual, including humiliation, physical harm, and denial of previous abusive behavior.
+
+**Dimension 5: Lack of Respect and Support**
+- Non mi sento ascoltata
+- Non sento di poter parlare di qualsiasi cosa
+- Non sento che possiamo confrontarci e anche litigare senza farci male
+- Non mi incoraggia a provare nuove cose
+- Non si mostra interessato quando ho qualcosa che voglio condividere
+- Non mi sento libera di vestirmi come voglio
+- Non mi fa sentire libera di fare le mie scelte su come gestire il mio tempo
+- Non capisce che ho bisogno anche di miei spazi personali e non comprende che ci sono momenti in cui mi piace stare da sola o con persone diverse da lui (amici/amiche, familiari ecc.)
+
+Rationale: These items reflect a lack of respect, understanding, and support within the relationship, including not being heard, not having personal space or freedom, and not being encouraged.
+
+**Dimension 6: Possessiveness and Jealousy**
+- Diventa estremamente geloso o possessivo
+- Dice che sono impegnata in troppe cose e che lo trascuro, vorrebbe che passassimo la maggior parte del tempo insieme
+- Sento che mi manda troppi messaggi o mi chiama in modo insistente
+
+Rationale: These items involve behaviors that are overly possessive or jealous, indicating an excessive desire to be with the individual or monitor their activities.
+
+**Dimension 7: Negative Impact on Self-Perception and Well-being**
+- Mi sento giudicata rispetto alle cose che faccio e a come organizzo la mia vita
+- Non mi fa sentire bene quando parla di come mi prendo cura di me stessa e del mio aspetto fisico
+- Sento disagio o non voglio fare qualcosa ma lo nascondo per paura che si arrabbi
+- Provo paura vicino a lui, non mi sento al sicuro
+- In sua compagnia non mi sento a mio agio e al sicuro
+- In sua compagnia mi capita di sentirmi a disagio e ho la sensazione di dover stare attenta a ciò che dico o a ciò che faccio
+
+Rationale: These items reflect how the behaviors or actions of the other person negatively impact the individual's self-perception, well-being, and sense of safety.
+
+These dimensions capture a range of abusive and controlling behaviors that can be present in a relationship, affecting the victim's emotional well-being, autonomy, and overall quality of life.

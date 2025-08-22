@@ -1,0 +1,275 @@
+### Psycholinguist (qwen/qwen3-235b-a22b-2507)
+Based on a psycholinguistic and semantic analysis of the 40 Italian psychological items provided, I have identified **six non-overlapping latent dimensions** that reflect underlying patterns in relational dynamics, particularly within the context of intimate partner relationships. These dimensions are derived from semantic similarity, emotional valence, behavioral domains (e.g., control, affection, fear), and the latent psychological constructs they represent (e.g., coercive control, emotional safety, autonomy erosion).
+
+Each dimension is labeled, grouped with relevant items, and justified through linguistic and psychological coherence.
+
+---
+
+### **1. Coercive Control and Surveillance**
+*Items focused on monitoring, restricting freedom, and asserting dominance through surveillance and interference in personal choices.*
+
+**Items:**
+- Mi chiede di non vedere i miei amici/amiche  
+- Le mie amiche o la mia famiglia sono preoccupate per me  
+- Parla male delle mie amici/amiche e dice che sono dei/delle “poco di buono”  
+- Sento che mi manda troppi messaggi o mi chiama in modo insistente  
+- Mi sento controllata, ho la sensazione che non si fidi di me e che voglia sapere sempre dove sono e con chi, me lo chiede continuamente  
+- Non vuole che io veda la mia famiglia, i miei amici/amiche  
+- Controlla come spendo i miei soldi  
+- Mi viene chiesto di giustificare ogni acquisto che faccio  
+- Cerca di controllare ciò che faccio e con chi mi vedo  
+- Mi impedisce cercare un lavoro per essere indipendente  
+- Mi impedisce di avere accesso al conto corrente o alle mie risorse economiche  
+- Sento il suo sostegno nelle cose che faccio *(Note: This appears contradictory, but may reflect cognitive dissonance — included due to thematic tension; however, upon closer inspection, it belongs better in "Supportive Dynamics")* → **Reassigned to Dimension 5**  
+- Dice che sono impegnata in troppe cose e che lo trascuro, vorrebbe che passassimo la maggior parte del tempo insieme  
+
+**Rationale:**  
+These items share semantic roots in *monitoring*, *restriction*, and *distrust*. Linguistically, they include verbs like *chiede*, *controlla*, *impedisce*, and phrases like *sempre dove sono*, indicating obsessive surveillance. The dimension captures attempts to isolate the individual socially and economically, a hallmark of coercive control. The emotional tone is one of intrusion and constraint.
+
+> ✅ **Note:** Item "Sento il suo sostegno..." was initially considered ambiguous but semantically aligns more with positive affirmation and thus has been reassigned to Dimension 5.
+
+---
+
+### **2. Emotional Abuse and Degradation**
+*Pattern of verbal attacks, humiliation, blame-shifting, and undermining self-worth.*
+
+**Items:**
+- Mi dice che non valgo niente e che resterei sola se non stessi con lui perché nessuno mi vorrebbe  
+- Rompe e lancia oggetti per intimidirmi  
+- Urla o mi umilia di fronte ad altre persone  
+- Mi butta giù, mi insulta o mi critica  
+- Mi fa sentire spesso sbagliata e mi dice che è colpa mia se sta male  
+- Non mi fa sentire bene quando parla di come mi prendo cura di me stessa e del mio aspetto fisico  
+- Sento disagio o non voglio fare qualcosa ma lo nascondo per paura che si arrabbi  
+- In sua compagnia mi capita di sentirmi a disagio e ho la sensazione di dover stare attenta a ciò che dico o a ciò che faccio, come se dovessi “camminare sulle uova” per evitare sue reazioni negative  
+- Mi fa sentire giudicata rispetto alle cose che faccio e a come organizzo la mia vita  
+
+**Rationale:**  
+These statements involve direct or indirect attacks on self-esteem and psychological safety. Lexical clusters include *umilia*, *insulta*, *critica*, *colpa*, and metaphors like *camminare sulle uova*, which evoke emotional precarity. The underlying theme is **gaslighting-adjacent blame-shifting** and chronic invalidation, contributing to internalized shame and hypervigilance.
+
+---
+
+### **3. Intimidation, Threats, and Coercion**
+*Use of threats (to self, partner, others), destruction of property, and sexual coercion to instill fear.*
+
+**Items:**
+- Minaccia di mostrare ai miei amici o ai miei familiari mie immagini intime  
+- Pretende prove d'amore e dimostrazioni di fedeltà nei suoi confronti  
+- Mi accusa di flirtare o di tradirlo  
+- Minaccia di farsi del male a causa mia  
+- Minaccia di distruggere le mie cose (telefono, vestiti, computer, auto, ecc.)  
+- Mi dice che, se lo lasciassi, rivelerebbe ad altri dei miei segreti o delle cose molto personali che sa di me  
+- Mi chiede insistentemente di fare sesso e non accetta quando dico di no o che non mi va  
+- Ha mostrato mie immagini intime ad altre persone senza il mio consenso  
+- Minaccia di fare del male a me, ai miei amici/amiche o alla mia famiglia  
+
+**Rationale:**  
+This cluster centers on **explicit threats** and **coercive behaviors** designed to maintain power through fear. Key semantic markers include *minaccia*, *rivelerebbe*, *senza il mio consenso*, and *pretende*. The items span digital abuse (nudes), sexual coercion, and threats of violence, forming a coherent dimension of **instrumental fear induction**. Unlike physical violence, this dimension emphasizes *anticipation* of harm.
+
+---
+
+### **4. Physical Violence and Aggression**
+*Direct bodily harm, physical intimidation, and denial of abuse.*
+
+**Items:**
+- Provo paura vicino a lui, non mi sento al sicuro  
+- Diventa estremamente geloso o possessivo  
+- Ha forti oscillazioni d'umore, il minuto prima si arrabbia e mi urla contro e quello successivo è dolce e si scusa  
+- Quando faccio qualcosa che a lui non va bene poi non mi parla per giorni  
+- Dopo che mi ha aggredito (fisicamente o verbalmente) nega di averlo fatto e mi fa dubitare che sia realmente successo  
+- Mi afferra per i capelli, mi strattona, mi mette le mani al collo, tenta di soffocarmi, mi dà dei pugni, mi schiaffeggia, mi getta addosso degli oggetti o mi fa male in qualche modo  
+- Ho paura di vederlo perché so che potrebbe avere comportamenti che mi possono fare stare male o sentire in imbarazzo  
+- Non mi sento libera di vestirmi come voglio *(Note: Could relate to control, but here it reflects fear-based restriction linked to physical retaliation)*  
+
+**Rationale:**  
+This dimension captures **physical endangerment** and the psychological aftermath (fear, confusion, trauma bonding via mood swings). Lexical fields include *paura*, *aggressione*, *urla*, *pugni*, *schiaffeggia*. The inclusion of *negazione dell’abuso* ("mi fa dubitare") reflects the linguistic manipulation often accompanying physical abuse. The possessiveness and silence (*non mi parla*) serve as non-physical but fear-inducing extensions of violence.
+
+> ✅ Note: "Non mi sento libera di vestirmi..." is contextually tied here due to fear of violent reaction, not just control per se.
+
+---
+
+### **5. Supportive and Healthy Relational Dynamics**
+*Indicators of emotional safety, respect, autonomy, and mutual trust.*
+
+**Items:**
+- Sento di potergli parlare di qualsiasi cosa  
+- Mi incoraggia a provare nuove cose  
+- Mi vuole bene per quella che sono e rispetta le mie scelte  
+- In sua compagnia mi sento a mio agio e al sicuro  
+- Mi sento ascoltata e si mostra interessato quando ho qualcosa che voglio condividere  
+- Sento il suo sostegno nelle cose che faccio  
+- Capisce che ho bisogno anche di miei spazi personali e comprende che ci sono momenti in cui mi piace stare da sola o con persone diverse da lui (amici/amiche, familiari ecc.)  
+- Mi fa sentire libera di fare le mie scelte su come gestire il mio tempo  
+- Sento che possiamo confrontarci e anche litigare senza farci male  
+- I miei amici/amiche mi hanno fatto notare che non piace loro come si comporta con me *(Note: This is an external observation of concern — semantically, it belongs with social alarm, not support)* → **Reassigned to Dimension 6**  
+
+**Rationale:**  
+These items express **security**, **autonomy**, and **emotional availability**. Language includes positive modals (*posso*, *libera*, *a mio agio*) and verbs of acceptance (*rispetta*, *comprende*, *sostegno*). The cluster represents the antithesis of abuse: relational safety where conflict does not equate to danger. It reflects secure attachment and agentic selfhood.
+
+> ✅ Correction: "I miei amici/amiche mi hanno fatto notare..." is observational and critical — reassigned.
+
+---
+
+### **6. Social Interference and Relational Isolation**
+*External indicators of concern, social alienation, and third-party awareness of problematic dynamics.*
+
+**Items:**
+- Le mie amiche o la mia famiglia sono preoccupate per me *(Note: already in Dimension 1)*  
+- I miei amici/amiche mi hanno fatto notare che non piace loro come si comporta con me  
+- Le mie amiche o la mia famiglia sono preoccupate per me  
+
+**Wait — duplication detected.** Let's correct:
+
+Actually, “Le mie amiche o la mia famiglia sono preoccupate per me” appears **only once** in the original list, though it was referenced in multiple clusters. We must avoid double-counting.
+
+Thus, revised:
+
+### **6. Social Interference and Relational Isolation**
+*Third-party observations and social alienation caused by the partner’s behavior.*
+
+**Items:**
+- Le mie amiche o la mia famiglia sono preoccupate per me  
+- I miei amici/amiche mi hanno fatto notare che non piace loro come si comporta con me  
+
+**Rationale:**  
+Although brief, these two items form a distinct **ecological validity** dimension — they represent *external validation* of relational distress. The language is observational (*hanno fatto notare*, *sono preoccupate*) and comes from a social network, signaling that the abuse is visible beyond the dyad. This is not control per se, but rather **social alarm**, an important marker of severity.
+
+> ✅ However, due to limited item count, consider whether integration into "Coercive Control" is better.
+
+But: **Semantic distinction matters.**  
+While "Coercive Control" focuses on *actor-driven restriction*, these items reflect *others’ perception of danger*. They are meta-observations, not direct control tactics.
+
+Still, given only two items, and one already used in Dimension 1, we must reconcile:
+
+🔁 **Resolution:**  
+- Keep **"Le mie amiche o la mia famiglia sono preoccupate per me"** in **Dimension 1 (Coercive Control and Surveillance)** because it reflects the *consequence* of isolation efforts — family notices withdrawal.
+- **"I miei amici/amiche mi hanno fatto notare che non piace loro come si comporta con me"** stands alone as an indicator of **social disapproval**, but lacks enough items to form its own dimension.
+
+Therefore, **merge into Dimension 1**, as evidence of **social impact of control**.
+
+> ✅ Final decision: **No standalone Dimension 6**. Both social items belong under **Coercive Control**, as markers of its visibility and relational consequences.
+
+---
+
+### ✅ Final Latent Dimensions (Revised)
+
+| **Dimension** | **Label** | **Number of Items** |
+|--------------|----------|---------------------|
+| 1 | **Coercive Control and Surveillance** | 14 |
+| 2 | **Emotional Abuse and Degradation** | 9 |
+| 3 | **Threats, Intimidation, and Coercion** | 9 |
+| 4 | **Physical Violence and Aggression** | 8 |
+| 5 | **Supportive and Healthy Dynamics** | 9 |
+
+---
+
+### Final Output:
+
+---
+
+### **1. Coercive Control and Surveillance**  
+*Systematic monitoring, restriction of autonomy, and social isolation.*
+
+**Items:**
+- Mi chiede di non vedere i miei amici/amiche  
+- Le mie amiche o la mia famiglia sono preoccupate per me  
+- Parla male delle mie amici/amiche e dice che sono dei/delle “poco di buono”  
+- Sento che mi manda troppi messaggi o mi chiama in modo insistente  
+- Mi sento controllata, ho la sensazione che non si fidi di me e che voglia sapere sempre dove sono e con chi, me lo chiede continuamente  
+- Non vuole che io veda la mia famiglia, i miei amici/amiche  
+- Controlla come spendo i miei soldi  
+- Mi viene chiesto di giustificare ogni acquisto che faccio  
+- Cerca di controllare ciò che faccio e con chi mi vedo  
+- Mi impedisce cercare un lavoro per essere indipendente  
+- Mi impedisce di avere accesso al conto corrente o alle mie risorse economiche  
+- Dice che sono impegnata in troppe cose e che lo trascuro, vorrebbe che passassimo la maggior parte del tempo insieme  
+- I miei amici/amiche mi hanno fatto notare che non piace loro come si comporta con me  
+- Non mi sento libera di vestirmi come voglio *(contextually linked to fear of control, not physical violence)*
+
+**Rationale:**  
+This dimension captures pervasive attempts to dominate the partner’s life through surveillance, economic control, and social isolation. The language emphasizes intrusion (*chiede*, *controlla*, *sempre*) and restriction (*impedisce*, *non vuole*). It reflects the structural scaffolding of abusive relationships.
+
+---
+
+### **2. Emotional Abuse and Degradation**  
+*Verbal attacks, self-worth erosion, and emotional manipulation.*
+
+**Items:**
+- Mi dice che non valgo niente e che resterei sola se non stessi con lui perché nessuno mi vorrebbe  
+- Rompe e lancia oggetti per intimidirmi  
+- Urla o mi umilia di fronte ad altre persone  
+- Mi butta giù, mi insulta o mi critica  
+- Mi fa sentire spesso sbagliata e mi dice che è colpa mia se sta male  
+- Non mi fa sentire bene quando parla di come mi prendo cura di me stessa e del mio aspetto fisico  
+- Sento disagio o non voglio fare qualcosa ma lo nascondo per paura che si arrabbi  
+- In sua compagnia mi capita di sentirmi a disagio e ho la sensazione di dover stare attenta a ciò che dico o a ciò che faccio, come se dovessi “camminare sulle uova” per evitare sue reazioni negative  
+- Mi fa sentire giudicata rispetto alle cose che faccio e a come organizzo la mia vita  
+
+**Rationale:**  
+These items involve chronic invalidation and guilt induction. Lexical themes include *colpa*, *sbagliata*, *umilia*, and metaphorical expressions of tension (*camminare sulle uova*). The dimension reflects psychological erosion rather than physical harm, central to coercive control.
+
+---
+
+### **3. Threats, Intimidation, and Coercion**  
+*Use of threats (emotional, sexual, reputational) to enforce compliance.*
+
+**Items:**
+- Minaccia di mostrare ai miei amici o ai miei familiari mie immagini intime  
+- Pretende prove d'amore e dimostrazioni di fedeltà nei suoi confronti  
+- Mi accusa di flirtare o di tradirlo  
+- Minaccia di farsi del male a causa mia  
+- Minaccia di distruggere le mie cose (telefono, vestiti, computer, auto, ecc.)  
+- Mi dice che, se lo lasciassi, rivelerebbe ad altri dei miei segreti o delle cose molto personali che sa di me  
+- Mi chiede insistentemente di fare sesso e non accetta quando dico di no o che non mi va  
+- Ha mostrato mie immagini intime ad altre persone senza il mio consenso  
+- Minaccia di fare del male a me, ai miei amici/amiche o alla mia famiglia  
+
+**Rationale:**  
+This dimension centers on **threat-based control**. Key linguistic features: *minaccia*, *rivelerebbe*, *senza consenso*. It includes digital/sexual coercion and emotional blackmail. These are instrumental threats designed to prevent autonomy or exit.
+
+---
+
+### **4. Physical Violence and Aggression**  
+*Direct physical harm, intimidation, and trauma bonding via mood shifts.*
+
+**Items:**
+- Provo paura vicino a lui, non mi sento al sicuro  
+- Diventa estremamente geloso o possessivo  
+- Ha forti oscillazioni d'umore, il minuto prima si arrabbia e mi urla contro e quello successivo è dolce e si scusa  
+- Quando faccio qualcosa che a lui non va bene poi non mi parla per giorni  
+- Dopo che mi ha aggredito (fisicamente o verbalmente) nega di averlo fatto e mi fa dubitare che sia realmente successo  
+- Mi afferra per i capelli, mi strattona, mi mette le mani al collo, tenta di soffocarmi, mi dà dei pugni, mi schiaffeggia, mi getta addosso degli oggetti o mi fa male in qualche modo  
+- Ho paura di vederlo perché so che potrebbe avere comportamenti che mi possono fare stare male o sentire in imbarazzo  
+
+**Rationale:**  
+These items describe bodily harm and its psychological aftermath. Language includes violent verbs (*schiaffeggia*, *afferra*, *urla*) and emotional disorientation (*dubito che sia successo*). The mood swings suggest **trauma bonding**, a key mechanism in abusive relationships.
+
+---
+
+### **5. Supportive and Healthy Relational Dynamics**  
+*Emotional safety, respect, and autonomy in the relationship.*
+
+**Items:**
+- Sento di potergli parlare di qualsiasi cosa  
+- Mi incoraggia a provare nuove cose  
+- Mi vuole bene per quella che sono e rispetta le mie scelte  
+- In sua compagnia mi sento a mio agio e al sicuro  
+- Mi sento ascoltata e si mostra interessato quando ho qualcosa che voglio condividere  
+- Sento il suo sostegno nelle cose che faccio  
+- Capisce che ho bisogno anche di miei spazi personali e comprende che ci sono momenti in cui mi piace stare da sola o con persone diverse da lui  
+- Mi fa sentire libera di fare le mie scelte su come gestire il mio tempo  
+- Sento che possiamo confrontarci e anche litigare senza farci male  
+
+**Rationale:**  
+This dimension reflects secure, respectful relationships. Key semantics: *rispetta*, *a mio agio*, *posso*, *sostegno*. These items contrast with abuse, emphasizing trust, autonomy, and emotional availability. They represent adaptive relational functioning.
+
+---
+
+### Summary of Dimensions:
+1. **Coercive Control and Surveillance** – Restriction of freedom, monitoring, isolation  
+2. **Emotional Abuse and Degradation** – Verbal attacks, blame, self-worth erosion  
+3. **Threats, Intimidation, and Coercion** – Fear induction via threats (digital, sexual, emotional)  
+4. **Physical Violence and Aggression** – Bodily harm, denial, trauma bonding  
+5. **Supportive and Healthy Dynamics** – Safety, respect, communication, autonomy
+
+These dimensions are semantically distinct, non-overlapping, and reflect core constructs in intimate partner violence and relational health.

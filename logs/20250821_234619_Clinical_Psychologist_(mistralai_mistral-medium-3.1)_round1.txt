@@ -1,0 +1,110 @@
+### Clinical Psychologist (mistralai/mistral-medium-3.1)
+Ecco una suddivisione dei comportamenti, pensieri e sentimenti elencati in **costrutti clinici coerenti**, basati su dimensioni psicologiche e relazionali rilevanti per la valutazione di dinamiche disfunzionali (in particolare, violenza psicologica, fisica, controllo coercitivo, dipendenza affettiva e salute relazionale). Ogni gruppo riflette pattern tipici di **abuso**, **controllo**, **manipolazione**, **sintomi traumatici** o, all’opposto, **elementi di una relazione sana**.
+
+---
+
+### **1. Abuso Psicologico e Verbale**
+*Comportamenti umilianti, svalutanti, invalidanti o gaslighting, finalizzati a erodere l’autostima e la percezione di realtà della vittima.*
+- Parla male delle mie amici/amiche e dice che sono dei/delle “poco di buono”
+- Mi butta giù, mi insulta o mi critica
+- Urla o mi umilia di fronte ad altre persone
+- Mi fa sentire spesso sbagliata e mi dice che è colpa mia se sta male
+- Dopo che mi ha aggredito (fisicamente o verbalmente) nega di averlo fatto e mi fa dubitare che sia realmente successo (*gaslighting*)
+- Mi dice che non valgo niente e che resterei sola se non stessi con lui perché nessuno mi vorrebbe
+- Non mi fa sentire bene quando parla di come mi prendo cura di me stessa e del mio aspetto fisico
+
+**Razionale**: Questi item riflettono un **pattern di svalutazione sistematica**, tipico dell’abuso emotivo, che mira a creare dipendenza e confondere la vittima sulla propria percezione di sé e della realtà.
+
+---
+
+### **2. Controllo Coercitivo e Isolamento**
+*Comportamenti volti a limitare l’autonomia, l’indipendenza e le reti sociali della vittima, attraverso restrizioni, sorveglianza o manipolazione economica.*
+- Mi impedisce di avere accesso al conto corrente o alle mie risorse economiche
+- Controlla come spendo i miei soldi / Mi viene chiesto di giustificare ogni acquisto che faccio
+- Cerca di controllare ciò che faccio e con chi mi vedo
+- Mi sento controllata, ho la sensazione che non si fidi di me e che voglia sapere sempre dove sono e con chi
+- Non vuole che io veda la mia famiglia, i miei amici/amiche / Mi chiede di non vedere i miei amici/amiche
+- Mi impedisce cercare un lavoro per essere indipendente
+- Non mi sento libera di vestirmi come voglio
+- Diventa estremamente geloso o possessivo
+- Pretende prove d'amore e dimostrazioni di fedeltà
+- Mi accusa di flirtare o di tradirlo
+- Dice che sono impegnata in troppe cose e che lo trascuro, vorrebbe che passassimo la maggior parte del tempo insieme
+
+**Razionale**: Questi item descrivono un **controllo sistematico** (fisico, sociale, economico) finalizzato a **ridurre l’autonomia** della vittima e aumentare la sua dipendenza dall’abusante. L’isolamento è una strategia chiave per prevenire il supporto esterno.
+
+---
+
+### **3. Abuso Fisico e Minacce**
+*Comportamenti violenti diretti o minacce esplicite di danno fisico, sessuale o materiale.*
+- Mi afferra per i capelli, mi strattona, mi mette le mani al collo, tenta di soffocarmi, mi dà dei pugni, mi schiaffeggia, mi getta addosso degli oggetti o mi fa male in qualche modo
+- Rompe e lancia oggetti per intimidirmi
+- Minaccia di fare del male a me, ai miei amici/amiche o alla mia famiglia
+- Minacce di distruggere le mie cose (telefono, vestiti, computer, auto, ecc.)
+- Mi chiede insistentemente di fare sesso e non accetta quando dico di no o che non mi va
+
+**Razionale**: Questi item rappresentano **violenza fisica esplicita** o **minacce concrete**, spesso usate per instillare **terrore** e mantenere il potere nella relazione.
+
+---
+### **4. Abuso Sessuale e Violazione della Privacy**
+*Comportamenti che violano i confini intimi, sessuali o digitali della vittima, senza consenso.*
+- Ha mostrato mie immagini intime ad altre persone senza il mio consenso
+- Minaccia di mostrare ai miei amici o ai miei familiari mie immagini intime
+- Mi chiede insistentemente di fare sesso e non accetta quando dico di no
+
+**Razionale**: Questi item riflettono **violazioni gravi dei confini personali**, con implicazioni legali (es. *revenge porn*) e traumatiche (es. senso di violazione, vergogna).
+
+---
+### **5. Manipolazione Emotiva e Ricatto Affettivo**
+*Strategie per indurre senso di colpa, paura o obbedienza attraverso minacce indirette o condizionamento emotivo.*
+- Minaccia di farsi del male a causa mia
+- Quando faccio qualcosa che a lui non va bene poi non mi parla per giorni (*silent treatment*)
+- Mi dice che, se lo lasciassi, rivelerebbe ad altri dei miei segreti o delle cose molto personali che sa di me
+- Ha forti oscillazioni d'umore: il minuto prima si arrabbia e mi urla contro e quello successivo è dolce e si scusa (*ciclo della violenza: tensione → esplosione → luna di miele*)
+
+**Razionale**: Questi item illustrano **tattiche manipolative** per mantenere il controllo, sfruttando la paura dell’abbandono, il senso di colpa o la confusione emotiva.
+
+---
+### **6. Sintomi Traumatici e Paura**
+*Reazioni interne della vittima: ansia, ipervigilanza, evitamento o dissociazione in risposta all’abuso.*
+- Ho paura di vederlo perché so che potrebbe avere comportamenti che mi possono fare stare male o sentire in imbarazzo
+- Provo paura vicino a lui, non mi sento al sicuro
+- In sua compagnia mi capita di sentirmi a disagio e ho la sensazione di dover stare attenta a ciò che dico o a ciò che faccio, come se dovessi “camminare sulle uova”
+- Sento disagio o non voglio fare qualcosa ma lo nascondo per paura che si arrabbi
+- I miei amici/amiche mi hanno fatto notare che non piace loro come si comporta con me
+- Le mie amiche o la mia famiglia sono preoccupate per me
+
+**Razionale**: Questi item descrivono **segnali di trauma relazionale**, come **ipervigilanza**, **evitamento** o **sintomi ansiosi**, nonché **preoccupazione da parte del network sociale** (spesso un campanello d’allarme).
+
+---
+### **7. Comportamenti di una Relazione Sana**
+*Elementi che indicano rispetto, supporto, autonomia e sicurezza affettiva.*
+- Sento il suo sostegno nelle cose che faccio
+- Sento che possiamo confrontarci e anche litigare senza farci male
+- Mi sento ascoltata e si mostra interessato quando ho qualcosa che voglio condividere
+- Mi incoraggia a provare nuove cose
+- Mi fa sentire libera di fare le mie scelte su come gestire il mio tempo
+- In sua compagnia mi sento a mio agio e al sicuro
+- Capisce che ho bisogno anche di miei spazi personali e comprende che ci sono momenti in cui mi piace stare da sola o con persone diverse da lui
+- Mi vuole bene per quella che sono e rispetta le mie scelte
+- Sento di potergli parlare di qualsiasi cosa
+
+**Razionale**: Questi item rappresentano **indicatori di una relazione funzionale**, basata su **fiducia**, **rispetto dei confini** e **supporto reciproco**.
+
+---
+### **Note Cliniche**
+1. **Sovrapposizioni**: Alcuni item potrebbero appartenere a più categorie (es. "Mi sente insistentemente" potrebbe essere sia **controllo coercitivo** che **abuso psicologico**), ma sono stati assegnati alla dimensione predominante.
+2. **Ciclo della Violenza**: Gli item che descrivono **oscillazioni d’umore** e **scuse post-abuso** sono tipici della fase di "luna di miele" nel ciclo della violenza (Walker, 1979).
+3. **Gaslighting**: La negazione dell’abuso ("non è successo") è una forma subdola di **manipolazione cognitiva** che erode la realtà della vittima.
+4. **Triangolazione**: Il coinvolgimento di amici/famiglia ("parla male delle mie amiche") serve a **isolare** la vittima e **delegittimare** le sue reti di supporto.
+
+---
+### **Implicazioni per la Valutazione Clinica**
+- **Screening per abuso**: La presenza di item in **3+ categorie disfunzionali** (es. controllo + abuso psicologico + minacce) suggerisce un **quadro di violenza domestica** o **relazione tossica**.
+- **Trauma complesso**: Item in **categoria 6** (sintomi traumatici) + **categorie 1-5** (abuso) possono indicare un **disturbo da stress post-traumatico complesso (C-PTSD)**.
+- **Salute relazionale**: La **categoria 7** può essere usata come **punto di riferimento** per psicoeducazione su cosa sia una relazione sana.
+
+Se questa analisi fosse parte di un **colloquio clinico**, sarebbe utile esplorare:
+- **Durata e frequenza** dei comportamenti.
+- **Impatto sulla salute mentale** (es. ansia, depressione, dissociazione).
+- **Risorse e sicurezza** della persona (es. piano di uscita, supporto legale).

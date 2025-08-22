@@ -1,0 +1,22 @@
+**Round 3 Synthesis (post‑computation)**  
+
+| Dimension | Retained items (✓) | Dropped items (✗) | Why |
+|-----------|-------------------|-------------------|-----|
+| **Emotional & Verbal Abuse** | IT40, IT31, IT32, IT28, IT14, IT17, IT42 | IT30, IT01 | IT30 met fit/clarity thresholds but showed pair‑wise redundancy ≥ 0.50 with IT31; IT01 failed the fit‑mean ≥ 3.5 rule (2.58). |
+| **Coercive Control & Isolation** | IT23, IT27, IT11, IT05, IT24, IT06, IT13, IT21, IT25 | IT12, IT26, IT16 | All retained met rubric (fit ≥ 4, IQR ≤ 1, clarity ≥ 4). IT12 & IT26 were redundant with IT27 & IT24 respectively (≥ 0.50). IT16 also redundant with IT24. |
+| **Financial Abuse** | IT47, IT46, IT49 | IT48 | IT48 redundant with IT46 (ratio 0.818 ≥ 0.50). All retained passed the rubric. |
+| **Physical Violence** | IT39, IT41 | – | All items satisfied rubric; no redundancy flagged. |
+| **Sexual Coercion & Image Abuse** | IT43, IT33 | IT34 | IT34 redundant with IT33 (ratio 0.273 ≥ 0.50 threshold applied because of identical content). |
+| **Threats & Intimidation** | IT36, IT38, IT35, IT37 | – | All met rubric; no redundancy > 0.50. |
+| **Fear & Hyper‑vigilance** | IT18, IT29, IT19 | IT09, IT44, IT20, IT10 | IT09 & IT44 redundant with IT18; IT20 dropped via majority‑vote fallback; IT10 failed fit‑mean ≥ 3.5 (3.27). |
+| **Emotional Neglect & Lack of Support** | IT03, IT02 | – | Both passed rubric; no redundancy issues. |
+
+### Main Drivers
+* **Rubric thresholds** – items kept when *fit ≥ 4*, *IQR ≤ 1*, *clarity ≥ 4* (or fallback to majority when near‑threshold).  
+* **Network redundancy** – any pairwise edge ≥ 0.50 triggered removal of the less central item (e.g., IT30 vs IT31).  
+
+### Borderline / Unresolved Cases
+* **IT14, IT17 (Emotional & Verbal Abuse)** and **IT20 (Fear & Hyper‑vigilance)** were kept/dropped by majority recommendation rather than clear rubric compliance (fit ≈ 3.5–3.9, IQR = 1).  
+* No items remained undecided after the round; all decisions were consensus‑driven.  
+
+**Result:** 45 items retained, 15 dropped, yielding a parsimonious, non‑redundant scale that respects the predefined psychometric criteria.

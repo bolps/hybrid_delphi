@@ -1,0 +1,131 @@
+### Clinical Psychologist (openai/gpt-oss-120b)
+**Latent dimensions that emerge from the 48 statements**  
+
+Below each dimension I list the original items that load on it (exact wording kept in Italian) and a short justification for why those items belong together.  All items are used once; no item appears in more than one factor.
+
+---
+
+## 1. Coercive Control (controllare, isolare e limitare l’autonomia)
+
+| Item | Original statement |
+|------|--------------------|
+| 2 | *Non mi sento libera di vestirmi come voglio* |
+| 3 | *Cerca di controllare ciò che faccio e con chi mi vedo* |
+| 4 | *Mi chiede di non vedere i miei amici/amiche* |
+| 5 | *Mi accusa di flirtare o di tradirlo* |
+| 15 | *Dice che sono impegnata in troppe cose e che lo trascuro, vorrebbe che passassimo la maggior parte del tempo insieme* |
+| 24 | *Non vuole che io veda la mia famiglia, i miei amici/amiche* |
+| 25 | *Diventa estremamente geloso o possessivo* |
+| 26 | *Mi sento controllata, ho la sensazione che non si fidi di me e che voglia sapere sempre dove sono e con chi, me lo chiede continuamente* |
+| 30 | *Pretende prove d’amore e dimostrazioni di fedeltà nei suoi confronti* |
+| 43 | *Sento che mi manda troppi messaggi o mi chiama in modo insistente* |
+
+**Rationale** – These items describe a pattern of *monitoring, restriction of personal freedom, jealousy, demand for constant contact and proof of loyalty*.  They capture the classic “coercive‑control” strategy that keeps the partner dependent and isolated, independent of whether the behavior is overtly violent.
+
+---
+
+## 2. Emotional / Psychological Abuse (devalorizzazione, umiliazione, manipolazione)
+
+| Item | Original statement |
+|------|--------------------|
+| 1 | *Mi fa sentire spesso sbagliata e mi dice che è colpa mia se sta male* |
+| 6 | *Parla male delle mie amici/amiche e dice che sono dei/delle “poco di buono”* |
+| 7 | *Mi dice che non valgo niente e che resterei sola se non stessi con lui perché nessuno mi vorrebbe* |
+| 9 | *Mi sento giudicata rispetto alle cose che faccio e a come organizzo la mia vita* |
+| 14 | *Ha forti oscillazioni d’umore, il minuto prima si arrabbia e mi urla contro e quello successivo è dolce e si scusa* |
+| 17 | *Mi butta giù, mi insulta o mi critica* |
+| 31 | *Provo paura vicino a lui, non mi sento al sicuro* |
+| 32 | *Ho paura di vederlo perché so che potrebbe avere comportamenti che mi possono fare stare male o sentire in imbarazzo* |
+| 33 | *Quando faccio qualcosa che a lui non va bene poi non mi parla per giorni* |
+| 34 | *Dopo che mi ha aggredito (fisicamente o verbalmente) nega di averlo fatto e mi fa dubitare che sia realmente successo* |
+| 37 | *In sua compagnia mi capita di sentirmi a disagio e ho la sensazione di dover stare attenta a ciò che dico o a ciò che faccio, come se dovessi “camminare sulle uova” per evitare sue reazioni negative* |
+| 44 | *Non mi fa sentire bene quando parla di come mi prendo cura di me stessa e del mio aspetto fisico* |
+| 45 | *Sento disagio o non voglio fare qualcosa ma lo nascondo per paura che si arrabbi* |
+| 48 | *Urla o mi umilia di fronte ad altre persone* |
+
+**Rationale** – These statements involve *verbal denigration, blame, fear of unpredictable anger, gaslighting, public humiliation and chronic intimidation*.  They reflect the emotional‑psychological dimension of intimate‑partner abuse that harms self‑esteem and mental health.
+
+---
+
+## 3. Physical / Sexual Violence (aggressioni fisiche o coercizione sessuale)
+
+| Item | Original statement |
+|------|--------------------|
+| 18 | *Mi chiede insistentemente di fare sesso e non accetta quando dico di no o che non mi va* |
+| 38 | *Mi afferra per i capelli, mi strattona, mi mette le mani al collo, tenta di soffocarmi, mi dà dei pugni, mi schiaffeggia, mi getta addosso degli oggetti o mi fa male in qualche modo* |
+
+**Rationale** – Both items describe *non‑consensual sexual pressure* and *direct physical assault*, the overt, bodily‑focused component of partner violence.
+
+---
+
+## 4. Economic / Financial Abuse (controllo delle risorse economiche)
+
+| Item | Original statement |
+|------|--------------------|
+| 21 | *Mi viene chiesto di giustificare ogni acquisto che faccio* |
+| 27 | *Mi impedisce cercare un lavoro per essere indipendente* |
+| 28 | *Controlla come spendo i miei soldi* |
+| 35 | *Mi impedisce di avere accesso al conto corrente o alle mie risorse economiche* |
+
+**Rationale** – These items capture *restriction of financial autonomy, monitoring of spending, and sabotage of employment*, which are hallmarks of economic abuse.
+
+---
+
+## 5. Threats & Intimidation (minacce di danno, ricatto, distruzione)
+
+| Item | Original statement |
+|------|--------------------|
+| 8 | *Rompe e lancia oggetti per intimidirmi* |
+| 11 | *Minaccia di farsi del male a causa mia* |
+| 16 | *Mi dice che, se lo lasciassi, rivelerebbe ad altri dei miei segreti o delle cose molto personali che sa di me* |
+| 20 | *Ha mostrato mie immagini intime ad altre persone senza il mio consenso* |
+| 22 | *Minaccia di mostrare ai miei amici o ai miei familiari mie immagini intime* |
+| 23 | *Minacce di distruggere le mie cose (telefono, vestiti, computer, auto, ecc.)* |
+| 40 | *Minaccia di fare del male a me, ai miei amici/amiche o alla mia famiglia* |
+
+**Rationale** – These statements involve *explicit threats of self‑harm, harm to others, exposure of private material, or property destruction*.  The purpose is to create fear and compliance through intimidation.
+
+---
+
+## 6. Positive / Supportive Relationship (rispetto, ascolto, sicurezza)
+
+| Item | Original statement |
+|------|--------------------|
+| 10 | *Capisce che ho bisogno anche di miei spazi personali e comprende che ci sono momenti in cui mi piace stare da sola o con persone diverse da lui (amici/amiche, familiari ecc.)* |
+| 12 | *Mi fa sentire libera di fare le mie scelte su come gestire il mio tempo* |
+| 13 | *Sento di potergli parlare di qualsiasi cosa* |
+| 29 | *Sento il suo sostegno nelle cose che faccio* |
+| 36 | *Mi sento ascoltata e si mostra interessato quando ho qualcosa che voglio condividere* |
+| 39 | *Mi vuole bene per quella che sono e rispetta le mie scelte* |
+| 41 | *Sento che possiamo confrontarci e anche litigare senza farci male* |
+| 46 | *Mi incoraggia a provare nuove cose* |
+| 47 | *In sua compagnia mi sento a mio agio e al sicuro* |
+
+**Rationale** – These items reflect *respect for autonomy, emotional availability, encouragement, and a sense of safety*.  They represent the healthy, non‑abusive side of a relationship and can serve as a contrastive factor in measurement models.
+
+---
+
+## 7. External Warning / Social Concern (percezione di amici e familiari)
+
+| Item | Original statement |
+|------|--------------------|
+| 19 | *Le mie amiche o la mia famiglia sono preoccupate per me* |
+| 42 | *I miei amici/amiche mi hanno fatto notare che non piace loro come si comporta con me* |
+
+**Rationale** – These two items do not describe the partner’s behavior directly, but they capture *the reaction of people in the victim’s social network*, which is a useful external indicator that the relationship may be abusive.
+
+---
+
+### Summary of the latent structure
+
+| Dimension | Core content | Number of items |
+|-----------|--------------|-----------------|
+| 1. Coercive Control | Monitoring, isolation, jealousy, restriction of personal freedom | 10 |
+| 2. Emotional / Psychological Abuse | Verbal devaluation, gaslighting, fear of unpredictable anger, humiliation | 14 |
+| 3. Physical / Sexual Violence | Physical assault, non‑consensual sexual pressure | 2 |
+| 4. Economic Abuse | Financial monitoring, denial of work, control of money | 4 |
+| 5. Threats & Intimidation | Explicit threats, blackmail, property destruction, self‑harm threats | 7 |
+| 6. Positive / Supportive Relationship | Respect, listening, safety, encouragement | 9 |
+| 7. External Warning / Social Concern | Concern expressed by friends/family | 2 |
+
+These seven factors capture the main ways intimate‑partner abuse can manifest in the given set of statements, while also providing a contrastive “supportive” factor that reflects healthy relational dynamics.

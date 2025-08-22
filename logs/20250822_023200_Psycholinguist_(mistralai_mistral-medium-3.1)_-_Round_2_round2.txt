@@ -1,0 +1,150 @@
+### Psycholinguist (mistralai/mistral-medium-3.1) - Round 2
+### **Revised Latent Dimensional Analysis of Abusive Relationship Behaviors**
+*(Aligned with Delphi Synthesis, with refinements for clarity and theoretical coherence)*
+
+Below is my **final revised framework**, incorporating the Delphi Moderator’s synthesis while addressing key points of variation among experts. Changes from my original analysis are **bolded** and justified in the summary at the end.
+
+---
+
+### **1. Physical Violence**
+*(Explicit bodily harm or aggression)*
+- **Items:**
+  - Mi afferra per i capelli, mi strattona, mi mette le mani al collo, tenta di soffocarmi, mi dà dei pugni, mi schiaffeggia, mi getta addosso degli oggetti o mi fa male in qualche modo
+- **Rationale:**
+  Retained as a **standalone dimension** per Delphi consensus. No changes from original.
+
+---
+
+### **2. Threats & Intimidation**
+*(Inducing fear through explicit or implicit harm to self, others, or property)*
+- **Items:**
+  - Rompe e lancia oggetti per intimidirmi
+  - Minaccia di distruggere le mie cose (telefono, vestiti, computer, auto, ecc.)
+  - Minaccia di fare del male a me, ai miei amici/amiche o alla mia famiglia
+  - Minaccia di farsi del male a causa mia
+- **Rationale:**
+  **Expanded to include self-harm threats** (previously in Emotional Abuse) per Delphi alignment. Now fully captures **fear-based control tactics**.
+
+---
+
+### **3. Sexual Coercion & Privacy Violation**
+*(Violating bodily autonomy, consent, or privacy for control)*
+- **Items:**
+  - Mi chiede insistentemente di fare sesso e non accetta quando dico di no o che non mi va
+  - Ha mostrato mie immagini intime ad altre persone senza il mio consenso
+  - Minaccia di mostrare ai miei amici o ai miei familiari mie immagini intime
+  - Mi dice che, se lo lasciassi, rivelerebbe ad altri dei miei segreti o delle cose molto personali che sa di me
+- **Rationale:**
+  **Merged with "Reproductive Control"** (from original) into this dimension, as Delphi experts agreed **blackmail/secrets** and **image-based abuse** share a **privacy violation** core. Now includes **all coercive sexual/private-data-related items**.
+
+---
+
+### **4. Coercive Control & Isolation**
+*(Systematic restriction of autonomy across social, financial, and personal domains)*
+- **Items:**
+  - Mi sento controllata, ho la sensazione che non si fidi di me e che voglia sapere sempre dove sono e con chi, me lo chiede continuamente
+  - Cerca di controllare ciò che faccio e con chi mi vedo
+  - Non mi sento libera di fare le mie scelte su come gestire il mio tempo
+  - Non mi fa sentire libera di vestirmi come voglio
+  - Mi chiede di non vedere i miei amici/amiche
+  - Non vuole che io veda la mia famiglia, i miei amici/amiche
+  - Parla male delle mie amici/amiche e dice che sono dei/delle “poco di buono”
+  - Mi impedisce cercare un lavoro per essere indipendente
+  - Mi impedisce di avere accesso al conto corrente o alle mie risorse economiche
+  - Controlla come spendo i miei soldi
+  - Mi viene chiesto di giustificare ogni acquisto che faccio
+  - Pretende prove d'amore e dimostrazioni di fedeltà nei suoi confronti
+  - Diventa estremamente geloso o possessivo
+  - Mi accusa di flirtare o di tradirlo
+  - Sento che mi manda troppi messaggi o mi chiama in modo insistente
+  - Dice che sono impegnata in troppe cose e che lo trascuro, vorrebbe che passassimo la maggior parte del tempo insieme
+  - Non capisce che ho bisogno anche di miei spazi personali e non comprende che ci sono momenti in cui mi piace stare da sola o con persone diverse da lui
+- **Rationale:**
+  **Expanded to absorb all "Isolation" and "Economic Abuse" items** from original analysis, per Delphi consensus that these reflect **a unified pattern of dominance**. Now the **largest dimension**, capturing **multidimensional control** (social, financial, temporal, sartorial).
+
+---
+
+### **5. Emotional & Verbal Abuse**
+*(Degradation, humiliation, and systematic undermining of self-worth)*
+- **Items:**
+  - Mi butta giù di morale, mi insulta o mi critica
+  - Mi dice che non valgo niente e che resterei sola se non stessi con lui perché nessuno mi vorrebbe
+  - Mi fa sentire spesso sbagliata e mi dice che è colpa mia se sta male
+  - Urla o mi umilia di fronte ad altre persone
+  - Mi sento giudicata rispetto alle cose che faccio e a come organizzo la mia vita
+  - Non mi vuole bene per quella che sono e non rispetta le mie scelte
+  - Non mi fa sentire bene quando parla di come mi prendo cura di me stessa e del mio aspetto fisico
+- **Rationale:**
+  **Trimmed to exclude gaslighting/denial items** (now in Dimension 6) and **fear-based items** (now in Dimension 8). Now **purely focuses on verbal/emotional degradation**.
+
+---
+
+### **6. Gaslighting & Reality Distortion**
+*(Manipulating perception to induce self-doubt and dependency)*
+- **Items:**
+  - Dopo che mi ha aggredito (fisicamente o verbalmente) nega di averlo fatto e mi fa dubitare che sia realmente successo
+  - Ha forti oscillazioni d'umore, il minuto prima si arrabbia e mi urla contro e quello successivo è dolce e si scusa
+  - Quando faccio qualcosa che a lui non va bene poi non mi parla per giorni
+- **Rationale:**
+  **New standalone dimension**, per Delphi consensus that gaslighting warrants separation from broader emotional abuse. **Includes mood swings/silent treatment** as **reality-distorting tactics**.
+
+---
+
+### **7. Emotional Neglect & Invalidating Needs**
+*(Dismissal of emotions, lack of support, and suppression of individuality)*
+- **Items:**
+  - Non si mostra interessato quando ho qualcosa che voglio condividere
+  - Non mi sento ascoltata
+  - Non mi incoraggia a provare nuove cose
+  - Non sento di avere il suo sostegno nelle cose che faccio
+  - Non sento che possiamo confrontarci e anche litigare senza farci male
+- **Rationale:**
+  **Renamed from original "Lack of Emotional Support"** to emphasize **active invalidation** (not just passivity). **Retains all original items** but clarifies focus on **emotional abandonment**.
+
+---
+### **8. Subjective Fear & Hypervigilance**
+*(Internalized chronic anxiety and adaptive behaviors to avoid harm)*
+- **Items:**
+  - In sua compagnia mi capita di sentirmi a disagio e ho la sensazione di dover stare attenta a ciò che dico o a ciò che faccio, come se dovessi “camminare sulle uova” per evitare sue reazioni negative
+  - Provo paura vicino a lui, non mi sento al sicuro
+  - Ho paura di vederlo perché so che potrebbe avere comportamenti che mi possono fare stare male o sentire in imbarazzo
+  - In sua compagnia non mi sento a mio agio e al sicuro
+  - Sento disagio o non voglio fare qualcosa ma lo nascondo per paura che si arrabbi
+- **Rationale:**
+  **New dimension** created per Delphi synthesis, grouping all **first-person fear/discomfort items**. Highlights **trauma responses** (e.g., fawn/appease behaviors).
+
+---
+### **9. External Indicators of Abuse**
+*(Third-party observations and absence of relational safety)*
+- **Items:**
+  - I miei amici/amiche mi hanno fatto notare che non piace loro come si comporta con me
+  - Le mie amiche o la mia famiglia sono preoccupate per me
+  - Sento di potergli parlare di qualsiasi cosa *(inverse indicator)*
+- **Rationale:**
+  **Renamed from "Positive Outlier"** to emphasize **external validation of abuse**. The healthy item is retained as a **contrasting marker**.
+
+---
+### **Key Revisions & Justifications:**
+1. **Merged "Isolation" and "Economic Abuse" into "Coercive Control"**
+   - *Why?* Delphi experts agreed these are **interdependent tactics** within a **unified control strategy**. Splitting them risked artificial fragmentation.
+
+2. **Created standalone "Gaslighting" and "Subjective Fear" dimensions**
+   - *Why?* Consensus highlighted these as **distinct mechanisms** (cognitive manipulation vs. emotional conditioning).
+
+3. **Moved self-harm threats to "Threats & Intimidation"**
+   - *Why?* Aligns with clinical models (e.g., **Duluth Wheel**) where **threats of any kind** serve the same function: **fear-based compliance**.
+
+4. **Renamed "Lack of Support" to "Emotional Neglect & Invalidating Needs"**
+   - *Why?* Better captures **active dismissal** (e.g., "Non mi fa sentire bene quando parla di come mi prendo cura di me").
+
+5. **Retained "External Indicators" as a separate dimension**
+   - *Why?* Third-party concern is a **critical red flag** in abuse screening tools (e.g., **WAST**, **CTS2**).
+
+---
+### **Theoretical Alignment:**
+This framework maps onto:
+- **Duluth Power & Control Wheel** (physical/sexual coercion, intimidation, isolation, emotional abuse).
+- **Johnson’s Typology** (coercive controlling violence vs. situational couple violence).
+- **Trauma Theory** (subjective fear/hypervigilance as **complex PTSD markers**).
+
+**Final Note:** The revisions prioritize **clinical utility** (e.g., for screening tools) while preserving **psycholinguistic rigor** (e.g., grouping items by **illocutionary force**). Would you like further refinement for a specific application (e.g., scale development, therapeutic assessment)?

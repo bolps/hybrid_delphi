@@ -1,0 +1,134 @@
+### Psychometrician (mistralai/mistral-medium-3.1)
+Below is a **psychometrically coherent factor structure** for the given items, organized into **latent dimensions** reflecting distinct but non-overlapping domains of **abusive, controlling, and healthy relational dynamics**. The grouping follows **theoretical consistency** (e.g., coercive control, emotional abuse, physical violence) and **face validity** (items clearly tap into the same construct). Dimensions are labeled to reflect **both the behavior and its psychological impact** where relevant.
+
+---
+
+### **1. Coercive Control & Isolation (CCI)**
+*Definition*: Systematic efforts to dominate, restrict autonomy, and isolate the partner through monitoring, financial abuse, and social sabotage.
+**Items**:
+- Non vuole che io veda la mia famiglia, i miei amici/amiche
+- Mi impedisce di avere accesso al conto corrente o alle mie risorse economiche
+- Controlla come spendo i miei soldi
+- Mi chiede di giustificare ogni acquisto che faccio
+- Cerca di controllare ciò che faccio e con chi mi vedo
+- Mi impedisce cercare un lavoro per essere indipendente
+- Parla male delle mie amici/amiche e dice che sono dei/delle “poco di buono”
+- Mi chiede di non vedere i miei amici/amiche
+- Non mi sento libera di vestirmi come voglio
+- Sento di essere controllata, ho la sensazione che non si fidi di me e che voglia sapere sempre dove sono e con chi, me lo chiede continuamente
+
+**Rationale**:
+These items reflect **Duluth Model**-informed **coercive control**—a pattern of dominance that strips agency through **isolation, financial abuse, and surveillance**. The items cluster around **restriction of freedom** (social, financial, sartorial) and **hyper-vigilance** (tracking, distrust). Critically, they exclude *physical violence* (separate dimension) and *emotional degradation* (another dimension), as those serve distinct functions in abuse dynamics.
+
+---
+
+### **2. Emotional Abuse & Degradation (EAD)**
+*Definition*: Verbal/psychological tactics to erode self-worth, induce guilt, or create dependency through humiliation, gaslighting, and threats.
+**Items**:
+- Mi fa sentire spesso sbagliata e mi dice che è colpa mia se sta male
+- Dice che non valgo niente e che resterei sola se non stessi con lui perché nessuno mi vorrebbe
+- Mi butta giù, mi insulta o mi critica
+- Mi fa sentire giudicata rispetto alle cose che faccio e a come organizzo la mia vita
+- Mi dice che sono impegnata in troppe cose e che lo trascuro, vorrebbe che passassimo la maggior parte del tempo insieme
+- Urla o mi umilia di fronte ad altre persone
+- Dopo che mi ha aggredito (fisicamente o verbalmente) nega di averlo fatto e mi fa dubitare che sia realmente successo
+- Minaccia di fare del male a me, ai miei amici/amiche o alla mia famiglia
+- Minaccia di farsi del male a causa mia
+- Minaccia di distruggere le mie cose (telefono, vestiti, computer, auto, ecc.)
+- Minaccia di mostrare ai miei amici o ai miei familiari mie immagini intime
+- Mi dice che, se lo lasciassi, rivelerebbe ad altri dei miei segreti o delle cose molto personali che sa di me
+- Non mi fa sentire bene quando parla di come mi prendo cura di me stessa e del mio aspetto fisico
+
+**Rationale**:
+This dimension captures **psychological violence**—**gaslighting, shaming, and terrorizing**—designed to **destabilize identity and enforce compliance**. Items reflect **three sub-themes**:
+1. **Guilt-induction** (e.g., "è colpa mia se sta male"),
+2. **Degradation** (e.g., "non valgo niente"),
+3. **Threats** (e.g., revenge porn, self-harm). Excludes *possessiveness* (see **Jealousy & Possessiveness**) and *physical acts* (see **Physical Aggression**).
+
+---
+
+### **3. Jealousy & Possessiveness (JP)**
+*Definition*: Pathological jealousy and entitlement to the partner’s time/body, framed as "love" but serving to restrict autonomy.
+**Items**:
+- Diventa estremamente geloso o possessivo
+- Sento che mi manda troppi messaggi o mi chiama in modo insistente
+- Pretende prove d'amore e dimostrazioni di fedeltà nei suoi confronti
+- Mi accusa di flirtare o di tradirlo
+- Dice che sono impegnata in troppe cose e che lo trascuro, vorrebbe che passassimo la maggior parte del tempo insieme
+
+**Rationale**:
+These items tap into **obsessive jealousy**—a **core predictor of intimate partner violence** (Stets, 1991). The focus is on **monitoring, accusations, and demands for exclusivity**, distinct from *general control* (CCI) or *physical violence*. Note: The item about "trascurarlo" bridges EAD and JP but is placed here due to its **possessive framing** ("vorrebbe che passassimo tutto il tempo insieme").
+
+---
+
+### **4. Physical Aggression & Intimidation (PAI)**
+*Definition*: Overt physical violence or destructive acts intended to terrorize or harm.
+**Items**:
+- Mi afferra per i capelli, mi strattona, mi mette le mani al collo, tenta di soffocarmi, mi dà dei pugni, mi schiaffeggia, mi getta addosso degli oggetti o mi fa male in qualche modo
+- Rompe e lancia oggetti per intimidirmi
+- Mi chiede insistentemente di fare sesso e non accetta quando dico di no o che non mi va
+- Ha mostrato mie immagini intime ad altre persone senza il mio consenso
+
+**Rationale**:
+This dimension captures **explicit physical/sexual violence** and **property destruction**. The inclusion of **non-consensual sexual coercion** and **image-based abuse** aligns with modern definitions of **IPV** (e.g., WHO, 2021). Critically, these items are **behaviorally distinct** from psychological abuse (EAD) or control (CCI), though they often co-occur.
+
+---
+### **5. Unpredictability & Emotional Volatility (UEV)**
+*Definition*: Erratic shifts in mood/behavior that create a climate of fear and hyper-vigilance.
+**Items**:
+- Ha forti oscillazioni d'umore, il minuto prima si arrabbia e mi urla contro e quello successivo è dolce e si scusa
+- Quando faccio qualcosa che a lui non va bene poi non mi parla per giorni
+- In sua compagnia mi capita di sentirmi a disagio e ho la sensazione di dover stare attenta a ciò che dico o a ciò che faccio, come se dovessi “camminare sulle uova” per evitare sue reazioni negative
+- Sento disagio o non voglio fare qualcosa ma lo nascondo per paura che si arrabbi
+
+**Rationale**:
+This dimension reflects **intermittent reinforcement** (a hallmark of traumatic bonding) and **emotional unpredictability**, which **heightens anxiety and compliance**. The items emphasize **fear of triggers** and **inconsistent responses**, distinct from *stable* control (CCI) or degradation (EAD).
+
+---
+### **6. Healthy Relationship Dynamics (HRD)**
+*Definition*: Items indicating **safety, respect, and mutuality**—the **antithesis of abuse**.
+**Items**:
+- Mi vuole bene per quella che sono e rispetta le mie scelte
+- Mi sento ascoltata e si mostra interessato quando ho qualcosa che voglio condividere
+- In sua compagnia mi sento a mio agio e al sicuro
+- Mi incoraggia a provare nuove cose
+- Sento di potergli parlare di qualsiasi cosa
+- Capisce che ho bisogno anche di miei spazi personali e comprende che ci sono momenti in cui mi piace stare da sola o con persone diverse da lui
+- Sento che possiamo confrontarci e anche litigare senza farci male
+- Mi fa sentire libera di fare le mie scelte su come gestire il mio tempo
+- Sento il suo sostegno nelle cose che faccio
+
+**Rationale**:
+These items form a **unidimensional scale of relational health**, tapping **autonomy support, emotional safety, and mutual respect**. They serve as **contrasts to abuse dimensions** and could be used to validate **protective factors** in research/clinics.
+
+---
+### **7. External Validation of Concern (EVC)**
+*Definition*: Third-party observations or expressions of worry about the relationship.
+**Items**:
+- Le mie amiche o la mia famiglia sono preoccupate per me
+- Ho paura di vederlo perché so che potrebbe avere comportamenti che mi possono fare stare male o sentire in imbarazzo
+- Provo paura vicino a lui, non mi sento al sicuro
+
+**Rationale**:
+These items are **meta-indicators of abuse**, reflecting:
+1. **Outsider perspectives** (family/friends’ concern),
+2. **Subjective fear** (a clinical red flag).
+They are **distinct from specific abusive acts** (CCI, PAI, etc.) but critical for **risk assessment**.
+
+---
+### **Psychometric Notes**:
+1. **Overlap Mitigation**:
+   - *Jealousy* (JP) vs. *Control* (CCI): JP focuses on **emotional entitlement**; CCI on **behavioral restriction**.
+   - *Emotional Abuse* (EAD) vs. *Volatility* (UEV): EAD is **stable degradation**; UEV is **unpredictable fear**.
+
+2. **Scaling Suggestions**:
+   - For **abuse assessment**, use **CCI + EAD + PAI + JP + UEV** as sub-scales of a **Composite Abuse Severity Index**.
+   - **HRD** can be a **standalone scale** for healthy relationship promotion.
+   - **EVC** items are **validity checks** (e.g., "Does the partner’s behavior alarm others?").
+
+3. **Cultural Considerations**:
+   - Some items (e.g., financial control) may have **different baseline frequencies** across cultures but remain **markers of abuse** when patterned with other dimensions.
+
+4. **Future Validation**:
+   - Test via **confirmatory factor analysis (CFA)** with a **large, diverse sample**.
+   - Assess **convergent validity** with established measures (e.g., **CTS-2**, **WAST**, **MALT**).

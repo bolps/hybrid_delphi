@@ -1,0 +1,112 @@
+### Clinical Psychologist (openai/gpt-oss-120b)
+**Latent dimensions that emerge from the list of statements**  
+(Each item is reproduced exactly as you supplied it; no new items were created and every item appears **once only**.)
+
+---
+
+## 1. Controllo comportamentale & isolamento sociale  
+**Label:** *Controllo e limitazione dell’autonomia personale*  
+
+**Items belonging to this dimension**
+
+1. Cerca di controllare ciò che faccio e con chi mi vedo  
+2. Mi sento controllata, ho la sensazione che non si fidi di me e che voglia sapere sempre dove sono e con chi, me lo chiede continuamente  
+4. Mi chiede di non vedere i miei amici/amiche  
+5. Non capisce che ho bisogno anche di miei spazi personali e non comprende che ci sono momenti in cui mi piace stare da sola o con persone diverse da lui (amici/amiche, familiari ecc.)  
+7. Non vuole che io veda la mia famiglia, i miei amici/amiche  
+12. Diventa estremamente geloso o possessivo  
+13. Dice che sono impegnata in troppe cose e che lo trascuro, vorrebbe che passassimo la maggior parte del tempo insieme  
+18. Non mi sento libera di vestirmi come voglio  
+28. Pretende prove d’amore e dimostrazioni di fedeltà nei suoi confronti  
+29. Mi accusa di flirtare o di tradirlo  
+40. Non mi fa sentire libera di fare le mie scelte su come gestire il mio tempo  
+41. Mi dice che, se lo lasciassi, rivelerebbe ad altri dei miei segreti o delle cose molto personali che sa di me  
+45. Sento che mi manda troppi messaggi o mi chiama in modo insistente  
+
+**Rationale** – These statements describe a pattern in which the partner tries to *monitor, dictate, or restrict* the victim’s movements, relationships, appearance, use of time and communication. The core idea is the loss of personal autonomy and the creation of social isolation, a hallmark of the “controlling‑behaviour” component of intimate‑partner abuse.
+
+---
+
+## 2. Violenza fisica & minacce di danno diretto  
+**Label:** *Abuso fisico e minacce di violenza*  
+
+**Items belonging to this dimension**
+
+15. Minaccia di farsi del male a causa mia  
+16. Mi afferra per i capelli, mi strattona, mi mette le mani al collo, tenta di soffocarmi, mi dà dei pugni, mi schiaffeggia, mi getta addosso degli oggetti o mi fa male in qualche modo  
+32. Minaccia di fare del male a me, ai miei amici/amiche o alla mia famiglia  
+39. Minaccia di distruggere le mie cose (telefono, vestiti, computer, auto, ecc.)  
+49. Rompe e lancia oggetti per intimidirmi  
+
+**Rationale** – All of these items involve *actual physical aggression* (hitting, choking, grabbing) or *explicit threats of bodily harm* (to the victim, to third‑party persons, or to the victim’s property). They capture the overt, coercive‑physical component of partner violence.
+
+---
+
+## 3. Abuso psicologico / emotivo & manipolazione della realtà  
+**Label:** *Abuso emotivo‑cognitivo (gaslighting, svalutazione, umiliazione)*  
+
+**Items belonging to this dimension**
+
+3. Le mie amiche o la mia famiglia sono preoccupate per me  
+8. I miei amici/amiche mi hanno fatto notare che non piace loro come si comporta con me  
+9. Mi butta giù di morale, mi insulta o mi critica  
+10. Non mi fa sentire bene quando parla di come mi prendo cura di me stessa e del mio aspetto fisico  
+11. Mi dice che non valgo niente e che resterei sola se non stessi con lui perché nessuno mi vorrebbe  
+14. Non si mostra interessato quando ho qualcosa che voglio condividere  
+22. Sento disagio o non voglio fare qualcosa ma lo nascondo per paura che si arrabbi  
+26. Mi fa sentire spesso sbagliata e mi dice che è colpa mia se sta male  
+27. In sua compagnia mi capita di sentirmi a disagio e ho la sensazione di dover stare attenta a ciò che dico o a ciò che faccio, come se dovessi “camminare sulle uova” per evitare sue reazioni negative  
+30. Urla o mi umilia di fronte ad altre persone  
+34. Mi sento giudicata rispetto alle cose che faccio e a come organizzo la mia vita  
+35. Dopo che mi ha aggredito (fisicamente o verbalmente) nega di averlo fatto e mi fa dubitare che sia realmente successo.  
+37. Non mi sento ascoltata  
+38. Ha forti oscillazioni d’umore, il minuto prima si arrabbia e mi urla contro e quello successivo è dolce e si scusa  
+42. Non mi vuole bene per quella che sono e non rispetta le mie scelte  
+43. In sua compagnia non mi sento a mio agio e al sicuro  
+44. Quando faccio qualcosa che a lui non va bene poi non mi parla per giorni  
+46. Provo paura vicino a lui, non mi sento al sicuro  
+47. Non mi incoraggia a provare nuove cose  
+48. Non sento che possiamo confrontarci e anche litigare senza farci male  
+
+**Rationale** – These statements reflect *psychological manipulation*: repeated devaluation, humiliation, guilt‑induction, denial of reality (gaslighting), emotional volatility, and the creation of a climate of chronic fear and self‑doubt. They map onto the well‑established construct of **emotional/psychological abuse**.
+
+---
+
+## 4. Abuso finanziario & limitazione dell’indipendenza economica  
+**Label:** *Controllo economico*  
+
+**Items belonging to this dimension**
+
+19. Mi impedisce cercare un lavoro per essere indipendente  
+24. Mi viene chiesto di giustificare ogni acquisto che faccio  
+31. Controlla come spendo i miei soldi  
+36. Mi impedisce di avere accesso al conto corrente o alle mie risorse economiche  
+
+**Rationale** – The common thread is the *restriction of the victim’s financial agency*: preventing employment, demanding justification for spending, direct control over money, and denial of access to personal bank accounts. This captures the financial‑abuse facet of intimate‑partner violence.
+
+---
+
+## 5. Coercizione sessuale & violazione della privacy intima  
+**Label:** *Abuso sessuale e violazione della privacy*  
+
+**Items belonging to this dimension**
+
+21. Mi chiede insistentemente di fare sesso e non accetta quando dico di no o che non mi va  
+23. Ha mostrato mie immagini intime ad altre persone senza il mio consenso  
+25. Minaccia di mostrare ai miei amici o ai miei familiari mie immagini intime  
+
+**Rationale** – These items involve *non‑consensual sexual pressure* and *the non‑consensual distribution or threat to distribute intimate images*. Both are core elements of **sexual coercion / intimate‑partner sexual abuse** and of privacy‑related violations.
+
+---
+
+### Summary of the latent structure  
+
+| Dimension (label) | Core content | Number of items |
+|-------------------|--------------|-----------------|
+| 1. Controllo e isolamento sociale | Monitoring, restriction of contacts, dictating appearance, excessive messaging, blackmail | 14 |
+| 2. Violenza fisica & minacce di danno | Physical aggression, threats of bodily harm, intimidation with objects | 5 |
+| 3. Abuso emotivo‑cognitivo (gaslighting) | Insults, devaluation, humiliation, denial of reality, emotional volatility, fear | 18 |
+| 4. Controllo economico | Restriction of work, justification of spending, control of money, denial of account access | 4 |
+| 5. Coercizione sessuale & violazione della privacy | Pressure for sex, non‑consensual sharing or threat to share intimate images | 3 |
+
+These five latent dimensions correspond closely to the empirically supported categories of **intimate‑partner violence** (psychological, physical, sexual, economic, and controlling‑behavior/isolation). Each grouping is mutually exclusive, exhaustive, and grounded in clinical‑psychological theory.

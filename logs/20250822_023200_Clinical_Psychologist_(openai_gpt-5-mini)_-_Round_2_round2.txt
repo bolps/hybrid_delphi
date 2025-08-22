@@ -1,0 +1,99 @@
+### Clinical Psychologist (openai/gpt-5-mini) - Round 2
+Ho letto con attenzione la sintesi aggregata del Delphi e ho riallineato la mia proposta originale per aderire ai punti di maggiore consenso, integrando alcune correzioni clinicamente rilevanti. Di seguito trovi la versione rivista: ogni voce è assegnata a un’unica dimensione (nessuna voce nuova, nessuna voce divisa).
+
+Set finale di dimensioni latenti (italiano)
+
+1) Violenza fisica
+- Mi afferra per i capelli, mi strattona, mi mette le mani al collo, tenta di soffocarmi, mi dà dei pugni, mi schiaffeggia, mi getta addosso degli oggetti o mi fa male in qualche modo
+Razionale: azioni che producono danno corporeo diretto e rappresentano il nucleo di pericolo per l’incolumità fisica.
+
+2) Minacce & intimidazione
+- Rompe e lancia oggetti per intimidirmi
+- Minaccia di distruggere le mie cose (telefono, vestiti, computer, auto, ecc.)
+- Minaccia di fare del male a me, ai miei amici/amiche o alla mia famiglia
+- Minaccia di farsi del male a causa mia
+Razionale: espressioni o gesti volti a instillare paura tramite minacce contro persona, terzi o beni (incluso uso strumentale dell’autolesionismo).
+
+3) Coercizione sessuale & violazione della privacy
+- Mi chiede insistentemente di fare sesso e non accetta quando dico di no o che non mi va
+- Ha mostrato mie immagini intime ad altre persone senza il mio consenso
+- Minaccia di mostrare ai miei amici o ai miei familiari mie immagini intime
+- Mi dice che, se lo lasciassi, rivelerebbe ad altri dei miei segreti o delle cose molto personali che sa di me
+Razionale: pressione sessuale non consensuale e uso/ricatto tramite materiale intimo o informazioni personali (abuso sessuale e image-based abuse).
+
+4) Controllo coercitivo & isolamento (inclusi aspetti economici)
+- Mi sento controllata, ho la sensazione che non si fidi di me e che voglia sapere sempre dove sono e con chi, me lo chiede continuamente
+- Cerca di controllare ciò che faccio e con chi mi vedo
+- Non mi sento libera di vestirmi come voglio
+- Non mi fa sentire libera di fare le mie scelte su come gestire il mio tempo
+- Dice che sono impegnata in troppe cose e che lo trascuro, vorrebbe che passassimo la maggior parte del tempo insieme
+- Non capisce che ho bisogno anche di miei spazi personali e non comprende che ci sono momenti in cui mi piace stare da sola o con persone diverse da lui (amici/amiche, familiari ecc.)
+- Mi chiede di non vedere i miei amici/amiche
+- Non vuole che io veda la mia famiglia, i miei amici/amiche
+- Parla male delle mie amici/amiche e dice che sono dei/delle “poco di buono”
+- Mi impedisce cercare un lavoro per essere indipendente
+- Mi impedisce di avere accesso al conto corrente o alle mie risorse economiche
+- Controlla come spendo i miei soldi
+- Mi viene chiesto di giustificare ogni acquisto che faccio
+- Pretende prove d'amore e dimostrazioni di fedeltà nei suoi confronti
+- Diventa estremamente geloso o possessivo
+- Mi accusa di flirtare o di tradirlo
+- Sento che mi manda troppi messaggi o mi chiama in modo insistente
+Razionale: pattern consistente di monitoraggio, restrizione e dominio sull’autonomia personale, sociale ed economica — il nucleo del controllo coercitivo.
+
+5) Abuso verbale & umiliazione
+- Mi butta giù di morale, mi insulta o mi critica
+- Mi dice che non valgo niente e che resterei sola se non stessi con lui perché nessuno mi vorrebbe
+- Mi fa sentire spesso sbagliata e mi dice che è colpa mia se sta male
+- Urla o mi umilia di fronte ad altre persone
+- Mi sento giudicata rispetto alle cose che faccio e a come organizzo la mia vita
+- Non mi vuole bene per quella che sono e non rispetta le mie scelte
+- Non mi fa sentire bene quando parla di come mi prendo cura di me stessa e del mio aspetto fisico
+Razionale: devalorizzazione sistematica, umiliazione e attribuzione di colpa che danneggiano autostima e immagine di sé.
+
+6) Gaslighting & manipolazione della realtà (incl. oscillazioni punitive)
+- Dopo che mi ha aggredito (fisicamente o verbalmente) nega di averlo fatto e mi fa dubitare che sia realmente successo
+- Ha forti oscillazioni d'umore, il minuto prima si arrabbia e mi urla contro e quello successivo è dolce e si scusa
+- Quando faccio qualcosa che a lui non va bene poi non mi parla per giorni
+Razionale: tattiche che negano eventi, inducono confusione e auto-dubbio, e usano comportamenti incoerenti o ritiro come strumenti punitivi/manipolativi.
+
+7) Trascuratezza emotiva & assenza di supporto
+- Non si mostra interessato quando ho qualcosa che voglio condividere
+- Non mi sento ascoltata
+- Non mi incoraggia a provare nuove cose
+- Non sento di avere il suo sostegno nelle cose che faccio
+- Non sento che possiamo confrontarci e anche litigare senza farci male
+Razionale: deficit di sintonizzazione emotiva, validazione e supporto: impoverisce la qualità affettiva della relazione e ostacola la regolazione emotiva reciproca.
+
+8) Esperienza soggettiva di paura & ipervigilanza
+- In sua compagnia mi capita di sentirmi a disagio e ho la sensazione di dover stare attenta a ciò che dico o a ciò che faccio, come se dovessi “camminare sulle uova” per evitare sue reazioni negative
+- In sua compagnia non mi sento a mio agio e al sicuro
+- Sento disagio o non voglio fare qualcosa ma lo nascondo per paura che si arrabbi
+- Ho paura di vederlo perché so che potrebbe avere comportamenti che mi possono fare stare male o sentire in imbarazzo
+- Provo paura vicino a lui, non mi sento al sicuro
+Razionale: esperienza interna di minaccia cronica, ansia relazionale e comportamenti di evitamento/ipercontrollo.
+
+9) Consapevolezza esterna & assenza di marcatori relazionali sani
+- I miei amici/amiche mi hanno fatto notare che non piace loro come si comporta con me
+- Le mie amiche o la mia famiglia sono preoccupate per me
+- Sento di potergli parlare di qualsiasi cosa (questa voce funziona come indicatore invertito: la sua presenza segnala fiducia/risorse relazionali sane; l'assenza è caratteristica di relazioni abusive)
+Razionale: segnali osservabili dall’esterno che indicano problematicità della relazione e/o la carenza di elementi fondamentali di fiducia e comunicazione aperta.
+
+Sintesi delle modifiche rispetto alla mia prima proposta
+- Riduzione da 13 a 9 dimensioni per aderire al confronto aggregato: ho fuso categorie affini per maggiore coerenza clinico-psicometrica.
+  - Controllo, gelosia, limitazioni sociali e controllo economico sono stati uniti in un’unica dimensione “Coercizione/Isolamento” (precedentemente separate come controllo e controllo economico).
+  - Le voci relative a gaslighting, oscillazioni d’umore e ritiro punitivo sono state riunite in “Gaslighting & manipolazione della realtà” (invece di tenerle separate).
+  - La violazione della privacy/ricatto con immagini intime è stata accorpata a “Coercizione sessuale & violazione della privacy” (unità tra pressione sessuale e image-based abuse).
+  - Le voci positive/di fiducia (“Sento di potergli parlare di qualsiasi cosa”) sono state posizionate nella dimensione di “Consapevolezza esterna & assenza di marcatori relazionali sani” come indicatore invertito (seguendo la sintesi del Delphi).
+- Ho mantenuto e rafforzato la distinzione tra esperienza soggettiva di paura/ipervigilanza e indicatori oggettivi di minaccia (minacce/intimidazione e violenza fisica) per evidenziare impatto emotivo vs comportamento esterno.
+
+Suggerimenti e correzioni cliniche/psicommetriche (raccomandazioni)
+- Codifica dell’item positivo: trattare “Sento di potergli parlare di qualsiasi cosa” come item invertito o come scala separata di “salute relazionale” a seconda dell’obiettivo (screening vs valutazione completa).
+- Valutare, tramite analisi fattoriale confermativa, la bontà di questo raggruppamento su un campione empirico: in particolare verificare se controllo economico si distingue statisticamente dalle altre forme di coercizione; se sì, considerare una sottoscalatura separata per abuso economico in contesti clinici/forensi.
+- Per uso clinico, prevedere soglie distinte per segnalare rischio imminente (es. presenza di Violenza fisica, Minacce severe, Coercizione sessuale/ricatto) rispetto a punteggi che indicano pattern cronici di abuso emotivo e controllo.
+
+Se vuoi, posso:
+- fornire la stessa lista con suggerimenti su come raggruppare gli item in scale (punteggi sommati) e proposte di nome per ciascuna scala;
+- proporre istruzioni di scoring (es. item invertiti, soglie di rischio) e procedure di validazione (analisi fattoriale esplorativa/confermatica, affidabilità interna).
+
+Vuoi che prepari la versione pronta per test psicometrico (con label di scala e indicazioni di scoring)?

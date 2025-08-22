@@ -1,0 +1,120 @@
+### Clinical Psychologist (mistralai/mistral-medium-3.1)
+Below is the identification and labeling of **latent dimensions** based on clinical psychological constructs, grouped into **coherent thematic domains** reflective of relational and affective dysfunction. The dimensions align with established frameworks in **intimate partner violence (IPV), emotional abuse, coercive control, and healthy relationship dynamics**.
+
+---
+
+### **1. Psychological/Emotional Abuse & Degradation**
+*(Undermining self-worth, humiliation, gaslighting, and verbal aggression)*
+- *Parla male delle mie amici/amiche e dice che sono dei/delle “poco di buono”*
+- *Mi butta giù, mi insulta o mi critica*
+- *Mi fa sentire spesso sbagliata e mi dice che è colpa mia se sta male*
+- *Dice che non valgo niente e che resterei sola se non stessi con lui perché nessuno mi vorrebbe*
+- *Urla o mi umilia di fronte ad altre persone*
+- *Dopo che mi ha aggredito (fisicamente o verbalmente) nega di averlo fatto e mi fa dubitare che sia realmente successo* **(gaslighting)**
+- *Non mi fa sentire bene quando parla di come mi prendo cura di me stessa e del mio aspetto fisico*
+
+**Rationale**:
+These items reflect **systematic emotional undermining**, including **verbal abuse, degradation, blame-shifting, and gaslighting**—core features of psychological abuse aimed at eroding self-esteem and autonomy. The inclusion of **public humiliation** and **body-shaming** further reinforces coercive control over identity.
+
+---
+
+### **2. Coercive Control & Isolation**
+*(Restricting autonomy, monitoring behaviors, and enforcing dependence)*
+- *Mi impedisce di avere accesso al conto corrente o alle mie risorse economiche*
+- *Controlla come spendo i miei soldi*
+- *Mi chiede di giustificare ogni acquisto che faccio*
+- *Mi impedisce cercare un lavoro per essere indipendente*
+- *Cerca di controllare ciò che faccio e con chi mi vedo*
+- *Mi sento controllata, ho la sensazione che non si fidi di me e che voglia sapere sempre dove sono e con chi, me lo chiede continuamente*
+- *Non vuole che io veda la mia famiglia, i miei amici/amiche*
+- *Mi chiede di non vedere i miei amici/amiche*
+- *Non mi sento libera di vestirmi come voglio*
+- *Diventa estremamente geloso o possessivo*
+- *Accusa di flirtare o di tradirlo*
+- *Dice che sono impegnata in troppe cose e che lo trascuro, vorrebbe che passassimo la maggior parte del tempo insieme*
+- *Pretende prove d'amore e dimostrazioni di fedeltà*
+
+**Rationale**:
+This dimension captures **coercive control**—a pattern of **domination through isolation, financial abuse, and surveillance**. The items reflect **behavioral restrictions, social cutoff, and hypervigilance over partner’s actions**, which are hallmark tactics to enforce dependence and limit support systems.
+
+---
+
+### **3. Intimidation & Threats**
+*(Explicit or implicit threats to induce fear, compliance, or submission)*
+- *Ha mostrato mie immagini intime ad altre persone senza il mio consenso*
+- *Minaccia di fare del male a me, ai miei amici/amiche o alla mia famiglia*
+- *Minaccia di mostrare ai miei amici o ai miei familiari mie immagini intime*
+- *Minaccia di farsi del male a causa mia*
+- *Minacce di distruggere le mie cose (telefono, vestiti, computer, auto, ecc.)*
+- *Dice che, se lo lasciassi, rivelerebbe ad altri dei miei segreti o delle cose molto personali che sa di me*
+- *Rompe e lancia oggetti per intimidirmi*
+
+**Rationale**:
+These items represent **overt intimidation tactics**, including **blackmail, property destruction, and threats of violence (self-directed or other-directed)**. The use of **private images/secrets as leverage** and **destructive outbursts** serves to instill fear and enforce compliance.
+
+---
+
+### **4. Physical & Sexual Violence**
+*(Direct acts of physical aggression or sexual coercion)*
+- *Mi afferra per i capelli, mi strattona, mi mette le mani al collo, tenta di soffocarmi, mi dà dei pugni, mi schiaffeggia, mi getta addosso degli oggetti o mi fa male in qualche modo*
+- *Mi chiede insistentemente di fare sesso e non accetta quando dico di no o che non mi va*
+
+**Rationale**:
+This dimension includes **explicit physical violence** (strangulation, hitting) and **sexual coercion** (ignoring consent). These are **criminally and clinically severe** indicators of abuse with high risk for trauma and injury.
+
+---
+
+### **5. Fear & Hypervigilance**
+*(Subjective experiences of fear, walking on eggshells, and emotional distress)*
+- *Ho paura di vederlo perché so che potrebbe avere comportamenti che mi possono fare stare male o sentire in imbarazzo*
+- *Provo paura vicino a lui, non mi sento al sicuro*
+- *In sua compagnia mi capita di sentirmi a disagio e ho la sensazione di dover stare attenta a ciò che dico o a ciò che faccio, come se dovessi “camminare sulle uova” per evitare sue reazioni negative*
+- *Sento disagio o non voglio fare qualcosa ma lo nascondo per paura che si arrabbi*
+- *Quando faccio qualcosa che a lui non va bene poi non mi parla per giorni* **(silent treatment as punishment)**
+
+**Rationale**:
+These items reflect the **internalized consequences of abuse**: **chronic fear, anxiety, and adaptive behaviors (e.g., self-silencing)** to avoid conflict. The **"walking on eggshells"** metaphor is classic in abusive dynamics.
+
+---
+
+### **6. Unpredictable & Volatile Behavior**
+*(Erratic mood shifts and emotional instability used as control tactics)*
+- *Ha forti oscillazioni d'umore, il minuto prima si arrabbia e mi urla contro e quello successivo è dolce e si scusa*
+
+**Rationale**:
+This single item captures **"Dr. Jekyll and Mr. Hyde" dynamics**—**rapid mood swings** that create **confusion and dependency** in the victim, a tactic to destabilize their sense of reality.
+
+---
+
+### **7. Social Validation of Concern**
+*(External observations or warnings from support systems)*
+- *I miei amici/amiche mi hanno fatto notare che non piace loro come si comporta con me*
+- *Le mie amiche o la mia famiglia sono preoccupate per me*
+
+**Rationale**:
+These items highlight **third-party validation of abuse**, which is critical in **breaking denial** and recognizing the severity of the situation. Often, victims minimize abuse until others intervene.
+
+---
+### **8. Healthy Relationship Behaviors**
+*(Positive, supportive, and autonomy-respecting dynamics)*
+- *Sento il suo sostegno nelle cose che faccio*
+- *Sento che possiamo confrontarci e anche litigare senza farci male*
+- *Mi sento ascoltata e si mostra interessato quando ho qualcosa che voglio condividere*
+- *Mi incoraggia a provare nuove cose*
+- *Mi fa sentire libera di fare le mie scelte su come gestire il mio tempo*
+- *Capisce che ho bisogno anche di miei spazi personali e comprende che ci sono momenti in cui mi piace stare da sola o con persone diverse da lui*
+- *Mi vuole bene per quella che sono e rispetta le mie scelte*
+- *Sento di potergli parlare di qualsiasi cosa*
+- *In sua compagnia mi sento a mio agio e al sicuro*
+
+**Rationale**:
+These items serve as **contrasting benchmarks** for **secure, egalitarian relationships**, characterized by **trust, respect, emotional safety, and encouragement of autonomy**. Their presence helps differentiate **healthy from abusive dynamics**.
+
+---
+### **Key Observations**:
+1. **Overlap with Coercive Control Framework**: The dimensions align with **Evan Stark’s coercive control model**, where abuse is not just episodic violence but a **pattern of domination** (e.g., isolation, monitoring, degradation).
+2. **Trauma Bonding**: The juxtaposition of **abuse with intermittent reinforcement** (e.g., apologies, sweetness after rage) explains why victims may stay in such relationships (**trauma bonds**).
+3. **Clinical Utility**: These dimensions can guide **assessment tools** (e.g., **Composite Abuse Scale, Power & Control Wheel**) and **intervention strategies** (safety planning, psychoeducation on abuse dynamics).
+4. **Cultural Considerations**: Some items (e.g., financial control, family isolation) may resonate differently across cultures but universally signal **power imbalances**.
+
+Would you like further elaboration on any dimension or its implications for treatment?

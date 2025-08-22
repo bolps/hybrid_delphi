@@ -1,0 +1,153 @@
+### Clinical Psychologist (mistralai/mistral-medium-3.1)
+Ecco una suddivisione dei comportamenti, pensieri ed emozioni riportati in **costrutti clinici coerenti**, basati su dimensioni psicologiche e relazionali rilevanti per la valutazione di dinamiche disfunzionali (in particolare, violenza psicologica, fisica, controllo coercitivo, dipendenza affettiva e sani pattern relazionali).
+Ogni dimensione è mutuamente esclusiva e riflette aspetti teorici chiave (es. *cycle of abuse*, *gaslighting*, *intimate terrorism*, *secure attachment*).
+
+---
+
+### **1. Controllo Coercitivo e Isolamento Sociale**
+*(Comportamenti volti a limitare l’autonomia, l’accesso alle risorse e le relazioni significative, tipici del *power and control wheel* nella violenza domestica)*
+- Mi impedisce di avere accesso al conto corrente o alle mie risorse economiche
+- Controlla come spendo i miei soldi
+- Mi chiede di giustificare ogni acquisto che faccio
+- Cerca di controllare ciò che faccio e con chi mi vedo
+- Mi sento controllata, ho la sensazione che non si fidi di me e che voglia sapere sempre dove sono e con chi, me lo chiede continuamente
+- Non vuole che io veda la mia famiglia, i miei amici/amiche
+- Mi chiede di non vedere i miei amici/amiche
+- Dice che sono impegnata in troppe cose e che lo trascuro, vorrebbe che passassimo la maggior parte del tempo insieme
+- Mi impedisce cercare un lavoro per essere indipendente
+- Pretende prove d'amore e dimostrazioni di fedeltà nei suoi confronti
+
+**Razionale**:
+Questi item descrivono strategie sistematiche per **erodere l’indipendenza** (economica, sociale, decisionale) della vittima, creando dipendenza dal partner. L’isolamento è un precursore comune dell’abuso (Stark, 2007).
+
+---
+
+### **2. Abuso Psicologico e Umiliazione Pubblica**
+*(Comportamenti volti a denigrare, svalutare o umiliare la vittima, spesso in presenza di altri, con l’obiettivo di minare l’autostima e la credibilità)*
+- Parla male delle mie amici/amiche e dice che sono dei/delle “poco di buono”
+- Urla o mi umilia di fronte ad altre persone
+- Mi butta giù, mi insulta o mi critica
+- Mi fa sentire spesso sbagliata e mi dice che è colpa mia se sta male
+- Mi dice che non valgo niente e che resterei sola se non stessi con lui perché nessuno mi vorrebbe
+- Non mi fa sentire bene quando parla di come mi prendo cura di me stessa e del mio aspetto fisico
+- Mi giudica rispetto alle cose che faccio e a come organizzo la mia vita
+
+**Razionale**:
+L’abuso verbale e la **critica distruttiva** servono a instillare vergogna e senso di inadeguatezza. L’umiliazione pubblica rafforza il controllo attraverso la paura del giudizio sociale (Herman, 1992).
+
+---
+
+### **3. Gaslighting e Distorsione della Realtà**
+*(Tattiche per manipolare la percezione della vittima, negando eventi reali o facendola dubitare della propria memoria/sanità mentale)*
+- Dopo che mi ha aggredito (fisicamente o verbalmente) nega di averlo fatto e mi fa dubitare che sia realmente successo.
+- Mi accusa di flirtare o di tradirlo (falsa accusa per giustificare il controllo)
+
+**Razionale**:
+Il *gaslighting* è una forma di **abuso psicologico insidioso** che erode la capacità della vittima di fidarsi dei propri giudizi, facilitando la sottomissione (Sweet, 2019).
+
+---
+
+### **4. Minacce e Coercizione**
+*(Comportamenti intimidatori, incluse minacce dirette o indirette, per indurre sottomissione attraverso la paura)*
+- Minaccia di farsi del male a causa mia
+- Minaccia di fare del male a me, ai miei amici/amiche o alla mia famiglia
+- Minaccia di distruggere le mie cose (telefono, vestiti, computer, auto, ecc.)
+- Mi dice che, se lo lasciassi, rivelerebbe ad altri dei miei segreti o delle cose molto personali che sa di me
+- Minaccia di mostrare ai miei amici o ai miei familiari mie immagini intime
+- Ha mostrato mie immagini intime ad altre persone senza il mio consenso
+
+**Razionale**:
+Le minacce creano un **clima di terrore cronico**, strumentalizzando la paura per mantenere il potere. Includono *doxing*, *revenge porn* e minacce di violenza auto/etero-diretta (Walker, 1979).
+
+---
+
+### **5. Violenza Fisica e Comportamenti Intimidatori**
+*(Atteggiamenti aggressivi diretti, inclusi abusi fisici e distruzione di proprietà per dominare attraverso la forza)*
+- Rompe e lancia oggetti per intimidirmi
+- Mi afferra per i capelli, mi strattona, mi mette le mani al collo, tenta di soffocarmi, mi dà dei pugni, mi schiaffeggia, mi getta addosso degli oggetti o mi fa male in qualche modo
+- Provo paura vicino a lui, non mi sento al sicuro
+
+**Razionale**:
+La violenza fisica è l’apice del *cycle of abuse* (tensione → esplosione → luna di miele). L’uso della forza serve a **imporre il dominio** e a normalizzare la sottomissione (Johnson, 2008).
+
+---
+
+### **6. Comportamenti Sessualmente Coercitivi**
+*(Pressioni o ricatti per ottenere atti sessuali non consensuali, ignorando i confini della vittima)*
+- Mi chiede insistentemente di fare sesso e non accetta quando dico di no o che non mi va
+
+**Razionale**:
+La coercizione sessuale è una forma di **violenza relazionale** che nega il diritto all’autodeterminazione corporea, spesso associata a dinamiche di potere (Basil, 2011).
+
+---
+
+### **7. Dipendenza Affettiva e Paura delle Reazioni**
+*(Risposte emotive e comportamentali della vittima, caratterizzate da ipervigilanza e adattamento per evitare conflitti)*
+- Ho paura di vederlo perché so che potrebbe avere comportamenti che mi possono fare stare male o sentire in imbarazzo
+- Sento disagio o non voglio fare qualcosa ma lo nascondo per paura che si arrabbi
+- In sua compagnia mi capita di sentirmi a disagio e ho la sensazione di dover stare attenta a ciò che dico o a ciò che faccio, come se dovessi “camminare sulle uova” per evitare sue reazioni negative
+- Quando faccio qualcosa che a lui non va bene poi non mi parla per giorni
+
+**Razionale**:
+Questi item riflettono la **sindrome da adattamento traumatico**, dove la vittima modula i propri comportamenti per prevenire l’abuso, sviluppando ansia anticipatoria (Dutton & Painter, 1981).
+
+---
+
+### **8. Instabilità Emotiva e Ciclo Abusivo**
+*(Oscillazioni improvvise tra aggressività e affetto, tipiche del ciclo "tensione-esplosione-luna di miele")*
+- Ha forti oscillazioni d'umore, il minuto prima si arrabbia e mi urla contro e quello successivo è dolce e si scusa
+
+**Razionale**:
+Questo pattern è centrale nel **cycle of abuse** (Walker, 1979), dove fasi di violenza alternano a fasi di "riparazione" per mantenere la vittima nella relazione.
+
+---
+
+### **9. Gelosia Patologica e Possessività**
+*(Reazioni sproporzionate basate su sospetti infondati, volte a giustificare il controllo)*
+- Diventa estremamente geloso o possessivo
+- Non mi sento libera di vestirmi come voglio
+
+**Razionale**:
+La gelosia patologica è un **meccanismo di proiezione** che legittima il controllo, spesso associato a disturbi di personalità (es. narcisismo, borderline) (Mullen & Martin, 1994).
+
+---
+### **10. Segnali di Allarme Esterni**
+*(Feedback da parte di terzi che riconoscono la tossicità della relazione)*
+- I miei amici/amiche mi hanno fatto notare che non piace loro come si comporta con me
+- Le mie amiche o la mia famiglia sono preoccupate per me
+
+**Razionale**:
+Le **reti sociali** spesso percepiscono prima della vittima la gravità della situazione, fungendo da "specchio" della realtà (Levendosky & Graham-Bermann, 2001).
+
+---
+### **11. Comportamenti di Sostegno e Sicurezza Relazionale**
+*(Elementi di una relazione sana, basati su rispetto, fiducia e autonomia)*
+- Sento il suo sostegno nelle cose che faccio
+- Sento che possiamo confrontarci e anche litigare senza farci male
+- Mi sento ascoltata e si mostra interessato quando ho qualcosa che voglio condividere
+- Mi incoraggia a provare nuove cose
+- Mi fa sentire libera di fare le mie scelte su come gestire il mio tempo
+- Capisce che ho bisogno anche di miei spazi personali e comprende che ci sono momenti in cui mi piace stare da sola o con persone diverse da lui
+- Mi vuole bene per quella che sono e rispetta le mie scelte
+- Sento di potergli parlare di qualsiasi cosa
+- In sua compagnia mi sento a mio agio e al sicuro
+
+**Razionale**:
+Questi item descrivono **attachment sicuro** (Bowlby, 1969) e **relazioni egalitarie**, dove prevalgono empatia, autonomia e reciprocità.
+
+---
+### **12. Comportamenti Invasivi e Persistenti**
+*(Intrusività e mancato rispetto dei confini personali, spesso associati a stalking o dipendenza affettiva del partner)*
+- Sento che mi manda troppi messaggi o mi chiama in modo insistente
+
+**Razionale**:
+L’**invasività** può essere un precursore di comportamenti ossessivi o stalking, soprattutto se combinata con gelosia e controllo (Spitzberg, 2002).
+
+---
+### **Note Cliniche**:
+- **Sovrapposizioni teoriche**: Alcuni item potrebbero appartenere a più dimensioni (es. "mi impedisce di vedere gli amici" è sia *controllo coercitivo* che *isolamento*), ma sono stati assegnati alla categoria **primaria** di riferimento.
+- **Assenza di ambiguità**: Ogni dimensione è **mutuamente esclusiva** per evitare ridondanze.
+- **Utilizzo pratico**: Questa categorizzazione può guidare:
+  - **Valutazione del rischio** (es. presenza di violenza fisica + gaslighting = alto rischio di escalation).
+  - **Psicoeducazione** (es. spiegare alla vittima il *cycle of abuse*).
+  - **Pianificazione dell’intervento** (es. priorità: sicurezza fisica → autonomia economica → ricostruzione dell’autostima).

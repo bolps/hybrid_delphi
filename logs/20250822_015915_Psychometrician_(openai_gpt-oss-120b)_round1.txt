@@ -1,0 +1,136 @@
+### Psychometrician (openai/gpt-oss-120b)
+**Latent dimensions that emerge from the list of statements**  
+
+Below each dimension I give a short label, the items that load on it (exact wording as you supplied), and a brief psychometric rationale for why the items cluster together.  The grouping follows the well‑established taxonomy of intimate‑partner abuse (emotional/psychological, coercive‑control, physical, sexual, economic, threats/intimidation, social‑isolation, and gas‑lighting).  No item appears in more than one factor.
+
+---
+
+### 1. Emotional / Verbal Abuse  
+**Label:** *Devaluation & Humiliation*  
+
+**Items**  
+- “Mi sento giudicata rispetto alle cose che faccio e a come organizzo la mia vita”  
+- “Mi fa sentire spesso sbagliata e mi dice che è colpa mia se sta male”  
+- “Urla o mi umilia di fronte ad altre persone”  
+- “Mi dice che non valgo niente e che resterei sola se non stessi con lui perché nessuno mi vorrebbe”  
+- “Mi butta giù di morale, mi insulta o mi critica”  
+- “Quando faccio qualcosa che a lui non va bene poi non mi parla per giorni”  
+- “Non mi sento ascoltata”  
+- “Sento disagio o non voglio fare qualcosa ma lo nascondo per paura che si arrabbi”  
+- “Non mi vuole bene per quella che sono e non rispetta le mie scelte”  
+- “Dice che sono impegnata in troppe cose e che lo trascuro, vorrebbe che passassimo la maggior parte del tempo insieme”  
+
+**Rationale** – All these statements describe direct attacks on the victim’s self‑esteem, frequent criticism, public humiliation, and the use of silence as punishment.  They tap a single underlying latent trait: the partner’s tendency to emotionally degrade and verbally abuse the respondent.
+
+---
+
+### 2. Psychological Coercive‑Control  
+**Label:** *Monitoring, Possessiveness & Autonomy Restriction*  
+
+**Items**  
+- “Sento che mi manda troppi messaggi o mi chiama in modo insistente”  
+- “Cerca di controllare ciò che faccio e con chi mi vedo”  
+- “Diventa estremamente geloso o possessivo”  
+- “Pretende prove d'amore e dimostrazioni di fedeltà nei suoi confronti”  
+- “Mi sento controllata, ho la sensazione che non si fidi di me e che voglia sapere sempre dove sono e con chi, me lo chiede continuamente”  
+- “Non mi fa sentire libera di fare le mie scelte su come gestire il mio tempo”  
+- “Non mi sento libera di vestirmi come voglio”  
+- “Mi chiede di non vedere i miei amici/amiche”  
+- “Non vuole che io veda la mia famiglia, i miei amici/amiche”  
+- “Non capisce che ho bisogno anche di miei spazi personali e non comprende che ci sono momenti in cui mi piace stare da sola o con persone diverse da lui (amici/amiche, familiari ecc.)”  
+
+**Rationale** – These items capture the partner’s systematic attempt to dominate the victim’s daily life, monitor whereabouts, demand constant proof of loyalty, and limit personal freedom.  They load on a single “coercive‑control” factor that is distinct from overt aggression.
+
+---
+
+### 3. Physical Violence  
+**Label:** *Direct Physical Aggression*  
+
+**Items**  
+- “Mi afferra per i capelli, mi strattona, mi mette le mani al collo, tenta di soffocarmi, mi dà dei pugni, mi schiaffeggia, mi getta addosso degli oggetti o mi fa male in qualche modo”  
+- “Rompe e lancia oggetti per intimidirmi”  
+
+**Rationale** – Both statements describe observable, bodily‑harm behaviors (hitting, choking, throwing objects).  They represent the physical‑abuse dimension.
+
+---
+
+### 4. Sexual Abuse / Coercion  
+**Label:** *Non‑Consensual Sexual Pressure & Image Misuse*  
+
+**Items**  
+- “Ha mostrato mie immagini intime ad altre persone senza il mio consenso”  
+- “Mi chiede insistentemente di fare sesso e non accetta quando dico di no o che non mi va”  
+- “Minaccia di mostrare ai miei amici o ai miei familiari mie immagini intime”  
+
+**Rationale** – These items involve unwanted sexual demands and the non‑consensual distribution or threat to distribute intimate images, forming a coherent sexual‑coercion factor.
+
+---
+
+### 5. Economic Abuse  
+**Label:** *Financial Control & Resource Denial*  
+
+**Items**  
+- “Mi impedisce di avere accesso al conto corrente o alle mie risorse economiche”  
+- “Mi impedisce di cercare un lavoro per essere indipendente”  
+- “Mi viene chiesto di giustificare ogni acquisto che faccio”  
+- “Controlla come spendo i miei soldi”  
+
+**Rationale** – All statements reflect the partner’s restriction of the victim’s economic agency, either by blocking access to money, sabotaging employment, or demanding justification for expenditures.  They load on a distinct economic‑abuse factor.
+
+---
+
+### 6. Threats & Intimidation  
+**Label:** *Explicit Threats of Harm, Exposure & Property Damage*  
+
+**Items**  
+- “Mi dice che, se lo lasciassi, rivelerebbe ad altri dei miei segreti o delle cose molto personali che sa di me”  
+- “Minaccia di distruggere le mie cose (telefono, vestiti, computer, auto, ecc.)”  
+- “Minaccia di farsi del male a causa mia”  
+- “Minaccia di fare del male a me, ai miei amici/amiche o alla mia famiglia”  
+- “Provo paura vicino a lui, non mi sento al sicuro”  
+
+**Rationale** – These items involve overt threats (to self‑harm, to the victim or her network, to destroy property, or to expose private information).  They share the underlying latent construct of intimidation through threat.
+
+---
+
+### 7. Social Isolation  
+**Label:** *Separation from Social Network*  
+
+**Items**  
+- “Mi chiede di non vedere i miei amici/amiche”  
+- “Non vuole che io veda la mia famiglia, i miei amici/amiche”  
+- “Le mie amiche o la mia famiglia sono preoccupate per me” (captures the external perception of isolation)  
+- “I miei amici/amiche mi hanno fatto notare che non piace loro come si comporta con me” (reflects the social fallout)  
+
+**Rationale** – These statements describe the partner’s effort to cut the victim off from friends and family, a classic isolation strategy that forms its own factor separate from general control.
+
+---
+
+### 8. Gas‑lighting / Reality‑Manipulation  
+**Label:** *Denial & Manipulation of Reality*  
+
+**Items**  
+- “Dopo che mi ha aggredito (fisicamente o verbalmente) nega di averlo fatto e mi fa dubitare che sia realmente successo.”  
+- “Non sento che possiamo confrontare e anche litigare senza farci male” (reflects the belief that disagreement is impossible, a form of reality distortion)  
+
+**Rationale** – These items reflect the partner’s systematic denial of abusive events and the creation of confusion about what actually happened, tapping a distinct gas‑lighting factor.
+
+---
+
+### 9. Positive Relationship Perception (reverse‑coded)  
+**Label:** *Perceived Open Communication*  
+
+**Item**  
+- “Sento di potergli parlare di qualsiasi cosa”  
+
+**Rationale** – This single item captures the opposite pole of the emotional‑abuse factor (the sense of safety in disclosure).  In a factor‑analytic model it would load negatively on the emotional‑abuse dimension or serve as a reverse‑coded indicator of relationship quality.
+
+---
+
+**Overall psychometric logic**  
+
+- **Unidimensionality within each factor:** Items within a factor share a common content domain (e.g., verbal degradation, financial restriction) and are expected to correlate strongly with one another.  
+- **Distinctiveness across factors:** Each factor taps a qualitatively different mechanism of abuse (emotional, coercive‑control, physical, sexual, economic, threat, isolation, gas‑lighting), minimizing overlap.  
+- **Theoretical coherence:** The nine dimensions map onto the contemporary “coercive‑control” model of intimate‑partner violence, which has been validated in many cross‑cultural studies.  
+
+These latent dimensions can be used as sub‑scales in a questionnaire, each scored by summing the items that belong to it (or via a confirmatory factor analysis to test the structure).

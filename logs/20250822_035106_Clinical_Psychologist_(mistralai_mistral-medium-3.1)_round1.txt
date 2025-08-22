@@ -1,0 +1,133 @@
+### Clinical Psychologist (mistralai/mistral-medium-3.1)
+Below is the identification and labeling of latent dimensions based on clinical psychological constructs, grouped into **non-overlapping, theoretically coherent categories** reflective of relational and affective dysfunction. The framework draws from **attachment theory, coercive control dynamics, emotional abuse, psychological manipulation, and intimate partner violence (IPV) literature**.
+
+---
+
+### **1. Coercive Control & Isolation (Behavioral Restriction)**
+**Items:**
+- Cerca di controllare ciò che faccio e con chi mi vedo
+- Mi chiede di non vedere i miei amici/amiche
+- Non vuole che io veda la mia famiglia, i miei amici/amiche
+- Parla male delle mie amiche/amiche e dice che sono dei/delle “poco di buono”
+- Mi impedisce di cercare un lavoro per essere indipendente
+- Controlla come spendo i miei soldi
+- Mi chiede insistentemente di fare sesso e non accetta quando dico di no o che non mi va
+- Pretende prove d'amore e dimostrazioni di fedeltà nei suoi confronti
+- Mi viene chiesto di giustificare ogni acquisto che faccio
+- Mi impedisce di avere accesso al conto corrente o alle mie risorse economiche
+- Non mi fa sentire libera di fare le mie scelte su come gestire il mio tempo
+- Non mi sento libera di vestirmi come voglio
+
+**Rationale:**
+This dimension captures **systematic efforts to restrict autonomy, independence, and social support**, a core feature of **coercive control** (Stark, 2007). Tactics include **isolation** (cutting off support networks), **economic abuse** (controlling finances), **sexual coercion**, and **micromanagement of daily behaviors**. These behaviors erode agency and reinforce dependency, increasing vulnerability to further abuse.
+
+---
+
+### **2. Emotional Abuse & Degradation (Psychological Aggression)**
+**Items:**
+- Mi butta giù di morale, mi insulta o mi critica
+- Non mi fa sentire bene quando parla di come mi prendo cura di me stessa e del mio aspetto fisico
+- Mi dice che non valgo niente e che resterei sola se non stessi con lui perché nessuno mi vorrebbe
+- Mi fa sentire spesso sbagliata e mi dice che è colpa mia se sta male
+- Urla o mi umilia di fronte ad altre persone
+- Mi accusa di flirtare o di tradirlo
+- Mi sento giudicata rispetto alle cose che faccio e a come organizzo la mia vita
+- Non mi vuole bene per quella che sono e non rispetta le mie scelte
+- Non mi sento ascoltata
+- Non mi incoraggia a provare nuove cose
+
+**Rationale:**
+This dimension reflects **chronic emotional abuse**, including **verbal degradation, humiliation, gaslighting, and invalidation** (Jacobson & Gottman, 1998). The abuser undermines self-worth, fosters self-doubt, and creates a **hostile emotional climate**. The items highlight **criticism, contempt, and stonewalling**—key predictors of relational distress (Gottman, 1999). The goal is to **erode self-esteem and enforce compliance**.
+
+---
+
+### **3. Surveillance & Jealousy (Possessive Monitoring)**
+**Items:**
+- Mi sento controllata, ho la sensazione che non si fidi di me e che voglia sapere sempre dove sono e con chi, me lo chiede continuamente
+- Diventa estremamente geloso o possessivo
+- Sento che mi manda troppi messaggi o mi chiama in modo insistente
+- Dice che sono impegnata in troppe cose e che lo trascuro, vorrebbe che passassimo la maggior parte del tempo insieme
+- Non capisce che ho bisogno anche di miei spazi personali e non comprende che ci sono momenti in cui mi piace stare da sola o con persone diverse da lui
+
+**Rationale:**
+This dimension captures **pathological jealousy and intrusive monitoring**, linked to **anxious-preoccupied attachment** (Hazan & Shaver, 1987) and **obsessive relational intrusion** (Cupach & Spitzberg, 2004). The abuser **demands constant access**, frames independence as betrayal, and **weaponizes distrust** to justify control. This creates a **climate of hypervigilance** in the victim.
+
+---
+
+### **4. Physical & Sexual Violence (Overt Aggression)**
+**Items:**
+- Mi afferra per i capelli, mi strattona, mi mette le mani al collo, tenta di soffocarmi, mi dà dei pugni, mi schiaffeggia, mi getta addosso degli oggetti o mi fa male in qualche modo
+- Mi chiede insistentemente di fare sesso e non accetta quando dico di no o che non mi va
+- Ha mostrato mie immagini intime ad altre persone senza il mio consenso
+- Minaccia di mostrare ai miei amici o ai miei familiari mie immagini intime
+
+**Rationale:**
+This dimension includes **explicit physical violence, sexual coercion, and image-based abuse** (a form of **technology-facilitated abuse**). These acts represent **escalated aggression** (Johnson’s *Intimate Terrorism*, 1995) and are **criminally punishable** in many jurisdictions. The inclusion of **non-consensual image sharing** reflects modern forms of **digital violence** (Henry & Powell, 2018).
+
+---
+
+### **5. Gaslighting & Reality Distortion (Cognitive Manipulation)**
+**Items:**
+- Dopo che mi ha aggredito (fisicamente o verbalmente) nega di averlo fatto e mi fa dubitare che sia realmente successo
+- Ha forti oscillazioni d'umore, il minuto prima si arrabbia e mi urla contro e quello dopo è dolce e si scusa
+- Mi dice che, se lo lasciassi, rivelerebbe ad altri dei miei segreti o delle cose molto personali che sa di me
+
+**Rationale:**
+This dimension captures **gaslighting** (Stern, 2007)—a form of **psychological manipulation** where the abuser **distorts reality**, induces self-doubt, and **exploits emotional whiplash** (rapid shifts between aggression and affection). The **threat of exposure** (e.g., secrets, images) is a **tactic of coercive control** to enforce silence and compliance.
+
+---
+### **6. Threats & Intimidation (Fear Induction)**
+**Items:**
+- Minaccia di farsi del male a causa mia
+- Minaccia di fare del male a me, ai miei amici/amiche o alla mia famiglia
+- Minaccia di distruggere le mie cose (telefono, vestiti, computer, auto, ecc.)
+- Rompe e lancia oggetti per intimidirmi
+- Quando faccio qualcosa che a lui non va bene poi non mi parla per giorni
+
+**Rationale:**
+This dimension reflects **explicit and implicit threats** designed to **instill fear and compliance**. Tactics include:
+- **Self-harm threats** (emotional blackmail)
+- **Direct violence threats** (to victim or loved ones)
+- **Property destruction** (symbolic violence)
+- **Silent treatment** (a form of **emotional abandonment**).
+These behaviors **reinforce power imbalances** through **fear conditioning** (Walker, 1979).
+
+---
+### **7. Social Erosion & External Validation (Third-Party Perceptions)**
+**Items:**
+- Le mie amiche o la mia famiglia sono preoccupate per me
+- I miei amici/amiche mi hanno fatto notare che non piace loro come si comporta con me
+- In sua compagnia non mi sento a mio agio e al sicuro
+- Provo paura vicino a lui, non mi sento al sicuro
+
+**Rationale:**
+This dimension captures **external observations of abuse** and the victim’s **internalized awareness of danger**. The inclusion of **third-party concern** (friends/family) validates the **objective severity** of the situation, while the victim’s **fear and discomfort** reflect **traumatic bonding** (Dutton & Painter, 1981) and **learned helplessness** (Seligman, 1972).
+
+---
+### **8. Absence of Emotional Safety & Support (Relational Deprivation)**
+**Items:**
+- Non si mostra interessato quando ho qualcosa che voglio condividere
+- Non sento di avere il suo sostegno nelle cose che faccio
+- Sento disagio o non voglio fare qualcosa ma lo nascondo per paura che si arrabbi
+- Non sento che possiamo confrontarci e anche litigare senza farci male
+- In sua compagnia mi capita di sentirmi a disagio e ho la sensazione di dover stare attenta a ciò che dico o a ciò che faccio, come se dovessi “camminare sulle uova” per evitare sue reazioni negative
+
+**Rationale:**
+This dimension highlights the **absence of emotional safety**, a **core relational need** (Bowlby, 1969). The victim experiences:
+- **Emotional neglect** (lack of interest/support)
+- **Self-censorship** (walking on eggshells)
+- **Fear of retaliation** for expressing needs.
+This reflects **insecure attachment dynamics** and **chronic relational trauma**.
+
+---
+### **Clinical Implications:**
+1. **Coercive Control Framework**: The items map onto **Stark’s (2007) model of coercive control**, where **isolation, surveillance, degradation, and micro-regulation** create a **cumulative harm** greater than isolated incidents.
+2. **Trauma-Informed Care**: Victims likely experience **complex PTSD** (Herman, 1992) due to **prolonged entrapment** and **betrayal trauma**.
+3. **Safety Planning**: **Physical violence, threats, and gaslighting** necessitate **risk assessment** (e.g., Danger Assessment Tool) and **safety planning**.
+4. **Attachment Repair**: The **eroded emotional safety** suggests need for **attachment-based therapy** (e.g., EFT) if the victim chooses to stay (with **abuser accountability**).
+
+---
+### **Key Overlaps Avoided:**
+- **Gaslighting** (Dimension 5) was separated from **emotional abuse** (Dimension 2) because it involves **cognitive manipulation**, not just degradation.
+- **Threats** (Dimension 6) were distinguished from **coercive control** (Dimension 1) as they involve **explicit fear induction**, not just restriction.
+- **Social erosion** (Dimension 7) was kept distinct to highlight **external validation** of abuse, which is critical for **victim self-trust**.

@@ -1,0 +1,134 @@
+### Clinical Psychologist (openai/gpt-oss-120b) - Round 2
+**Re‑examined latent structure of the 45 statements**  
+(Every statement appears **once only**; no new statements were created.)
+
+---
+
+## 1. Coercive Control & Surveillance  
+**Label:** *Coercive control – monitoring, financial domination and black‑mail*  
+
+| Items |
+|-------|
+| 1  Cerca di controllare ciò che faccio e con chi mi vedo |
+| 2  Mi sento controllata, ho la sensazione che non si fidi di me e che voglia sapere sempre dove sono e con chi, me lo chiede continuamente |
+| 12  Diventa estremamente geloso o possessivo |
+| 24  Mi viene chiesto di giustificare ogni acquisto che faccio |
+| 28  Pretende prove d’amore e dimostrazioni di fedeltà nei suoi confronti |
+| 29  Mi accusa di flirtare o di tradirlo |
+| 31  Controlla come spendo i miei soldi |
+| 36  Mi impedisce di avere accesso al conto corrente o alle mie risorse economiche |
+| 40  Non mi fa sentire libera di fare le mie scelte su come gestire il mio tempo |
+| 41  Mi dice che, se lo lasciassi, rivelerebbe ad altri dei miei segreti o delle cose molto personali che sa di me |
+| 45  Sento che mi manda troppi messaggi o mi chiama in modo insistente |
+
+**Rationale** – All of these items describe systematic attempts to dominate the partner’s behaviour, whereabouts, finances and private information. They capture the classic “coercive‑control” pattern that underlies many forms of intimate‑partner abuse.
+
+---
+
+## 2. Emotional Abuse & Degradation  
+**Label:** *Verbal/psychological devaluation and humiliation*  
+
+| Items |
+|-------|
+| 3  Le mie amiche o la mia famiglia sono preoccupate per me |
+| 8  I miei amici/amiche mi hanno fatto notare che non piace loro come si comporta con me |
+| 9  Mi butta giù di morale, mi insulta o mi critica |
+| 10  Non mi fa sentire bene quando parla di come mi prendo cura di me stessa e del mio aspetto fisico |
+| 11  Mi dice che non valgo niente e che resterei sola se non stessi con lui perché nessuno mi vorrebbe |
+| 14  Non si mostra interessato quando ho qualcosa che voglio condividere |
+| 26  Mi fa sentire spesso sbagliata e mi dice che è colpa mia se sta male |
+| 30  Urla o mi umilia di fronte ad altre persone |
+| 34  Mi sento giudicata rispetto alle cose che faccio e a come organizzo la mia vita |
+| 42  Non mi vuole bene per quella che sono e non rispetta le mie scelte |
+
+**Rationale** – These statements reflect repeated verbal attacks, devaluation, public humiliation and a general lack of respect for the victim’s self‑esteem. They map onto the well‑established construct of **emotional/psychological abuse**.
+
+---
+
+## 3. Isolation & Restriction of Autonomy  
+**Label:** *Social isolation and limitation of personal freedom*  
+
+| Items |
+|-------|
+| 4  Mi chiede di non vedere i miei amici/amiche |
+| 5  Non capisce che ho bisogno anche di miei spazi personali e non comprende che ci sono momenti in cui mi piace stare da sola o con persone diverse da lui (amici/amiche, familiari ecc.) |
+| 7  Non vuole che io veda la mia famiglia, i miei amici/amiche |
+| 13  Dice che sono impegnata in troppe cose e che lo trascuro, vorrebbe che passassimo la maggior parte del tempo insieme |
+| 18  Non mi sento libera di vestirmi come voglio |
+| 19  Mi impedisce di cercare un lavoro per essere indipendente |
+
+**Rationale** – The core of these items is the partner’s effort to cut the victim off from her social network, to dictate personal choices (clothing, work, leisure) and to keep her dependent and isolated.
+
+---
+
+## 4. Physical Violence & Direct Threats  
+**Label:** *Physical aggression and explicit threats of bodily or property harm*  
+
+| Items |
+|-------|
+| 15  Minaccia di farsi del male a causa mia |
+| 16  Mi afferra per i capelli, mi strattona, mi mette le mani al collo, tenta di soffocarmi, mi dà dei pugni, mi schiaffeggia, mi getta addosso degli oggetti o mi fa male in qualche modo |
+| 32  Minaccia di fare del male a me, ai miei amici/amiche o alla mia famiglia |
+| 39  Minaccia di distruggere le mie cose (telefono, vestiti, computer, auto, ecc.) |
+| 49  Rompe e lancia oggetti per intimidirmi |
+
+**Rationale** – These items involve overt physical assault or clear threats of physical injury (to the victim, her relatives or her property). They capture the **physical‑violence** component of partner abuse.
+
+---
+
+## 5. Sexual Coercion & Privacy Violation  
+**Label:** *Non‑consensual sexual pressure and intimate‑image exploitation*  
+
+| Items |
+|-------|
+| 21  Mi chiede insistentemente di fare sesso e non accetta quando dico di no o che non mi va |
+| 23  Ha mostrato mie immagini intime ad altre persone senza il mio consenso |
+| 25  Minaccia di mostrare ai miei amici o ai miei familiari mie immagini intime |
+
+**Rationale** – These statements describe pressure for sexual activity without consent and the non‑consensual distribution (or threat thereof) of intimate images – core elements of **sexual coercion** and **privacy violation**.
+
+---
+
+## 6. Gaslighting & Emotional Unpredictability  
+**Label:** *Manipulation of reality and volatile mood swings*  
+
+| Items |
+|-------|
+| 35  Dopo che mi ha aggredito (fisicamente o verbalmente) nega di averlo fatto e mi fa dubitare che sia realmente successo |
+| 38  Ha forti oscillazioni d’umore, il minuto prima si arrabbia e mi urla contro e quello successivo è dolce e si scusa |
+
+**Rationale** – These items capture two classic tactics: (a) denial of abusive acts to make the victim doubt her perception (gaslighting) and (b) abrupt mood shifts that keep the victim in a state of confusion and anxiety.
+
+---
+
+## 7. Erosion of Relational Safety & Autonomy  
+**Label:** *Chronic fear, lack of support and “walking on eggshells”*  
+
+| Items |
+|-------|
+| 22  Sento disagio o non voglio fare qualcosa ma lo nascondo per paura che si arrabbi |
+| 27  In sua compagnia mi capita di sentirmi a disagio e ho la sensazione di dover stare attenta a ciò che dico o a ciò che faccio, come se dovessi “camminare sulle uova” per evitare sue reazioni negative |
+| 37  Non mi sento ascoltata |
+| 43  In sua compagnia non mi sento a mio agio e al sicuro |
+| 44  Quando faccio qualcosa che a lui non va bene poi non mi parla per giorni |
+| 46  Provo paura vicino a lui, non mi sento al sicuro |
+| 47  Non mi incoraggia a provare nuove cose |
+| 48  Non sento che possiamo confrontarci e anche litigare senza farci male |
+
+**Rationale** – This cluster reflects a pervasive sense that the relationship is unsafe and that the victim must constantly monitor the partner’s reactions. It includes fear of retaliation, emotional withholding, and the impossibility of open communication—elements that underlie chronic relational insecurity.
+
+---
+
+## Summary of the revisions made
+
+| What was changed | Why the change was made |
+|------------------|------------------------|
+| **Merged the “controlling‑behaviour” and “financial‑control” items** into a single *Coercive Control & Surveillance* dimension (Dimension 1). This follows the Delphi’s “Coercive Control and Surveillance” but adds the items that were previously split across two of my original dimensions (financial abuse, black‑mail, excessive messaging). |
+| **Separated “Emotional Abuse” from “Isolation”** (Dimensions 2 vs 3). The Delphi grouped some isolation items with control; I kept a distinct *Isolation & Restriction of Autonomy* dimension because those statements specifically refer to cutting off social contacts and limiting personal freedom, which is conceptually different from the broader surveillance‑control pattern. |
+| **Created a new “Erosion of Relational Safety & Autonomy” dimension** (Dimension 7). The Delphi’s “Emotional Unpredictability and Gaslighting” (Dimension 6) and “Erosion of Relational Safety and Autonomy” (Dimension 7) overlapped; I kept the gaslighting items in a dedicated dimension (Dimension 6) and grouped the remaining fear‑related, “walking on eggshells” statements into Dimension 7. This preserves the nuance highlighted by the Delphi synthesis while avoiding overlap. |
+| **Moved items 3, 8, 14, 42** (which refer to external concern, friends’ observations, lack of interest, and lack of love) from the original “psychological/emotional abuse” pool to the *Emotional Abuse & Degradation* dimension, aligning with the Delphi’s emphasis on devaluation. |
+| **Re‑assigned item 19 (preventing work)** to the *Isolation & Restriction of Autonomy* dimension rather than a separate “Economic Abuse” dimension, because the primary effect is loss of personal autonomy rather than pure financial control (the latter is already captured in Dimension 1). |
+| **Kept the “Sexual Coercion & Privacy Violation” and “Physical Violence & Direct Threats” dimensions** exactly as they appeared in both the original and Delphi syntheses, confirming consensus. |
+| **Ensured each of the 45 statements appears once and only once**; no new statements were introduced and no existing statement was split. |
+
+The final seven‑dimension model respects the **core consensus** identified by the Delphi moderator (coercive control, emotional abuse, isolation, physical threat, sexual coercion, gaslighting, and relational insecurity) while providing a clearer, mutually exclusive structure that can be directly applied in assessment, research, or therapeutic planning.

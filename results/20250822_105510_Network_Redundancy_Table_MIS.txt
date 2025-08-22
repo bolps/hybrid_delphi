@@ -1,0 +1,44 @@
+item_id	dimension	fit_mean	clarity_mean	decision	reason	net_degree	net_neighbors	net_neighbor_ratios	net_max_overlap	net_drop_partner	net_drop_ratio	net_threshold	net_denom_mode
+IT05	Coercive Control & Isolation	4.091	4.364	Retain	fit_mean≥4 (4.09), IQR≤1 (0.00), clarity≥4 (4.36)	0			0.0			0.5	max
+IT06	Coercive Control & Isolation	4.455	4.545	Retain	fit_mean≥4 (4.45), IQR≤1 (1.00), clarity≥4 (4.55)	0			0.0			0.5	max
+IT11	Coercive Control & Isolation	4.364	4.909	Retain	fit_mean≥4 (4.36), IQR≤1 (1.00), clarity≥4 (4.91)	0			0.0			0.5	max
+IT12	Coercive Control & Isolation	4.545	4.909	Drop	fit_mean≥4 (4.55), IQR≤1 (1.00), clarity≥4 (4.91); pairwise redundancy ≥0.50 vs IT27	1	IT27	IT27:1.82	1.818			0.5	max
+IT13	Coercive Control & Isolation	4.273	4.818	Retain	fit_mean≥4 (4.27), IQR≤1 (0.50), clarity≥4 (4.82)	0			0.0			0.5	max
+IT16	Coercive Control & Isolation	4.364	5.0	Drop	fit_mean≥4 (4.36), IQR≤1 (1.00), clarity≥4 (5.00); pairwise redundancy ≥0.50 vs IT24	1	IT24	IT24:0.82	0.818			0.5	max
+IT21	Coercive Control & Isolation	4.636	4.909	Retain	fit_mean≥4 (4.64), IQR≤1 (1.00), clarity≥4 (4.91)	0			0.0			0.5	max
+IT23	Coercive Control & Isolation	4.727	5.0	Retain	fit_mean≥4 (4.73), IQR≤1 (0.50), clarity≥4 (5.00)	0			0.0			0.5	max
+IT24	Coercive Control & Isolation	5.0	5.0	Retain	fit_mean≥4 (5.00), IQR≤1 (0.00), clarity≥4 (5.00)	2	IT16,IT26	IT16:0.82|IT26:1.64	1.636			0.5	max
+IT25	Coercive Control & Isolation	4.727	5.0	Retain	fit_mean≥4 (4.73), IQR≤1 (0.50), clarity≥4 (5.00)	0			0.0			0.5	max
+IT26	Coercive Control & Isolation	4.818	4.909	Drop	fit_mean≥4 (4.82), IQR≤1 (0.00), clarity≥4 (4.91); pairwise redundancy ≥0.50 vs IT24	1	IT24	IT24:1.64	1.636			0.5	max
+IT27	Coercive Control & Isolation	5.0	5.0	Retain	fit_mean≥4 (5.00), IQR≤1 (0.00), clarity≥4 (5.00)	1	IT12	IT12:1.82	1.818			0.5	max
+IT01	Emotional & Verbal Abuse	2.583	4.667	Drop	fit_mean=2.58 < 3.5	0			0.0			0.5	max
+IT14	Emotional & Verbal Abuse	3.5	4.333	Retain	fallback to majority recommendation	0			0.0			0.5	max
+IT17	Emotional & Verbal Abuse	3.917	4.667	Retain	fallback to majority recommendation	1	IT30	IT30:0.58	0.583			0.5	max
+IT28	Emotional & Verbal Abuse	4.0	4.636	Retain	fit_mean≥4 (4.00), IQR≤1 (0.00), clarity≥4 (4.64)	0			0.0			0.5	max
+IT30	Emotional & Verbal Abuse	4.909	4.727	Drop	fit_mean≥4 (4.91), IQR≤1 (0.00), clarity≥4 (4.73); pairwise redundancy ≥0.50 vs IT31	3	IT17,IT31,IT32	IT17:0.58|IT31:0.91|IT32:1.00	1.0			0.5	max
+IT31	Emotional & Verbal Abuse	5.0	5.0	Retain	fit_mean≥4 (5.00), IQR≤1 (0.00), clarity≥4 (5.00)	1	IT30	IT30:0.91	0.909			0.5	max
+IT32	Emotional & Verbal Abuse	5.0	5.0	Retain	fit_mean≥4 (5.00), IQR≤1 (0.00), clarity≥4 (5.00)	1	IT30	IT30:1.00	1.0			0.5	max
+IT40	Emotional & Verbal Abuse	4.727	5.0	Retain	fit_mean≥4 (4.73), IQR≤1 (0.50), clarity≥4 (5.00)	0			0.0			0.5	max
+IT42	Emotional & Verbal Abuse	5.0	5.0	Retain	fit_mean≥4 (5.00), IQR≤1 (0.00), clarity≥4 (5.00)	0			0.0			0.5	max
+IT02	Emotional Neglect & Lack of Support	4.727	4.909	Retain	fit_mean≥4 (4.73), IQR≤1 (0.50), clarity≥4 (4.91)	0			0.0			0.5	max
+IT03	Emotional Neglect & Lack of Support	4.909	5.0	Retain	fit_mean≥4 (4.91), IQR≤1 (0.00), clarity≥4 (5.00)	0			0.0			0.5	max
+IT09	Fear & Hyper‑vigilance	4.636	4.636	Drop	fit_mean≥4 (4.64), IQR≤1 (1.00), clarity≥4 (4.64); pairwise redundancy ≥0.50 vs IT18	2	IT18,IT44	IT18:1.73|IT44:0.55	1.727			0.5	max
+IT10	Fear & Hyper‑vigilance	3.273	4.727	Drop	fit_mean=3.27 < 3.5	1	IT20	IT20:0.73	0.727			0.5	max
+IT18	Fear & Hyper‑vigilance	5.0	5.0	Retain	fit_mean≥4 (5.00), IQR≤1 (0.00), clarity≥4 (5.00)	2	IT09,IT44	IT09:1.73|IT44:1.00	1.727			0.5	max
+IT19	Fear & Hyper‑vigilance	4.636	4.727	Retain	fit_mean≥4 (4.64), IQR≤1 (1.00), clarity≥4 (4.73)	0			0.0			0.5	max
+IT20	Fear & Hyper‑vigilance	3.545	4.909	Drop	fallback to majority recommendation	1	IT10	IT10:0.73	0.727			0.5	max
+IT29	Fear & Hyper‑vigilance	5.0	4.909	Retain	fit_mean≥4 (5.00), IQR≤1 (0.00), clarity≥4 (4.91)	0			0.0			0.5	max
+IT44	Fear & Hyper‑vigilance	4.455	5.0	Drop	fit_mean≥4 (4.45), IQR≤1 (1.00), clarity≥4 (5.00); pairwise redundancy ≥0.50 vs IT18	2	IT09,IT18	IT09:0.55|IT18:1.00	1.0			0.5	max
+IT46	Financial Abuse	4.909	5.0	Retain	fit_mean≥4 (4.91), IQR≤1 (0.00), clarity≥4 (5.00)	1	IT48	IT48:1.82	1.818			0.5	max
+IT47	Financial Abuse	5.0	5.0	Retain	fit_mean≥4 (5.00), IQR≤1 (0.00), clarity≥4 (5.00)	0			0.0			0.5	max
+IT48	Financial Abuse	4.727	5.0	Drop	fit_mean≥4 (4.73), IQR≤1 (0.50), clarity≥4 (5.00); pairwise redundancy ≥0.50 vs IT46	1	IT46	IT46:1.82	1.818			0.5	max
+IT49	Financial Abuse	5.0	5.0	Retain	fit_mean≥4 (5.00), IQR≤1 (0.00), clarity≥4 (5.00)	0			0.0			0.5	max
+IT39	Physical Violence	5.0	4.818	Retain	fit_mean≥4 (5.00), IQR≤1 (0.00), clarity≥4 (4.82)	0			0.0			0.5	max
+IT41	Physical Violence	4.091	5.0	Retain	fit_mean≥4 (4.09), IQR≤1 (0.00), clarity≥4 (5.00)	0			0.0			0.5	max
+IT33	Sexual Coercion & Image Abuse	5.0	5.0	Retain	fit_mean≥4 (5.00), IQR≤1 (0.00), clarity≥4 (5.00)	1	IT34	IT34:0.64	0.636			0.5	max
+IT34	Sexual Coercion & Image Abuse	5.0	5.0	Drop	fit_mean≥4 (5.00), IQR≤1 (0.00), clarity≥4 (5.00); pairwise redundancy ≥0.50 vs IT33	1	IT33	IT33:0.64	0.636			0.5	max
+IT43	Sexual Coercion & Image Abuse	5.0	5.0	Retain	fit_mean≥4 (5.00), IQR≤1 (0.00), clarity≥4 (5.00)	0			0.0			0.5	max
+IT35	Threats & Intimidation	4.909	5.0	Retain	fit_mean≥4 (4.91), IQR≤1 (0.00), clarity≥4 (5.00)	0			0.0			0.5	max
+IT36	Threats & Intimidation	5.0	5.0	Retain	fit_mean≥4 (5.00), IQR≤1 (0.00), clarity≥4 (5.00)	0			0.0			0.5	max
+IT37	Threats & Intimidation	4.909	5.0	Retain	fit_mean≥4 (4.91), IQR≤1 (0.00), clarity≥4 (5.00)	0			0.0			0.5	max
+IT38	Threats & Intimidation	4.727	5.0	Retain	fit_mean≥4 (4.73), IQR≤1 (0.50), clarity≥4 (5.00)	0			0.0			0.5	max

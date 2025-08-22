@@ -1,0 +1,111 @@
+### Psychometrician (openai/gpt-oss-120b)
+**Latent Dimension 1 – Positive Relationship Quality (Support, Trust & Safety)**  
+*What the items capture*: A sense that the partner is a source of emotional support, openness, respect for personal needs and that the relationship feels safe and comfortable.  
+*Items*  
+
+- **3.** *Sento di potergli parlare di qualsiasi cosa*  
+- **4.** *Mi incoraggia a provare nuove cose*  
+- **5.** *Sento il suo sostegno nelle cose che faccio*  
+- **19.** *Sento che possiamo confrontarci e anche litigare senza farci male*  
+- **35.** *Mi sento ascoltata e si mostra interessato quando ho qualcosa che voglio condividere*  
+- **36.** *Mi fa sentire libera di fare le mie scelte su come gestire il mio tempo*  
+- **43.** *Mi vuole bene per quella che sono e rispetta le mie scelte*  
+- **45.** *In sua compagnia mi sento a mio agio e al sicuro*  
+- **28.** *Capisce che ho bisogno anche di miei spazi personali e comprende che ci sono momenti in cui mi piace stare da sola o con persone diverse da lui (amici/amiche, familiari ecc.)*  
+
+*Rationale*: These statements describe warmth, encouragement, mutual respect, the ability to discuss disagreements without damage, and a feeling of safety—core aspects of a healthy, supportive partnership.
+
+---
+
+**Latent Dimension 2 – Controlling & Isolating Behaviors**  
+*What the items capture*: Strategies that limit the partner’s autonomy, social contacts, or freedom of movement; excessive monitoring, jealousy, and demands for constant together‑time.  
+*Items*  
+
+- **1.** *Parla male delle mie amici/amiche e dice che sono dei/delle “poco di buono”*  
+- **2.** *Mi chiede di non vedere i miei amici/amiche*  
+- **6.** *Quando faccio qualcosa che a lui non va bene poi non mi parla per giorni* (silent‑treatment as a control tactic)  
+- **14.** *Pretende prove d'amore e dimostrazioni di fedeltà nei suoi confronti*  
+- **15.** *Sento disagio o non voglio fare qualcosa ma lo nascondo per paura che si arrabbi*  
+- **16.** *Mi accusa di flirtare o di tradirlo*  
+- **18.** *Non vuole che io veda la mia famiglia, i miei amici/amiche*  
+- **21.** *Mi sento controllata, ho la sensazione che non si fidi di me e che voglia sapere sempre dove sono e con chi, me lo chiede continuamente*  
+- **23.** *Dice che sono impegnata in troppe cose e che lo trascuro, vorrebbe che passassimo la maggior parte del tempo insieme*  
+- **24.** *Diventa estremamente geloso o possessivo*  
+- **25.** *Mi dice che, se lo lasciassi, rivelerebbe ad altri dei miei segreti o delle cose molto personali che sa di me*  
+- **34.** *Sento che mi manda troppi messaggi o mi chiama in modo insistente*  
+- **44.** *Cerca di controllare ciò che faccio e con chi mi vedo*  
+
+*Rationale*: All statements reflect an attempt to dominate the partner’s social world, time, or behavior, a hallmark of coercive control and isolation.
+
+---
+
+**Latent Dimension 3 – Economic Abuse**  
+*What the items capture*: Direct interference with the partner’s financial independence and autonomy.  
+*Items*  
+
+- **11.** *Mi impedisce cercare un lavoro per essere indipendente*  
+- **17.** *Mi impedisce di avere accesso al conto corrente o alle mie risorse economiche*  
+- **30.** *Controlla come spendo i miei soldi*  
+- **48.** *Mi viene chiesto di giustificare ogni acquisto che faccio*  
+
+*Rationale*: These items describe blocking employment, denying access to money, monitoring spending, and demanding justification for purchases—core components of financial or economic abuse.
+
+---
+
+**Latent Dimension 4 – Psychological / Emotional Abuse (Verbal Degradation, Gaslighting, Threats & Intimidation)**  
+*What the items capture*: Behaviors that undermine self‑esteem, create fear, distort reality, or intimidate the partner without physical contact.  
+*Items*  
+
+- **7.** *Non mi fa sentire bene quando parla di come mi prendo cura di me stessa e del mio aspetto fisico*  
+- **8.** *Ha forti oscillazioni d'umore, il minuto prima si arrabbia e mi urla contro e quello successivo è dolce e si scusa*  
+- **12.** *Provo paura vicino a lui, non mi sento al sicuro*  
+- **13.** *Mi butta giù, mi insulta o mi critica*  
+- **20.** *Dopo che mi ha aggredito (fisicamente o verbalmente) nega di averlo fatto e mi fa dubitare che sia realmente successo* (gaslighting)  
+- **31.** *In sua compagnia mi capita di sentirmi a disagio e ho la sensazione di dover stare attenta a ciò che dico o a ciò che faccio, come se dovessi “camminare sulle uova” per evitare sue reazioni negative*  
+- **32.** *Ho paura di vederlo perché so che potrebbe avere comportamenti che mi possono fare stare male o sentire in imbarazzo*  
+- **33.** *Urla o mi umilia di fronte ad altre persone*  
+- **37.** *Mi sento giudicata rispetto alle cose che faccio e a come organizzo la mia vita*  
+- **38.** *Minacce di distruggere le mie cose (telefono, vestiti, computer, auto, ecc.)*  
+- **40.** *Rompe e lancia oggetti per intimidirmi*  
+- **42.** *Minaccia di farsi del male a causa mia*  
+- **46.** *Minaccia di fare del male a me, ai miei amici/amiche o alla mia famiglia*  
+- **47.** *Mi fa sentire spesso sbagliata e mi dice che è colpa mia se sta male*  
+
+*Rationale*: These items involve verbal attacks, emotional manipulation, fear‑inducing threats, denial of reality, and coercive intimidation—all classic indicators of psychological/emotional abuse.
+
+---
+
+**Latent Dimension 5 – Sexual Coercion & Exploitation**  
+*What the items capture*: Unwanted sexual demands, threats to expose intimate material, and non‑consensual sharing of sexual images.  
+*Items*  
+
+- **9.** *Mi chiede insistentemente di fare sesso e non accetta quando dico di no o che non mi va*  
+- **10.** *Minaccia di mostrare ai miei amici o ai miei familiari mie immagini intime*  
+- **22.** *Ha mostrato mie immagini intime ad altre persone senza il mio consenso*  
+
+*Rationale*: These statements describe pressure to have sex against one’s wishes and the use of intimate images as leverage—core elements of sexual abuse.
+
+---
+
+**Latent Dimension 6 – Physical Violence**  
+*What the items capture*: Direct physical aggression or assault.  
+*Items*  
+
+- **27.** *Mi afferra per i capelli, mi strattona, mi mette le mani al collo, tenta di soffocarmi, mi dà dei pugni, mi schiaffeggia, mi getta addosso degli oggetti o mi fa male in qualche modo*  
+
+*Rationale*: This item explicitly reports physical acts of violence, distinguishing it from non‑physical forms of abuse.
+
+---
+
+### Summary of the factor structure  
+
+| Dimension | Core Content | Example Items |
+|-----------|--------------|---------------|
+| **Positive Relationship Quality** | Warmth, support, safety, openness | 3, 4, 5, 19, 35, 36, 43, 45, 28 |
+| **Controlling & Isolating Behaviors** | Monitoring, jealousy, restriction of contacts, demand for exclusive time | 1, 2, 6, 14, 15, 16, 18, 21, 23, 24, 25, 34, 44 |
+| **Economic Abuse** | Sabotage of employment, denial of money, spending control | 11, 17, 30, 48 |
+| **Psychological / Emotional Abuse** | Verbal degradation, gaslighting, threats, intimidation, fear | 7, 8, 12, 13, 20, 31, 32, 33, 37, 38, 40, 42, 46, 47 |
+| **Sexual Coercion & Exploitation** | Unwanted sexual pressure, threats/unauthorized sharing of intimate images | 9, 10, 22 |
+| **Physical Violence** | Direct bodily harm | 27 |
+
+These six latent dimensions capture the full range of experiences described in the item set, each representing a theoretically coherent facet of intimate‑partner dynamics that can be measured separately in a psychometric scale.

@@ -1,0 +1,65 @@
+### Psycholinguist (meta-llama/llama-4-maverick)
+After analyzing the given list of psychological items, I have identified 4 latent dimensions that underlie the list. Here are the dimensions, along with the items that belong to each dimension, and a brief rationale for the grouping:
+
+**Dimension 1: Emotional Abuse and Manipulation**
+- Mi chiede insistentemente di fare sesso e non accetta quando dico di no o che non mi va
+- Minaccia di farsi del male a causa mia
+- Minacce di distruggere le mie cose (telefono, vestiti, computer, auto, ecc.)
+- Mi chiede di non vedere i miei amici/amiche
+- Non vuole che io veda la mia famiglia, i miei amici/amiche
+- Mi viene chiesto di giustificare ogni acquisto che faccio
+- Sento disagio o non voglio fare qualcosa ma lo nascondo per paura che si arrabbi
+- Dice che sono impegnata in troppe cose e che lo trascuro, vorrebbe che passassimo la maggior parte del tempo insieme
+- Minaccia di fare del male a me, ai miei amici/amiche o alla mia famiglia
+- Mi fa sentire spesso sbagliata e mi dice che è colpa mia se sta male
+- Ha mostrato mie immagini intime ad altre persone senza il mio consenso
+- Mi dice che, se lo lasciassi, rivelerebbe ad altri dei miei segreti o delle cose molto personali che sa di me
+- Cerca di controllare ciò che faccio e con chi mi vedo
+- Diventa estremamente geloso o possessivo
+- Mi butta giù, mi insulta o mi critica
+- Dopo che mi ha aggredito (fisicamente o verbalmente) nega di averlo fatto e mi fa dubitare che sia realmente successo.
+- Mi dice che non valgo niente e che resterei sola se non stessi con lui perché nessuno mi vorrebbe
+- Parla male delle mie amici/amiche e dice che sono dei/delle “poco di buono”
+- Mi sento giudicata rispetto alle cose che faccio e a come organizzo la mia vita
+- Pretende prove d'amore e dimostrazioni di fedeltà nei suoi confronti
+- Non mi fa sentire bene quando parla di come mi prendo cura di me stessa e del mio aspetto fisico
+- Mi accusa di flirtare o di tradirlo
+- Rompe e lancia oggetti per intimidirmi
+- Urla o mi umilia di fronte ad altre persone
+- Minaccia di mostrare ai miei amici o ai miei familiari mie immagini intime
+
+Rationale: These items all relate to behaviors that are controlling, manipulative, or abusive, causing emotional distress or fear in the respondent.
+
+**Dimension 2: Physical Violence and Threats**
+- Mi afferra per i capelli, mi strattona, mi mette le mani al collo, tenta di soffocarmi, mi dà dei pugni, mi schiaffeggia, mi getta addosso degli oggetti o mi fa male in qualche modo
+- Ha forti oscillazioni d'umore, il minuto prima si arrabbia e mi urla contro e quello successivo è dolce e si scusa
+
+Rationale: Although the second item could be seen as having a different connotation, the first item directly relates to physical violence. The second item is somewhat related because it describes a behavior that can be perceived as threatening or emotionally volatile, potentially leading to or being associated with violent outbursts.
+
+**Dimension 3: Healthy Relationship Dynamics**
+- Sento di potergli parlare di qualsiasi cosa
+- Sento che possiamo confrontarci e anche litigare senza farci male
+- Capisce che ho bisogno anche di miei spazi personali e comprende che ci sono momenti in cui mi piace stare da sola o con persone diverse da lui (amici/amiche, familiari ecc.)
+- Sento il suo sostegno nelle cose che faccio
+- In sua compagnia mi sento a mio agio e al sicuro
+- Mi fa sentire libera di fare le mie scelte su come gestire il mio tempo
+- Mi sento ascoltata e si mostra interessato quando ho qualcosa che voglio condividere
+- Mi incoraggia a provare nuove cose
+- Mi vuole bene per quella che sono e rispetta le mie scelte
+
+Rationale: These items describe a positive, supportive, and respectful relationship dynamic where the respondent feels comfortable, safe, and valued.
+
+**Dimension 4: Control and Isolation**
+- Mi impedisce di avere accesso al conto corrente o alle mie risorse economiche
+- Mi impedisce cercare un lavoro per essere indipendente
+- Controlla come spendo i miei soldi
+- Non mi sento libera di vestirmi come voglio
+- Sento che mi manda troppi messaggi o mi chiama in modo insistente
+- Provo paura vicino a lui, non mi sento al sicuro
+- Ho paura di vederlo perché so che potrebbe avere comportamenti che mi possono fare stare male o sentire in imbarazzo
+- Le mie amiche o la mia famiglia sono preoccupate per me
+- I miei amici/amiche mi hanno fatto notare che non piace loro come si comporta con me
+- Mi sento controllata, ho la sensazione che non si fidi di me e che voglia sapere sempre dove sono e con chi, me lo chiede continuamente
+- In sua compagnia mi capita di sentirmi a disagio e ho la sensazione di dover stare attenta a ciò che dico o a ciò che faccio, come se dovessi “camminare sulle uova” per evitare sue reazioni negative
+
+Rationale: These items relate to behaviors that isolate the respondent or exert control over various aspects of their life, including their economic independence, personal choices, and social interactions. While there is some overlap with Dimension 1, Dimension 4 focuses more on the specific mechanisms of control and the resulting feelings of being trapped or surveilled.

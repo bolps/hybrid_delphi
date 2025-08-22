@@ -1,0 +1,94 @@
+### Clinical Psychologist (openai/gpt-oss-120b)
+**Latent dimension 1 – Coercive Control (monitoring, isolation, financial domination, jealousy, “proof‑of‑love” demands, excessive contact)**  
+*Rationale:* These statements describe systematic attempts to regulate the partner’s behaviour, choices, relationships, and resources. The pattern is characteristic of coercive‑control—a core component of intimate‑partner abuse that goes beyond occasional arguments and creates a power‑over dynamic.
+
+- “Non mi sento libera di vestirmi come voglio”  
+- “Cerca di controllare ciò che faccio e con chi mi vedo”  
+- “Mi chiede di non vedere i miei amici/amiche”  
+- “Mi accusa di flirtare o di tradirlo”  
+- “Parla male delle mie amici/amiche e dice che sono dei/delle ‘poco di buono’”  
+- “Dice che sono impegnata in troppe cose e che lo trascuro, vorrebbe che passassimo la maggior parte del tempo insieme”  
+- “Mi viene chiesto di giustificare ogni acquisto che faccio”  
+- “Non vuole che io veda la mia famiglia, i miei amici/amiche”  
+- “Diventa estremamente geloso o possessivo”  
+- “Mi sento controllata, ho la sensazione che non si fidi di me e che voglia sapere sempre dove sono e con chi, me lo chiede continuamente”  
+- “Mi impedisce cercare un lavoro per essere indipendente”  
+- “Controlla come spendo i miei soldi”  
+- “Pretende prove d’amore e dimostrazioni di fedeltà nei suoi confronti”  
+- “Quando faccio qualcosa che a lui non va bene poi non mi parla per giorni”  
+- “Mi impedisce di avere accesso al conto corrente o alle mie risorse economiche”  
+- “Mi sento camminare sulle uova per evitare sue reazioni negative”  
+- “Sento che mi manda troppi messaggi o mi chiama in modo insistente”  
+- “Sento disagio o non voglio fare qualcosa ma lo nascondo per paura che si arrabbi”  
+
+---
+
+**Latent dimension 2 – Emotional / Verbal Abuse (devaluation, criticism, blame, gaslighting, humiliation)**  
+*Rationale:* These items involve attacks on the partner’s self‑esteem, frequent criticism, blaming, and tactics that distort reality (gaslighting). They are the classic verbal‑emotional abuse markers that undermine the victim’s sense of worth and safety.
+
+- “Mi fa sentire spesso sbagliata e mi dice che è colpa mia se sta male”  
+- “Mi dice che non valgo niente e che resterei sola se non stessi con lui perché nessuno mi vorrebbe”  
+- “Mi sento giudicata rispetto alle cose che faccio e a come organizzo la mia vita”  
+- “Mi butta giù, mi insulta o mi critica”  
+- “Mi urla o mi umilia di fronte ad altre persone”  
+- “Non mi fa sentire bene quando parla di come mi prendo cura di me stessa e del mio aspetto fisico”  
+- “Ha forti oscillazioni d’umore, il minuto prima si arrabbia e mi urla contro e quello successivo è dolce e si scusa” (the rapid shift is a form of emotional manipulation)  
+- “Dopo che mi ha aggredito (fisicamente o verbalmente) nega di averlo fatto e mi fa dubitare che sia realmente successo” (gaslighting)  
+
+---
+
+**Latent dimension 3 – Threats & Intimidation (self‑harm threats, exposure threats, property‑destruction threats, fear‑inducing statements)**  
+*Rationale:* These statements use explicit threats—of self‑injury, of revealing private information, of destroying belongings, or of causing harm—to control, coerce, or terrorise the partner.
+
+- “Rompe e lancia oggetti per intimidirmi”  
+- “Minaccia di farsi del male a causa mia”  
+- “Mi dice che, se lo lasciassi, rivelerebbe ad altri dei miei segreti o delle cose molto personali che sa di me”  
+- “Minaccia di mostrare ai miei amici o ai miei familiari mie immagini intime”  
+- “Minacce di distruggere le mie cose (telefono, vestiti, computer, auto, ecc.)”  
+- “Minaccia di fare del male a me, ai miei amici/amiche o alla mia famiglia”  
+- “Provo paura vicino a lui, non mi sento al sicuro”  
+- “Ho paura di vederlo perché so che potrebbe avere comportamenti che mi possono fare stare male o sentire in imbarazzo”  
+
+---
+
+**Latent dimension 4 – Physical Violence (direct bodily aggression, assault, choking, hitting)**  
+*Rationale:* These items describe overt physical aggression that results in bodily harm or the threat of it, a core element of intimate‑partner physical abuse.
+
+- “Mi afferra per i capelli, mi strattona, mi mette le mani al collo, tenta di soffocarmi, mi dà dei pugni, mi schiaffeggia, mi getta addosso degli oggetti o mi fa male in qualche modo”  
+- “Dopo che mi ha aggredito (fisicamente o verbalmente) nega di averlo fatto e mi fa dubitare che sia realmente successo” (physical aggression followed by denial)  
+
+---
+
+**Latent dimension 5 – Sexual Coercion / Exploitation**  
+*Rationale:* These statements involve non‑consensual sexual demands, the creation or distribution of intimate images without permission, and threats linked to sexual privacy—behaviours that constitute sexual abuse within a relationship.
+
+- “Mi chiede insistentemente di fare sesso e non accetta quando dico di no o che non mi va”  
+- “Ha mostrato mie immagini intime ad altre persone senza il mio consenso”  
+- “Minaccia di mostrare ai miei amici o ai miei familiari mie immagini intime”  
+
+---
+
+**Latent dimension 6 – Positive / Supportive Relationship (respect, autonomy, empathy, safe‑space experiences)**  
+*Rationale:* These items reflect the opposite end of the relational spectrum—behaviours that promote mutual respect, emotional safety, and personal growth. They serve as a contrastive “protective” factor in the data set.
+
+- “Capisce che ho bisogno anche di miei spazi personali e comprende che ci sono momenti in cui mi piace stare da sola o con persone diverse da lui”  
+- “Mi fa sentire libera di fare le mie scelte su come gestire il mio tempo”  
+- “Sento di potergli parlare di qualsiasi cosa”  
+- “Sento il suo sostegno nelle cose che faccio”  
+- “Mi sento ascoltata e si mostra interessato quando ho qualcosa che voglio condividere”  
+- “Mi vuole bene per quella che sono e rispetta le mie scelte”  
+- “Mi incoraggia a provare nuove cose”  
+- “In sua compagnia mi sento a mio agio e al sicuro”  
+- “Sento che possiamo confrontarci e anche litigare senza farci male”  
+
+---
+
+**Latent dimension 7 – External Concern / Social Feedback (worry expressed by friends, family, or acquaintances)**  
+*Rationale:* These statements do not describe the partner’s direct behaviours but rather the reactions of the victim’s social network, which often function as early warning signals of an abusive dynamic.
+
+- “Le mie amiche o la mia famiglia sono preoccupate per me”  
+- “I miei amici/amiche mi hanno fatto notare che non piace loro come si comporta con me”  
+
+---
+
+*Note:* The grouping avoids overlap by assigning each item to the dimension that best captures its primary relational function. Together, the seven dimensions map onto well‑established constructs in the clinical literature on intimate‑partner violence (e.g., coercive‑control, emotional abuse, physical assault, sexual coercion, threat/intimidation, protective/supportive behaviours, and external warning signals).

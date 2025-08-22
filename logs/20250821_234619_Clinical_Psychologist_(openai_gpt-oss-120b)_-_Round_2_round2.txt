@@ -1,0 +1,138 @@
+### Clinical Psychologist (openai/gpt-oss-120b) - Round 2
+**Re‑organized latent‑dimension model (aligned with the Delphi synthesis)**  
+
+Below you will find the final set of latent constructs that best capture the meaning of every original item.  
+For each dimension I list **exactly the wording of the items** (no new statements, no splitting) and give a brief **clinical rationale** explaining why the items cluster together.
+
+---
+
+## 1. Coercive Control & Surveillance  
+
+| Items (as originally phrased) |
+|------------------------------|
+| Cerca di controllare ciò che faccio e con chi mi vedo |
+| Mi sento controllata, ho la sensazione che non si fidi di me e che voglia sapere sempre dove sono e con chi, me lo chiede continuamente |
+| Sento che mi manda troppi messaggi o mi chiama in modo insistente |
+| Controlla come spendo i miei soldi |
+| Mi viene chiesto di giustificare ogni acquisto che faccio |
+| Mi impedisce di avere accesso al conto corrente o alle mie risorse economiche |
+| Mi impedisce cercare un lavoro per essere indipendente |
+| Pretende prove d’amore e dimostrazioni di fedeltà nei suoi confronti |
+| Diventa estremamente geloso o possessivo |
+
+**Rationale** – All of these behaviours aim to *restrict the victim’s autonomy* by monitoring whereabouts, communications, and finances, and by demanding constant proof of loyalty. In contemporary IPV theory they constitute the core of **coercive control** (a pattern of surveillance, dependency‑creating tactics, and economic domination).
+
+---
+
+## 2. Emotional Abuse & Manipulation  
+
+| Items |
+|-------|
+| Mi fa sentire spesso sbagliata e mi dice che è colpa mia se sta male |
+| Mi butta giù, mi insulta o mi critica |
+| Mi dice che non valgo niente e che resterei sola se non stessi con lui perché nessuno mi vorrebbe |
+| Non mi fa sentire bene quando parla di come mi prendo cura di me stessa e del mio aspetto fisico |
+| Mi sento giudicata rispetto alle cose che faccio e a come organizzo la vita |
+| Urla o mi umilia di fronte ad altre persone |
+| Dopo che mi ha aggredito (fisicamente o verbalmente) nega di averlo fatto e mi fa dubitare che sia realmente successo |
+| Ha forti oscillazioni d’umore, il minuto prima si arrabbia e mi urla contro e quello successivo è dolce e si scusa |
+| Quando faccio qualcosa che a lui non va bene poi non mi parla per giorni |
+
+**Rationale** – These statements describe *verbal degradation, blame‑shifting, gas‑lighting, and emotional blackmail*. The common thread is the systematic erosion of the victim’s self‑esteem and sense of reality, which is the hallmark of emotional abuse.
+
+---
+
+## 3. Isolation & Social Interference  
+
+| Items |
+|-------|
+| Mi chiede di non vedere i miei amici/amiche |
+| Non vuole che io veda la mia famiglia, i miei amici/amiche |
+| Parla male delle mie amiche/amiche e dice che sono dei/delle “poco di buono” |
+| Dice che sono impegnata in troppe cose e che lo trascuro, vorrebbe che passassimo la maggior parte del tempo insieme |
+
+**Rationale** – These behaviours are aimed at *cutting the victim off from external sources of support* (friends, family, community) and forcing a monopolisation of time. Isolation is a distinct mechanism that amplifies the power of coercive control.
+
+---
+
+## 4. Physical & Sexual Violence  
+
+| Items |
+|-------|
+| Mi afferra per i capelli, mi strattona, mi mette le mani al collo, tenta di soffocarmi, mi dà dei pugni, mi schiaffeggia, mi getta addosso degli oggetti o mi fa male in qualche modo |
+| Mi chiede insistentemente di fare sesso e non accetta quando dico di no o che non mi va |
+| Ha mostrato mie immagini intime ad altre persone senza il mio consenso |
+| Minaccia di mostrare ai miei amici o ai miei familiari mie immagini intime |
+
+**Rationale** – This dimension groups *direct physical aggression* with *sexual coercion and non‑consensual distribution of intimate material*. Both involve the use of force or the threat of force to obtain sexual compliance or to punish the victim.
+
+---
+
+## 5. Intimidation & Threats  
+
+| Items |
+|-------|
+| Rompe e lancia oggetti per intimidirmi |
+| Minaccia di fare del male a me, ai miei amici/amiche o alla mia famiglia |
+| Minaccia di farsi del male a causa mia |
+| Minacce di distruggere le mie cose (telefono, vestiti, computer, auto, ecc.) |
+| Mi dice che, se lo lasciassi, rivelerebbe ad altri dei miei segreti o delle cose molto personali che sa di me |
+
+**Rationale** – These are *fear‑inducing tactics* that do not necessarily involve physical contact but rely on explicit threats (to the victim, to loved ones, to property, or to self) to maintain compliance.
+
+---
+
+## 6. Healthy Relationship Dynamics  
+
+| Items |
+|-------|
+| Sento di potergli parlare di qualsiasi cosa |
+| Sento che possiamo confrontarci e anche litigare senza farci male |
+| Mi vuole bene per quella che sono e rispetta le mie scelte |
+| Capisce che ho bisogno anche di miei spazi personali e comprende che ci sono momenti in cui mi piace stare da sola o con persone diverse da lui |
+| Sento il suo sostegno nelle cose che faccio |
+| Mi fa sentire libera di fare le mie scelte su come gestire il mio tempo |
+| Mi sento ascoltata e si mostra interessato quando ho qualcosa che voglio condividere |
+| In sua compagnia mi sento a mio agio e al sicuro |
+| Mi incoraggia a provare nuove cose |
+
+**Rationale** – These items reflect *mutual respect, emotional safety, autonomy support, and constructive conflict resolution*. Including a “positive” factor is useful clinically because many abusive partners also display caring behaviours, which can mask the abuse and complicate assessment.
+
+---
+
+## 7. External Validation of Concern  
+
+| Items |
+|-------|
+| Le mie amiche o la mia famiglia sono preoccupate per me |
+| I miei amici/amiche mi hanno fatto notare che non piace loro come si comporta con me |
+
+**Rationale** – These statements capture *third‑party observations* that the relationship is problematic. In assessment, external validation often strengthens the victim’s insight and can be a cue for clinicians to explore abuse more deeply.
+
+---
+
+# Summary of the revisions made  
+
+| What was changed | Why it was changed / retained |
+|------------------|------------------------------|
+| **Merged “Financial / Economic Abuse” into “Coercive Control & Surveillance.”** | Economic domination is a central mechanism of coercive control; keeping it separate created redundancy. |
+| **Moved “Mi afferra per i capelli…” from the “Physical & Sexual Violence” list to the same dimension (kept there).** | The behaviour is primarily physical aggression; although it can feel intimidating, the item explicitly describes bodily harm, fitting best with physical/sexual violence. |
+| **Integrated “Gaslighting” (“Dopo che mi ha aggredito… nega…”) and the “intermittent‑reinforcement” items into “Emotional Abuse & Manipulation.”** | Both are forms of emotional manipulation that undermine reality testing and create confusion; they do not constitute a separate latent construct. |
+| **Combined “Isolation & Social Interference” as a stand‑alone dimension (instead of being subsumed under Coercive Control).** | Isolation operates through distinct social‑network tactics (e.g., disparaging friends, prohibiting contact) that are conceptually separable from surveillance and economic control. |
+| **Created a dedicated “External Validation of Concern” dimension.** | The two items refer to *others’ judgments* rather than the partner’s behaviour; they serve as an important external corroboration cue for clinicians. |
+| **Retained the “Healthy Relationship Dynamics” dimension unchanged** (renamed from “Positive / Supportive Relationship Aspects”). | Positive behaviours are essential for contrast and for understanding the “dual‑nature” of many abusive relationships. |
+| **Kept all original wording, no new items, no splitting of items.** | The instruction explicitly prohibited adding or breaking down statements. |
+| **Adjusted the brief rationales** to align with contemporary IPV theory (coercive control, emotional abuse, isolation, physical/sexual violence, intimidation, healthy dynamics, external validation). | Provides clinicians with a clear, theory‑driven map for assessment, case formulation, and safety‑planning. |
+
+---
+
+### Clinical take‑away  
+
+The seven latent dimensions now provide a **parsimonious yet comprehensive framework** that:
+
+1. Mirrors the current DSM‑5/ICD‑11 conceptualisation of intimate‑partner violence.  
+2. Highlights the *multifaceted* nature of abuse (control, emotion, isolation, physical/sexual harm, threats).  
+3. Allows clinicians to **differentiate** between abusive and non‑abusive relational patterns while still recognising that abusive partners can simultaneously display caring behaviours.  
+4. Incorporates **external validation** as a useful triangulation point for assessment and safety planning.  
+
+These dimensions can be used to organise questionnaire data, guide structured clinical interviews, and inform treatment planning (e.g., safety‑planning, empowerment interventions, trauma‑focused therapy).

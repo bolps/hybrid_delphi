@@ -1,0 +1,542 @@
+### Psychometrician (mistralai/mistral-medium-3.1) - Round 3
+Here’s the strict JSON evaluation for item reduction, adhering to your schema and rubric. Redundancy and overlap assessments are based on semantic similarity *within* dimensions.
+
+```json
+[
+  {
+    "item_id": "IT40",
+    "dimension": "Emotional & Verbal Abuse",
+    "evidence_for": "Gaslighting: denies abuse, distorts reality.",
+    "evidence_against": "Could overlap with IT30 (criticism/insults).",
+    "fit": 5,
+    "clarity": 5,
+    "redundant": false,
+    "overlaps_with": [],
+    "recommendation": "Retain",
+    "justification": "Core gaslighting example; no semantic overlap."
+  },
+  {
+    "item_id": "IT31",
+    "dimension": "Emotional & Verbal Abuse",
+    "evidence_for": "Blame-shifting erodes self-esteem.",
+    "evidence_against": "Slight overlap with IT30 (criticism).",
+    "fit": 5,
+    "clarity": 5,
+    "redundant": false,
+    "overlaps_with": ["IT30"],
+    "recommendation": "Retain",
+    "justification": "Distinct mechanism (blame vs. direct insults)."
+  },
+  {
+    "item_id": "IT32",
+    "dimension": "Emotional & Verbal Abuse",
+    "evidence_for": "Direct devaluation of self-worth.",
+    "evidence_against": "Overlaps with IT30 (insults/criticism).",
+    "fit": 5,
+    "clarity": 5,
+    "redundant": true,
+    "overlaps_with": ["IT30"],
+    "recommendation": "Revise",
+    "justification": "Merge with IT30 or specify ‘extreme devaluation.’"
+  },
+  {
+    "item_id": "IT28",
+    "dimension": "Emotional & Verbal Abuse",
+    "evidence_for": "Mood swings create instability/self-doubt.",
+    "evidence_against": "Less direct than other items (tangential).",
+    "fit": 3,
+    "clarity": 4,
+    "redundant": false,
+    "overlaps_with": [],
+    "recommendation": "Drop",
+    "justification": "Weaker fit; better suited for ‘Fear & Hyper-vigilance.’"
+  },
+  {
+    "item_id": "IT30",
+    "dimension": "Emotional & Verbal Abuse",
+    "evidence_for": "Direct insults/criticism erode self-esteem.",
+    "evidence_against": "Broad; overlaps with IT31/IT32.",
+    "fit": 5,
+    "clarity": 4,
+    "redundant": true,
+    "overlaps_with": ["IT31", "IT32"],
+    "recommendation": "Retain",
+    "justification": "Core item; others can be subsumed under it."
+  },
+  {
+    "item_id": "IT14",
+    "dimension": "Emotional & Verbal Abuse",
+    "evidence_for": "Judgment undermines autonomy/self-trust.",
+    "evidence_against": "Mild compared to other items (e.g., IT30).",
+    "fit": 4,
+    "clarity": 4,
+    "redundant": false,
+    "overlaps_with": [],
+    "recommendation": "Retain",
+    "justification": "Unique focus on lifestyle judgment."
+  },
+  {
+    "item_id": "IT17",
+    "dimension": "Emotional & Verbal Abuse",
+    "evidence_for": "Criticism of appearance/self-care erodes confidence.",
+    "evidence_against": "Overlaps with IT14 (judgment).",
+    "fit": 4,
+    "clarity": 5,
+    "redundant": true,
+    "overlaps_with": ["IT14"],
+    "recommendation": "Revise",
+    "justification": "Specify ‘appearance-focused’ to avoid overlap."
+  },
+  {
+    "item_id": "IT42",
+    "dimension": "Emotional & Verbal Abuse",
+    "evidence_for": "Public humiliation intensifies devaluation.",
+    "evidence_against": "None; clear and distinct.",
+    "fit": 5,
+    "clarity": 5,
+    "redundant": false,
+    "overlaps_with": [],
+    "recommendation": "Retain",
+    "justification": "Unique public shaming aspect."
+  },
+  {
+    "item_id": "IT01",
+    "dimension": "Emotional Neglect & Lack of Support",
+    "evidence_for": "Lack of support = emotional neglect.",
+    "evidence_against": "Misfit; belongs in ‘Emotional Neglect’ dimension.",
+    "fit": 1,
+    "clarity": 5,
+    "redundant": false,
+    "overlaps_with": [],
+    "recommendation": "Drop",
+    "justification": "Misassigned; move to ‘Emotional Neglect.’"
+  },
+  {
+    "item_id": "IT23",
+    "dimension": "Coercive Control & Isolation",
+    "evidence_for": "Jealousy/accusations restrict autonomy.",
+    "evidence_against": "Overlaps with IT11 (disparaging friends).",
+    "fit": 4,
+    "clarity": 5,
+    "redundant": false,
+    "overlaps_with": [],
+    "recommendation": "Retain",
+    "justification": "Unique focus on infidelity accusations."
+  },
+  {
+    "item_id": "IT27",
+    "dimension": "Coercive Control & Isolation",
+    "evidence_for": "Direct isolation from support networks.",
+    "evidence_against": "Overlaps with IT12 (restricting friends).",
+    "fit": 5,
+    "clarity": 5,
+    "redundant": true,
+    "overlaps_with": ["IT12"],
+    "recommendation": "Retain",
+    "justification": "Stronger wording; drop IT12."
+  },
+  {
+    "item_id": "IT12",
+    "dimension": "Coercive Control & Isolation",
+    "evidence_for": "Restricts social contact.",
+    "evidence_against": "Weaker than IT27 (less direct).",
+    "fit": 4,
+    "clarity": 4,
+    "redundant": true,
+    "overlaps_with": ["IT27"],
+    "recommendation": "Drop",
+    "justification": "Redundant with IT27."
+  },
+  {
+    "item_id": "IT11",
+    "dimension": "Coercive Control & Isolation",
+    "evidence_for": "Undermines social bonds via disparagement.",
+    "evidence_against": "Overlaps with IT23 (accusations).",
+    "fit": 4,
+    "clarity": 5,
+    "redundant": false,
+    "overlaps_with": [],
+    "recommendation": "Retain",
+    "justification": "Unique mechanism (sabotaging relationships)."
+  },
+  {
+    "item_id": "IT05",
+    "dimension": "Coercive Control & Isolation",
+    "evidence_for": "Denies personal space/autonomy.",
+    "evidence_against": "Overlaps with IT06 (time/choice control).",
+    "fit": 4,
+    "clarity": 4,
+    "redundant": true,
+    "overlaps_with": ["IT06"],
+    "recommendation": "Revise",
+    "justification": "Merge with IT06 or specify ‘solitude denial.’"
+  },
+  {
+    "item_id": "IT24",
+    "dimension": "Coercive Control & Isolation",
+    "evidence_for": "Surveillance/control via distrust.",
+    "evidence_against": "Overlaps with IT26 (monitoring behavior).",
+    "fit": 5,
+    "clarity": 5,
+    "redundant": true,
+    "overlaps_with": ["IT26"],
+    "recommendation": "Retain",
+    "justification": "Stronger wording; drop IT26."
+  },
+  {
+    "item_id": "IT26",
+    "dimension": "Coercive Control & Isolation",
+    "evidence_for": "Controls social interactions.",
+    "evidence_against": "Redundant with IT24 (less detailed).",
+    "fit": 4,
+    "clarity": 4,
+    "redundant": true,
+    "overlaps_with": ["IT24"],
+    "recommendation": "Drop",
+    "justification": "IT24 covers monitoring more comprehensively."
+  },
+  {
+    "item_id": "IT06",
+    "dimension": "Coercive Control & Isolation",
+    "evidence_for": "Restricts time/choice autonomy.",
+    "evidence_against": "Overlaps with IT05 (space denial).",
+    "fit": 5,
+    "clarity": 5,
+    "redundant": false,
+    "overlaps_with": [],
+    "recommendation": "Retain",
+    "justification": "Broader than IT05; clearer control focus."
+  },
+  {
+    "item_id": "IT13",
+    "dimension": "Coercive Control & Isolation",
+    "evidence_for": "Demands excessive time together = isolation.",
+    "evidence_against": "Overlaps with IT27 (restricting others).",
+    "fit": 4,
+    "clarity": 4,
+    "redundant": true,
+    "overlaps_with": ["IT27"],
+    "recommendation": "Drop",
+    "justification": "Less direct than IT27."
+  },
+  {
+    "item_id": "IT16",
+    "dimension": "Coercive Control & Isolation",
+    "evidence_for": "Excessive contact = surveillance.",
+    "evidence_against": "Overlaps with IT24 (monitoring).",
+    "fit": 4,
+    "clarity": 5,
+    "redundant": true,
+    "overlaps_with": ["IT24"],
+    "recommendation": "Revise",
+    "justification": "Specify ‘digital surveillance’ to differentiate."
+  },
+  {
+    "item_id": "IT21",
+    "dimension": "Coercive Control & Isolation",
+    "evidence_for": "Demands loyalty proofs = possessive control.",
+    "evidence_against": "None; unique.",
+    "fit": 5,
+    "clarity": 5,
+    "redundant": false,
+    "overlaps_with": [],
+    "recommendation": "Retain",
+    "justification": "Captures emotional blackmail aspect."
+  },
+  {
+    "item_id": "IT25",
+    "dimension": "Coercive Control & Isolation",
+    "evidence_for": "Controls appearance = autonomy restriction.",
+    "evidence_against": "None; clear and distinct.",
+    "fit": 5,
+    "clarity": 5,
+    "redundant": false,
+    "overlaps_with": [],
+    "recommendation": "Retain",
+    "justification": "Unique focus on bodily autonomy."
+  },
+  {
+    "item_id": "IT47",
+    "dimension": "Financial Abuse",
+    "evidence_for": "Direct economic control/access denial.",
+    "evidence_against": "None; core example.",
+    "fit": 5,
+    "clarity": 5,
+    "redundant": false,
+    "overlaps_with": [],
+    "recommendation": "Retain",
+    "justification": "Indispensable for financial abuse."
+  },
+  {
+    "item_id": "IT48",
+    "dimension": "Financial Abuse",
+    "evidence_for": "Micromanages spending = financial control.",
+    "evidence_against": "Overlaps with IT46 (spending control).",
+    "fit": 4,
+    "clarity": 5,
+    "redundant": true,
+    "overlaps_with": ["IT46"],
+    "recommendation": "Drop",
+    "justification": "IT46 is broader and clearer."
+  },
+  {
+    "item_id": "IT46",
+    "dimension": "Financial Abuse",
+    "evidence_for": "Controls spending decisions.",
+    "evidence_against": "None; distinct from IT47 (access denial).",
+    "fit": 5,
+    "clarity": 5,
+    "redundant": false,
+    "overlaps_with": [],
+    "recommendation": "Retain",
+    "justification": "Complements IT47 (spending vs. access)."
+  },
+  {
+    "item_id": "IT49",
+    "dimension": "Financial Abuse",
+    "evidence_for": "Blocks economic independence.",
+    "evidence_against": "None; unique and severe.",
+    "fit": 5,
+    "clarity": 5,
+    "redundant": false,
+    "overlaps_with": [],
+    "recommendation": "Retain",
+    "justification": "Critical for financial abuse spectrum."
+  },
+  {
+    "item_id": "IT39",
+    "dimension": "Physical Violence",
+    "evidence_for": "Explicit physical aggression examples.",
+    "evidence_against": "None; unambiguous.",
+    "fit": 5,
+    "clarity": 5,
+    "redundant": false,
+    "overlaps_with": [],
+    "recommendation": "Retain",
+    "justification": "Core item for physical violence."
+  },
+  {
+    "item_id": "IT41",
+    "dimension": "Physical Violence",
+    "evidence_for": "Property destruction as intimidation.",
+    "evidence_against": "Could fit ‘Threats & Intimidation’ too.",
+    "fit": 4,
+    "clarity": 5,
+    "redundant": false,
+    "overlaps_with": [],
+    "recommendation": "Retain",
+    "justification": "Unique intimidation tactic."
+  },
+  {
+    "item_id": "IT43",
+    "dimension": "Sexual Coercion & Image Abuse",
+    "evidence_for": "Non-consensual sexual pressure.",
+    "evidence_against": "None; clear and severe.",
+    "fit": 5,
+    "clarity": 5,
+    "redundant": false,
+    "overlaps_with": [],
+    "recommendation": "Retain",
+    "justification": "Core sexual coercion example."
+  },
+  {
+    "item_id": "IT33",
+    "dimension": "Sexual Coercion & Image Abuse",
+    "evidence_for": "Image abuse without consent.",
+    "evidence_against": "None; distinct from threats (IT34).",
+    "fit": 5,
+    "clarity": 5,
+    "redundant": false,
+    "overlaps_with": [],
+    "recommendation": "Retain",
+    "justification": "Unique focus on non-consensual sharing."
+  },
+  {
+    "item_id": "IT34",
+    "dimension": "Sexual Coercion & Image Abuse",
+    "evidence_for": "Threatens image abuse for control.",
+    "evidence_against": "Overlaps with IT35 (secret threats).",
+    "fit": 5,
+    "clarity": 5,
+    "redundant": false,
+    "overlaps_with": [],
+    "recommendation": "Retain",
+    "justification": "Distinct from IT35 (image-specific)."
+  },
+  {
+    "item_id": "IT36",
+    "dimension": "Threats & Intimidation",
+    "evidence_for": "Direct threats of harm to victim/others.",
+    "evidence_against": "None; core example.",
+    "fit": 5,
+    "clarity": 5,
+    "redundant": false,
+    "overlaps_with": [],
+    "recommendation": "Retain",
+    "justification": "Indispensable for threats dimension."
+  },
+  {
+    "item_id": "IT38",
+    "dimension": "Threats & Intimidation",
+    "evidence_for": "Property destruction threats.",
+    "evidence_against": "Overlaps with IT41 (property damage).",
+    "fit": 4,
+    "clarity": 5,
+    "redundant": true,
+    "overlaps_with": ["IT41"],
+    "recommendation": "Drop",
+    "justification": "IT41 covers property intimidation better."
+  },
+  {
+    "item_id": "IT35",
+    "dimension": "Threats & Intimidation",
+    "evidence_for": "Blackmail with personal secrets.",
+    "evidence_against": "Overlaps with IT34 (image threats).",
+    "fit": 5,
+    "clarity": 5,
+    "redundant": false,
+    "overlaps_with": [],
+    "recommendation": "Retain",
+    "justification": "Unique focus on secret disclosure."
+  },
+  {
+    "item_id": "IT37",
+    "dimension": "Threats & Intimidation",
+    "evidence_for": "Self-harm threats for control.",
+    "evidence_against": "None; distinct and severe.",
+    "fit": 5,
+    "clarity": 5,
+    "redundant": false,
+    "overlaps_with": [],
+    "recommendation": "Retain",
+    "justification": "Critical for emotional blackmail."
+  },
+  {
+    "item_id": "IT18",
+    "dimension": "Fear & Hyper-vigilance",
+    "evidence_for": "Direct fear/safety concern.",
+    "evidence_against": "Overlaps with IT09 (discomfort).",
+    "fit": 5,
+    "clarity": 5,
+    "redundant": true,
+    "overlaps_with": ["IT09"],
+    "recommendation": "Retain",
+    "justification": "Stronger wording; drop IT09."
+  },
+  {
+    "item_id": "IT29",
+    "dimension": "Fear & Hyper-vigilance",
+    "evidence_for": "‘Walking on eggshells’ = chronic anxiety.",
+    "evidence_against": "None; core example.",
+    "fit": 5,
+    "clarity": 5,
+    "redundant": false,
+    "overlaps_with": [],
+    "recommendation": "Retain",
+    "justification": "Indispensable for hyper-vigilance."
+  },
+  {
+    "item_id": "IT09",
+    "dimension": "Fear & Hyper-vigilance",
+    "evidence_for": "General discomfort/safety concern.",
+    "evidence_against": "Weaker than IT18 (less specific).",
+    "fit": 4,
+    "clarity": 4,
+    "redundant": true,
+    "overlaps_with": ["IT18"],
+    "recommendation": "Drop",
+    "justification": "Redundant with IT18."
+  },
+  {
+    "item_id": "IT44",
+    "dimension": "Fear & Hyper-vigilance",
+    "evidence_for": "Anticipatory fear of harm/embarrassment.",
+    "evidence_against": "Overlaps with IT18 (fear).",
+    "fit": 4,
+    "clarity": 5,
+    "redundant": true,
+    "overlaps_with": ["IT18"],
+    "recommendation": "Revise",
+    "justification": "Specify ‘anticipatory fear’ to differentiate."
+  },
+  {
+    "item_id": "IT19",
+    "dimension": "Fear & Hyper-vigilance",
+    "evidence_for": "Hides discomfort to avoid anger = hyper-vigilance.",
+    "evidence_against": "Overlaps with IT29 (eggshells).",
+    "fit": 4,
+    "clarity": 4,
+    "redundant": true,
+    "overlaps_with": ["IT29"],
+    "recommendation": "Drop",
+    "justification": "IT29 captures core mechanism better."
+  },
+  {
+    "item_id": "IT20",
+    "dimension": "Fear & Hyper-vigilance",
+    "evidence_for": "External validation of danger.",
+    "evidence_against": "Misfit; belongs in ‘Emotional Neglect’ (lack of support).",
+    "fit": 2,
+    "clarity": 5,
+    "redundant": false,
+    "overlaps_with": [],
+    "recommendation": "Drop",
+    "justification": "Misassigned; move to ‘Emotional Neglect.’"
+  },
+  {
+    "item_id": "IT10",
+    "dimension": "Fear & Hyper-vigilance",
+    "evidence_for": "External concern validates fear.",
+    "evidence_against": "Misfit; overlaps with IT20 (same issue).",
+    "fit": 2,
+    "clarity": 5,
+    "redundant": true,
+    "overlaps_with": ["IT20"],
+    "recommendation": "Drop",
+    "justification": "Redundant and misassigned; move both to ‘Emotional Neglect.’"
+  },
+  {
+    "item_id": "IT03",
+    "dimension": "Emotional Neglect & Lack of Support",
+    "evidence_for": "Lack of listening = emotional neglect.",
+    "evidence_against": "None; core example.",
+    "fit": 5,
+    "clarity": 5,
+    "redundant": false,
+    "overlaps_with": [],
+    "recommendation": "Retain",
+    "justification": "Indispensable for neglect dimension."
+  },
+  {
+    "item_id": "IT02",
+    "dimension": "Emotional Neglect & Lack of Support",
+    "evidence_for": "Lack of encouragement = neglect.",
+    "evidence_against": "Overlaps with IT03 (listening).",
+    "fit": 4,
+    "clarity": 4,
+    "redundant": false,
+    "overlaps_with": [],
+    "recommendation": "Retain",
+    "justification": "Complements IT03 (active vs. passive neglect)."
+  }
+]
+```
+
+### Key Observations:
+1. **Misassigned Items**:
+   - **IT01**, **IT20**, **IT10** should move to **"Emotional Neglect & Lack of Support"**.
+   - **IT28** fits better in **"Fear & Hyper-vigilance"** (mood swings create anxiety).
+
+2. **Redundancies**:
+   - **Emotional Abuse**: IT32 and IT30 overlap; IT17 and IT14 overlap.
+   - **Coercive Control**: IT27 > IT12; IT24 > IT26; IT18 > IT09.
+   - **Financial Abuse**: IT46 > IT48.
+
+3. **High-Priority Retentions**:
+   - Core items like **IT30** (insults), **IT27** (isolation), **IT47** (financial control), **IT39** (physical violence), and **IT29** (hyper-vigilance) are indispensable.
+
+4. **Revisions Needed**:
+   - Clarify **IT16** (specify "digital surveillance"), **IT44** (specify "anticipatory fear"), and **IT05** (merge with IT06 or specify "solitude denial").
+
+5. **Drops**:
+   - Redundant (e.g., IT12, IT26) or tangential (e.g., IT28) items where stronger alternatives exist.
